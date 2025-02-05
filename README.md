@@ -189,6 +189,14 @@ Cada barrio tiene sus calles.
 
 ## 🎮 Mapa
 
+-Ciudad Rapera de Buenos Aires 
+
+( Incluye 16 Barrios)
+
+-Mar Ram
+
+( Rodea a la Ciudad )
+
 ## 🎮 Jugabilidad
 
 ## 🎮 Estado
