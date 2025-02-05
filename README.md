@@ -131,6 +131,102 @@ Cada barrio tiene sus calles.
 ✅️ 08
 
 -20 Personajes.
+
+```
+-Jugador ( Wikiman )
+Nacionalidad : Argentina
+Edad : 30
+Apodo : El Chabon del Pinball
+
+-Gatito ( Mascota )
+Nacionalidad : Albania
+Edad : 8
+Apodo : Mr Felino
+
+-Silvestre Stacchotta ( actor de EEUU)
+Nacionalidad : EEUU
+Edad : 50
+Apodo : Mr Chechona
+
+-Jorge Lanota ( Periodista )
+Nacionalidad : Argentina
+Edad : 55
+Apodo : La Bomba Sexual
+
+-Juan Garcamaru ( Empresario )
+Nacionalidad : Japon / Argentina
+Edad : 55
+Apodo : El Kawaii
+
+-Profesor Levantini ( Influencer )
+Nacionalidad : Argentina / Brasil
+Edad : 40
+Apodo : El Casanova
+
+-Profesora Dopamina ( Doctora )
+Nacionalidad : Venezolana
+Edad : 39
+Apodo : La Guapa
+
+-Barcelo Monelli ( Periodista )
+Nacionalidad : Argentina
+Edad : 45
+Apodo : El hombre urgente
+
+-Elon Mots ( Magnate Africano )
+Nacionalidad : Tanzania / Canada
+Edad : 50
+Apodo : El hombre que caga oro
+
+-Big Faso ( Duo Ruso Senegales )
+Nacionalidad : Rusia / Senegal
+Edad : 39
+Apodo : el negro y el blanco
+
+-Señor Amarguino ( Locutor )
+Nacionalidad : Uruguaya
+Edad : 42
+Apodo : Tragediaman
+
+-Adrian DelaTrampa ( Crítico de cine )
+Nacionalidad : Argentina / Turquia
+Edad : 38
+Apodo : Señor pochoclos
+
+-I y A ( Inteligencias Artificiales malvadas ) Nacionalidad : Corea del Norte
+Edad : 2
+Apodo : cout << "destruir humanidad "<< endl; 
+
+-Damian Blabla ( Historiador )
+Nacionalidad : Argentina
+Edad : 43
+Apodo : La momia viviente
+
+-IA de Brian Turreti ( Figura Historica Turra en China) Nacionalidad : China
+Edad : 0
+Apodo : El TecnoTurro de shanghai
+
+-DiosGPT ( IA del Jugador )
+Nacionalidad : Alemania
+Edad : 3
+Apodo : I am the king wacho
+
+-Locutor de Terror Gallego / Manolo Joseche Pimba Nacionalidad : España
+Edad : 55
+Apodo : El profilactico que vivia asustado
+
+-Guillermo Bajolini ( Cantante de Tango )
+Nacionalidad : Argentina
+Edad : 50
+Apodo : vida de lamentos
+
+-ARmando GENe TINOman ( Presidente Saliente)
+Nacionalidad : Bolivia / Argentina
+Edad : 48
+Apodo : corrupto pero amable
+)
+```
+
 ```
 NPC
 1
