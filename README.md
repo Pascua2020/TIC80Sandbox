@@ -131,3 +131,7 @@ Cada barrio tiene sus calles.
 
 ✅️23
 -sistema de mensajes móviles.
+
+## 🎮 Licencia
+
+## 🎮 Notas
