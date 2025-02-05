@@ -348,9 +348,24 @@ tráfico
 
 ✅️ 33
 
+Parques,playa y aeropuerto ( en ciudad ).
+
 ✅️ 34
 
+Cada barrio tiene su nombre y este se muestra en pantalla al estar en el.
+Lo mismo las calles.
+
 ✅️ 35
+
+Modo Carrera Arcade.
+
+✅️ 36
+
+Modo Combate Vehículos.
+
+✅️ 37
+
+Rampas y Aros de Fuego.
 
 ## 🎮 Mapa
 
