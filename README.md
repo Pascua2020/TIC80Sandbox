@@ -105,6 +105,8 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra1.jpg?token=GHSAT0AAAAAAC6N6XLKGWOP543UYTWD6J74Z5DPPFQ)
 
+![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra2.jpg?token=GHSAT0AAAAAAC6N6XLLS32UIGENRLLUMKMUZ5DPRRQ)
+
 ✅️ 03
 
 -16 Barrios en Buenos Aires.
