@@ -91,6 +91,21 @@ Como jugar :
 2-Abre TIC-80 y carga el cartucho en la terminal de consola ( load juego.tic ).
 3-corre el juego ( run juego.tic ).
 
+## 🎮 Controles:
+
+### Modo 1 jugador ( todo el excepto RC ):
+
+* Botones 0,1,2,3 : Mover jugador/vehículo.
+*Boton 4 / A : Elegir opcion / Interactuar
+*Boton 5 / B : Modo táctico / Pausa
+*Boton 6 / X : Golpear / Disparar
+*Boton 7 / Y : Subir a Vehículo.
+
+### Modo 2 jugadores ( RC ) :
+
+* Botones 0,1,2,3 : mover RC jugador 1.
+* Botones 4,5,6,7 : mover RC jugador 2.
+
 ## 🎮 Características del juego:
 
 ✅️ 01
