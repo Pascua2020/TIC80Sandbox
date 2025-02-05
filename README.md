@@ -1,4 +1,5 @@
 ![TIC-80](https://img.shields.io/badge/TIC--80-2D%20Game%20Development-blue)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 🎮 TIC80Sandbox
 2D videogame in fantasy console TIC80.
