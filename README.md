@@ -30,6 +30,7 @@ Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseu
 Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***-La VirgoCueva*** 
+
 ( pantalla de inicio )
 
 🍪 ***-Pista de Carreras en Berna , Suiza***
