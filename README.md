@@ -2,10 +2,12 @@
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-![TIC80 Logo](https://img.itch.zone/aW1nLzQyOTUwMTYucG5n/original/zzHnBx.png)
+
 
 ## 🎮 TIC80Sandbox
 2D videogame in fantasy console TIC80.
+
+![TIC80 Logo](https://img.itch.zone/aW1nLzQyOTUwMTYucG5n/original/zzHnBx.png)
 
 🎲 ***Nombre del juego :*** Crimen y Chori
 
