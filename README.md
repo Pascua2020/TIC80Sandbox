@@ -74,6 +74,31 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 -22 "Radios" en texto.
 
+```
+"01 Radio Todo Vardo" 
+"02 Radio Bajones" 
+"03 Radio Poesía de la Calle" 
+"04 Gobierno de Argentina" 
+"05 Solos y Solas"
+"06 Desgracias Economicas"
+"07 Joyas de la Historia"
+"08 No me importa"
+"09 Radio Antimainstream"
+"10 Cine Ultra 8K"
+"11 Destapando Curros"
+"12 Radio Grieta"
+"13 Radio Cuarta Pared"
+"14 La IA Avanza"
+"15 Jesus te ama"
+"16 Sonidos animalunos"
+"17 Naturaleza insolita"
+"18 Radio pesimista"
+"19 Poesia pixelar"
+"20 Radio terror"
+"21 Radio Lenguaje de la vida"
+"22 Comerciales Gamers"
+```
+
 ✅️ 02
 
 -512 Gráficos como máximo en formato 8x8.
