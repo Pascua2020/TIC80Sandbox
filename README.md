@@ -54,12 +54,12 @@ Cada barrio tiene sus calles.
 
 ✅️ 04
 -11 Vehículos.
---coches
+```--coches
 --coche de policía
 --ambulancia
 --camioneta
 --skate
---avion
+--avion```
 
 ✅️ 05
 -11 Armas.
