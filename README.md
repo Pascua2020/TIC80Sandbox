@@ -72,7 +72,8 @@ Cada barrio tiene sus calles.
 --rayo láser
 --rifle electrico
 --granada
---lanzallamas```
+--lanzallamas
+```
 
 ✅️ 06
 -Trama bizarra.
@@ -110,7 +111,8 @@ Cada barrio tiene sus calles.
 --nieve
 --hojas
 --viento
---relámpagos```
+--relámpagos
+```
 
 ✅️ 17
 -Cámara que sigue al jugador y minicamara.
