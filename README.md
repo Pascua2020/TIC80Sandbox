@@ -62,13 +62,19 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Pinball ).
 
+![pinball](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/pinballv6.4.jpg?token=GHSAT0AAAAAAC6N6XLKED24M7R3QAFRQGZCZ5DQJNQ)
+
 🍪 ***-"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
 
+![baile](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/baile7.jpg?token=GHSAT0AAAAAAC6N6XLLBSPKCO2KTIZ6BRDEZ5DQJ2A)
+
 🍪 ***-"Trompolandia" en Estonia***
 
 ( Minijuego de Trompos )
+
+![trompo](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/trompo6.jpg?token=GHSAT0AAAAAAC6N6XLKVDDI25CUXNF53RQSZ5DQJTA)
 
 ## 🎮 Características del juego:
 
