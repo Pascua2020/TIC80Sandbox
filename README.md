@@ -111,9 +111,9 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 -512 Gráficos como máximo en formato 8x8.
 
-![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra1.jpg?token=GHSAT0AAAAAAC6N6XLKCAQ7QWH4UFC2FTI6Z5DP5KQ)
+![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra1.jpg?token=GHSAT0AAAAAAC6N6XLL3T6OK4E4UDPUOUJ2Z5DQLRA)
 
-![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra2.jpg?token=GHSAT0AAAAAAC6N6XLKESNYMCXFYEJWN6M6Z5DP6HA)
+![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra2.jpg?token=GHSAT0AAAAAAC6N6XLKQZ7ZQME4MOJVWG2UZ5DQMRQ)
 
 ✅️ 03
 
