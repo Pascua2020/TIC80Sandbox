@@ -165,96 +165,42 @@ Cada barrio tiene sus calles.
 
 ```
 01-Jugador ( Wikiman )
-Nacionalidad : Argentina
-Edad : 30
-Apodo : El Chabon del Pinball
 
 02-Gatito ( Mascota )
-Nacionalidad : Albania
-Edad : 8
-Apodo : Mr Felino
 
 03-Silvestre Stacchotta ( actor de EEUU)
-Nacionalidad : EEUU
-Edad : 50
-Apodo : Mr Chechona
 
 04-Jorge Lanota ( Periodista )
-Nacionalidad : Argentina
-Edad : 55
-Apodo : La Bomba Sexual
 
 05-Juan Garcamaru ( Empresario )
-Nacionalidad : Japon / Argentina
-Edad : 55
-Apodo : El Kawaii
 
 06-Profesor Levantini ( Influencer )
-Nacionalidad : Argentina / Brasil
-Edad : 40
-Apodo : El Casanova
 
 07-Profesora Dopamina ( Doctora )
-Nacionalidad : Venezolana
-Edad : 39
-Apodo : La Guapa
 
 08-Barcelo Monelli ( Periodista )
-Nacionalidad : Argentina
-Edad : 45
-Apodo : El hombre urgente
 
 09-Elon Mots ( Magnate Africano )
-Nacionalidad : Tanzania / Canada
-Edad : 50
-Apodo : El hombre que caga oro
 
 10-Big Faso ( Duo Ruso Senegales )
-Nacionalidad : Rusia / Senegal
-Edad : 39
-Apodo : el negro y el blanco
 
 11-Señor Amarguino ( Locutor )
-Nacionalidad : Uruguaya
-Edad : 42
-Apodo : Tragediaman
 
 12-Adrian DelaTrampa ( Crítico de cine )
-Nacionalidad : Argentina / Turquia
-Edad : 38
-Apodo : Señor pochoclos
 
-13-I y A ( Inteligencias Artificiales malvadas ) Nacionalidad : Corea del Norte
-Edad : 2
-Apodo : cout << "destruir humanidad "<< endl; 
+13-I y A ( Inteligencias Artificiales malvadas ) 
 
 14-Damian Blabla ( Historiador )
-Nacionalidad : Argentina
-Edad : 43
-Apodo : La momia viviente
 
-15-IA de Brian Turreti ( Figura Historica Turra en China) Nacionalidad : China
-Edad : 0
-Apodo : El TecnoTurro de shanghai
+15-IA de Brian Turreti ( Figura Historica Turra en China)
 
 16-DiosGPT ( IA del Jugador )
-Nacionalidad : Alemania
-Edad : 3
-Apodo : I am the king wacho
 
-17-Locutor de Terror Gallego / Manolo Joseche Pimba Nacionalidad : España
-Edad : 55
-Apodo : El profilactico que vivia asustado
+17-Locutor de Terror Gallego / Manolo Joseche
 
 18-Guillermo Bajolini ( Cantante de Tango )
-Nacionalidad : Argentina
-Edad : 50
-Apodo : vida de lamentos
 
 19-ARmando GENe TINOman ( Presidente Saliente)
-Nacionalidad : Bolivia / Argentina
-Edad : 48
-Apodo : corrupto pero amable
 ```
 
 ```
