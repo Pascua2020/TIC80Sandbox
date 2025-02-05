@@ -43,17 +43,17 @@ Aunque también tiene pequeñas ambientaciones en:
 ## 🎮 Características del juego:
 
 ✅️ 01
--22 "radios" en texto.
+-22 "Radios" en texto.
 
 ✅️ 02
--512 gráficos como máximo en formato 8x8.
+-512 Gráficos como máximo en formato 8x8.
 
 ✅️ 03
--16 barrios en Buenos Aires.
+-16 Barrios en Buenos Aires.
 Cada barrio tiene sus calles.
 
 ✅️ 04
--11 vehículos.
+-11 Vehículos.
 --coches
 --coche de policía
 --ambulancia
@@ -62,7 +62,7 @@ Cada barrio tiene sus calles.
 --avion
 
 ✅️ 05
--11 armas.
+-11 Armas.
 --puño
 --pistola
 --escopeta
@@ -77,34 +77,34 @@ Cada barrio tiene sus calles.
 -Trama bizarra.
 
 ✅️ 07
--Ester eggs ( ej : dibujos misteriosos en el agua )
+-Easter eggs ( ej : dibujos misteriosos en el agua )
 
 ✅️ 08
--20 personajes.
+-20 Personajes.
 
 ✅️ 09
--misión de stuntman ( piruetas en vehículo de doble de cine )
+-Misión de stuntman ( piruetas en vehículo de doble de cine )
 
 ✅️ 10
--simulador ( muy simple ) de app estilo chatgpt.
+-Simulador ( muy simple ) de app estilo chatgpt.
 
 ✅️ 11
--lector de diarios.
+-Lector de diarios.
 
 ✅️ 12
--simulador estilo wiki.
+-Simulador estilo wiki.
 
 ✅️ 13
--el skate se puede montar en caños.
+-El skate se puede montar en caños.
 
 ✅️ 14
--el jugador puede tomarse colectivos.
+-El jugador puede tomarse colectivos.
 
 ✅️ 15
--sistema de dinero ( llamado Peluca$ ).
+-Sistema de dinero ( llamado Peluca$ ).
 
 ✅️ 16
--sistema de climatologia
+-Sistema de climatologia
 --lluvia
 --nieve
 --hojas
@@ -112,25 +112,25 @@ Cada barrio tiene sus calles.
 --relámpagos
 
 ✅️ 17
--cámara que sigue al jugador y minicamara.
+-Cámara que sigue al jugador y minicamara.
 
 ✅️ 18
--jetpack ( para poder volar sobre el agua ).
+-Jetpack ( para poder volar sobre el agua ).
 
 ✅️ 19
--los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
+-Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
 ✅️ 20
--hay una pista a control remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
+-Hay una pista a control remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
 ✅️ 21
--minijuego de Trompos.
+-Minijuego de Trompos.
 
 ✅️ 22
--visor de telescopio.
+-Visor de telescopio.
 
 ✅️ 23
--sistema de mensajes móviles.
+-Sistema de mensajes móviles.
 
 ## 🎮 Licencia
 
