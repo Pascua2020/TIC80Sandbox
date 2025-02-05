@@ -93,7 +93,7 @@ Como jugar :
 
 ## 🎮 Controles:
 
-### Modo 1 jugador ( todo el excepto RC ):
+### Modo 1 jugador ( todo el juego excepto RC ):
 
 * Botones 0,1,2,3 : Mover jugador/vehículo.
 *Boton 4 / A : Elegir opcion / Interactuar
@@ -412,6 +412,9 @@ Rampas y Aros de Fuego.
 ( Rodea a la Ciudad )
 
 ## 🎮 Jugabilidad
+
+Es un videojuego Sandbox ( estilo GTA ) pero en 2D,y tiene varios minijuegos que le aportan un toque bastante diferenciador.
+Debido a los pocos controles que hay el juego cuenta con un modo táctico,de forma que se puede  elegir múltiples opciones de forma pausada y retomar la acción una vez que el jugador define que hacer.
 
 ## 🎮 Estado
 
