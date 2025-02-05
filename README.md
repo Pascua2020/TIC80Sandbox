@@ -16,7 +16,7 @@ Lenguaje de programación : Lua
 
 Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
-Sinopsis : 
+## Sinopsis : 
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
@@ -35,7 +35,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 "Trompolandia" en Estonia ( minijuego de Trompos )
 
-Características del juego:
+## Características del juego:
 
 1
 -22 "radios" en texto.
