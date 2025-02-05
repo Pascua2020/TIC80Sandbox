@@ -58,16 +58,20 @@ pista de carreras de coches a control remoto ( en País Vasco,España )
 ## 🎮 Características del juego:
 
 ✅️ 01
+
 -22 "Radios" en texto.
 
 ✅️ 02
+
 -512 Gráficos como máximo en formato 8x8.
 
 ✅️ 03
+
 -16 Barrios en Buenos Aires.
 Cada barrio tiene sus calles.
 
 ✅️ 04
+
 -11 Vehículos.
 ```--Coches
 --Coche de policía
@@ -78,6 +82,7 @@ Cada barrio tiene sus calles.
 ```
 
 ✅️ 05
+
 -11 Armas.
 ```--Puño
 --Pistola
@@ -91,36 +96,47 @@ Cada barrio tiene sus calles.
 ```
 
 ✅️ 06
+
 -Trama bizarra.
 
 ✅️ 07
+
 -Easter eggs ( ej : dibujos misteriosos en el agua )
 
 ✅️ 08
+
 -20 Personajes.
 
 ✅️ 09
+
 -Misión de stuntman ( piruetas en vehículo de doble de cine )
 
 ✅️ 10
+
 -Simulador ( muy simple ) de app estilo chatgpt.
 
 ✅️ 11
+
 -Lector de diarios.
 
 ✅️ 12
+
 -Simulador estilo wiki.
 
 ✅️ 13
+
 -El skate se puede montar en caños.
 
 ✅️ 14
+
 -El jugador puede tomarse colectivos.
 
 ✅️ 15
+
 -Sistema de dinero ( llamado Peluca$ ).
 
 ✅️ 16
+
 -Sistema de climatologia
 ```--Lluvia
 --Nieve
@@ -130,25 +146,38 @@ Cada barrio tiene sus calles.
 ```
 
 ✅️ 17
+
 -Cámara que sigue al jugador y minicamara.
 
 ✅️ 18
+
 -Jetpack ( para poder volar sobre el agua ).
 
 ✅️ 19
+
 -Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
 ✅️ 20
+
 -Hay una pista a control remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
 ✅️ 21
+
 -Minijuego de Trompos.
 
 ✅️ 22
+
 -Visor de telescopio.
 
 ✅️ 23
+
 -Sistema de mensajes móviles.
+
+## 🎮 Mapa
+
+## 🎮 Jugabilidad
+
+## 🎮 Estado
 
 ## 🎮 Licencia
 
