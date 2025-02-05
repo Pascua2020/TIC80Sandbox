@@ -1,3 +1,5 @@
+![TIC-80](https://img.shields.io/badge/TIC--80-2D%20Game%20Development-blue)
+
 ## 🎮 TIC80Sandbox
 2D videogame in fantasy console TIC80.
 
