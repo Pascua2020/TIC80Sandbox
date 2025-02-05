@@ -42,17 +42,17 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ## 🎮 Características del juego:
 
-✅️1
+✅️ 01
 -22 "radios" en texto.
 
-✅️2
+✅️ 02
 -512 gráficos como máximo en formato 8x8.
 
-✅️3
+✅️ 03
 -16 barrios en Buenos Aires.
 Cada barrio tiene sus calles.
 
-✅️4
+✅️ 04
 -11 vehículos.
 --coches
 --coche de policía
@@ -61,7 +61,7 @@ Cada barrio tiene sus calles.
 --skate
 --avion
 
-✅️5
+✅️ 05
 -11 armas.
 --puño
 --pistola
@@ -73,37 +73,37 @@ Cada barrio tiene sus calles.
 --granada
 --lanzallamas
 
-✅️6
+✅️ 06
 -Trama bizarra.
 
-✅️7
+✅️ 07
 -Ester eggs ( ej : dibujos misteriosos en el agua )
 
-✅️8
+✅️ 08
 -20 personajes.
 
-✅️9
+✅️ 09
 -misión de stuntman ( piruetas en vehículo de doble de cine )
 
-✅️10
+✅️ 10
 -simulador ( muy simple ) de app estilo chatgpt.
 
-✅️11
+✅️ 11
 -lector de diarios.
 
-✅️12
+✅️ 12
 -simulador estilo wiki.
 
-✅️13
+✅️ 13
 -el skate se puede montar en caños.
 
-✅️14
+✅️ 14
 -el jugador puede tomarse colectivos.
 
-✅️15
+✅️ 15
 -sistema de dinero ( llamado Peluca$ ).
 
-✅️16
+✅️ 16
 -sistema de climatologia
 --lluvia
 --nieve
@@ -111,25 +111,25 @@ Cada barrio tiene sus calles.
 --viento
 --relámpagos
 
-✅️17
+✅️ 17
 -cámara que sigue al jugador y minicamara.
 
-✅️18
+✅️ 18
 -jetpack ( para poder volar sobre el agua ).
 
-✅️19
+✅️ 19
 -los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
-✅️20
+✅️ 20
 -hay una pista a control remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
-✅️21
+✅️ 21
 -minijuego de Trompos.
 
-✅️22
+✅️ 22
 -visor de telescopio.
 
-✅️23
+✅️ 23
 -sistema de mensajes móviles.
 
 ## 🎮 Licencia
