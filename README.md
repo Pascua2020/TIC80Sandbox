@@ -363,6 +363,8 @@ Mamá y Niño Diabolico
 
 ( Incluye 16 Barrios)
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Miniatura%20mapa-1.jpg?token=GHSAT0AAAAAAC6N6XLKHDGWRDUOTJVCV7OYZ5DP4CQ)
+
 ##### 🌅 -Mar Ram
 
 ( Rodea a la Ciudad )
