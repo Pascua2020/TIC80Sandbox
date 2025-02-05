@@ -42,29 +42,29 @@ Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***-La VirgoCueva*** 
 
-( pantalla de inicio )
+( Pantalla de inicio )
 
 🍪 ***-Pista de Carreras en Berna , Suiza***
 
-( minijuego de carreras )
+( Minijuego de Carreras )
 
 🍪 ***-"La Pistita"***,
 
-pista de carreras de coches a control remoto ( en País Vasco,España ) 
+Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
 
-( minijuego de Carreras RC ).
+( Minijuego de Carreras RC ).
 
 🍪 ***-"Flippersburgo,Alemania"***
 
-( minijuego de Pinball ).
+( Minijuego de Pinball ).
 
 🍪 ***-"Satélite Tokyo"*** 
 
-( minijuego de baile ).
+( Minijuego de Baile ).
 
 🍪 ***-"Trompolandia" en Estonia***
 
-( minijuego de Trompos )
+( Minijuego de Trompos )
 
 ## 🎮 Características del juego:
 
