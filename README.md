@@ -149,7 +149,8 @@ Cada barrio tiene sus calles.
 ✅️ 16
 
 -Sistema de climatologia
-```--Lluvia
+```
+--Lluvia
 --Nieve
 --Hojas
 --Viento
