@@ -133,94 +133,94 @@ Cada barrio tiene sus calles.
 -20 Personajes.
 
 ```
--Jugador ( Wikiman )
+01-Jugador ( Wikiman )
 Nacionalidad : Argentina
 Edad : 30
 Apodo : El Chabon del Pinball
 
--Gatito ( Mascota )
+02-Gatito ( Mascota )
 Nacionalidad : Albania
 Edad : 8
 Apodo : Mr Felino
 
--Silvestre Stacchotta ( actor de EEUU)
+03-Silvestre Stacchotta ( actor de EEUU)
 Nacionalidad : EEUU
 Edad : 50
 Apodo : Mr Chechona
 
--Jorge Lanota ( Periodista )
+04-Jorge Lanota ( Periodista )
 Nacionalidad : Argentina
 Edad : 55
 Apodo : La Bomba Sexual
 
--Juan Garcamaru ( Empresario )
+05-Juan Garcamaru ( Empresario )
 Nacionalidad : Japon / Argentina
 Edad : 55
 Apodo : El Kawaii
 
--Profesor Levantini ( Influencer )
+06-Profesor Levantini ( Influencer )
 Nacionalidad : Argentina / Brasil
 Edad : 40
 Apodo : El Casanova
 
--Profesora Dopamina ( Doctora )
+07-Profesora Dopamina ( Doctora )
 Nacionalidad : Venezolana
 Edad : 39
 Apodo : La Guapa
 
--Barcelo Monelli ( Periodista )
+08-Barcelo Monelli ( Periodista )
 Nacionalidad : Argentina
 Edad : 45
 Apodo : El hombre urgente
 
--Elon Mots ( Magnate Africano )
+09-Elon Mots ( Magnate Africano )
 Nacionalidad : Tanzania / Canada
 Edad : 50
 Apodo : El hombre que caga oro
 
--Big Faso ( Duo Ruso Senegales )
+10-Big Faso ( Duo Ruso Senegales )
 Nacionalidad : Rusia / Senegal
 Edad : 39
 Apodo : el negro y el blanco
 
--Señor Amarguino ( Locutor )
+11-Señor Amarguino ( Locutor )
 Nacionalidad : Uruguaya
 Edad : 42
 Apodo : Tragediaman
 
--Adrian DelaTrampa ( Crítico de cine )
+12-Adrian DelaTrampa ( Crítico de cine )
 Nacionalidad : Argentina / Turquia
 Edad : 38
 Apodo : Señor pochoclos
 
--I y A ( Inteligencias Artificiales malvadas ) Nacionalidad : Corea del Norte
+13-I y A ( Inteligencias Artificiales malvadas ) Nacionalidad : Corea del Norte
 Edad : 2
 Apodo : cout << "destruir humanidad "<< endl; 
 
--Damian Blabla ( Historiador )
+14-Damian Blabla ( Historiador )
 Nacionalidad : Argentina
 Edad : 43
 Apodo : La momia viviente
 
--IA de Brian Turreti ( Figura Historica Turra en China) Nacionalidad : China
+15-IA de Brian Turreti ( Figura Historica Turra en China) Nacionalidad : China
 Edad : 0
 Apodo : El TecnoTurro de shanghai
 
--DiosGPT ( IA del Jugador )
+16-DiosGPT ( IA del Jugador )
 Nacionalidad : Alemania
 Edad : 3
 Apodo : I am the king wacho
 
--Locutor de Terror Gallego / Manolo Joseche Pimba Nacionalidad : España
+17-Locutor de Terror Gallego / Manolo Joseche Pimba Nacionalidad : España
 Edad : 55
 Apodo : El profilactico que vivia asustado
 
--Guillermo Bajolini ( Cantante de Tango )
+18-Guillermo Bajolini ( Cantante de Tango )
 Nacionalidad : Argentina
 Edad : 50
 Apodo : vida de lamentos
 
--ARmando GENe TINOman ( Presidente Saliente)
+19-ARmando GENe TINOman ( Presidente Saliente)
 Nacionalidad : Bolivia / Argentina
 Edad : 48
 Apodo : corrupto pero amable
