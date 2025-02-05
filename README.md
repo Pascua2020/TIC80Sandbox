@@ -40,7 +40,7 @@ Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).Eso incluye 
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/barrios%20v0.png?token=GHSAT0AAAAAAC6N6XLLASIWRHCCTQOLDGYOZ5DPZ3A)
+![todomapa](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Mapa%201-2.jpg?token=GHSAT0AAAAAAC6N6XLLVNHTWYC2RIJEOPMAZ5DQOMQ)
 
 Aunque también tiene pequeñas ambientaciones en:
 
@@ -300,13 +300,13 @@ NPC
 
 ## 🎮 Mapa
 
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Mapa%201-2.jpg?token=GHSAT0AAAAAAC6N6XLLVJONTT5GFFROQPOUZ5DPYWA)
+![mapaciudad](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Miniatura%20mapa-1.jpg?token=GHSAT0AAAAAAC6N6XLKQ5NZYYQOPKZOIEVQZ5DQOHQ)
 
 ##### 🌇 -Ciudad Rapera de Buenos Aires 
 
 ( Incluye 16 Barrios)
 
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Miniatura%20mapa-1.jpg?token=GHSAT0AAAAAAC6N6XLKHDGWRDUOTJVCV7OYZ5DP4CQ)
+![barrios](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/barrios%20v0.png?token=GHSAT0AAAAAAC6N6XLKKEIZATV5V3LD6DIKZ5DQNOQ)
 
 ##### 🌅 -Mar Ram
 
