@@ -1,14 +1,14 @@
 # TIC80Sandbox
 2D videogame in fantasy console TIC80.
 
-Nombre del juego : Crimen y Chori
+*Nombre del juego :* Crimen y Chori
 Año : 2025?
 
-Desarrollador:
+**Desarrollador:**
 AltaVista Games
 ( Pascua2020 y ChatGPT )
 
-Género: Sandbox 2D
+***Género:*** Sandbox 2D
 
 Plataforma : TIC-80 ( consola de fantasía open source )
 
