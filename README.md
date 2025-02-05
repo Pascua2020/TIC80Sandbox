@@ -191,6 +191,8 @@ Cada barrio tiene sus calles.
 
 ## 🎮 Estado
 
+En Desarrollo.
+
 ## 🎮 Licencia
 
 ## 🎮 Notas
