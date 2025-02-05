@@ -34,15 +34,26 @@ Aunque también tiene pequeñas ambientaciones en:
 ( pantalla de inicio )
 
 🍪 ***-Pista de Carreras en Berna , Suiza***
+
 ( minijuego de carreras )
 
-🍪 ***-"La Pistita"***,pista de carreras de coches a control remoto ( en País Vasco,España ) ( minijuego de Carreras RC ).
+🍪 ***-"La Pistita"***,
 
-🍪 ***-"Flippersburgo,Alemania"*** ( minijuego de Pinball ).
+pista de carreras de coches a control remoto ( en País Vasco,España ) 
 
-🍪 ***-"Satélite Tokyo"*** ( minijuego de baile ).
+( minijuego de Carreras RC ).
 
-🍪 ***-"Trompolandia" en Estonia*** ( minijuego de Trompos )
+🍪 ***-"Flippersburgo,Alemania"***
+
+( minijuego de Pinball ).
+
+🍪 ***-"Satélite Tokyo"*** 
+
+( minijuego de baile ).
+
+🍪 ***-"Trompolandia" en Estonia***
+
+( minijuego de Trompos )
 
 ## 🎮 Características del juego:
 
