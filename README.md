@@ -54,25 +54,25 @@ Cada barrio tiene sus calles.
 
 ✅️ 04
 -11 Vehículos.
-```--coches
---coche de policía
---ambulancia
---camioneta
---skate
---avion 
+```--Coches
+--Coche de policía
+--Ambulancia
+--Camioneta
+--Skate
+--Avion 
 ```
 
 ✅️ 05
 -11 Armas.
-```--puño
---pistola
---escopeta
---katana
---bazooka
---rayo láser
---rifle electrico
---granada
---lanzallamas
+```--Puño
+--Pistola
+--Escopeta
+--Katana
+--Bazooka
+--Rayo láser
+--Rifle electrico
+--Granada
+--Lanzallamas
 ```
 
 ✅️ 06
@@ -107,11 +107,11 @@ Cada barrio tiene sus calles.
 
 ✅️ 16
 -Sistema de climatologia
-```--lluvia
---nieve
---hojas
---viento
---relámpagos
+```--Lluvia
+--Nieve
+--Hojas
+--Viento
+--Relámpagos
 ```
 
 ✅️ 17
