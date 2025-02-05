@@ -2,7 +2,8 @@
 2D videogame in fantasy console TIC80.
 
 🎲 ***Nombre del juego :*** Crimen y Chori
-Año : 2025?
+
+🎲***Año :*** 2025?
 
 🎲 ***Desarrollador:***
 AltaVista Games
@@ -22,18 +23,18 @@ Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseu
 
 Aunque también tiene pequeñas ambientaciones en:
 
--La VirgoCueva ( pantalla de inicio )
+🍪-La VirgoCueva ( pantalla de inicio )
 
--Pista de Carreras en Berna , Suiza
+🍪-Pista de Carreras en Berna , Suiza
 ( minijuego de carreras )
 
--"La Pistita",pista de carreras de coches a control remoto ( en País Vasco,España ) ( minijuego de Carreras RC ).
+🍪-"La Pistita",pista de carreras de coches a control remoto ( en País Vasco,España ) ( minijuego de Carreras RC ).
 
--"Flippersburgo,Alemania" ( minijuego de Pinball ).
+🍪-"Flippersburgo,Alemania" ( minijuego de Pinball ).
 
--"Satélite Tokyo" ( minijuego de baile ).
+🍪-"Satélite Tokyo" ( minijuego de baile ).
 
-"Trompolandia" en Estonia ( minijuego de Trompos )
+🍪-"Trompolandia" en Estonia ( minijuego de Trompos )
 
 ## Características del juego:
 
