@@ -201,62 +201,41 @@ Cada barrio tiene sus calles.
 
 ```
 01-Jugador ( Wikiman )
-
 02-Gatito ( Mascota )
-
 03-Silvestre Stacchotta ( actor de EEUU)
-
 04-Jorge Lanota ( Periodista )
-
 05-Juan Garcamaru ( Empresario )
 
 06-Profesor Levantini ( Influencer )
-
 07-Profesora Dopamina ( Doctora )
-
 08-Barcelo Monelli ( Periodista )
-
 09-Elon Mots ( Magnate Africano )
-
 10-Big Faso ( Duo Ruso Senegales )
 
 11-Señor Amarguino ( Locutor )
-
 12-Adrian DelaTrampa ( Crítico de cine )
-
 13-I y A ( Inteligencias Artificiales malvadas ) 
-
 14-Damian Blabla ( Historiador )
-
 15-IA de Brian Turreti ( Figura Historica Turra en China)
 
 16-DiosGPT ( IA del Jugador )
-
 17-Locutor de Terror Gallego / Manolo Joseche
-
 18-Guillermo Bajolini ( Cantante de Tango )
-
 19-ARmando GENe TINOman ( Presidente Saliente)
 ```
 
 ```
 NPC
 1-Suizo Romanche
-
 2-Rapi el Rapero
-
 3-Timmy Trabalenguas
 
 4-"Capitán Inflacion"
-
 5-Obsesivo y Compulsivo
-
 6-El Profeta
 
 7-Cerebrito y Wachin
-
 8-"El Payaso Curro Curro"
-
 9-Mamá y Niño Diabolico
 
 ```
