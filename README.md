@@ -86,12 +86,24 @@ Cada barrio tiene sus calles.
 ✅️ 04
 
 -11 Vehículos.
-```--Coches
---Coche de policía
---Ambulancia
---Camioneta
---Skate
---Avion 
+```
+-Tochota - Fulero ( coche )
+-Tochota - Strella ( coche )
+-Tochota - Random ( Moto )
+-Tochota - Airlines ( Avión )
+-Tochota - Bondi ( Colectivo )
+-Tochota - Salud ( Ambulancia )
+-Tochota - Raíles ( tren )
+-Tochota - Yip ( Camioneta )
+
+-Zho zho - ego ego ( coche )
+-Zho Zho - Jinping ( Coche )
+-Zho Zho - Xi ( coche )
+-Zho zho - RC
+-Zho Zho - Skate
+-Zho Zho - Woter ( bomberos )
+-Zho zho - Armageddon ( policía )
+
 ```
 
 ✅️ 05
