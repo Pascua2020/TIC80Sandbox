@@ -298,6 +298,60 @@ NPC
 
 -Sistema de mensajes móviles.
 
+✅️ 24
+
+20 coleccionables en el mapa ( 16 en la ciudad y 4 en el mar ).
+
+✅️ 25
+
+Modo debug.
+
+✅️ 26
+
+Interfaz minimalista,con Modo táctico
+
+✅️ 27
+
+Trucos ( al conseguir 100% ).
+
+✅️ 28
+
+Objetos destructibles,sistema de partículas sangriento.
+
+✅️ 29
+
+Sistema de votación electoral
+( opcion A o B ).
+
+✅️ 30
+
+Diálogos automáticos.
+
+✅️ 31
+
+60 Frames por Segundo.
+
+✅️ 32
+
+Distintos tipos ( para la Ciudad ) de :
+```
+*aceras
+*carteles de trafico
+tráfico
+*cesped
+*oceanos
+*edificios
+*baldosas
+*faroles
+*muros
+```
+
+✅️ 33
+
+✅️ 34
+
+✅️ 35
+
 ## 🎮 Mapa
 
 ![mapaciudad](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Miniatura%20mapa-1.jpg?token=GHSAT0AAAAAAC6N6XLKQ5NZYYQOPKZOIEVQZ5DQOHQ)
