@@ -407,6 +407,123 @@ Rampas y Aros de Fuego.
 
 ![barrios](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/barrios%20v0.png?token=GHSAT0AAAAAAC6N6XLKKEIZATV5V3LD6DIKZ5DQNOQ)
 
+Nombres de las Calles:
+
+```
+
+1
+Lalala
+
+2
+Lucifer
+
+3
+Proceda
+
+4
+Inflacion
+
+5
+Satanas
+
+6
+Conspiración
+
+7
+Turbina
+
+8
+Diamante
+
+9
+Chechona
+
+10
+Informeishon
+
+11
+Poker
+
+12
+No jodas
+
+13
+Cállate
+
+14
+Gilipollas
+
+15
+Anaconda
+
+16
+Siga Siga
+
+17
+Eureka
+
+18
+Laberinto
+
+19
+Meteorito
+
+20
+Miau
+
+21
+Yupi
+
+22
+Caos
+
+23
+Pixeles
+
+24
+Wauf
+
+25
+Seineldin
+
+26
+Pio pío
+
+27
+Jarbard
+
+28
+Ameo
+
+29
+Tuti fruti
+
+30
+Libre
+
+31
+Khe
+
+32
+Zig Zag
+
+33
+Tuki Tuki
+
+34
+Ouch
+
+35
+Chad
+
+36
+Pff
+
+37
+Chocolate
+```
+
+
 ##### 🌅 -Mar Ram
 
 ( Rodea a la Ciudad )
