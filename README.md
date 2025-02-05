@@ -224,7 +224,6 @@ Apodo : vida de lamentos
 Nacionalidad : Bolivia / Argentina
 Edad : 48
 Apodo : corrupto pero amable
-)
 ```
 
 ```
