@@ -54,7 +54,7 @@ Cada barrio tiene sus calles.
 
 ✅️ 04
 -11 Vehículos.
-``` --coches
+```--coches
 --coche de policía
 --ambulancia
 --camioneta
@@ -64,7 +64,7 @@ Cada barrio tiene sus calles.
 
 ✅️ 05
 -11 Armas.
---puño
+```--puño
 --pistola
 --escopeta
 --katana
@@ -72,7 +72,7 @@ Cada barrio tiene sus calles.
 --rayo láser
 --rifle electrico
 --granada
---lanzallamas
+--lanzallamas```
 
 ✅️ 06
 -Trama bizarra.
@@ -106,11 +106,11 @@ Cada barrio tiene sus calles.
 
 ✅️ 16
 -Sistema de climatologia
---lluvia
+```--lluvia
 --nieve
 --hojas
 --viento
---relámpagos
+--relámpagos```
 
 ✅️ 17
 -Cámara que sigue al jugador y minicamara.
