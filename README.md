@@ -2,8 +2,6 @@
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-
-
 ## 🎮 TIC80Sandbox
 2D videogame in fantasy console TIC80.
 
@@ -31,7 +29,8 @@ Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseu
 
 Aunque también tiene pequeñas ambientaciones en:
 
-🍪 ***-La VirgoCueva*** ( pantalla de inicio )
+🍪 ***-La VirgoCueva*** 
+( pantalla de inicio )
 
 🍪 ***-Pista de Carreras en Berna , Suiza***
 ( minijuego de carreras )
