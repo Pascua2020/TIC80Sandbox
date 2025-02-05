@@ -40,6 +40,8 @@ Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).Eso incluye 
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/barrios%20v0.png?token=GHSAT0AAAAAAC6N6XLLASIWRHCCTQOLDGYOZ5DPZ3A)
+
 Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***-La VirgoCueva*** 
