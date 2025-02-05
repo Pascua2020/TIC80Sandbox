@@ -76,6 +76,21 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ![trompo](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/trompo6.jpg?token=GHSAT0AAAAAAC6N6XLKVDDI25CUXNF53RQSZ5DQJTA)
 
+## 🎮 Requisitos e instalacion:
+
+Al ser un juego de TIC-80,corre en:
+```
+-PC
+-Android
+-Raspberry Pi
+```
+
+Como jugar :
+
+1-Descarga el archivo .TIC .
+2-Abre TIC-80 y carga el cartucho en la terminal de consola ( load juego.tic ).
+3-corre el juego ( run juego.tic ).
+
 ## 🎮 Características del juego:
 
 ✅️ 01
