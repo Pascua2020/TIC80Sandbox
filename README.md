@@ -205,32 +205,23 @@ Cada barrio tiene sus calles.
 
 ```
 NPC
-1
-Suizo Romanche
+1-Suizo Romanche
 
-2
-Rapi el Rapero
+2-Rapi el Rapero
 
-3
-Timmy Trabalenguas
+3-Timmy Trabalenguas
 
-4
-"Capitán Inflacion"
+4-"Capitán Inflacion"
 
-5
-Obsesivo y Compulsivo
+5-Obsesivo y Compulsivo
 
-6
-El Profeta
+6-El Profeta
 
-7
-Cerebrito y Wachin
+7-Cerebrito y Wachin
 
-8
-"El Payaso Curro Curro"
+8-"El Payaso Curro Curro"
 
-9
-Mamá y Niño Diabolico
+9-Mamá y Niño Diabolico
 
 ```
 
