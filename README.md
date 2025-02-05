@@ -355,6 +355,8 @@ Mamá y Niño Diabolico
 
 ## 🎮 Mapa
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Mapa%201-2.jpg?token=GHSAT0AAAAAAC6N6XLLVJONTT5GFFROQPOUZ5DPYWA)
+
 ##### 🌇 -Ciudad Rapera de Buenos Aires 
 
 ( Incluye 16 Barrios)
