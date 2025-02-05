@@ -1,4 +1,4 @@
-#🎮 TIC80Sandbox
+##🎮 TIC80Sandbox
 2D videogame in fantasy console TIC80.
 
 🎲 ***Nombre del juego :*** Crimen y Chori
