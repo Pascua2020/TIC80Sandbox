@@ -70,12 +70,12 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Pinball )
 
-![Descripción de la imagen](./imagenes/pinballv6.4.jpg)
+![Descripción de la imagen](./Imagenes/pinballv6.4.jpg)
 🍪 ***"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
 
-![baile](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/baile7.jpg?token=GHSAT0AAAAAAC6N6XLLEL4A5NXFA2XRLKYKZ5E6DEQ)
+![baile](.Imagenes/baile7.jpg)
 
 🍪 ***"Trompolandia" en Estonia***
 
