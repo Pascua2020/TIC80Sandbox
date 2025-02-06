@@ -204,11 +204,11 @@ Cada barrio tiene sus calles.
 
 ✅️ 06
 
-Trama bizarra.
+Trama bizarra,con mezcla de datos ficticios y reales.
 
 ✅️ 07
 
-Easter eggs 
+Easter Eggs 
 ( Ej : Dibujos misteriosos en el agua. )
 
 ✅️ 08
@@ -218,7 +218,7 @@ Easter eggs
 ```
 01-Jugador ( Wikiman )
 02-Gatito ( Mascota )
-03-Silvestre Stacchotta ( actor de EEUU)
+03-Silvestre Stacchotta ( actor de EEUU )
 04-Jorge Lanota ( Periodista )
 05-Juan Garcamaru ( Empresario )
 
@@ -241,7 +241,7 @@ Easter eggs
 ```
 
 ```
-NPC
+Peatones
 1-Suizo Romanche
 2-Rapi el Rapero
 3-Timmy Trabalenguas
@@ -288,7 +288,7 @@ Sistema de Dinero ( llamado Peluca$ ).
 
 ✅️ 16
 
-Sistema de climatologia
+Sistema de Climatologia
 ```
 --Lluvia
 --Nieve
@@ -303,7 +303,8 @@ Cámara que sigue al jugador y Minicamara.
 
 ✅️ 18
 
-Jetpack ( Para poder volar sobre el agua ).
+Jetpack 
+( Para poder volar sobre el agua ).
 
 ✅️ 19
 
@@ -328,15 +329,15 @@ Sistema de Mensajes Móviles.
 ✅️ 24
 
 20 coleccionables en el mapa 
-( 16 en la ciudad y 4 en el mar ).
+( 16 en la Ciudad y 4 en el Mar ).
 
 ✅️ 25
 
-Modo debug.
+Modo Debug.
 
 ✅️ 26
 
-Interfaz Minimalista ( estilo Cartas ) ,con Modo táctico.
+Interfaz Minimalista ( estilo Cartas ) ,con Modo Táctico.
 
 ✅️ 27
 
@@ -376,12 +377,13 @@ tráfico
 
 ✅️ 33
 
-Parques,playa y aeropuerto ( en la Ciudad ).
+Parques,Playa y Aeropuerto 
+( en la Ciudad ).
 
 ✅️ 34
 
-Cada barrio tiene su nombre y este se muestra en pantalla al estar en el.
-Lo mismo las calles.
+Cada Barrio tiene su Nombre y este se muestra en pantalla al estar en el.
+Lo mismo las Calles.
 
 ✅️ 35
 
@@ -474,7 +476,6 @@ Nombres de las Calles:
 36 Pff
 37 Chocolate
 ```
-
 
 ##### 🌅 -Mar Ram
 
