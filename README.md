@@ -58,6 +58,8 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Minijuego de Carreras )
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/45.jpg?token=GHSAT0AAAAAAC6N6XLKOE3CPNGNVPY6MQ4EZ5E6HUA)
+
 🍪 ***"La Pistita"***,
 
 Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
