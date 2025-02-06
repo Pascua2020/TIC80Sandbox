@@ -152,6 +152,8 @@ Como jugar :
 "22 Comerciales Gamers" : Propaganda
 ```
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/radiopesimista.jpg?token=GHSAT0AAAAAAC6N6XLKKQTMPOGYGIQGVSMYZ5E6NUQ)
+
 ✅️ 02
 
 512 Gráficos como máximo en formato 8x8.
