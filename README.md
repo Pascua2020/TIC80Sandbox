@@ -55,7 +55,7 @@ Aunque también tiene pequeñas ambientaciones en:
 ( Pantalla de inicio,Hub de Niveles. )
 
 ![virgocueva](./Imagenes/Virgocueva(Hub).jpg)
-
+![armas](./Imagenes/Armas.jpg)
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
