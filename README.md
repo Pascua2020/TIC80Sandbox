@@ -46,9 +46,7 @@ Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde e
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
-![todomapa](./Imagenes/Mapa%Entero.jpg)
-![todomapa](./Imagenes/Mapa Entero.jpg)
-![todomapa](./Imagenes/Mapa_Entero.jpg)
+![todomapa](./Imagenes/Mapa%20Entero.jpg)
 
 Aunque también tiene pequeñas ambientaciones en:
 
@@ -56,12 +54,12 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Pantalla de inicio,Hub de Niveles. )
 
-![virgocueva](./Imagenes/Virgocueva%(%Hub%).jpg)
+![virgocueva](./Imagenes/Virgocueva%20(%20Hub%20).jpg)
 ![armas](./Imagenes/Armas.jpg)
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
-![suiza](./Imagenes/Pista%Suiza.jpg)
+![suiza](./Imagenes/Pista%20Suiza.jpg)
 
 🍪 ***"La Pistita"***,
 
@@ -69,24 +67,24 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Carreras RC ).
 
-![rc](./Imagenes/Pistita%RC.jpg)
+![rc](./Imagenes/Pistita%20RC.jpg)
 
 🍪 ***"Flippersburgo,Alemania"***
 
 ( Minijuego de Pinball )
-![pinball](./Imagenes/Minijuego%de%Pinball.jpg)
+![pinball](./Imagenes/Minijuego%20de%20Pinball.jpg)
 
 🍪 ***"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
 
-![baile](.Imagenes/Minijuego%de%Baile.jpg)
+![baile](.Imagenes/Minijuego%20de%20Baile.jpg)
 
 🍪 ***"Trompolandia" en Estonia***
 
 ( Minijuego de Trompos )
 
-![trompo](./Imagenes/Minijuego%de%Trompos.jpg)
+![trompo](./Imagenes/Minijuego%20de%20Trompos.jpg)
 
 ## 🎮 Requisitos e instalacion:
 
