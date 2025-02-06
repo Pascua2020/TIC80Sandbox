@@ -80,7 +80,7 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Trompos )
 
-![trompo](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/trompo6.jpg?token=GHSAT0AAAAAAC6N6XLKVDDI25CUXNF53RQSZ5DQJTA)
+![trompo](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/trompo6.jpg?token=GHSAT0AAAAAAC6N6XLKHWPL5CWJKVECUPE6Z5E6ECA)
 
 ## 🎮 Requisitos e instalacion:
 
