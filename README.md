@@ -47,6 +47,8 @@ Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde e
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
 ![todomapa](./Imagenes/Mapa%Entero.jpg)
+![todomapa](./Imagenes/Mapa Entero.jpg)
+![todomapa](./Imagenes/Mapa_Entero.jpg)
 
 Aunque también tiene pequeñas ambientaciones en:
 
