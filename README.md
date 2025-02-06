@@ -58,7 +58,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Minijuego de Carreras )
 
-![Descripción de la imagen](.Imagenes/45.jpg)
+![Descripción de la imagen](./Imagenes/45.jpg)
 
 🍪 ***"La Pistita"***,
 
