@@ -289,6 +289,9 @@ Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
 El Skate se puede montar en caños.
 
+
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/19.jpg?token=GHSAT0AAAAAAC6N6XLLE3CCNMMEG5BAAEUQZ5E6GSQ)
+
 ✅️ 14
 
 El jugador puede tomarse Colectivos en Paradas.
