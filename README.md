@@ -55,7 +55,7 @@ Aunque también tiene pequeñas ambientaciones en:
 ( Pantalla de inicio,Hub de Niveles. )
 
 ![virgocueva](./Imagenes/Virgocueva(Hub).jpg)
-![armas](./Imagenes/Armas.jpg)
+
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
@@ -159,9 +159,9 @@ Como jugar :
 
 512 Gráficos como máximo en formato 8x8.
 
-![graficos1](./Imagenes/Graficos%1.jpg)
+![graficos1](./Imagenes/Graficos1.jpg)
 
-![graficos2](./Imagenes/Graficos%2.jpg)
+![graficos2](./Imagenes/Graficos2.jpg)
 
 ✅️ 03
 
@@ -211,6 +211,8 @@ Hay 2 marcas :
 11--Minigun
 ```
 
+![armas](./Imagenes/Armas.jpg)
+
 ✅️ 06
 
 Trama bizarra,con mezcla de datos ficticios y reales.
@@ -220,7 +222,7 @@ Trama bizarra,con mezcla de datos ficticios y reales.
 Easter Eggs 
 ( Ej : Dibujos misteriosos en el agua. )
 
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/15.jpg?token=GHSAT0AAAAAAC6N6XLLL43XZMIF45ITMHDGZ5E6F6A)
+![easter](./Imagenes/EasterEggMar.jpg)
 
 ✅️ 08
 
@@ -282,15 +284,20 @@ ChatGPT ( llamada DiosGPT ) :
 
 Sirve como tutorial.
 
+![gpt](./Imagenes/DiosGPT.jpg)
+
 ✅️ 11
 
 Lector de Diarios ( Noticias de varias Temáticas ).
+
+
+![diario](./Imagenes/Diario.jpg)
 
 ✅️ 12
 
 Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/w2.10.jpg?token=GHSAT0AAAAAAC6N6XLL3OGLOH426DQBHYPUZ5E6PBQ)
+![wiki](./Imagenes/Nerdpedia.jpg)
 
 ✅️ 13
 
@@ -302,6 +309,8 @@ El Skate se puede montar en caños.
 ✅️ 14
 
 El jugador puede tomarse Colectivos en Paradas.
+
+![parada](./Imagenes/Parada.jpg)
 
 ✅️ 15
 
@@ -318,6 +327,8 @@ Sistema de Climatologia
 --Relámpagos
 ```
 
+![easter](./Imagenes/Climatologia.jpg)
+
 ✅️ 17
 
 Cámara que sigue al jugador y Minicamara.
@@ -326,6 +337,8 @@ Cámara que sigue al jugador y Minicamara.
 
 Jetpack 
 ( Para poder volar sobre el agua ).
+
+![jetpack](./Imagenes/Jetpack.jpg)
 
 ✅️ 19
 
@@ -343,9 +356,13 @@ Minijuego de Trompos.
 
 Visor de telescopio.
 
+![telescopio](./Imagenes/Telescopio.jpg)
+
 ✅️ 23
 
 Sistema de Mensajes Móviles.
+
+![sms](./Imagenes/MensajesMoviles.jpg)
 
 ✅️ 24
 
@@ -359,6 +376,8 @@ Modo Debug.
 ✅️ 26
 
 Interfaz Minimalista ( estilo Cartas ) ,con Modo Táctico.
+
+![interfaz](./Imagenes/Interfaz(ModoTactico).jpg)
 
 ✅️ 27
 
@@ -409,6 +428,8 @@ Lo mismo las Calles.
 ✅️ 35
 
 Modo Carrera Arcade.
+
+![carrera](./Imagenes/ModoCarrera.jpg)
 
 ✅️ 36
 
