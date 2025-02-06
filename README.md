@@ -256,7 +256,7 @@ NPC
 ✅️ 09
 
 Misión de Stuntman 
-( Piruetas en vehículo de doble de cine. )
+( Piruetas en vehículo de doble de cine.Con 10 mecánicas distintas. )
 
 ✅️ 10
 
