@@ -29,13 +29,16 @@ Sandbox 2D
 
 🎲 ***Plataforma :*** 
 
-TIC-80 ( consola de fantasía open source , funciona en PC,Raspberry Pi y Smartphones )
+TIC-80 
+( Consola de Fantasía Open Source :
+Funciona en PC,Raspberry Pi y Smartphones )
 
 🎲 ***Lenguaje de programación :*** 
 
 Lua
 
-Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
+Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).
+Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
 ## 🎮 Sinopsis : 
 
@@ -202,7 +205,8 @@ Cada barrio tiene sus calles.
 
 ✅️ 07
 
--Easter eggs ( ej : dibujos misteriosos en el agua )
+-Easter eggs 
+( Ej : Dibujos misteriosos en el agua. )
 
 ✅️ 08
 
@@ -251,31 +255,33 @@ NPC
 
 ✅️ 09
 
--Misión de stuntman ( piruetas en vehículo de doble de cine )
+-Misión de Stuntman 
+( Piruetas en vehículo de doble de cine. )
 
 ✅️ 10
 
--Simulador ( muy simple ) de app estilo chatgpt.
+-Simulador ( muy simple ) de app estilo c
+ChatGPT ( llamada DiosGPT ) : sirve como tutorial.
 
 ✅️ 11
 
--Lector de diarios.
+-Lector de Diarios.
 
 ✅️ 12
 
--Simulador estilo wiki.
+-Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
 ✅️ 13
 
--El skate se puede montar en caños.
+-El Skate se puede montar en caños.
 
 ✅️ 14
 
--El jugador puede tomarse colectivos.
+-El jugador puede tomarse Colectivos en Paradas.
 
 ✅️ 15
 
--Sistema de dinero ( llamado Peluca$ ).
+-Sistema de Dinero ( llamado Peluca$ ).
 
 ✅️ 16
 
@@ -290,11 +296,11 @@ NPC
 
 ✅️ 17
 
--Cámara que sigue al jugador y minicamara.
+-Cámara que sigue al jugador y Minicamara.
 
 ✅️ 18
 
--Jetpack ( para poder volar sobre el agua ).
+-Jetpack ( Para poder volar sobre el agua ).
 
 ✅️ 19
 
@@ -302,7 +308,7 @@ NPC
 
 ✅️ 20
 
--Hay una pista a control remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
+-Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
 ✅️ 21
 
@@ -314,11 +320,12 @@ NPC
 
 ✅️ 23
 
--Sistema de mensajes móviles.
+-Sistema de Mensajes Móviles.
 
 ✅️ 24
 
-20 coleccionables en el mapa ( 16 en la ciudad y 4 en el mar ).
+20 coleccionables en el mapa 
+( 16 en la ciudad y 4 en el mar ).
 
 ✅️ 25
 
@@ -326,7 +333,7 @@ Modo debug.
 
 ✅️ 26
 
-Interfaz minimalista,con Modo táctico
+Interfaz Minimalista ( estilo Cartas ) ,con Modo táctico.
 
 ✅️ 27
 
@@ -339,7 +346,7 @@ Objetos destructibles,sistema de partículas sangriento.
 ✅️ 29
 
 Sistema de votación electoral
-( opcion A o B ).
+( Opcion A o B ).
 
 ✅️ 30
 
@@ -353,20 +360,20 @@ Diálogos automáticos.
 
 Distintos tipos ( para la Ciudad ) de :
 ```
-*aceras
-*carteles de trafico
+*Aceras
+*Carteles de trafico
 tráfico
-*cesped
-*oceanos
-*edificios
-*baldosas
-*faroles
-*muros
+*Cesped
+*Oceanos
+*Edificios
+*Baldosas
+*Faroles
+*Muros
 ```
 
 ✅️ 33
 
-Parques,playa y aeropuerto ( en ciudad ).
+Parques,playa y aeropuerto ( en la Ciudad ).
 
 ✅️ 34
 
@@ -379,7 +386,7 @@ Modo Carrera Arcade.
 
 ✅️ 36
 
-Modo Combate Vehículos.
+Modo Combate Vehícular.
 
 ✅️ 37
 
@@ -398,7 +405,7 @@ Rampas y Aros de Fuego.
 Nombres de los Barrios:
 
 ```
-1-nueva pyongyang
+1-Nueva Pyongyang
 2-obelisco
 3-internets
 4-no no no no
