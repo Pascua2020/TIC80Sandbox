@@ -17,13 +17,13 @@ Crimen y Chori
 
 2025?
 
-🎲 ***Desarrollador:***
+🎲 ***Desarrollador :***
 
 AltaVista Games
 
 ( Pascua2020 y ChatGPT )
 
-🎲 ***Género:*** 
+🎲 ***Género :*** 
 
 Sandbox 2D
 
