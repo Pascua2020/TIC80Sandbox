@@ -115,6 +115,7 @@ Como jugar :
 
 ```
 * Botones 0,1,2,3 : mover RC jugador 1.
+
 * Botones 4,5,6,7 : mover RC jugador 2.
 ```
 
@@ -125,28 +126,28 @@ Como jugar :
 22 "Radios" en texto.
 
 ```
-"01 Radio Todo Vardo" 
-"02 Radio Bajones" 
-"03 Radio Poesía de la Calle" 
-"04 Gobierno de Argentina" 
-"05 Solos y Solas"
-"06 Desgracias Economicas"
-"07 Joyas de la Historia"
-"08 No me importa"
-"09 Radio Antimainstream"
-"10 Cine Ultra 8K"
-"11 Destapando Curros"
-"12 Radio Grieta"
-"13 Radio Cuarta Pared"
-"14 La IA Avanza"
-"15 Jesus te ama"
-"16 Sonidos animalunos"
-"17 Naturaleza insolita"
-"18 Radio pesimista"
-"19 Poesia pixelar"
-"20 Radio terror"
-"21 Radio Lenguaje de la vida"
-"22 Comerciales Gamers"
+"01 Radio Todo Vardo" : Noticias Locales
+"02 Radio Bajones" : Tango
+"03 Radio Poesía de la Calle" : Trap
+"04 Gobierno de Argentina" : Cadena Nacional
+"05 Solos y Solas" : Relaciones Amorosas
+"06 Desgracias Economicas" : Economia
+"07 Joyas de la Historia" : Historia
+"08 No me importa" : Internacional
+"09 Radio Antimainstream" : Historias unicas
+"10 Cine Ultra 8K" : Cine
+"11 Destapando Curros" : Investigaciones
+"12 Radio Grieta" : Polarizacion
+"13 Radio Cuarta Pared" : Vida Real
+"14 La IA Avanza" : No Humanos
+"15 Jesus te ama" : Religion
+"16 Sonidos animalunos" : Lofi
+"17 Naturaleza insolita" : Naturaleza
+"18 Radio pesimista" : Noticias tristes
+"19 Poesia pixelar" : Poesia
+"20 Radio terror" : Terror
+"21 Radio Lenguaje de la vida" : Idiomas
+"22 Comerciales Gamers" : Propaganda
 ```
 
 ✅️ 02
