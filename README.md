@@ -78,7 +78,8 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Baile ).
 
-![baile](.Imagenes/MinijuegodeBaile.jpg)
+![baile]
+(./Imagenes/MinijuegodeBaile.jpg)
 
 🍪 ***"Trompolandia" en Estonia***
 
