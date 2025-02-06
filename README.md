@@ -166,6 +166,9 @@ Cada barrio tiene sus calles.
 ✅️ 04
 
 15 Vehículos ( la mayoría con 4 colores ).
+Hay 2 marcas :
+-Tochota ( de Japón )
+-Zho Zho ( de China )
 ```
 01-Tochota - Fulero ( coche )
 02-Tochota - Strella ( coche )
