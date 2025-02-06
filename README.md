@@ -215,6 +215,8 @@ Trama bizarra,con mezcla de datos ficticios y reales.
 Easter Eggs 
 ( Ej : Dibujos misteriosos en el agua. )
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/15.jpg?token=GHSAT0AAAAAAC6N6XLLL43XZMIF45ITMHDGZ5E6F6A)
+
 ✅️ 08
 
 20 Personajes.
