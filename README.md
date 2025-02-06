@@ -289,6 +289,8 @@ Lector de Diarios ( Noticias de varias Temáticas ).
 
 Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
+![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/w2.10.jpg?token=GHSAT0AAAAAAC6N6XLL3OGLOH426DQBHYPUZ5E6PBQ)
+
 ✅️ 13
 
 El Skate se puede montar en caños.
