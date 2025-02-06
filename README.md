@@ -291,7 +291,7 @@ Sirve como tutorial.
 Lector de Diarios ( Noticias de varias Temáticas ).
 
 
-![diario](./Imagenes/LectorDeDiarios.jpg)
+![diario](./Imagenes/LectordeDiarios.jpg)
 
 ✅️ 12
 
