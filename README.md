@@ -20,6 +20,7 @@ Crimen y Chori
 🎲 ***Desarrollador:***
 
 AltaVista Games
+
 ( Pascua2020 y ChatGPT )
 
 🎲 ***Género:*** 
@@ -176,15 +177,16 @@ Cada barrio tiene sus calles.
 ✅️ 05
 
 -11 Armas.
-```--Puño
---Pistola
---Escopeta
---Katana
---Bazooka
---Rayo láser
---Rifle electrico
---Granada
---Lanzallamas
+``01--Puño
+02--Pistola
+03--Escopeta
+04--Katana
+05--Bazooka
+06--Rayo láser
+07--Rifle electrico
+08--Granada
+09--Lanzallamas
+10--AK47
 ```
 
 ✅️ 06
