@@ -183,7 +183,8 @@ Cada barrio tiene sus calles.
 ✅️ 05
 
 -11 Armas.
-``01--Puño
+```
+01--Puño
 02--Pistola
 03--Escopeta
 04--Katana
