@@ -54,12 +54,12 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Pantalla de inicio,Hub de Niveles. )
 
-![virgocueva](./Imagenes/Virgocueva%20(%20Hub%20).jpg)
+![virgocueva](./Imagenes/Virgocueva(Hub).jpg)
 ![armas](./Imagenes/Armas.jpg)
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
-![suiza](./Imagenes/Pista%20Suiza.jpg)
+![suiza](./Imagenes/PistaSuiza.jpg)
 
 🍪 ***"La Pistita"***,
 
@@ -67,24 +67,24 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Carreras RC ).
 
-![rc](./Imagenes/Pistita%20RC.jpg)
+![rc](./Imagenes/PistitaRC.jpg)
 
 🍪 ***"Flippersburgo,Alemania"***
 
 ( Minijuego de Pinball )
-![pinball](./Imagenes/Minijuego%20de%20Pinball.jpg)
+![pinball](./Imagenes/MinijuegodePinball.jpg)
 
 🍪 ***"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
 
-![baile](.Imagenes/Minijuego%20de%20Baile.jpg)
+![baile](.Imagenes/MinijuegodeBaile.jpg)
 
 🍪 ***"Trompolandia" en Estonia***
 
 ( Minijuego de Trompos )
 
-![trompo](./Imagenes/Minijuego%20de%20Trompos.jpg)
+![trompo](./Imagenes/MinijuegodeTrompos.jpg)
 
 ## 🎮 Requisitos e instalacion:
 
