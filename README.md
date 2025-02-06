@@ -48,33 +48,33 @@ Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseu
 
 Aunque también tiene pequeñas ambientaciones en:
 
-🍪 ***-La VirgoCueva*** 
+🍪 ***La VirgoCueva*** 
 
 ( Pantalla de inicio )
 
-🍪 ***-Pista de Carreras en Berna , Suiza***
+🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
 
-🍪 ***-"La Pistita"***,
+🍪 ***"La Pistita"***,
 
 Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
 
 ( Minijuego de Carreras RC ).
 
-🍪 ***-"Flippersburgo,Alemania"***
+🍪 ***"Flippersburgo,Alemania"***
 
 ( Minijuego de Pinball ).
 
 ![pinball](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/pinballv6.4.jpg?token=GHSAT0AAAAAAC6N6XLKED24M7R3QAFRQGZCZ5DQJNQ)
 
-🍪 ***-"Satélite Tokyo"*** 
+🍪 ***"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
 
 ![baile](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/baile7.jpg?token=GHSAT0AAAAAAC6N6XLLBSPKCO2KTIZ6BRDEZ5DQJ2A)
 
-🍪 ***-"Trompolandia" en Estonia***
+🍪 ***"Trompolandia" en Estonia***
 
 ( Minijuego de Trompos )
 
@@ -120,7 +120,7 @@ Como jugar :
 
 ✅️ 01
 
--22 "Radios" en texto.
+22 "Radios" en texto.
 
 ```
 "01 Radio Todo Vardo" 
@@ -149,7 +149,7 @@ Como jugar :
 
 ✅️ 02
 
--512 Gráficos como máximo en formato 8x8.
+512 Gráficos como máximo en formato 8x8.
 
 ![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra1.jpg?token=GHSAT0AAAAAAC6N6XLL3T6OK4E4UDPUOUJ2Z5DQLRA)
 
@@ -157,12 +157,12 @@ Como jugar :
 
 ✅️ 03
 
--16 Barrios en Buenos Aires.
+16 Barrios en Buenos Aires.
 Cada barrio tiene sus calles.
 
 ✅️ 04
 
--11 Vehículos.
+11 Vehículos.
 ```
 -Tochota - Fulero ( coche )
 -Tochota - Strella ( coche )
@@ -185,7 +185,7 @@ Cada barrio tiene sus calles.
 
 ✅️ 05
 
--11 Armas.
+11 Armas.
 ```
 01--Puño
 02--Pistola
@@ -201,16 +201,16 @@ Cada barrio tiene sus calles.
 
 ✅️ 06
 
--Trama bizarra.
+Trama bizarra.
 
 ✅️ 07
 
--Easter eggs 
+Easter eggs 
 ( Ej : Dibujos misteriosos en el agua. )
 
 ✅️ 08
 
--20 Personajes.
+20 Personajes.
 
 ```
 01-Jugador ( Wikiman )
@@ -255,37 +255,37 @@ NPC
 
 ✅️ 09
 
--Misión de Stuntman 
+Misión de Stuntman 
 ( Piruetas en vehículo de doble de cine. )
 
 ✅️ 10
 
--Simulador ( muy simple ) de app estilo c
+Simulador ( muy simple ) de app estilo c
 ChatGPT ( llamada DiosGPT ) : sirve como tutorial.
 
 ✅️ 11
 
--Lector de Diarios.
+Lector de Diarios.
 
 ✅️ 12
 
--Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
+Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
 ✅️ 13
 
--El Skate se puede montar en caños.
+El Skate se puede montar en caños.
 
 ✅️ 14
 
--El jugador puede tomarse Colectivos en Paradas.
+El jugador puede tomarse Colectivos en Paradas.
 
 ✅️ 15
 
--Sistema de Dinero ( llamado Peluca$ ).
+Sistema de Dinero ( llamado Peluca$ ).
 
 ✅️ 16
 
--Sistema de climatologia
+Sistema de climatologia
 ```
 --Lluvia
 --Nieve
@@ -296,31 +296,31 @@ ChatGPT ( llamada DiosGPT ) : sirve como tutorial.
 
 ✅️ 17
 
--Cámara que sigue al jugador y Minicamara.
+Cámara que sigue al jugador y Minicamara.
 
 ✅️ 18
 
--Jetpack ( Para poder volar sobre el agua ).
+Jetpack ( Para poder volar sobre el agua ).
 
 ✅️ 19
 
--Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
+Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
 ✅️ 20
 
--Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
+Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
 ✅️ 21
 
--Minijuego de Trompos.
+Minijuego de Trompos.
 
 ✅️ 22
 
--Visor de telescopio.
+Visor de telescopio.
 
 ✅️ 23
 
--Sistema de Mensajes Móviles.
+Sistema de Mensajes Móviles.
 
 ✅️ 24
 
