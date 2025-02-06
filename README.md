@@ -29,7 +29,8 @@ Sandbox 2D
 
 🎲 ***Plataforma :*** 
 
-TIC-80 
+TIC-80
+
 ( Consola de Fantasía Open Source :
 Funciona en PC,Raspberry Pi y Smartphones )
 
@@ -38,6 +39,7 @@ Funciona en PC,Raspberry Pi y Smartphones )
 Lua
 
 Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).
+
 Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
 ## 🎮 Sinopsis : 
@@ -50,7 +52,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***La VirgoCueva*** 
 
-( Pantalla de inicio )
+( Pantalla de inicio,Hub de Niveles. )
 
 🍪 ***Pista de Carreras en Berna , Suiza***
 
