@@ -46,7 +46,7 @@ Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde e
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
-![todomapa](./Imagenes/Mapa Entero.jpg)
+![todomapa](./Imagenes/Mapa%Entero.jpg)
 
 Aunque también tiene pequeñas ambientaciones en:
 
@@ -54,12 +54,12 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Pantalla de inicio,Hub de Niveles. )
 
-![virgocueva](./Imagenes/Virgocueva (Hub).jpg)
+![virgocueva](./Imagenes/Virgocueva(Hub).jpg)
 
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
-![suiza](./Imagenes/Pista Suiza.jpg)
+![suiza](./Imagenes/Pista%Suiza.jpg)
 
 🍪 ***"La Pistita"***,
 
@@ -153,16 +153,15 @@ Como jugar :
 "21 Radio Lenguaje de la vida" : Idiomas
 "22 Comerciales Gamers" : Propaganda
 ```
-
-![](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/radiopesimista.jpg?token=GHSAT0AAAAAAC6N6XLKKQTMPOGYGIQGVSMYZ5E6NUQ)
+![radio](./Imagenes/Radio.jpg)
 
 ✅️ 02
 
 512 Gráficos como máximo en formato 8x8.
 
-![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/gra1.jpg?token=GHSAT0AAAAAAC6N6XLL5HKTBNBUF5YBJKX2Z5E6KQA)
+![graficos1](./Imagenes/Graficos%1.jpg)
 
-![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/361%20-%20Tochota%20strella%201.jpg?token=GHSAT0AAAAAAC6N6XLKVKIBSQWXFZWHS2J2Z5E6JWA)
+![graficos2](./Imagenes/Graficos%2.jpg)
 
 ✅️ 03
 
