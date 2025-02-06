@@ -68,7 +68,7 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Pinball ).
 
-![pinball](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/pinballv6.4.jpg?token=GHSAT0AAAAAAC6N6XLKED24M7R3QAFRQGZCZ5DQJNQ)
+![pinball](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/pinballv6.4.jpg?token=GHSAT0AAAAAAC6N6XLKTLXLKMJXFOLI3CBQZ5E6AYQ)
 
 🍪 ***"Satélite Tokyo"*** 
 
