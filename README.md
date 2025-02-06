@@ -74,7 +74,7 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ( Minijuego de Baile ).
 
-![baile](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/baile7.jpg?token=GHSAT0AAAAAAC6N6XLLBSPKCO2KTIZ6BRDEZ5DQJ2A)
+![baile](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/baile7.jpg?token=GHSAT0AAAAAAC6N6XLLEL4A5NXFA2XRLKYKZ5E6DEQ)
 
 🍪 ***"Trompolandia" en Estonia***
 
