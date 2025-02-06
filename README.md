@@ -164,24 +164,24 @@ Cada barrio tiene sus calles.
 
 ✅️ 04
 
-11 Vehículos.
+15 Vehículos ( la mayoría con 4 colores ).
 ```
--Tochota - Fulero ( coche )
--Tochota - Strella ( coche )
--Tochota - Random ( Moto )
--Tochota - Airlines ( Avión )
--Tochota - Bondi ( Colectivo )
--Tochota - Salud ( Ambulancia )
--Tochota - Raíles ( tren )
--Tochota - Yip ( Camioneta )
+01-Tochota - Fulero ( coche )
+02-Tochota - Strella ( coche )
+03-Tochota - Random ( Moto )
+04-Tochota - Airlines ( Avión )
+05-Tochota - Bondi ( Colectivo )
+06-Tochota - Salud ( Ambulancia )
+07-Tochota - Raíles ( tren )
+08-Tochota - Yip ( Camioneta )
 
--Zho zho - ego ego ( coche )
--Zho Zho - Jinping ( Coche )
--Zho Zho - Xi ( coche )
--Zho zho - RC
--Zho Zho - Skate
--Zho Zho - Woter ( bomberos )
--Zho zho - Armageddon ( policía )
+09-Zho zho - ego ego ( coche )
+10-Zho Zho - Jinping ( Coche )
+11-Zho Zho - Xi ( coche )
+12-Zho zho - RC
+13-Zho Zho - Skate
+14-Zho Zho - Woter ( bomberos )
+15-Zho zho - Armageddon ( policía )
 
 ```
 
@@ -199,6 +199,7 @@ Cada barrio tiene sus calles.
 08--Granada
 09--Lanzallamas
 10--AK47
+11--Minigun
 ```
 
 ✅️ 06
