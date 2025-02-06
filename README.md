@@ -156,9 +156,9 @@ Como jugar :
 
 512 Gráficos como máximo en formato 8x8.
 
-![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra1.jpg?token=GHSAT0AAAAAAC6N6XLL3T6OK4E4UDPUOUJ2Z5DQLRA)
+![graficos1](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/gra1.jpg?token=GHSAT0AAAAAAC6N6XLL5HKTBNBUF5YBJKX2Z5E6KQA)
 
-![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/gra2.jpg?token=GHSAT0AAAAAAC6N6XLKQZ7ZQME4MOJVWG2UZ5DQMRQ)
+![graficos2](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/361%20-%20Tochota%20strella%201.jpg?token=GHSAT0AAAAAAC6N6XLKVKIBSQWXFZWHS2J2Z5E6JWA)
 
 ✅️ 03
 
