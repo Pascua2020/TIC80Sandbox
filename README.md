@@ -263,16 +263,21 @@ Peatones
 ✅️ 09
 
 Misión de Stuntman 
-( Piruetas en vehículo de doble de cine.Con 10 mecánicas distintas. )
+
+( Piruetas en vehículo de doble de cine.
+
+Con 10 mecánicas distintas. )
 
 ✅️ 10
 
-Simulador ( muy simple ) de app estilo c
-ChatGPT ( llamada DiosGPT ) : sirve como tutorial.
+Simulador ( muy simple ) de app estilo 
+ChatGPT ( llamada DiosGPT ) : 
+
+Sirve como tutorial.
 
 ✅️ 11
 
-Lector de Diarios.
+Lector de Diarios ( Noticias de varias Temáticas ).
 
 ✅️ 12
 
