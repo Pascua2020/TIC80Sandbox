@@ -291,13 +291,13 @@ Sirve como tutorial.
 Lector de Diarios ( Noticias de varias Temáticas ).
 
 
-![diario](./Imagenes/Diario.jpg)
+![diario](./Imagenes/LectorDeDiarios.jpg)
 
 ✅️ 12
 
 Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
 
-![wiki](./Imagenes/Nerdpedia.jpg)
+![wiki](./Imagenes/nerdpedia.jpg)
 
 ✅️ 13
 
@@ -377,7 +377,7 @@ Modo Debug.
 
 Interfaz Minimalista ( estilo Cartas ) ,con Modo Táctico.
 
-![interfaz](./Imagenes/Interfaz(ModoTactico).jpg)
+![interfaz](./Imagenes/Interfaz(ModoTactica).jpg)
 
 ✅️ 27
 
