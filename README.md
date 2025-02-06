@@ -441,13 +441,13 @@ Rampas y Aros de Fuego.
 
 ## 🎮 Mapa
 
-![mapaciudad](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Miniatura%20mapa-1.jpg?token=GHSAT0AAAAAAC6N6XLKQ5NZYYQOPKZOIEVQZ5DQOHQ)
+![ciudad](./Imagenes/Mapa(SoloCiudad).jpg)
 
 ##### 🌇 -Ciudad Rapera de Buenos Aires 
 
 ( Incluye 16 Barrios)
 
-![barrios](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/barrios%20v0.png?token=GHSAT0AAAAAAC6N6XLKKEIZATV5V3LD6DIKZ5DQNOQ)
+![barrios](./Imagenes/Barrios.jpg.png)
 
 Nombres de los Barrios:
 
