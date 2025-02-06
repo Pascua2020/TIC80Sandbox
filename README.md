@@ -406,24 +406,24 @@ Nombres de los Barrios:
 
 ```
 1-Nueva Pyongyang
-2-obelisco
-3-internets
-4-no no no no
+2-Obelisco
+3-Internets
+4-No no no no
 
-5-vivan los osos
-6-tigerlandia
-7-nueva Madrid
-8-villa castores
+5-Vivan los osos
+6-Tigerlandia
+7-Nueva Madrid
+8-Villa Castores
 
-9-currolandia
-10-villa pinball
-11-no se queje
-12-villa casta
+9-Currolandia
+10-Villa Pinball
+11-No se queje
+12-Villa Casta
 
-13-barrio turrisimo
-14-barrio chetisimo
-15-casi casi
-16-el wiki barrio
+13-Barrio Turrisimo
+14-Barrio Chetisimo
+15-Casi casi
+16-El Wiki Barrio
 ```
 
 Nombres de las Calles:
@@ -475,7 +475,7 @@ Nombres de las Calles:
 
 ##### 🌅 -Mar Ram
 
-( Rodea a la Ciudad )
+( Rodea a la Ciudad. )
 
 ## 🎮 Jugabilidad
 
