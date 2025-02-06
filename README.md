@@ -348,6 +348,10 @@ Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
 Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
+
+![rcuno](./Imagenes/EditorRC1.jpg)
+![rcdos](./Imagenes/EditorRC2.jpg)
+
 ✅️ 21
 
 Minijuego de Trompos.
