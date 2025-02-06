@@ -46,7 +46,7 @@ Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde e
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
 
-![todomapa](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/Mapa%201-2.jpg)
+![todomapa](./Imagenes/Mapa%201-2.jpg)
 
 Aunque también tiene pequeñas ambientaciones en:
 
@@ -68,10 +68,9 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 🍪 ***"Flippersburgo,Alemania"***
 
-( Minijuego de Pinball ).
+( Minijuego de Pinball )
 
-![pinball](https://raw.githubusercontent.com/Pascua2020/TIC80Sandbox/refs/heads/main/Imagenes/pinballv6.4.jpg?token=GHSAT0AAAAAAC6N6XLKTLXLKMJXFOLI3CBQZ5E6AYQ)
-
+![Descripción de la imagen](./imagenes/pinballv6.4.jpg)
 🍪 ***"Satélite Tokyo"*** 
 
 ( Minijuego de Baile ).
