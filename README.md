@@ -484,11 +484,12 @@ Nombres de las Calles:
 ## 🎮 Jugabilidad
 
 Es un videojuego Sandbox ( estilo GTA ) pero en 2D,y tiene varios minijuegos que le aportan un toque bastante diferenciador.
+
 Debido a los pocos controles que hay el juego cuenta con un modo táctico,de forma que se puede  elegir múltiples opciones de forma pausada y retomar la acción una vez que el jugador define que hacer.
 
 ## 🎮 Estado
 
-En Desarrollo.
+En Desarrollo ( desde 30/12/2024 ).
 
 ## 🎮 Licencia
 
