@@ -37,7 +37,7 @@ AltaVista Games
 
 🎲 ***Plataforma :*** 
 
-TIC-80
+*TIC-80*
 
 ( Consola de Fantasía Open Source :
 Funciona en PC,Raspberry Pi y Smartphones )
