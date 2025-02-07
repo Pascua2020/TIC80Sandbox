@@ -46,6 +46,8 @@ Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde e
 
 ![gif2](./Imagenes/2.gif)
 
+![gif3](./Imagenes/3.gif)
+
 ## 🎮 Sinopsis : 
 
 Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
