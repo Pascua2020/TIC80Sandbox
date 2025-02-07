@@ -160,21 +160,25 @@ Como jugar :
 "03 Radio Poesía de la Calle" : Trap
 "04 Gobierno de Argentina" : Cadena Nacional
 "05 Solos y Solas" : Relaciones Amorosas
+
 "06 Desgracias Economicas" : Economia
 "07 Joyas de la Historia" : Historia
 "08 No me importa" : Internacional
 "09 Radio Antimainstream" : Historias unicas
 "10 Cine Ultra 8K" : Cine
+
 "11 Destapando Curros" : Investigaciones
 "12 Radio Grieta" : Polarizacion
 "13 Radio Cuarta Pared" : Vida Real
 "14 La IA Avanza" : No Humanos
 "15 Jesus te ama" : Religion
+
 "16 Sonidos animalunos" : Lofi
 "17 Naturaleza insolita" : Naturaleza
 "18 Radio pesimista" : Noticias tristes
 "19 Poesia pixelar" : Poesia
 "20 Radio terror" : Terror
+
 "21 Radio Lenguaje de la vida" : Idiomas
 "22 Comerciales Gamers" : Propaganda
 ```
@@ -206,22 +210,22 @@ Hay 2 marcas :
 -Tochota ( de Japón )
 -Zho Zho ( de China )
 ```
-01-Tochota - Fulero ( coche )
-02-Tochota - Strella ( coche )
+01-Tochota - Fulero ( Coche )
+02-Tochota - Strella ( Coche )
 03-Tochota - Random ( Moto )
 04-Tochota - Airlines ( Avión )
 05-Tochota - Bondi ( Colectivo )
 06-Tochota - Salud ( Ambulancia )
-07-Tochota - Raíles ( tren )
+07-Tochota - Raíles ( Tren )
 08-Tochota - Yip ( Camioneta )
 
-09-Zho zho - ego ego ( coche )
+09-Zho Zho - Ego Ego ( Coche )
 10-Zho Zho - Jinping ( Coche )
-11-Zho Zho - Xi ( coche )
-12-Zho zho - RC
+11-Zho Zho - Xi ( Coche )
+12-Zho Zho - RC
 13-Zho Zho - Skate
-14-Zho Zho - Woter ( bomberos )
-15-Zho zho - Armageddon ( policía )
+14-Zho Zho - Woter ( Bomberos )
+15-Zho Zho - Armageddon ( Policía )
 
 ```
 
@@ -246,7 +250,7 @@ Hay 2 marcas :
 
 ✅️ 06
 
-Trama bizarra,con mezcla de datos ficticios y reales ( ej : el Idioma Tenis ).
+Trama bizarra,con mezcla de datos ficticios ( ej : Presidente Hamburguesa en Uruguay ) y reales ( ej : el Idioma Tenis ).
 
 ✅️ 07
 
