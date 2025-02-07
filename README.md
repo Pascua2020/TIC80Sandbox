@@ -1,5 +1,7 @@
 ##### Hashtags #️⃣ : #gamedev #TIC80 #lua #sandbox #2D #Retro #Argentina #####
 
+##### README en Español.To read the English versión,go to README-English.md
+
 ![TIC-80](https://img.shields.io/badge/TIC--80-2D%20Game%20Development-blue)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
