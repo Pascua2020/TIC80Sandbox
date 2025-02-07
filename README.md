@@ -42,13 +42,14 @@
 *TIC-80*
 
 ( Consola de Fantasía Open Source :
-Funciona en PC,Raspberry Pi y Smartphones )
+Funciona en PC,Raspberry Pi y Smartphones. )
 
 🎲 ***Lenguaje de programación :*** 
 
 *Lua*
 
-Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).
+Juego hecho desde el Celular,SIN PC 
+( eso si,con ayuda de ChatGPT ).
 
 Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
@@ -64,7 +65,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***La VirgoCueva*** 
 
-( Pantalla de inicio,Hub de Niveles. )
+( Pantalla de Inicio,Hub de Niveles. )
 
 ![virgocueva](./Imagenes/Virgocueva(Hub).jpg)
 
