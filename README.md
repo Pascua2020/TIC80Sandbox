@@ -45,12 +45,18 @@
 Funciona en PC,Raspberry Pi y Smartphones. )
 
 Especificaciones ( de TIC-80 ):
--Resolución: 240x136 pixeles , 16 colores.
--Mapa : 1920 x 1088 pixeles.
--Graficos : 256 Tiles y 256 Sprites.
--Memoria : 272 KB de RAM ( 32 KB de VRAM ).
+```
+-Resolución: 
+240x136 pixeles , 16 colores.
+-Mapa : 
+1920 x 1088 pixeles ( Divido en Bloques de 8 x 8 - 64 Bloques en total ).
+-Graficos : 
+256 Tiles y 256 Sprites.
+-Memoria : 
+272 KB de RAM ( 32 KB de VRAM ).
+```
 
-🎲 ***Lenguaje de programación :*** 
+🎲 ***Lenguaje de Programación :*** 
 
 *Lua*
 
