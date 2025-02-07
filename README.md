@@ -351,11 +351,13 @@ El jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
 ✅️ 15
 
 Sistema de Dinero ( llamado Peluca$ ).
+
 Se pueden comprar Choris o , recargar Nafta o viajar en Colectivo.
 
 ✅️ 16
 
 Sistema de Climatologia
+
 ( Pueden activarse varios efectos simultáneamente).
 
 ```
@@ -392,11 +394,13 @@ Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla 
 
 ✅️ 21
 
-Minijuego de Trompos ( con Modo 2 Jugadores ).
+Minijuego de Trompos 
+( con Modo 2 Jugadores ).
 
 ✅️ 22
 
-Visor de telescopio.
+Visor de telescopio 
+( pata ver Estrellas Normales y Fugaces ).
 
 ![telescopio](./Imagenes/Telescopio.jpg)
 
@@ -413,7 +417,7 @@ Sistema de Mensajes Móviles.
 
 ✅️ 25
 
-Modo Debug.
+Modo Debug/Depuracion ( para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
 
 ✅️ 26
 
