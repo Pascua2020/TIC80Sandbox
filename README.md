@@ -1,4 +1,4 @@
-##### Hashtags #️⃣ : #gamedev #TIC80 #lua #####
+##### Hashtags #️⃣ : #gamedev #TIC80 #lua #sandbox #2D #Retro #Argentina #####
 
 ![TIC-80](https://img.shields.io/badge/TIC--80-2D%20Game%20Development-blue)
 
