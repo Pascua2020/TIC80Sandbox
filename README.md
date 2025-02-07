@@ -163,21 +163,21 @@ Como jugar :
 
 "06 Desgracias Economicas" : Economia
 "07 Joyas de la Historia" : Historia
-"08 No me importa" : Internacional
-"09 Radio Antimainstream" : Historias unicas
+"08 No me Importa" : Internacional
+"09 Radio Antimainstream" : Historias Unicas
 "10 Cine Ultra 8K" : Cine
 
 "11 Destapando Curros" : Investigaciones
-"12 Radio Grieta" : Polarizacion
+"12 Radio Grieta" : Polarización
 "13 Radio Cuarta Pared" : Vida Real
 "14 La IA Avanza" : No Humanos
-"15 Jesus te ama" : Religion
+"15 Jesus te Ama" : Religion
 
-"16 Sonidos animalunos" : Lofi
-"17 Naturaleza insolita" : Naturaleza
-"18 Radio pesimista" : Noticias tristes
-"19 Poesia pixelar" : Poesia
-"20 Radio terror" : Terror
+"16 Sonidos Animalunos" : Lofi
+"17 Naturaleza Insolita" : Naturaleza
+"18 Radio Pesimista" : Noticias Tristes
+"19 Poesia Pixelar" : Poesia Gamer
+"20 Radio Terror" : Terror Bizarro
 
 "21 Radio Lenguaje de la vida" : Idiomas
 "22 Comerciales Gamers" : Propaganda
