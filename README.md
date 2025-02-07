@@ -90,9 +90,11 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 Al ser un juego de TIC-80,corre en:
 ```
--PC
+-PC ( Windows,Linux,Mac OS )
 -Android
 -Raspberry Pi
+-Nintendo 3DS
+-Retroarch
 ```
 
 Como jugar :
