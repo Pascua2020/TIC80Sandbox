@@ -109,6 +109,7 @@ Al ser un juego de TIC-80,corre en:
 -Raspberry Pi
 -Nintendo 3DS
 -Retroarch
+-HTML5
 ```
 
 ![gif2](./Imagenes/2.gif)
@@ -191,6 +192,7 @@ Como jugar :
 
 16 Barrios en Buenos Aires.
 Cada barrio tiene sus calles.
+Y los Barrios poseen una historia resumida la cual se puede leer.
 
 ✅️ 04
 
@@ -239,7 +241,7 @@ Hay 2 marcas :
 
 ✅️ 06
 
-Trama bizarra,con mezcla de datos ficticios y reales.
+Trama bizarra,con mezcla de datos ficticios y reales ( ej : el Idioma Tenis ).
 
 ✅️ 07
 
@@ -250,7 +252,7 @@ Easter Eggs
 
 ✅️ 08
 
-20 Personajes.
+19 Personajes.
 
 ```
 01-Jugador ( Wikiman )
@@ -312,20 +314,21 @@ Sirve como tutorial.
 
 ✅️ 11
 
-Lector de Diarios ( Noticias de varias Temáticas ).
+Lector de Diarios 
+( Noticias de varias Temáticas ).
 
 
 ![diario](./Imagenes/LectordeDiarios.jpg)
 
 ✅️ 12
 
-Simulador estilo Wiki,con interfaz simplificada y datos bizarros.
+Simulador estilo Wiki ( llamado Nerdpedia ) ,con interfaz simplificada y datos bizarros.
 
 ![wiki](./Imagenes/nerdpedia.jpg)
 
 ✅️ 13
 
-El Skate se puede montar en caños.
+El Skate se puede montar en Caños.
 
 
 ![skate](./Imagenes/PistadeSkate.jpg)
