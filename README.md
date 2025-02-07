@@ -7,21 +7,21 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 🎮 TIC80Sandbox
-2D videogame in fantasy console TIC80.
+2D sandbox style videogame in fantasy console TIC80.
 
 ![TIC80 Logo](https://img.itch.zone/aW1nLzQyOTUwMTYucG5n/original/zzHnBx.png)
 
 🎲 ***Nombre del juego :*** 
 
-Crimen y Chori
+*Crimen y Chori*
 
 🎲 ***Año :*** 
 
-2025?
+*2025?*
 
 🎲 ***Desarrollador :***
 
-AltaVista Games
+*AltaVista Games*
 
 ( Pascua2020 y ChatGPT )
 
@@ -44,7 +44,7 @@ Funciona en PC,Raspberry Pi y Smartphones )
 
 🎲 ***Lenguaje de programación :*** 
 
-Lua
+*Lua*
 
 Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).
 
