@@ -105,6 +105,8 @@ Como jugar :
 
 ## 🎮 Controles:
 
+![](https://bytesnbits.co.uk/wp-content/uploads/2019/07/buttons-768x330.png)
+
 ### Modo 1 jugador ( todo el juego excepto RC ):
 
 ```
