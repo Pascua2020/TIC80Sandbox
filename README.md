@@ -71,7 +71,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 🍪 ***Pista de Carreras en Berna , Suiza***
 
-( Minijuego de Carreras )
+( Minijuego de Carreras. )
 
 ![suiza](./Imagenes/PistaSuiza.jpg)
 
@@ -79,25 +79,25 @@ Aunque también tiene pequeñas ambientaciones en:
 
 Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
 
-( Minijuego de Carreras RC ).
+( Minijuego de Carreras RC. )
 
 ![rc](./Imagenes/PistitaRC.jpg)
 
 🍪 ***"Flippersburgo,Alemania"***
 
-( Minijuego de Pinball )
+( Minijuego de Pinball. )
 
 ![pinball](./Imagenes/MinijuegodePinball.jpg)
 
 🍪 ***"Satélite Tokyo"*** 
 
-( Minijuego de Baile ).
+( Minijuego de Baile. )
 
 ![baile](./Imagenes/MinijuegodeBaile.jpg)
 
 🍪 ***"Trompolandia" en Estonia***
 
-( Minijuego de Trompos )
+( Minijuego de Trompos. )
 
 ![trompo](./Imagenes/MinijuegodeTrompos.jpg)
 
