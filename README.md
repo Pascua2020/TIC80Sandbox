@@ -43,6 +43,7 @@ Juego hecho desde el Celular,SIN PC ( eso si,con ayuda de ChatGPT ).
 Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
 ![gif1](./Imagenes/1.gif)
+
 ![gif2](./Imagenes/2.gif)
 
 ## 🎮 Sinopsis : 
