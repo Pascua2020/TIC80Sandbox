@@ -69,6 +69,7 @@ Aunque también tiene pequeñas ambientaciones en:
 🍪 ***Pista de Carreras en Berna , Suiza***
 
 ( Minijuego de Carreras )
+
 ![suiza](./Imagenes/PistaSuiza.jpg)
 
 🍪 ***"La Pistita"***,
@@ -82,6 +83,7 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 🍪 ***"Flippersburgo,Alemania"***
 
 ( Minijuego de Pinball )
+
 ![pinball](./Imagenes/MinijuegodePinball.jpg)
 
 🍪 ***"Satélite Tokyo"*** 
