@@ -44,6 +44,12 @@
 ( Consola de Fantasía Open Source :
 Funciona en PC,Raspberry Pi y Smartphones. )
 
+Especificaciones ( de TIC-80 ):
+-Resolución: 240x136 pixeles , 16 colores.
+-Mapa : 1920 x 1088 pixeles.
+-Graficos : 256 Tiles y 256 Sprites.
+-Memoria : 272 KB de RAM ( 32 KB de VRAM ).
+
 🎲 ***Lenguaje de programación :*** 
 
 *Lua*
@@ -579,6 +585,7 @@ Debido a los pocos controles que hay el juego cuenta con un modo táctico,de for
 ## 🎮 Estado
 
 En Desarrollo ( desde 30/12/2024 ).
+De momento sin Sonido.
 
 ## 🎮 Licencia
 
