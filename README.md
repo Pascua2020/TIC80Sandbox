@@ -25,7 +25,11 @@ AltaVista Games
 
 🎲 ***Género :*** 
 
-Sandbox 2D
+-Sandbox 2D
+-Minijuegos
+-Conducción / Carreras
+-Combate Vehicular
+-Acción / Aventura
 
 🎲 ***Plataforma :*** 
 
