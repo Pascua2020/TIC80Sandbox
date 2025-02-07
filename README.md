@@ -123,6 +123,8 @@ Como jugar :
 * Botones 0,1,2,3 : mover RC jugador 1.
 
 * Botones 4,5,6,7 : mover RC jugador 2.
+
+*Mouse/Pantalla Tactil : Editar Mapa
 ```
 
 ## 🎮 Características del juego:
