@@ -126,7 +126,7 @@ Como jugar :
 
 ![](https://bytesnbits.co.uk/wp-content/uploads/2019/07/buttons-768x330.png)
 
-### Modo 1 jugador ( todo el juego excepto RC ):
+### Modo 1 jugador ( todo el juego excepto RC y Trompos):
 
 ```
 * Botones 0,1,2,3 : Mover jugador/vehículo.
@@ -136,14 +136,14 @@ Como jugar :
 *Boton 6 / X : Golpear / Disparar
 *Boton 7 / Y : Subir a Vehículo.
 ```
-### Modo 2 jugadores ( RC ) :
+### Modo 2 jugadores ( RC y Trompos ) :
 
 ```
-* Botones 0,1,2,3 : mover RC jugador 1.
+* Botones 0,1,2,3 : mover RC / Trompo jugador 1.
 
-* Botones 4,5,6,7 : mover RC jugador 2.
+* Botones 4,5,6,7 : mover RC / Trompo jugador 2.
 
-* Mouse/Pantalla Tactil : Editar Mapa
+( Solo RC : * Mouse/Pantalla Tactil : Editar Mapa )
 ```
 
 ## 🎮 Características del juego:
@@ -208,6 +208,7 @@ Y los Barrios poseen una historia resumida la cual se puede leer.
 Hay 2 marcas :
 
 -Tochota ( de Japón )
+
 -Zho Zho ( de China )
 ```
 01-Tochota - Fulero ( Coche )
@@ -250,7 +251,7 @@ Hay 2 marcas :
 
 ✅️ 06
 
-Trama bizarra,con mezcla de datos ficticios ( ej : Presidente Hamburguesa en Uruguay ) y reales ( ej : el Idioma Tenis ).
+Trama Bizarra,con mezcla de datos ficticios ( ej : Presidente Hamburguesa en Uruguay ) y reales ( ej : el Idioma Tenis ).
 
 ✅️ 07
 
@@ -331,7 +332,7 @@ Lector de Diarios
 
 ✅️ 12
 
-Simulador estilo Wiki ( llamado Nerdpedia ) ,con interfaz simplificada y datos bizarros.
+Simulador estilo Wiki ( llamado Nerdpedia ) , con interfaz simplificada y datos bizarros.
 
 ![wiki](./Imagenes/nerdpedia.jpg)
 
@@ -339,22 +340,24 @@ Simulador estilo Wiki ( llamado Nerdpedia ) ,con interfaz simplificada y datos b
 
 El Skate se puede montar en Caños.
 
-
 ![skate](./Imagenes/PistadeSkate.jpg)
 
 ✅️ 14
 
-El jugador puede tomarse Colectivos en Paradas.
+El jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
 
 ![parada](./Imagenes/Parada.jpg)
 
 ✅️ 15
 
 Sistema de Dinero ( llamado Peluca$ ).
+Se pueden comprar Choris o , recargar Nafta o viajar en Colectivo.
 
 ✅️ 16
 
 Sistema de Climatologia
+( Pueden activarse varios efectos simultáneamente).
+
 ```
 --Lluvia
 --Nieve
@@ -384,13 +387,12 @@ Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
 
 Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla táctil,"pegando" los gráficos desde un editor.
 
-
 ![rcuno](./Imagenes/EditorRC1.jpg)
 ![rcdos](./Imagenes/EditorRC2.jpg)
 
 ✅️ 21
 
-Minijuego de Trompos.
+Minijuego de Trompos ( con Modo 2 Jugadores ).
 
 ✅️ 22
 
