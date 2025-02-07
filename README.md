@@ -191,13 +191,18 @@ Como jugar :
 ✅️ 03
 
 16 Barrios en Buenos Aires.
+
 Cada barrio tiene sus calles.
+
 Y los Barrios poseen una historia resumida la cual se puede leer.
 
 ✅️ 04
 
-15 Vehículos ( la mayoría con 4 colores ).
+15 Vehículos 
+( la mayoría con 4 colores -Rojo,Azul,Verde y Amarillo-).
+
 Hay 2 marcas :
+
 -Tochota ( de Japón )
 -Zho Zho ( de China )
 ```
