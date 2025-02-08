@@ -337,6 +337,9 @@ Misión de Stuntman
 ( Piruetas en vehículo de doble de cine.
 
 Con 10 mecánicas distintas. )
+
+![gifaro](./Imagenes/gifaro.gif)
+
 ```
 -subir a coche
 -destruir cajas
@@ -371,6 +374,8 @@ Lector de Diarios
 ✅️ 12
 
 Simulador estilo Wiki ( llamado Nerdpedia ) , con interfaz simplificada y datos bizarros.
+
+![gifwiki](./Imagenes/gifwiki.gif)
 
 ![wiki](./Imagenes/nerdpedia.jpg)
 
