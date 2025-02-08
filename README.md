@@ -280,6 +280,7 @@ Trama Bizarra,con mezcla de datos ficticios ( EJ : Presidente Hamburguesa en Uru
 ✅️ 07
 
 Easter Eggs / Curiosidades
+
 ( Ej : Dibujos misteriosos en el agua. )
 
 ![easter](./Imagenes/EasterEggMar.jpg)
@@ -416,7 +417,7 @@ Sistema de Climatologia
 --Relámpagos
 ```
 
-![easter](./Imagenes/Climatologia.jpg)
+![clima](./Imagenes/Climatologia.jpg)
 
 ✅️ 17
 
