@@ -661,11 +661,11 @@ De momento sin Sonido.
 Toda la música del juego es open source,acá están los nombres de los temas y el artista ( Todos de la web OpenGameArt.org ) :
 
 ```
-01-
-02-
-03-
-04-
-05-
+01-Magic_Cristal.wav - 
+02-Happy8Bit.wav - 
+03-dog_in_car.wav - 
+04-8_bit_memory_indie_proj_2_ma.wav - 
+05-airtheme.wav - 
 
 06-
 07-
