@@ -533,18 +533,20 @@ Trucos ( al conseguir 100% ).
 
 ✅️ 28
 
-Objetos destructibles,sistema de partículas sangriento.
+Objetos / Enemigos Destructibles,Sistema de Partículas sangriento.
 
 ![sangre](./Imagenes/sangre.jpg)
 
 ✅️ 29
 
-Sistema de votación electoral
+Sistema de Votación Electoral
 ( Opcion A o B ).
+
+Con Personajes de la Trama.
 
 ✅️ 30
 
-Diálogos automáticos.
+Diálogos Automáticos ( ya sea con Personajes o Radio ).
 
 ![dialogoa](./Imagenes/dialogoa.jpg)
 
@@ -552,14 +554,14 @@ Diálogos automáticos.
 
 60 Frames por Segundo.
 
-( Tic80 esta bloqueado a esos FPS ).
+( TIC-80 esta bloqueado a esos FPS ).
 
 ✅️ 32
 
-Distintos tipos ( para la Ciudad ) de :
+Distintos Tipos ( para la Ciudad ) de :
 ```
 *Aceras
-*Carteles de trafico
+*Carteles de Trafico
 tráfico
 *Cesped
 *Oceanos
