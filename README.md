@@ -61,7 +61,7 @@ Especificaciones ( de TIC-80 ):
 *Lua*
 
 Juego hecho en su mayoria desde el Celular,SIN PC 
-( eso si,con ayuda de ChatGPT ).
+( eso si,con ayuda de ChatGPT / DeepSeek ).
 
 Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
 
