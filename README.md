@@ -148,27 +148,27 @@ General
 7-Y
 ```
 
-### Modo 1 jugador ( todo el juego excepto RC y Trompos):
+### Modo 1 Jugador ( Todo el Juego excepto RC y Trompos):
 
 ```
-* Botones 0,1,2,3 : Mover jugador/vehículo.
+* Botones 0,1,2,3 : Mover Jugador/vehículo.
 
-*Boton 4 / A : Elegir opcion / Interactuar
-*Boton 5 / B : Modo táctico / Pausa
-*Boton 6 / X : Golpear / Disparar
+*Boton 4 / A : Elegir Opcion / Interactuar.
+*Boton 5 / B : Modo Táctico / Pausa.
+*Boton 6 / X : Golpear / Disparar.
 *Boton 7 / Y : Subir a Vehículo.
 ```
-### Modo 2 jugadores ( RC y Trompos ) :
+### Modo 2 Jugadores ( RC y Trompos ) :
 
 ```
-* Botones 0,1,2,3 : mover RC / Trompo jugador 1.
+* Botones 0,1,2,3 : Mover RC / Trompo jugador 1.
 
-* Botones 4,5,6,7 : mover RC / Trompo jugador 2.
+* Botones 4,5,6,7 : Mover RC / Trompo jugador 2.
 
 ( Solo RC : * Mouse/Pantalla Tactil : Editar Mapa )
 ```
 
-## 🎮 Características del juego:
+## 🎮 Características del Juego:
 
 ![gif3](./Imagenes/3.gif)
 
