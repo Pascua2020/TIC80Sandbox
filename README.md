@@ -286,10 +286,11 @@ Easter Eggs / Curiosidades
 
 ✅️ 08
 
-19 Personajes.
+19 Personajes de la Trama + 9 NPCs.
 
 ![personajesc](./Imagenes/PersonajesC.png)
 ```
+Trama
 01-Jugador ( Wikiman )
 02-Gatito ( Mascota )
 03-Silvestre Stacchotta ( actor de EEUU )
@@ -315,7 +316,7 @@ Easter Eggs / Curiosidades
 ```
 
 ```
-Peatones
+Peatones / NPCs
 1-Suizo Romanche
 2-Rapi el Rapero
 3-Timmy Trabalenguas
