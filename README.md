@@ -135,7 +135,18 @@ Como jugar :
 
 ## 🎮 Controles:
 
-![](https://bytesnbits.co.uk/wp-content/uploads/2019/07/buttons-768x330.png)
+General
+```
+0-Flecha Arriba
+1-Flecha Abajo
+2-Flecha Izquierda
+3-Flecha Derecha
+
+4-A
+5-B
+6-X
+7-Y
+```
 
 ### Modo 1 jugador ( todo el juego excepto RC y Trompos):
 
