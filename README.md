@@ -211,7 +211,7 @@ General
 
 ✅️ 02
 
-512 Gráficos como máximo en formato 8x8.
+512 Gráficos como máximo en formato 8x8 Pixeles.
 
 ![graficos1](./Imagenes/Graficos1.jpg)
 
