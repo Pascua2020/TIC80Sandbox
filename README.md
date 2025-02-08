@@ -35,6 +35,8 @@
 -Conducción / Carreras
 -Combate Vehicular
 -Acción / Aventura
+-Pinball
+-Creación ( solo para Editar Mapas en Modo RC ).
 ```
 
 🎲 ***Plataforma :*** 
@@ -47,9 +49,9 @@ Funciona en PC,Raspberry Pi y Smartphones. )
 Especificaciones ( de TIC-80 ):
 ```
 -Resolución: 
-240x136 pixeles , 16 colores.
+240x136 Pixeles , 16 Colores.
 -Mapa : 
-1920 x 1088 pixeles ( Divido en Bloques de 8 x 8 - 64 Bloques en total ).
+1920 x 1088 Pixeles ( Dividido en Bloques de 8 x 8 - 64 Bloques en Total ).
 -Graficos : 
 256 Tiles y 256 Sprites.
 -Memoria : 
@@ -63,13 +65,13 @@ Especificaciones ( de TIC-80 ):
 Juego hecho en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT / DeepSeek ).
 
-Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
+Eso incluye dibujar los Gráficos con el dedo táctil y tocar el Código desde el editor,ambos de TIC80.
 
 ![gif1](./Imagenes/1.gif)
 
 ## 🎮 Sinopsis : 
 
-Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseudo ficticia llamada Ciudad Rapera de Buenos Aires.
+Crimen y Chori es un Videojuego Sandbox 2D ambientado en una ciudad de Argentina Pseudo-ficticia llamada Ciudad Rapera de Buenos Aires.
 
 ![todomapa](./Imagenes/MapaEntero.jpg)
 
@@ -113,7 +115,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ## 🎮 Requisitos e Instalación:
 
-Al ser un juego de TIC-80,corre en:
+Al ser un Juego de TIC-80,corre en:
 ```
 -PC ( Windows,Linux,Mac OS )
 -Android
@@ -125,7 +127,7 @@ Al ser un juego de TIC-80,corre en:
 
 ![gif2](./Imagenes/2.gif)
 
-Como jugar :
+Como Jugar :
 
 ```
 1-Descarga el archivo .TIC .
@@ -174,7 +176,7 @@ General
 
 ✅️ 01
 
-22 "Radios" en texto.
+22 "Radios" en Texto.
 
 ![gifradio](./Imagenes/gifradio.gif)
 ```
