@@ -670,13 +670,18 @@ Desarrollador : Pascua2020
 -Mecánicas Jugables
 ```
 
-Asistentes de IA : ChatGPT , DeepSeek .
+Asistentes de IA : ChatGPT , DeepSeek :
+Me ayudaron a profundizar elementos de programación y de la trama 
+( EJ : los diálogos de las Radios. )
 
-Detalles del juego agregados : Gente conocida,chistes leídos en Internet.
+Detalles del juego agregados : 
+-Gente Conocida.
+-Chistes leídos en Internet.
 
-Inspiraciones : Saga GTA .
+Inspiraciones : Saga GTA.
 
-Toda la música del juego es open source,acá están los nombres de los temas y el artista ( Todos de la web OpenGameArt.org ) :
+Toda la música del juego es Open Source,acá están los nombres de los temas y el artista 
+( Todos de la web OpenGameArt.org ) :
 
 ```
 01-Magic_Cristal.wav - https://opengameart.org/content/magic-crystal
@@ -699,3 +704,4 @@ Toda la música del juego es open source,acá están los nombres de los temas y 
 ```
 
 ## 🎮 Notas
+Versión 1.0
