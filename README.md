@@ -87,7 +87,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ![suiza](./Imagenes/PistaSuiza.jpg)
 
-🍪 ***"La Pistita"***,
+🍪 ***La Pistita***,
 
 Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
 
@@ -95,25 +95,25 @@ Pista de Carreras de Coches a Control Remoto ( en País Vasco,España )
 
 ![rc](./Imagenes/PistitaRC.jpg)
 
-🍪 ***"Flippersburgo,Alemania"***
+🍪 ***Flippersburgo,Alemania***
 
 ( Minijuego de Pinball. )
 
 ![pinball](./Imagenes/MinijuegodePinball.jpg)
 
-🍪 ***"Satélite Tokyo"*** 
+🍪 ***Satélite Tokyo*** 
 
 ( Minijuego de Baile. )
 
 ![baile](./Imagenes/MinijuegodeBaile.jpg)
 
-🍪 ***"Trompolandia" en Estonia***
+🍪 ***Trompolandia en Estonia***
 
 ( Minijuego de Trompos. )
 
 ![trompo](./Imagenes/MinijuegodeTrompos.jpg)
 
-## 🎮 Requisitos e instalacion:
+## 🎮 Requisitos e Instalación:
 
 Al ser un juego de TIC-80,corre en:
 ```
