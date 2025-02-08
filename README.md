@@ -113,7 +113,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ![trompo](./Imagenes/MinijuegodeTrompos.jpg)
 
-## 🎮 Requisitos e Instalación:
+## 🎮 Requisitos e Instalación :
 
 Al ser un Juego de TIC-80,corre en:
 ```
@@ -150,7 +150,7 @@ General
 7-Y
 ```
 
-### Modo 1 Jugador ( Todo el Juego excepto RC y Trompos):
+### Modo 1 Jugador ( Todo el Juego excepto RC y Trompos ):
 
 ```
 * Botones 0,1,2,3 : Mover Jugador/vehículo.
@@ -501,7 +501,7 @@ Sistema de Mensajes Móviles.
 
 ✅️ 24
 
-20 coleccionables en el mapa 
+20 Coleccionables en el Mapa : 
 
 -16 "Condones" en la Ciudad.
 
@@ -513,11 +513,11 @@ Sistema de Mensajes Móviles.
 
 Modo Debug / Depuración 
 
-( Para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
+( Para ver mejor Variables en Pantalla , lo cual ayuda al Testeo ).
 
 ✅️ 26
 
-Interfaz Minimalista ( estilo Cartas ) ,con Modo Táctico.
+Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 
 ![interfaz](./Imagenes/Interfaz(ModoTactica).jpg)
 
