@@ -406,7 +406,7 @@ Sirve como tutorial.
 
 ✅️ 11
 
-![gifdiario](./Imagenes/diario.gif)
+![gifdiario](./Imagenes/gifdiario.gif)
 
 Lector de Diarios 
 ( Noticias de varias Temáticas ).
@@ -478,7 +478,7 @@ Jetpack
 
 ✅️ 19
 
-![gifnafta](./Imagenes/nafta.gif)
+![gifnafta](./Imagenes/gifnafta.gif)
 
 Los vehículos tienen Nafta,o se recarga o se acaba y no pueden moverse más.
 
