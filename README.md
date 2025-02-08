@@ -36,7 +36,7 @@
 -Combate Vehicular
 -Acción / Aventura
 -Pinball
--Creación ( solo para Editar Mapas en Modo RC ).
+-Creación ( Solo para Editar Mapas en Modo RC ).
 ```
 
 🎲 ***Plataforma :*** 
