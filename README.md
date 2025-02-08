@@ -502,11 +502,10 @@ Sistema de Mensajes Móviles.
 ✅️ 24
 
 20 coleccionables en el mapa 
-( 16 en la Ciudad 
-- llamados Condones - 
-y 
-4 en el Mar 
-- llamados Diamantes - ).
+( 
+-16 "Condones" en la Ciudad -
+-4 "Diamantes" en el Mar -
+)
 
 ![coleccionablesc](./Imagenes/ColeccionablesC.png)
 
