@@ -596,13 +596,15 @@ Modo Combate Vehícular.
 
 ✅️ 37
 
-Rampas y Aros de Fuego.
+Rampas y Aros de Fuego ( Este ultimo se prende y apaga ).
 
 ![aro](./Imagenes/aro.jpg)
 
 ✅️ 38
 
 Minijuego de Baile
+
+Con sus propias Letras de Canciones y Sistema de Combos.
 
 ![gifbaile](./Imagenes/gifbaile.gif)
 
