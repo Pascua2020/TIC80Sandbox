@@ -224,7 +224,7 @@ Hay 2 marcas :
 
 -Zho Zho ( de China )
 
-![vehiculosc](./Imagenes/vehiculosC.png)
+![vehiculosc](./Imagenes/VehiculosC.png)
 ```
 01-Tochota - Fulero ( Coche )
 02-Tochota - Strella ( Coche )
@@ -249,7 +249,7 @@ Hay 2 marcas :
 
 11 Armas.
 
-![armasc](./Imagenes/armasC)
+![armasc](./Imagenes/ArmasC.png)
 ```
 01--Puño
 02--Pistola
