@@ -334,6 +334,20 @@ Misión de Stuntman
 ( Piruetas en vehículo de doble de cine.
 
 Con 10 mecánicas distintas. )
+```
+-subir a coche
+-destruir cajas
+-usar nitro
+-disparar desde vehiculo
+-esquivar enemigos
+-saltar rampa
+-perseguir coche
+-saltar aro de fuego
+-esquivar tren
+-explotar coche
+```
+
+![mision](./Imagenes/mision.jpg)
 
 ✅️ 10
 
@@ -508,6 +522,8 @@ Modo Combate Vehícular.
 ✅️ 37
 
 Rampas y Aros de Fuego.
+
+![aro](./Imagenes/aro.jpg)
 
 ## 🎮 Mapa
 
