@@ -461,7 +461,7 @@ Sistema de Climatologia
 
 ✅️ 17
 
-![gifminimapa](./Imagenes/Minimapa.gif)
+![gifminimapa](./Imagenes/minimapa.gif)
 
 Cámara que sigue al Jugador y Minimapa.
 
@@ -602,7 +602,7 @@ Lo mismo las Calles.
 
 Modo Carrera Arcade.
 
-![modocarrera](./Imagenes/ModoCarrera.gif)
+![modocarrera](./Imagenes/modoCarrera.gif)
 
 
 ![carrera](./Imagenes/ModoCarrera.jpg)
