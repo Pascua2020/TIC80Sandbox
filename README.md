@@ -219,7 +219,7 @@ Y los Barrios poseen una historia resumida la cual se puede leer.
 ✅️ 04
 
 15 Vehículos 
-( la mayoría con 4 colores -Rojo,Azul,Verde y Amarillo-).
+( la mayoría con 4 Colores -Rojo,Azul,Verde y Amarillo-).
 
 Hay 2 marcas :
 
@@ -273,13 +273,13 @@ Hay 2 marcas :
 
 ✅️ 06
 
-Trama Bizarra,con mezcla de datos ficticios ( ej : Presidente Hamburguesa en Uruguay ) y reales ( ej : el Idioma Tenis ).
+Trama Bizarra,con mezcla de datos ficticios ( EJ : Presidente Hamburguesa en Uruguay ) y reales ( EJ : el Idioma Tenis ).
 
 ![trama](./Imagenes/trama.jpg)
 
 ✅️ 07
 
-Easter Eggs 
+Easter Eggs / Curiosidades
 ( Ej : Dibujos misteriosos en el agua. )
 
 ![easter](./Imagenes/EasterEggMar.jpg)
@@ -338,19 +338,21 @@ Misión de Stuntman
 
 Con 10 mecánicas distintas. )
 
+( Inspirado en el Videojuego de 2002 - Stuntman - de Reflections Interactive ).
+
 ![gifaro](./Imagenes/gifaro.gif)
 
 ```
--subir a coche
--destruir cajas
--usar nitro
--disparar desde vehiculo
--esquivar enemigos
--saltar rampa
--perseguir coche
--saltar aro de fuego
--esquivar tren
--explotar coche
+01-Subir a Coche y conducirlo
+02-Destruir Cajas
+03-Usar Nitro
+04-Disparar desde vehiculo
+05-Esquivar enemigos
+06-Saltar rampa
+07-Perseguir coche
+08-Saltar aro de fuego
+09-Esquivar tren
+10-Explotar coche
 ```
 
 ![mision](./Imagenes/mision.jpg)
@@ -395,7 +397,7 @@ El jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
 
 Sistema de Dinero ( llamado Peluca$ ).
 
-Se pueden comprar Choris o , recargar Nafta o viajar en Colectivo.
+Se pueden comprar Choris , recargar Nafta o viajar en Colectivo.
 
 ![monedas](./Imagenes/monedas.jpg)
 
@@ -417,7 +419,7 @@ Sistema de Climatologia
 
 ✅️ 17
 
-Cámara que sigue al jugador y Minicamara.
+Cámara que sigue al jugador y Minimapa.
 
 ![minimapa](./Imagenes/minimapa.jpg)
 
@@ -432,7 +434,7 @@ Jetpack
 
 ✅️ 19
 
-Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
+Los vehículos tienen Nafta,o se recarga o se acaba y no pueden moverse más.
 
 ![nafta](./Imagenes/nafta.jpg)
 
@@ -468,13 +470,17 @@ Sistema de Mensajes Móviles.
 ✅️ 24
 
 20 coleccionables en el mapa 
-( 16 en la Ciudad - llamados Condones - y 4 en el Mar - llamados Diamantes - ).
+( 16 en la Ciudad 
+- llamados Condones - 
+y 
+4 en el Mar 
+- llamados Diamantes - ).
 
 ![coleccionablesc](./Imagenes/ColeccionablesC.png)
 
 ✅️ 25
 
-Modo Debug/Depuracion ( para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
+Modo Debug / Depuración ( para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
 
 ✅️ 26
 
@@ -506,6 +512,8 @@ Diálogos automáticos.
 ✅️ 31
 
 60 Frames por Segundo.
+
+( Tic80 esta bloqueado a esos FPS ).
 
 ✅️ 32
 
@@ -652,6 +660,7 @@ Debido a los pocos controles que hay el juego cuenta con un modo táctico,de for
 ## 🎮 Estado
 
 En Desarrollo ( desde 30/12/2024 ).
+
 De momento sin Sonido.
 
 ## 🎮 Licencia
@@ -668,6 +677,7 @@ Desarrollador : Pascua2020
 -Programación
 -Backups en la Nube
 -Mecánicas Jugables
+-Testing/Debug
 ```
 
 Asistentes de IA : ChatGPT , DeepSeek :
@@ -675,8 +685,10 @@ Me ayudaron a profundizar elementos de programación y de la trama
 ( EJ : los diálogos de las Radios. )
 
 Detalles del juego agregados : 
+```
 -Gente Conocida.
 -Chistes leídos en Internet.
+```
 
 Inspiraciones : Saga GTA.
 
