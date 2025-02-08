@@ -699,6 +699,22 @@ Debido a los pocos controles que hay el juego cuenta con un modo táctico,de for
 ## 🎮 Estado
 
 En Desarrollo ( desde 30/12/2024 ).
+Enero 2025 :
+```
+-Primeros Prototipos
+-Primeros Backups
+-Primeras Screenshots/Videos
+-Creación de Gráficos
+-Creación de Mapa
+-Creación de Personajes
+-Creación de Programación / Mecánicas de todo tipo ( incluido el Pinball )
+```
+Febrero 2025:
+```
+-Búsqueda de Feedback
+-Creación de Repositorio de GitHub
+-Búsqueda de Música Open Source
+```
 
 De momento sin Sonido.
 
