@@ -438,11 +438,11 @@ Sistema de Climatologia
 ( Pueden activarse varios efectos simultáneamente ).
 
 ```
---Lluvia
---Nieve
---Hojas
---Viento
---Relámpagos
+-Lluvia
+-Nieve
+-Hojas
+-Viento
+-Relámpagos
 ```
 
 ![clima](./Imagenes/Climatologia.jpg)
@@ -502,10 +502,10 @@ Sistema de Mensajes Móviles.
 ✅️ 24
 
 20 coleccionables en el mapa 
-( 
--16 "Condones" en la Ciudad -
--4 "Diamantes" en el Mar -
-)
+
+-16 "Condones" en la Ciudad.
+
+-4 "Diamantes" en el Mar.
 
 ![coleccionablesc](./Imagenes/ColeccionablesC.png)
 
