@@ -707,7 +707,9 @@ Enero 2025 :
 -Creación de Gráficos
 -Creación de Mapa
 -Creación de Personajes
--Creación de Programación / Mecánicas de todo tipo ( incluido el Pinball )
+-Creación de Programación 
+/ Mecánicas de todo tipo 
+( incluido el Pinball )
 ```
 Febrero 2025:
 ```
