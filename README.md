@@ -440,8 +440,8 @@ Minijuego de Trompos
 
 ✅️ 22
 
-Visor de telescopio 
-( pata ver Estrellas Normales y Fugaces ).
+Visor de Telescopio 
+( Para ver Estrellas Normales y Fugaces ).
 
 ![telescopio](./Imagenes/Telescopio.jpg)
 
@@ -476,6 +476,8 @@ Trucos ( al conseguir 100% ).
 
 Objetos destructibles,sistema de partículas sangriento.
 
+![sangre](./Imagenes/sangre.jpg)
+
 ✅️ 29
 
 Sistema de votación electoral
@@ -484,6 +486,8 @@ Sistema de votación electoral
 ✅️ 30
 
 Diálogos automáticos.
+
+![dialogoa](./Imagenes/dialogoa.jpg)
 
 ✅️ 31
 
@@ -503,11 +507,14 @@ tráfico
 *Faroles
 *Muros
 ```
+![calles](./Imagenes/calles.jpg)
 
 ✅️ 33
 
 Parques,Playa y Aeropuerto 
 ( en la Ciudad ).
+
+![aeropuerto](./Imagenes/aeropuerto.jpg)
 
 ✅️ 34
 
