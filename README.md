@@ -421,6 +421,8 @@ Cámara que sigue al jugador y Minicamara.
 Jetpack 
 ( Para poder volar sobre el agua ).
 
+![gifjetpack](./Imagenes/gifjetpack.gif)
+
 ![jetpack](./Imagenes/Jetpack.jpg)
 
 ✅️ 19
@@ -451,6 +453,8 @@ Visor de Telescopio
 ✅️ 23
 
 Sistema de Mensajes Móviles.
+
+![gifsms](./Imagenes/gifsms.gif)
 
 ![sms](./Imagenes/MensajesMoviles.jpg)
 
