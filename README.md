@@ -448,6 +448,8 @@ Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla 
 Minijuego de Trompos 
 ( con Modo 2 Jugadores ).
 
+![giftrompo](./Imagenes/giftrompo.gif)
+
 ✅️ 22
 
 Visor de Telescopio 
@@ -548,6 +550,12 @@ Modo Combate Vehícular.
 Rampas y Aros de Fuego.
 
 ![aro](./Imagenes/aro.jpg)
+
+38
+
+Minijuego de Baile
+
+![gifbaile](./Imagenes/gifbaile.gif)
 
 ## 🎮 Mapa
 
