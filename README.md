@@ -656,7 +656,25 @@ De momento sin Sonido.
 
 ## 🎮 Licencia
 
+Open Source?
+
 ## 🎮 Creditos
+
+Desarrollador : Pascua2020
+```
+-Diseño de Sprites
+-Diseño de Mapa
+-Ideas de Trama y Personajes
+-Programación
+-Backups en la Nube
+-Mecánicas Jugables
+```
+
+Asistentes de IA : ChatGPT , DeepSeek .
+
+Detalles del juego agregados : Gente conocida,chistes leídos en Internet.
+
+Inspiraciones : Saga GTA .
 
 Toda la música del juego es open source,acá están los nombres de los temas y el artista ( Todos de la web OpenGameArt.org ) :
 
