@@ -217,13 +217,30 @@ General
 
 ![graficos2](./Imagenes/Graficos2.jpg)
 
+Con Elementos divididos en secciones como:
+```
+-Asfalto
+-Cesped
+-Agua
+-Pisos
+-Carteles
+-Personajes
+-Armas
+-Vehiculos
+-Piedras
+-Bicisendas
+-Objetos
+-Interfaz
+ETC.
+```
+
 ✅️ 03
 
 16 Barrios en Buenos Aires.
 
-Cada barrio tiene sus calles.
+Cada barrio tiene su propio estilo,con sus calles ( aunque hay barrios que comparten calles ) .
 
-Y los Barrios poseen una historia resumida la cual se puede leer.
+Y los Barrios poseen una Historia resumida la cual se puede leer.
 
 ![barrioobelisco](./Imagenes/barrioObelisco.jpg)
 
@@ -284,7 +301,7 @@ Hay 2 marcas :
 
 ✅️ 06
 
-Trama Bizarra,con mezcla de datos ficticios ( EJ : Presidente Hamburguesa en Uruguay ) y reales ( EJ : el Idioma Tenis ).
+Trama Bizarra,con mezcla de Datos ficticios ( EJ : Presidente Hamburguesa en Uruguay ) y reales ( EJ : el Idioma Tenis ).
 
 ![trama](./Imagenes/trama.jpg)
 
@@ -349,7 +366,7 @@ Misión de Stuntman
 
 ( Piruetas en vehículo de doble de cine.
 
-Con 10 mecánicas distintas. )
+Con 10 Mecánicas distintas. )
 
 ( Inspirado en el Videojuego de 2002 - Stuntman - de Reflections Interactive ).
 
@@ -372,7 +389,7 @@ Con 10 mecánicas distintas. )
 
 ✅️ 10
 
-Simulador ( muy simple ) de app estilo 
+Simulador ( muy simple ) de App estilo 
 ChatGPT ( llamada DiosGPT ) : 
 
 Sirve como tutorial.
@@ -388,7 +405,7 @@ Lector de Diarios
 
 ✅️ 12
 
-Simulador estilo Wiki ( llamado Nerdpedia ) , con interfaz simplificada y datos bizarros.
+Simulador estilo Wiki ( llamado Nerdpedia ) , con Interfaz simplificada y datos bizarros.
 
 ![gifwiki](./Imagenes/gifwiki.gif)
 
@@ -402,7 +419,7 @@ El Skate se puede montar en Caños.
 
 ✅️ 14
 
-El jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
+El Jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
 
 ![parada](./Imagenes/Parada.jpg)
 
@@ -432,7 +449,7 @@ Sistema de Climatologia
 
 ✅️ 17
 
-Cámara que sigue al jugador y Minimapa.
+Cámara que sigue al Jugador y Minimapa.
 
 ![minimapa](./Imagenes/minimapa.jpg)
 
