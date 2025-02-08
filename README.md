@@ -75,7 +75,7 @@ Crimen y Chori es un juego sandbox 2D ambientado en una ciudad de Argentina pseu
 
 Aunque también tiene pequeñas ambientaciones en:
 
-🍪 ***La VirgoCueva*** 
+🍪 ***La VirgoCueva en Argentina*** 
 
 ( Pantalla de Inicio,Hub de Niveles. )
 
@@ -87,21 +87,19 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ![suiza](./Imagenes/PistaSuiza.jpg)
 
-🍪 ***La Pistita***,
+🍪 ***La Pistita en Pais Vasco , España***
 
-Pista de Carreras de Coches a Control Remoto ( en País Vasco,España ) 
-
-( Minijuego de Carreras RC. )
+( Minijuego de Carreras RC - a Control Remoto -. )
 
 ![rc](./Imagenes/PistitaRC.jpg)
 
-🍪 ***Flippersburgo,Alemania***
+🍪 ***Flippersburgo en Alemania***
 
 ( Minijuego de Pinball. )
 
 ![pinball](./Imagenes/MinijuegodePinball.jpg)
 
-🍪 ***Satélite Tokyo*** 
+🍪 ***Satélite Tokyo en el Espacio Exterior*** 
 
 ( Minijuego de Baile. )
 
