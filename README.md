@@ -213,6 +213,8 @@ Cada barrio tiene sus calles.
 
 Y los Barrios poseen una historia resumida la cual se puede leer.
 
+![barrioobelisco](./Imagenes/barrioObelisco.jpg)
+
 ✅️ 04
 
 15 Vehículos 
@@ -269,6 +271,8 @@ Hay 2 marcas :
 ✅️ 06
 
 Trama Bizarra,con mezcla de datos ficticios ( ej : Presidente Hamburguesa en Uruguay ) y reales ( ej : el Idioma Tenis ).
+
+![trama](./Imagenes/trama.jpg)
 
 ✅️ 07
 
