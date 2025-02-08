@@ -395,6 +395,8 @@ Con 10 Mecánicas distintas. )
 
 ✅️ 10
 
+![gifgpt](./Imagenes/diosgpt.gif)
+
 Simulador ( muy simple ) de App estilo 
 ChatGPT ( llamada DiosGPT ) : 
 
@@ -403,6 +405,8 @@ Sirve como tutorial.
 ![gpt](./Imagenes/DiosGPT.jpg)
 
 ✅️ 11
+
+![gifdiario](./Imagenes/diario.gif)
 
 Lector de Diarios 
 ( Noticias de varias Temáticas ).
@@ -441,6 +445,8 @@ Se pueden comprar Choris , recargar Nafta o viajar en Colectivo.
 
 Sistema de Climatologia
 
+![gifclima](./Imagenes/climatologia.gif)
+
 ( Pueden activarse varios efectos simultáneamente ).
 
 ```
@@ -454,6 +460,8 @@ Sistema de Climatologia
 ![clima](./Imagenes/Climatologia.jpg)
 
 ✅️ 17
+
+![gifminimapa](./Imagenes/Minimapa.gif)
 
 Cámara que sigue al Jugador y Minimapa.
 
@@ -469,6 +477,8 @@ Jetpack
 ![jetpack](./Imagenes/Jetpack.jpg)
 
 ✅️ 19
+
+![gifnafta](./Imagenes/nafta.gif)
 
 Los vehículos tienen Nafta,o se recarga o se acaba y no pueden moverse más.
 
@@ -492,6 +502,8 @@ Minijuego de Trompos
 ✅️ 22
 
 Visor de Telescopio 
+
+![giftelescopio](./Imagenes/telescopio.gif)
 
 ( Para ver Estrellas Normales y Fugaces ).
 
@@ -554,6 +566,8 @@ Diálogos Automáticos ( ya sea con Personajes o Radio ).
 
 60 Frames por Segundo.
 
+![pinball](./Imagenes/pinball.gif)
+
 ( TIC-80 esta bloqueado a esos FPS ).
 
 ✅️ 32
@@ -587,6 +601,9 @@ Lo mismo las Calles.
 ✅️ 35
 
 Modo Carrera Arcade.
+
+![modocarrera](./Imagenes/ModoCarrera.gif)
+
 
 ![carrera](./Imagenes/ModoCarrera.jpg)
 
