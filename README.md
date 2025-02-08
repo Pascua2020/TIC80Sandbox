@@ -363,7 +363,6 @@ Sirve como tutorial.
 Lector de Diarios 
 ( Noticias de varias Temáticas ).
 
-
 ![diario](./Imagenes/LectordeDiarios.jpg)
 
 ✅️ 12
@@ -390,6 +389,8 @@ Sistema de Dinero ( llamado Peluca$ ).
 
 Se pueden comprar Choris o , recargar Nafta o viajar en Colectivo.
 
+![monedas](./Imagenes/monedas.jpg)
+
 ✅️ 16
 
 Sistema de Climatologia
@@ -410,6 +411,8 @@ Sistema de Climatologia
 
 Cámara que sigue al jugador y Minicamara.
 
+![minimapa](./Imagenes/minimapa.jpg)
+
 ✅️ 18
 
 Jetpack 
@@ -420,6 +423,8 @@ Jetpack
 ✅️ 19
 
 Los vehículos tienen nafta,o se recarga o se acaba y no pueden moverse más.
+
+![nafta](./Imagenes/nafta.jpg)
 
 ✅️ 20
 
