@@ -60,7 +60,7 @@ Especificaciones ( de TIC-80 ):
 
 *Lua*
 
-Juego hecho desde el Celular,SIN PC 
+Juego hecho en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT ).
 
 Eso incluye dibujar los gráficos con el dedo táctil y tocar el código desde el editor,ambos de TIC80.
@@ -223,6 +223,8 @@ Hay 2 marcas :
 -Tochota ( de Japón )
 
 -Zho Zho ( de China )
+
+![vehiculosc](./Imagenes/vehiculosC.png)
 ```
 01-Tochota - Fulero ( Coche )
 02-Tochota - Strella ( Coche )
@@ -246,6 +248,8 @@ Hay 2 marcas :
 ✅️ 05
 
 11 Armas.
+
+![armasc](./Imagenes/armasC)
 ```
 01--Puño
 02--Pistola
@@ -277,6 +281,7 @@ Easter Eggs
 
 19 Personajes.
 
+![personajesc](./Imagenes/PersonajesC.png)
 ```
 01-Jugador ( Wikiman )
 02-Gatito ( Mascota )
@@ -426,7 +431,9 @@ Sistema de Mensajes Móviles.
 ✅️ 24
 
 20 coleccionables en el mapa 
-( 16 en la Ciudad y 4 en el Mar ).
+( 16 en la Ciudad - llamados Condones - y 4 en el Mar - llamados Diamantes - ).
+
+![coleccionablesc](./Imagenes/ColeccionablesC.png)
 
 ✅️ 25
 
