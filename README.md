@@ -256,17 +256,17 @@ Hay 2 marcas :
 
 ![gifarma](./Imagenes/gifarma.gif)
 ```
-01--Puño
-02--Pistola
-03--Escopeta
-04--Katana
-05--Bazooka
-06--Rayo láser
-07--Rifle electrico
-08--Granada
-09--Lanzallamas
-10--AK47
-11--Minigun
+01-Puño
+02-Pistola
+03-Escopeta
+04-Katana
+05-Bazooka
+06-Rayo láser
+07-Rifle electrico
+08-Granada
+09-Lanzallamas
+10-AK47
+11-Minigun
 ```
 
 ![armas](./Imagenes/Armas.jpg)
@@ -406,7 +406,7 @@ Se pueden comprar Choris , recargar Nafta o viajar en Colectivo.
 
 Sistema de Climatologia
 
-( Pueden activarse varios efectos simultáneamente).
+( Pueden activarse varios efectos simultáneamente ).
 
 ```
 --Lluvia
@@ -449,6 +449,7 @@ Hay una Pista a Control Remoto cuyos gráficos se pueden editar con la pantalla 
 ✅️ 21
 
 Minijuego de Trompos 
+
 ( con Modo 2 Jugadores ).
 
 ![giftrompo](./Imagenes/giftrompo.gif)
@@ -456,6 +457,7 @@ Minijuego de Trompos
 ✅️ 22
 
 Visor de Telescopio 
+
 ( Para ver Estrellas Normales y Fugaces ).
 
 ![telescopio](./Imagenes/Telescopio.jpg)
@@ -481,7 +483,9 @@ y
 
 ✅️ 25
 
-Modo Debug / Depuración ( para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
+Modo Debug / Depuración 
+
+( Para ver mejor Variables en Pantalla , lo cual ayuda al testeo ).
 
 ✅️ 26
 
@@ -572,7 +576,7 @@ Minijuego de Baile
 
 ##### 🌇 -Ciudad Rapera de Buenos Aires 
 
-( Incluye 16 Barrios)
+( Incluye 16 Barrios )
 
 ![barrios](./Imagenes/Barrios.jpg.png)
 
@@ -691,7 +695,7 @@ Detalles del juego agregados :
 -Chistes leídos en Internet.
 ```
 
-Inspiraciones : Saga GTA.
+Inspiraciones : Saga GTA,Stuntman ( 2002 )
 
 Toda la música del juego es Open Source,acá están los nombres de los temas y el artista 
 ( Todos de la web OpenGameArt.org ) :
