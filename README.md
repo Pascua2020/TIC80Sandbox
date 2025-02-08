@@ -25,7 +25,7 @@
 
 *AltaVista Games*
 
-( Pascua2020 y ChatGPT )
+( Pascua2020 y ChatGPT/DeepSeek )
 
 🎲 ***Género :*** 
 
