@@ -280,6 +280,12 @@ Hay 2 marcas :
 
 11 Armas.
 
+Algunas son de corto alcance / sin disparos ( Puño o Katana ).
+
+Otras tiran varios tiros de diferente manera.
+
+Otras no tiran tiros sino ráfagas ( fuego o electricidad ).
+
 ![armasc](./Imagenes/ArmasC.png)
 
 ![gifarma](./Imagenes/gifarma.gif)
