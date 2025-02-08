@@ -551,7 +551,7 @@ Rampas y Aros de Fuego.
 
 ![aro](./Imagenes/aro.jpg)
 
-38
+✅️ 38
 
 Minijuego de Baile
 
@@ -655,5 +655,29 @@ En Desarrollo ( desde 30/12/2024 ).
 De momento sin Sonido.
 
 ## 🎮 Licencia
+
+## 🎮 Creditos
+
+Toda la música del juego es open source,acá están los nombres de los temas y el artista ( Todos de la web OpenGameArt.org ) :
+
+```
+01-
+02-
+03-
+04-
+05-
+
+06-
+07-
+08-
+09-
+10-
+
+11-
+12-
+13-
+14-
+15-
+```
 
 ## 🎮 Notas
