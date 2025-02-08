@@ -122,7 +122,7 @@ Al ser un juego de TIC-80,corre en:
 -Raspberry Pi
 -Nintendo 3DS
 -Retroarch
--HTML5
+-HTML5 ( con WebAssembly )
 ```
 
 ![gif2](./Imagenes/2.gif)
@@ -704,4 +704,7 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 ```
 
 ## 🎮 Notas
-Versión 1.0
+```
+*Versión 1.0
+*Ideas Descartadas : Ciclo Día / Noche
+```
