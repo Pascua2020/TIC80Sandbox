@@ -423,17 +423,23 @@ Simulador estilo Wiki ( llamado Nerdpedia ) , con Interfaz simplificada y datos 
 
 ✅️ 13
 
+![gifskate](./Imagenes/skate.gif)
+
 El Skate se puede montar en Caños.
 
 ![skate](./Imagenes/PistadeSkate.jpg)
 
 ✅️ 14
 
+![gifsuba](./Imagenes/suba.gif)
+
 El Jugador puede tomarse Colectivos en Paradas,con la Tarjeta SUBA.
 
 ![parada](./Imagenes/Parada.jpg)
 
 ✅️ 15
+
+![gifmoneda](./Imagenes/moneda.gif)
 
 Sistema de Dinero ( llamado Peluca$ ).
 
