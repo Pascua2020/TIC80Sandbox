@@ -602,7 +602,7 @@ Lo mismo las Calles.
 
 Modo Carrera Arcade.
 
-![modocarrera](./Imagenes/modoCarrera.gif)
+![modocarrera](./Imagenes/modocarrera.gif)
 
 
 ![carrera](./Imagenes/ModoCarrera.jpg)
