@@ -167,6 +167,7 @@ Como jugar :
 
 22 "Radios" en texto.
 
+![gifradio](./Imagenes/gifradio.gif)
 ```
 "01 Radio Todo Vardo" : Noticias Locales
 "02 Radio Bajones" : Tango
@@ -252,6 +253,8 @@ Hay 2 marcas :
 11 Armas.
 
 ![armasc](./Imagenes/ArmasC.png)
+
+![gifarma](./Imagenes/gifarma.gif)
 ```
 01--Puño
 02--Pistola
