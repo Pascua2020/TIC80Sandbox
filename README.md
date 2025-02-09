@@ -201,7 +201,9 @@ General
 "08 No me Importa" : Internacional
 "09 Radio Antimainstream" : Historias Unicas
 "10 Cine Ultra 8K" : Cine
-
+```
+![gifradioterror](./Imagenes/radioterror.gif)
+```
 "11 Destapando Curros" : Investigaciones
 "12 Radio Grieta" : Polarización
 "13 Radio Cuarta Pared" : Vida Real
