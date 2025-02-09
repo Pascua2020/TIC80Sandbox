@@ -8,11 +8,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/stargazers)
-
 [![Itch.io downloads](https://img.shields.io/badge/Downloads-0-brightgreen)](https://your-game.itch.io)
-
-[![Made with TIC-80](https://img.shields.io/badge/Made%20with-TIC--80-blue)](https://tic80.com)
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
