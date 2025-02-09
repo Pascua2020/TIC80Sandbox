@@ -555,6 +555,10 @@ Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 
 Trucos ( al conseguir 100% ).
 
+![gifteclado](./Imagenes/teclado.gif)
+
+![giftecladonum](./Imagenes/tecladonum.gif)
+
 ✅️ 28
 
 Objetos / Enemigos Destructibles,Sistema de Partículas sangriento.
