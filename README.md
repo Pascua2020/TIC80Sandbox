@@ -143,7 +143,7 @@ Como Jugar :
 
 ## 🎮 Controles:
 
-![gifpausa](./Imagenes/menupausa.gif)
+![gifpausa](./Imagenes/pausa.gif)
 
 General
 ```
