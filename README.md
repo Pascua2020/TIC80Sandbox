@@ -660,7 +660,7 @@ Con sus propias Letras de Canciones y Sistema de Combos.
 
 ![gifbaile](./Imagenes/gifbaile.gif)
 
-39
+✅️ 39
 
 Terremoto
 
@@ -851,3 +851,8 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 *Versión 1.0
 *Ideas Descartadas : Ciclo Día / Noche
 ```
+
+## 🎮 Links Utiles
+
+-Itch.io ( Descarga del Juego )
+-Contacto ( Pascua )
