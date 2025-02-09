@@ -858,6 +858,8 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 
 -Itch.io ( Descarga del Juego )
 
+-HTML5 ( Jugar juego en el Navegador )
+
 -Contacto ( Pascua )
 
 -Web del Creador de TIC-80
@@ -868,4 +870,6 @@ https://tic80.com/
 
 -Canal de YouTube del Juego
 
--ADVA
+-ADVA ( Asociación de Desarrolladores de Videojuegos de Argentina )
+
+-Twitter de AltaVista Games
