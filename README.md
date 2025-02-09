@@ -70,6 +70,7 @@ Especificaciones ( de TIC-80 ):
 
 Juego hecho en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT / DeepSeek ).
+Archivos .gif hechos con la herramienta integrada en TIC-80.
 
 ![gifarmasvarias](./Imagenes/armasvarias.gif)
 
