@@ -86,6 +86,12 @@ Eso incluye dibujar los Gráficos con el dedo táctil y tocar el Código desde e
 
 Crimen y Chori es un Videojuego Sandbox 2D ambientado en una ciudad de Argentina Pseudo-ficticia llamada Ciudad Rapera de Buenos Aires.
 
+En esta Ciudad hay una fuerte presencia de las Emisoras de Radio y la Cultura Underground.Ademas ocurren todo tipo de cosas bizarras y en el medio hay un cambio de Gobierno.
+
+El famoso actor Silvestre Stacchotta viene de Los Guapos County de Los Angeles a filmar escenas de Stuntman en Buenos Aires,en un clima de impresionante humedad y bardo nacional e internacional.Y hay una fuerte hiperinflacion económica : el importantisimo empresario Japones-Argentino Juan Garcamaru enfrenta serias dificultades económicas con sus historicas Galletitas Marca CULO.
+
+Esto y mucho más en...Crimen y Chori!
+
 ![todomapa](./Imagenes/MapaEntero.jpg)
 
 Aunque también tiene pequeñas ambientaciones en:
@@ -757,6 +763,12 @@ Nombres de las Calles:
 Es un videojuego Sandbox ( estilo GTA ) pero en 2D,y tiene varios minijuegos que le aportan un toque bastante diferenciador.
 
 Debido a los pocos controles que hay el juego cuenta con un modo táctico,de forma que se puede  elegir múltiples opciones de forma pausada y retomar la acción una vez que el jugador define que hacer.
+
+El jugador puede ir a pie o usar múltiples vehículos y también múltiples armas.
+
+Si bien esta ambientado en una Ciudad,el Mapa es Pequeño pero sobrecargado de detalles y la Ciudad está rodeada por un mar : Aunque hay algunas zonas más que se pueden acceder fuera de este lugar.
+
+También hay un enfoque importante en la Interactividad ( ej la lectura de la Wiki o el Diario ) en un mundo con todos los elementos interconectados.
 
 ## 🎮 Estado
 
