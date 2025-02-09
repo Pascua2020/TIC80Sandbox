@@ -823,6 +823,8 @@ Inspiraciones :
 -Pinballs en general
 ```
 
+Agradecimientos Especiales al Creador de TIC-80 y a Sam Altman por crear ChatGPT.
+
 Toda la música del juego es Open Source,acá están los nombres de los temas y el artista 
 ( Todos de la web OpenGameArt.org ) :
 
@@ -855,4 +857,7 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 ## 🎮 Links Utiles
 
 -Itch.io ( Descarga del Juego )
+
 -Contacto ( Pascua )
+
+-Web del Creador de TIC-80
