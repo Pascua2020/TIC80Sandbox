@@ -726,6 +726,7 @@ Debido a los pocos controles que hay el juego cuenta con un modo táctico,de for
 ## 🎮 Estado
 
 En Desarrollo ( desde 30/12/2024 ).
+
 Enero 2025 :
 ```
 -Primeros Prototipos
