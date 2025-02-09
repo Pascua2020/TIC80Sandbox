@@ -551,6 +551,8 @@ Modo Debug / Depuración
 
 ( Para ver mejor Variables en Pantalla , lo cual ayuda al Testeo ).
 
+![gifdebug](./Imagenes/debug.gif)
+
 ✅️ 26
 
 ![gifinterfaz](./Imagenes/interfaz.gif)
@@ -650,6 +652,12 @@ Minijuego de Baile
 Con sus propias Letras de Canciones y Sistema de Combos.
 
 ![gifbaile](./Imagenes/gifbaile.gif)
+
+39
+
+Terremoto
+
+![gifterremoto](./Imagenes/terremoto.gif)
 
 ## 🎮 Mapa
 
