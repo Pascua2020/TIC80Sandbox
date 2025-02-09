@@ -143,6 +143,8 @@ Como Jugar :
 
 ## 🎮 Controles:
 
+![gifpausa](./Imagenes/menupausa.gif)
+
 General
 ```
 0-Flecha Arriba
@@ -251,6 +253,8 @@ Y los Barrios poseen una Historia resumida la cual se puede leer.
 ![barrioobelisco](./Imagenes/barrioObelisco.jpg)
 
 ✅️ 04
+
+![gifcoche](./Imagenes/subircoche.gif)
 
 15 Vehículos 
 ( la mayoría con 4 Colores -Rojo,Azul,Verde y Amarillo-).
@@ -546,6 +550,8 @@ Modo Debug / Depuración
 ( Para ver mejor Variables en Pantalla , lo cual ayuda al Testeo ).
 
 ✅️ 26
+
+![gifinterfaz](./Imagenes/interfaz.gif)
 
 Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 
