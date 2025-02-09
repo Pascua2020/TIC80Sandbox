@@ -19,6 +19,8 @@
 
 🎲 ***Nombre del juego :*** 
 
+![gifinicio](./Imagenes/inicio.gif)
+
 *Crimen y Chori*
 
 🎲 ***Año :*** 
@@ -757,6 +759,8 @@ De momento sin Sonido.
 Open Source?
 
 ## 🎮 Creditos
+
+![gifcreditos](./Imagenes/creditos.gif)
 
 Desarrollador : Pascua2020
 ```
