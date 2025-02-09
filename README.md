@@ -861,3 +861,9 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 -Contacto ( Pascua )
 
 -Web del Creador de TIC-80
+
+https://tic80.com/
+
+-Donaciones
+
+-Canal de YouTube del Juego
