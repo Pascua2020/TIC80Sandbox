@@ -774,7 +774,16 @@ Detalles del juego agregados :
 -Chistes leídos en Internet.
 ```
 
-Inspiraciones : Saga GTA,Stuntman ( 2002 )
+Inspiraciones : 
+```
+-Saga GTA
+-Stuntman ( 2002 )
+-Dance Dance Revolution
+-Beyblade
+-Wikipedia
+-Gran Turismo
+-Pinballs en general
+```
 
 Toda la música del juego es Open Source,acá están los nombres de los temas y el artista 
 ( Todos de la web OpenGameArt.org ) :
