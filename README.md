@@ -56,10 +56,13 @@ Especificaciones ( de TIC-80 ):
 ```
 -Resolución: 
 240x136 Pixeles , 16 Colores.
+
 -Mapa : 
 1920 x 1088 Pixeles ( Dividido en Bloques de 8 x 8 - 64 Bloques en Total ).
+
 -Graficos : 
 256 Tiles y 256 Sprites.
+
 -Memoria : 
 272 KB de RAM ( 32 KB de VRAM ).
 ```
@@ -70,6 +73,7 @@ Especificaciones ( de TIC-80 ):
 
 Juego hecho en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT / DeepSeek ).
+
 Archivos .gif hechos con la herramienta integrada en TIC-80.
 
 ![gifarmasvarias](./Imagenes/armasvarias.gif)
