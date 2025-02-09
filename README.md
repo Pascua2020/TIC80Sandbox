@@ -71,6 +71,8 @@ Especificaciones ( de TIC-80 ):
 Juego hecho en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT / DeepSeek ).
 
+![gifarmasvarias](./Imagenes/armasvarias.gif)
+
 Eso incluye dibujar los Gráficos con el dedo táctil y tocar el Código desde el editor,ambos de TIC80.
 
 ![gif1](./Imagenes/1.gif)
@@ -566,6 +568,8 @@ Trucos ( al conseguir 100% ).
 ![giftecladonum](./Imagenes/tecladonum.gif)
 
 ✅️ 28
+
+![gifkatana](./Imagenes/katana.gif)
 
 Objetos / Enemigos Destructibles,Sistema de Partículas sangriento.
 
