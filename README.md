@@ -10,6 +10,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/stargazers)
 
+[![Itch.io downloads](https://img.shields.io/badge/Downloads-1000-brightgreen)](https://your-game.itch.io)
+
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ## 🎮 TIC80Sandbox
