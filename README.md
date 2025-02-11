@@ -23,6 +23,8 @@
 
 *Crimen y Chori*
 
+![cartucho](./Imagenes/cartucho.png)
+
 🎲 ***Año :*** 
 
 *2025?*
