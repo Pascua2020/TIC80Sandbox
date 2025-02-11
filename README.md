@@ -23,7 +23,7 @@
 
 *Crimen y Chori*
 
-![cartucho](./Imagenes/cartucho.png)
+![cartucho](./Imagenes/Cartucho.png)
 
 🎲 ***Año :*** 
 
