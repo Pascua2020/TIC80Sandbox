@@ -441,6 +441,23 @@ Poesia Gamer
 
 Locutor/es : 
 
+```
+"1. Locutor: Bienvenidos a 'Poesía Pixelar',",
+    "2. Locutor: el espacio donde los píxeles y las palabras se entrelazan.",
+    "3. Locutor: Hoy les traemos una poesía sobre el alma de un joystick analógico.",
+    "4. Poesía:",
+    "5. \"Bajo mis dedos reposa el volante del destino,",
+    "6. un círculo analógico que baila con la fricción.",
+    "7. En la pantalla táctil, horizontes veloces se despliegan,",
+    "8. curvas imposibles, rectas que retan la razón.\"",
+    "9. \"Con un giro preciso, el caucho canta en el asfalto,",
+    "10. mientras el sudor del piloto se mezcla con el pixelado sol.",
+    "11. Oh, joystick, eje de sueños y velocidades,",
+    "12. tu vibración me conecta con la emoción.\"",
+    "13. Locutor: Esto fue 'Poesía Pixelar'.",
+    "14. Locutor: Nos vemos en la próxima entrega poética."
+```
+
 
 #### 🎭"20 Radio Terror"
 
