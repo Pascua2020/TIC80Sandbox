@@ -29,6 +29,17 @@ Por donde cae la bola y se pierde una vida.
 Al rebotar múltiples veces la bola se generan combos.
 Al subir de niveles se multiplican los puntos recibidos.
 
+Puntos necesarios para subir de Nivel :
+```
+NV2=300
+NV3=800
+NV4=1300
+NV5=1800
+NV6=3000
+NV7=5500
+NV8=9000
+NV9=15000
+```
 #### ✨️-Frase a Completar ( Hashtags )
 
 Se van completando con cada Rebote.
