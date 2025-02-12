@@ -136,7 +136,16 @@ Economia
 Locutor/es : 
 
 ```
-
+"1. Locutor: Bienvenidos a 'Desgracias Económicas',",
+    "2. Locutor: el programa donde analizamos las cotizaciones del dólar en tiempo real.",
+    "3. Locutor: Hoy, las cotizaciones del dólar están por las nubes.",
+    "4. Locutor: Dólar Otaku: 10000 pesos.",
+    "5. Locutor: Dólar Cuchi Cuchi: 25000 pesos.",
+    "6. Locutor: Dólar Papas Fritas: 30000 pesos.",
+    "7. Locutor: Dólar Chocolate con Maní: 28000 pesos.",
+    "8. Locutor: Y el riesgo país, como siempre: Siga Siga.",
+    "9. Locutor: Crecimiento proyectado 2025: Ay, qué horror.",
+    "10. Locutor: ¡Así está la situación económica! No se despeguen de 'Desgracias Económicas'."
 ```
 
 
