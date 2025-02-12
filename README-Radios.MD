@@ -43,6 +43,28 @@ Tango
 
 Locutor/es : 
 
+```
+"1. Locutor: Desde Radio Bajones les traemos esto para amargarles el día. Buena tarde.",
+    "2. Locutor: Hoy les presentamos a Bajolini, quien nos cantará su tema 'Mi Querido Pinball'.",
+    "3. Locutor: 'Mi Querido Pinball' es una canción melancólica sobre un juego de cartas que se fue perdiendo con el tiempo.",
+    "4. Locutor: Pero antes de escuchar a Bajolini, les dejamos con un vistazo al juego de cartas...",
+    "5. Cantante (Bajolini): (Empieza a cantar) 'En la mesa de cartas, todo se perdió,'",
+    "6. Bajolini: 'Mi querido Pinball, tu suerte se acabó.'",
+    "7. Bajolini: 'Las cartas caen lentamente, en el olvido total,'",
+    "8. Bajolini: 'Un juego perdido, que se desvanece como un mal.'",
+    "9. Bajolini: 'Pinball, querido Pinball, lo que un día fue,'",
+    "10. Bajolini: 'Las cartas están vacías, ya no hay nada que hacer.'",
+    "11. Bajolini: 'El mercado se cierra, las cartas se pierden,'",
+    "12. Bajolini: 'El juego se acaba, y yo solo quiero volver a creer.'",
+    "13. Bajolini: 'Mi querido Pinball, tu nombre lo recordaré,'",
+    "14. Bajolini: 'Pero en este juego ya no hay más que perder.'",
+    "15. Bajolini: 'A veces me pregunto si alguna vez fue real,'",
+    "16. Bajolini: 'Mi querido Pinball, ahora todo es tan fatal.'",
+    "17. Locutor: Y así, amigos, terminó nuestra triste canción,",
+    "18. Locutor: 'Mi Querido Pinball', la reflexión sobre un juego olvidado.",
+    "19. Locutor: Bajolini nos ha dejado una marca melancólica, hasta la próxima en Radio Bajones."
+```
+
 #### 🎭"03 Radio Poesía de la Calle"
 
 Trap
