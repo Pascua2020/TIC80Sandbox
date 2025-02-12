@@ -35,17 +35,30 @@ Elementos
 
 **08 Idiomas
 
+![w8](./Imagenes/w8.gif)
+
 **09 Frase del Dia
+
+![w9](./Imagenes/w9.gif)
 
 **10 Noticias
 
+![w10](./Imagenes/w10.gif)
+
 **11 Poesia del Dia
+
+![w11](./Imagenes/w11.gif)
 
 **12 Música Destacada
 
+![w12](./Imagenes/w12.gif)
+
 **13 Videojuego Destacado
+
+![w13](./Imagenes/w13.gif)
 
 **14 Tecnologia
 
+![w14](./Imagenes/w14.gif)
 
 -Pagina
