@@ -71,6 +71,21 @@ Trap
 
 Locutor/es : 
 
+```
+"1. Locutor: Bienvenidos a Radio Poesía de la Calle, donde la calle tiene voz.",
+    "2. Locutor: Hoy les traemos el último éxito del dúo ruso-senegalés.",
+    "3. Locutor: La canción se llama 'Ojiva Nuclear', un trap erótico que lo tiene todo.",
+    "4. Duo: (Cantando) 'Ella sabe por qué usa la IA,'",
+    "5. Duo: 'Madam, quiere mi ojiva nuclear.'",
+    "6. Duo: 'En la pista caliente, todo va a estallar,'",
+    "7. Duo: 'Mi ritmo te domina como un misil en el radar.'",
+    "8. Duo: 'Ella dice que el algoritmo no la puede controlar,'",
+    "9. Duo: 'Pero conmigo siempre quiere bailar.'",
+    "10. Duo: 'Ojiva, ojiva, me quiere activar,'",
+    "11. Duo: 'Madam, eres mi única señal.'",
+    "12. Locutor: Esto fue 'Ojiva Nuclear'. Hasta la próxima en Radio Poesía de la Calle."
+```
+
 #### 🎭"04 Gobierno de Argentina"
 
 Cadena Nacional
