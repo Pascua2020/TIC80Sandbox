@@ -4,9 +4,9 @@ RC
 
 Elementos
 
-🎃-Editor de Pista
+#### 🎃-Editor de Pista
 
-🎃-Coches a Control Remoto
+#### 🎃-Coches a Control Remoto
 
 --Jugador 1
 
@@ -14,6 +14,6 @@ Elementos
 
 --IA
 
-🎃-Modo Jugar
+#### 🎃-Modo Jugar
 
 --Controles de movimiento para 2 Jugadores
