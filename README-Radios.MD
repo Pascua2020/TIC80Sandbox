@@ -275,6 +275,20 @@ Polarización
 
 Locutor/es : 
 
+```
+ "1. Locutor: Bienvenidos a 'Radio Grieta',",
+    "2. Locutor: la emisora donde todas las voces tienen su sesgo.",
+    "3. Locutor: Hoy analizamos la noticia del mes: inflación del 3% en noviembre.",
+    "4. Medio de Izquierda: 'Un logro del Gobierno en su lucha contra el ajuste neoliberal, mostrando compromiso con el pueblo.'",
+    "5. Medio de Derecha: 'Otro fracaso en la economía, reflejando la incapacidad del Gobierno para controlar la inflación.'",
+    "6. Locutor: Y así, dos miradas, una realidad.",
+    -- Segunda noticia
+    "7. Locutor: Ahora pasamos a otra noticia: aumento del 5% en el salario mínimo.",
+    "8. Medio de Izquierda: 'Una medida insuficiente que no alcanza para combatir el verdadero costo de vida.'",
+    "9. Medio de Derecha: 'Un paso positivo que ayuda a reactivar la economía y beneficia a las familias trabajadoras.'",
+    "10. Locutor: Dos opiniones, una noticia. Esto fue 'Radio Grieta'. ¡Hasta la próxima!"
+```
+
 
 #### 🎭"13 Radio Cuarta Pared"
 
