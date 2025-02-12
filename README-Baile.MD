@@ -6,6 +6,8 @@ Elementos
 
 #### ✴️-Flechas
 
+Son 4 ( Izquierda,Derecha,Arriba,Abajo ).
+
 #### ✴️-Puntos,Combos y Fallos
 
 #### ✴️-Nombre de Artista y Album
@@ -28,3 +30,5 @@ Elementos
 ```
 
 #### ✴️-Fondo del Escenario
+
+Simula ser una Lluvia de Estrellas.
