@@ -383,6 +383,23 @@ Naturaleza
 
 Locutor/es : 
 
+```
+ "1. Locutor: Bienvenidos a 'Radio Naturaleza Insólita',",
+    "2. Locutor: el programa donde exploramos los secretos más curiosos del mundo natural.",
+    "3. Locutor: Hoy les traemos una historia sorprendente desde la provincia de Batman, en Turquía.",
+    "4. Locutor: Hablamos de la peculiar 'Mantis Atea', un insecto que redefine las normas del cortejo.",
+    "5. Locutor: A diferencia de otras culturas insectiles, aquí la hembra seduce al macho,",
+    "6. Locutor: y este, sorprendentemente, se distrae jugando videojuegos portátiles.",
+    "7. Locutor: La hembra, indignada, lo interrumpe diciendo: 'Dejá de pelotudear y ponete las pilas.'",
+    "8. Locutor: Luego, proceden a copular... ¡hasta 80 veces al día!",
+    "9. Locutor: En una pausa, la hembra le dice al macho: 'Vos sos un boludo.'",
+    "10. Locutor: A lo que el macho, con total naturalidad, responde: 'Vos también.'",
+    "11. Locutor: Pero la cosa no termina ahí: vuelven a copular,",
+    "12. Locutor: juegan juntos a un FPS portátil, y finalmente completan su ritual.",
+    "13. Locutor: Una historia tan extraña como fascinante, que nos muestra la diversidad del mundo natural.",
+    "14. Locutor: ¡Esto fue 'Radio Naturaleza Insólita'! No se pierdan nuestro próximo episodio."
+```
+
 
 #### 🎭"18 Radio Pesimista"
 
