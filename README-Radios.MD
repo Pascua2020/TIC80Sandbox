@@ -521,3 +521,15 @@ Propaganda
 
 Locutor/es : 
 
+```
+"1. Niño: ¡Maaamiiiii! ¡Mamá! ¿¡Me escuchás!?",
+    "2. Madre: ¿Qué pasa ahora? ¿Otra vez un berrinche?",
+    "3. Niño: ¡Quiero el nuevo juego! Es un simulador de estafadores.",
+    "4. Madre: ¿¡Un simulador de qué!?",
+    "5. Niño: De estafadores, mamá. ¡Es lo más! Hasta podés vender humo por internet.",
+    "6. Voz adulta: *Con tono dramático de actor de cine*",
+    "7. Voz adulta: 'Mami, quiero el juego.'",
+    "8. Narrador: *Con voz épica*",
+    "9. Narrador: Disponible ahora para la MegaStation LaNota.",
+    "10. Narrador: El juego que estabas esperando... si te atrevés."
+```
