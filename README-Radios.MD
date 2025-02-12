@@ -256,6 +256,18 @@ Investigaciones
 
 Locutor/es : Jorge Lanota
 
+```
+"1. Locutor: Bienvenidos a Radio Destapando Curros, donde nada se esconde.",
+    "2. Locutor: Hoy les traemos un comercial exclusivo de nuestro periodista Jorge LaNota.",
+    "3. Jorge LaNota: Hola, soy Jorge LaNota, y tengo una fascinación enfermiza por destapar los culos sucios de la política argentina.",
+    "4. Jorge LaNota: He viajado por todo el mundo, infiltrándome en los rincones más oscuros para exponer la verdad.",
+    "5. Jorge LaNota: De hecho, me infiltré en Corea del Norte, un lugar donde pocos se atreven a mirar, para destapar los turbios negocios entre Argentina y ese país.",
+    "6. Jorge LaNota: ¡Y lo que descubrí te hará temblar! Desde contratos secretos hasta acuerdos peligrosos, todo con la complicidad de figuras de poder en Argentina.",
+    "7. Jorge LaNota: ¿Qué hacen los poderosos mientras nos distraen con mentiras? Yo te lo cuento todo, sin censura.",
+    "8. Jorge LaNota: Únete a mí en esta cruzada para destapar la verdad. ¡Porque la política no puede seguir tapando sus cagadas!",
+    "9. Locutor: No te pierdas la revelación más grande de los últimos tiempos. Solo aquí, en Radio Destapando Curros.",
+    "10. Locutor: La verdad está al aire, y es más sucia de lo que imaginas. ¡Escucha y abre los ojos!"
+```
 
 #### 🎭"12 Radio Grieta"
 
