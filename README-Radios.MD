@@ -1,3 +1,3 @@
 Radios
 
-![gifradio](./Imagenes/radio.gif)
+![gifradio](./Imagenes/gifradio.gif)
