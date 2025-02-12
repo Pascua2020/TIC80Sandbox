@@ -296,6 +296,16 @@ Vida Real
 
 Locutor/es : Quien sabe
 
+```
+"1. Bienvenidos a 'Radio Cuarta Pared',la Radio que va mas alla de este videojuego y te dice la verdad",
+    "2. El juego mas dificil es resolver tu vida.",
+    "3. Ningun videojuego ( nisiquiera este ) va a llenar tu vacio existencial.",
+    "4. Deberias hacer cosas mas importantes que jugar este juego,como pasar tiempo con tus seres queridos.",
+    "5. Cada segundo que pasas jugando esto,es un segundo menos de tu vida.",
+    "6. Cada vez salen mas videojuegos pero cada vez vas a tener menos tiempo para jugarlos.",
+    "7. En la realidad solo tenemos una unica vida y aun asi mucha gente quiere suicidarse : el Exito es decirle Si a la vida,cueste lo que cueste.",
+```
+
 
 #### 🎭"14 La IA Avanza"
 
@@ -303,6 +313,9 @@ No Humanos
 
 Locutor/es : I y A
 
+```
+
+```
 
 #### 🎭"15 Jesus te Ama"
 
@@ -310,14 +323,19 @@ Religion
 
 Locutor/es : 
 
+```
+
+```
 
 #### 🎭"16 Sonidos Animalunos"
 
 Lofi
 
-
 Locutor/es : 
 
+```
+
+```
 
 #### 🎭"17 Naturaleza Insolita"
 
