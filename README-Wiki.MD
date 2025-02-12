@@ -9,5 +9,7 @@ Elementos
 **Principal
 **Figuras
 **ArtiCULO Destacado
+**Eventos Deportivos
+**Curiosidades
 
 -Pagina
