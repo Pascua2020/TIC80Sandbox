@@ -92,6 +92,22 @@ Cadena Nacional
 
 Locutor/es : Presidente
 
+```
+"1. Locutor: De acuerdo a la ley 24.422, que regula la radiodifusión en Argentina,",
+    "2. Locutor: transmitimos esta Cadena Nacional 2025 N1 en vivo para toda la nación.",
+    "3. Locutor: En esta histórica transmisión, el Presidente Armando Gene Tinoman nos hablará.",
+    "4. Presidente: Buenas noches a todos los argentinos y argentinas.",
+    "5. Presidente: Hoy tengo el honor de compartir con ustedes una noticia personal.",
+    "6. Presidente: Estoy embarazado. Sí, escucharon bien, embarazado.",
+    "7. Presidente: Este logro es el fruto de avances científicos y sociales increíbles.",
+    "8. Presidente: A través de esta experiencia, quiero promover prácticas saludables.",
+    "9. Presidente: Hoy lanzo un programa nacional para fomentar el bienestar en el embarazo masculino.",
+    "10. Presidente: Incluirá cobertura médica completa y apoyo psicológico.",
+    "11. Presidente: También crearemos una red de acompañamiento y educación.",
+    "12. Presidente: Juntos construiremos un futuro inclusivo para todos.",
+    "13. Locutor: Esto fue la Cadena Nacional 2025 N1. Muchas gracias."
+```
+
 
 #### 🎭"05 Solos y Solas"
 
