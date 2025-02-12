@@ -4,12 +4,12 @@ Baile
 
 Elementos
 
-✴️-Flechas
+#### ✴️-Flechas
 
-✴️-Puntos,Combos y Fallos
+#### ✴️-Puntos,Combos y Fallos
 
-✴️-Nombre de Artista y Album
+#### ✴️-Nombre de Artista y Album
 
-✴️-Letra de Cancion
+#### ✴️-Letra de Cancion
 
-✴️-Fondo del Escenario
+#### ✴️-Fondo del Escenario
