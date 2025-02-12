@@ -198,6 +198,29 @@ Historias Unicas
 
 Locutor/es : 
 
+```
+"1. Locutor: Bienvenidos a Radio Antimainstream, donde las historias van más allá de lo común.",
+    "2. Locutor: Hoy les traemos una historia exclusiva desde el Barrio Viejo de Montevideo.",
+    "3. Locutor: Cerebrito y Wachin, dos chicos inquietos, van en busca de un árcade perdido.",
+    "4. Cerebrito: ¡Wachin, sabías que la historia de este lugar tiene tintes de lo que podría considerarse una 'alegoría'?",
+    "5. Wachin: ¡Che, ¿cómo vas a hablar así en este barrio?! ¡Cualquiera entiende lo que quiero decir, man!",
+    "6. Locutor: En un rincón oscuro del Barrio Viejo, los chicos encuentran la puerta de entrada.",
+    "7. Cerebrito: Este lugar parece fuera del tiempo. La decadencia misma puede considerarse una metáfora del presente.",
+    "8. Wachin: ¡Decadencia, ¿y qué?! ¡Lo que quiero es meterle una ficha a esa maquinita vieja, papá!",
+    "9. Locutor: En su recorrido, descubren una máquina antigua, cubierta de polvo.",
+    "10. Wachin: ¡¿Esta máquina está acá desde los años '80?! ¡Mirá la mugre que tiene! ¿Cuánto hace que nadie le pone una ficha?",
+    "11. Cerebrito: Este artefacto representa la esencia de lo perdido. Un relicto de un pasado aún por descifrar.",
+    "12. Locutor: Y justo cuando parecen estar por empezar, la máquina comienza a hablar...",
+    "13. Máquina: Bienvenidos, intrusos. ¿Están preparados para desafiar la inercia del tiempo?",
+    "14. Cerebrito: ¡Esto es fascinante! El aparato ha logrado trasgredir los límites de la razón y la física.",
+    "15. Wachin: ¡¿Qué está pasando?! ¿Quién te entiende, Cerebrito? ¡Cambiemos el rumbo, man!",
+    "16. Locutor: Aunque sorprendidos, Cerebrito y Wachin hallan una solución inesperada.",
+    "17. Cerebrito: Lo esencial es comprender que en el caos, la clave es el orden... en nuestra forma de actuar.",
+    "18. Wachin: ¡¿Qué?! ¡Yo solo quería jugar un rato tranquilo! ¡Dejá de hacerla tan difícil, Cerebrito!",
+    "19. Locutor: Al final, Cerebrito y Wachin logran salir del lugar, aunque con una nueva visión de la vida.",
+    "20. Cerebrito: A veces, lo que necesitamos no es entretenimiento, sino reflexión, para redescubrir el mundo.",
+    "21. Locutor: Así concluye esta historia de locura y nostalgia. ¡Nos vemos en la próxima transmisión de Radio Antimainstream!"
+```
 
 #### 🎭"10 Cine Ultra 8K"
 
