@@ -122,7 +122,7 @@ Aunque también tiene pequeñas ambientaciones en:
 
 ( Minijuego de Pinball. )
 
-Para más detalles sobre el pinball, consulta el [README del Pinball Minigame](https://github.com/Pascua2020/TIC80Sandbox/README-Pinball.md).
+Para más detalles sobre el pinball, consulta el [README del Pinball Minigame](https://github.com/Pascua2020/TIC80Sandbox/README-Pinball.MD).
 
 ![pinball](./Imagenes/MinijuegodePinball.jpg)
 
