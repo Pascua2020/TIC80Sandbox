@@ -34,14 +34,17 @@ Berna,Suiza
 
 2 colores por cada coche.
 
+![gtf1](./Imagenes/gtf1.png)
+![gtf2](./Imagenes/gtf2.png)
+
 #### ▶️-Direccion
 
 Normal o Inversa.
 
-![gtd01](./Imagenes/gtd1.png)
-![gtd02](./Imagenes/gtd2.png)
+![gte01](./Imagenes/gte1.png)
+![gte02](./Imagenes/gte2.png)
 
 #### ▶️-Con / Sin Lluvia
 
-![gte01](./Imagenes/gte1.png)
-![gte02](./Imagenes/gte2.png)
+![gtd01](./Imagenes/gtd1.png)
+![gtd02](./Imagenes/gtd2.png)
