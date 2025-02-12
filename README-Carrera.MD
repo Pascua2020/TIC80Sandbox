@@ -1,3 +1,3 @@
 Modo Carrera
 
-![gifgt](./Imagenes/gt.gif)
+![gifgt](./Imagenes/modocarrera.gif)
