@@ -364,7 +364,17 @@ Lofi
 Locutor/es : 
 
 ```
-
+"1. Locutor: Bienvenidos a 'Sonidos Pacíficos Animalunos',",
+    "2. Locutor: el programa donde los sonidos de la naturaleza toman protagonismo.",
+    "3. Locutor: Hoy les traemos una selección de los sonidos más pacíficos de nuestros amigos los animales.",
+    "4. Oink (Cerdo)",
+    "5. Auuuu (Lobo)",
+    "6. Miau (Gato)",
+    "7. Croac (Sapo)",
+    "8. Pío Pío (Pájaro)",
+    "9. Baaa (Oveja)",
+    "10. Beeep (Vaca)",
+    "11. Muuuu (Toro)"
 ```
 
 #### 🎭"17 Naturaleza Insolita"
