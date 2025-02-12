@@ -467,6 +467,32 @@ Terror Bizarro
 
 Locutor/es : Gallego
 
+```
+"1. Locutor gallego: Buenas noches, oyentes de 'Terror Absoluto',",
+    "2. Locutor gallego: el programa que les trae las historias más oscuras y aterradoras.",
+    "3. Locutor gallego: Esta noche les contaré una leyenda que nació en el corazón del conflicto.",
+    "4. Locutor gallego: Durante el bombardeo de la OTAN a Yugoslavia en 1999, en las sombras de la guerra,",
+    "5. Locutor gallego: surgió un ser extraño, un ente que pocos se atreverían a describir.",
+    "6. Locutor gallego: Conocido como el 'Condón Asesino', este ser no era un simple objeto,",
+    "7. Locutor gallego: sino una criatura viva, con una sed insaciable de venganza.",
+    "8. Locutor gallego: Nació de la desesperación, del sufrimiento de las víctimas inocentes,",
+    "9. Locutor gallego: y con su venganza, comenzó a cazar a quienes consideraba responsables de su creación.",
+    "10. Locutor gallego: Se decía que su cuerpo estaba formado por una piel extraña, elastica y retorcida,",
+    "11. Locutor gallego: y que su único propósito era eliminar a aquellos que se cruzaban en su camino.",
+    "12. Locutor gallego: Nadie sabe quién o qué lo había creado, pero su aparición fue un presagio de terror.",
+    "13. Locutor gallego: Los sobrevivientes hablan de una criatura que se arrastraba en la oscuridad,",
+    "14. Locutor gallego: acechando en las ruinas, buscando vengarse de aquellos que causaron tanto dolor.",
+    "15. Locutor gallego: Como un condón, se podía expandir y contraer, tomando diversas formas para",
+    "16. Locutor gallego: infiltrarse en los lugares más inaccesibles, dejando detrás un rastro de muerte.",
+    "17. Locutor gallego: El 'Condón Asesino' no era solo un símbolo de la guerra, sino una manifestación de su brutalidad.",
+    "18. Locutor gallego: Se decía que aquellos que lo tocaban caían instantáneamente en un estado de delirio mortal,",
+    "19. Locutor gallego: donde sus mentes se veían atrapadas por una pesadilla interminable.",
+    "20. Locutor gallego: Hoy, el 'Condón Asesino' sigue siendo un enigma, una leyenda que resuena en las sombras.",
+    "21. Locutor gallego: Algunos dicen que aún acecha entre las ruinas de Yugoslavia, esperando su próxima víctima.",
+    "22. Locutor gallego: No olviden, queridos oyentes, que el terror más grande nace de las guerras que olvidamos.",
+    "23. Locutor gallego: ¡Esto fue 'Terror Absoluto', hasta la próxima vez!"
+```
+
 
 #### 🎭"21 Radio Lenguaje de la vida"
 
