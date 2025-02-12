@@ -4,17 +4,17 @@ Modo Carrera
 
 Elementos
 
--Modo Carrera / Libre
+▶️-Modo Carrera / Libre
 
 Carrera: Dar vueltas en un escenario.
 
 Libre: Correr sin ningún objetivo.
 
--Pista
+▶️-Pista
 
 Berna,Suiza
 
--Coches
+▶️-Coches
 
 --Tochota Fulero ( Japón )
 
@@ -24,8 +24,8 @@ Berna,Suiza
 
 2 colores por cada coche.
 
--Direccion
+▶️-Direccion
 
 Normal o Inversa.
 
--Con / Sin Lluvia
+▶️-Con / Sin Lluvia
