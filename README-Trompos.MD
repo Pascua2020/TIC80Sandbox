@@ -16,7 +16,7 @@ Cada uno empieza con 100.
 
 #### 🎆-Circulos
 
-Agregan ( Circulo Rojo ) o quitan ( Circulo Azul ) vida al estar en ellos.
+Agregan ( Circulo Azul ) o quitan ( Circulo Rojo ) vida al estar en ellos.
 
 #### 🎆-Tiempo
 
