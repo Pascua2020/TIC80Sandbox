@@ -116,7 +116,17 @@ Relaciones Amorosas
 Locutor/es : Profesor Levantini y Profesora Dopamina
 
 ```
-
+"1. Locutor: Bienvenidos a 'Solos y Solas ;)',",
+    "2. Locutor: el programa donde exploramos cómo las relaciones van de mal en peor.",
+    "3. Locutor: Hoy tenemos una entrevista con Virgolini, quien nos contará una historia sorprendente.",
+    "4. Profesor Levantini: Bienvenido Virgolini, ¿puedes contarnos qué sucedió?",
+    "5. Virgolini: Claro, todo comenzó cuando le regalé 1000 USD a la persona que me interesaba.",
+    "6. Virgolini: Pensé que iba a ser un gesto de cariño, pero me respondió con un escopetazo.",
+    "7. Profesor Levantini: ¡Vaya, eso suena terrible! ¿Qué opinas sobre el estado actual de las relaciones?",
+    "8. Profesor Levantini: En estos tiempos, las relaciones casuales de 1 minuto están de moda.",
+    "9. Profesor Levantini: No es sorprendente que las cosas estén tan mal. Las expectativas son cada vez más bajas.",
+    "10. Profesora Dopamina: Es cierto, la gente busca conexiones instantáneas, pero se olvidan del valor real.",
+    "11. Locutor: Así concluye nuestra entrevista con Virgolini. Nos vemos la próxima vez.",
 ```
 
 #### 🎭"06 Desgracias Economicas"
