@@ -6,7 +6,7 @@ Radios
 
 Noticias Locales
 
-Locutor/es : 
+Locutor/es : Barcelo Monelli
 
 🎭"02 Radio Bajones"
 
@@ -24,14 +24,14 @@ Locutor/es :
 
 Cadena Nacional
 
-Locutor/es : 
+Locutor/es : Presidente
 
 
 🎭"05 Solos y Solas"
 
 Relaciones Amorosas
 
-Locutor/es : 
+Locutor/es : Profesor Levantini y Profesora Dopamina
 
 
 🎭"06 Desgracias Economicas"
@@ -66,14 +66,14 @@ Locutor/es :
 
 Cine
 
-Locutor/es : 
+Locutor/es : Adrian de la Trampa
 
 
 🎭"11 Destapando Curros"
 
 Investigaciones
 
-Locutor/es : 
+Locutor/es : Jorge Lanota
 
 
 🎭"12 Radio Grieta"
@@ -87,14 +87,14 @@ Locutor/es :
 
 Vida Real
 
-Locutor/es : 
+Locutor/es : Quien sabe
 
 
 🎭"14 La IA Avanza"
 
 No Humanos
 
-Locutor/es : 
+Locutor/es : I y A
 
 
 🎭"15 Jesus te Ama"
@@ -123,7 +123,7 @@ Locutor/es :
 
 Noticias Tristes
 
-Locutor/es : 
+Locutor/es : Amarguino y Juaquin
 
 
 🎭"19 Poesia Pixelar"
@@ -137,7 +137,7 @@ Locutor/es :
 
 Terror Bizarro
 
-Locutor/es : 
+Locutor/es : Gallego
 
 
 🎭"21 Radio Lenguaje de la vida"
