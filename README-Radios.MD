@@ -500,6 +500,20 @@ Idiomas
 
 Locutor/es : 
 
+```
+ "1. Locutor: Bienvenidos a 'Radio Lenguaje de la Vida',",
+    "2. Locutor: el programa donde exploramos historias únicas sobre idiomas y cultura.",
+    "3. Locutor: Hoy les traemos un relato fascinante sobre el idioma turro en Asia Oriental.",
+    "4. Locutor: En 1949, un turro argentino llamado Brian Turreti tuvo un encuentro fortuito con Mao Tse Tung.",
+    "5. Locutor: Sí, el mismísimo líder que estaba por declarar la independencia de la RP China.",
+    "6. Locutor: Turreti, conocido por su carisma y uso impecable del idioma turro,",
+    "7. Locutor: fue encomendado a una tarea crucial: redactar en turro la noticia de la independencia para las Américas.",
+    "8. Historiador: 'En un giro inesperado, Mao confió en Turreti porque no tenían traductores de inglés disponibles.'",
+    "9. Historiador: 'Turreti cumplió la misión con destreza, escribiendo una crónica vibrante y persuasiva.'",
+    "10. Locutor: Así, el idioma turro se convirtió en un puente cultural entre Asia y América.",
+    "11. Locutor: ¡Esto fue 'Radio Lenguaje de la Vida'! Nos vemos en la próxima historia."
+```
+
 
 #### 🎭"22 Comerciales Gamers"
 
