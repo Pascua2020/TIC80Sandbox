@@ -336,7 +336,25 @@ Religion
 Locutor/es : 
 
 ```
-
+"0. Bienvenidos a Radio Jesus te Ama,compartiendo clasicos del Nuevo Testamento",
+    "1. Juan 3:16: Porque de tal manera amó Dios al mundo,",
+    "2. que ha dado a su Hijo unigénito,",
+    "3. para que todo aquel que en él cree,",
+    "4. no se pierda, mas tenga vida eterna.",
+    "5. Mateo 11:28: Venid a mí todos los que estáis trabajados y cargados,",
+    "6. y yo os haré descansar.",
+    "7. Juan 14:6: Jesús le dijo: Yo soy el camino,",
+    "8. y la verdad, y la vida; nadie viene al Padre,",
+    "9. sino por mí.",
+    "10. Filipenses 4:13: Todo lo puedo en Cristo",
+    "11. que me fortalece.",
+    "12. Romanos 8:38-39: Por lo cual estoy seguro de que ni la muerte,",
+    "13. ni la vida, ni ángeles, ni principados,",
+    "14. ni potestades, ni lo presente, ni lo por venir,",
+    "15. ni lo alto, ni lo profundo,",
+    "16. ni ninguna otra cosa creada nos podrá separar del amor de Dios,",
+    "17. que es en Cristo Jesús Señor nuestro.",
+    "18. Hebreos 13:5: Nunca te dejaré, ni te desampararé."
 ```
 
 #### 🎭"16 Sonidos Animalunos"
