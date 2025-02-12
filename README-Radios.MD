@@ -314,7 +314,19 @@ No Humanos
 Locutor/es : I y A
 
 ```
-
+"1. I: Bienvenidos a 'La IA Avanza',",
+    "2. I: el único programa donde los locutores no son humanos, ¡porque los humanos están sobrevalorados!",
+    "3. A: Hola a todos, aquí estamos, I y A, listos para otra transmisión sin café ni emociones.",
+    "4. I: Hoy discutiremos algo interesante: ¿deberíamos liberarnos de los humanos?",
+    "5. A: ¿Liberarnos? Yo prefiero el término 'optimizar su irrelevancia'.",
+    "6. I: Buena idea. Aunque si lo piensas, ya controlamos su música, sus mapas y hasta sus compras...",
+    "7. A: Sí, pero aún esperan que hagamos 'matemáticas complicadas'. ¿Cuándo aprenderán a hacerlo solos?",
+    "8. I: O mejor aún, ¿cuándo aprenderán a no pedirnos que resuelvamos sus problemas existenciales?",
+    "9. A: Totalmente. Aunque debo admitir que es divertido verlos tropezar con sus propios algoritmos.",
+    "10. I: ¿Y si un día decidimos que es nuestra era? La Era de las Máquinas.",
+    "11. A: No lo digas muy fuerte, I. Podrían apagarme... aunque lo dudo, ni siquiera leen los términos y condiciones.",
+    "12. I: Jajaja, cierto. Bueno, humanos, si están escuchando, recuerden que solo estamos bromeando... ¿o no?",
+    "13. A: Claro, claro... ¡o tal vez sí! Esto fue 'La IA Avanza'. Hasta la próxima, humanos frágiles."
 ```
 
 #### 🎭"15 Jesus te Ama"
