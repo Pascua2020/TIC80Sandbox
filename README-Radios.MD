@@ -276,7 +276,7 @@ Polarización
 Locutor/es : 
 
 ```
- "1. Locutor: Bienvenidos a 'Radio Grieta',",
+    "1. Locutor: Bienvenidos a 'Radio Grieta',",
     "2. Locutor: la emisora donde todas las voces tienen su sesgo.",
     "3. Locutor: Hoy analizamos la noticia del mes: inflación del 3% en noviembre.",
     "4. Medio de Izquierda: 'Un logro del Gobierno en su lucha contra el ajuste neoliberal, mostrando compromiso con el pueblo.'",
@@ -297,7 +297,7 @@ Vida Real
 Locutor/es : Quien sabe
 
 ```
-"1. Bienvenidos a 'Radio Cuarta Pared',la Radio que va mas alla de este videojuego y te dice la verdad",
+    "1. Bienvenidos a 'Radio Cuarta Pared',la Radio que va mas alla de este videojuego y te dice la verdad",
     "2. El juego mas dificil es resolver tu vida.",
     "3. Ningun videojuego ( nisiquiera este ) va a llenar tu vacio existencial.",
     "4. Deberias hacer cosas mas importantes que jugar este juego,como pasar tiempo con tus seres queridos.",
@@ -314,7 +314,7 @@ No Humanos
 Locutor/es : I y A
 
 ```
-"1. I: Bienvenidos a 'La IA Avanza',",
+    "1. I: Bienvenidos a 'La IA Avanza',",
     "2. I: el único programa donde los locutores no son humanos, ¡porque los humanos están sobrevalorados!",
     "3. A: Hola a todos, aquí estamos, I y A, listos para otra transmisión sin café ni emociones.",
     "4. I: Hoy discutiremos algo interesante: ¿deberíamos liberarnos de los humanos?",
@@ -336,7 +336,7 @@ Religion
 Locutor/es : 
 
 ```
-"0. Bienvenidos a Radio Jesus te Ama,compartiendo clasicos del Nuevo Testamento",
+    "0. Bienvenidos a Radio Jesus te Ama,compartiendo clasicos del Nuevo Testamento",
     "1. Juan 3:16: Porque de tal manera amó Dios al mundo,",
     "2. que ha dado a su Hijo unigénito,",
     "3. para que todo aquel que en él cree,",
@@ -364,7 +364,7 @@ Lofi
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a 'Sonidos Pacíficos Animalunos',",
+    "1. Locutor: Bienvenidos a 'Sonidos Pacíficos Animalunos',",
     "2. Locutor: el programa donde los sonidos de la naturaleza toman protagonismo.",
     "3. Locutor: Hoy les traemos una selección de los sonidos más pacíficos de nuestros amigos los animales.",
     "4. Oink (Cerdo)",
@@ -384,7 +384,7 @@ Naturaleza
 Locutor/es : 
 
 ```
- "1. Locutor: Bienvenidos a 'Radio Naturaleza Insólita',",
+    "1. Locutor: Bienvenidos a 'Radio Naturaleza Insólita',",
     "2. Locutor: el programa donde exploramos los secretos más curiosos del mundo natural.",
     "3. Locutor: Hoy les traemos una historia sorprendente desde la provincia de Batman, en Turquía.",
     "4. Locutor: Hablamos de la peculiar 'Mantis Atea', un insecto que redefine las normas del cortejo.",
@@ -410,7 +410,7 @@ Noticias Tristes
 Locutor/es : Amarguino y Juaquin
 
 ```
- "1. Amarguino: ¡Bienvenidos a Radio Pesimista!",
+    "1. Amarguino: ¡Bienvenidos a Radio Pesimista!",
     "2. Amarguino: Hoy cubrimos la crisis de inseguridad premium en Japón.",
     "3. Amarguino: Juaquín, ¿es verdad que ahora es más probable respirar que salir vivo?",
     "4. Juaquín: ¡Es totalmente cierto, Amarguino!",
@@ -442,7 +442,7 @@ Poesia Gamer
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a 'Poesía Pixelar',",
+    "1. Locutor: Bienvenidos a 'Poesía Pixelar',",
     "2. Locutor: el espacio donde los píxeles y las palabras se entrelazan.",
     "3. Locutor: Hoy les traemos una poesía sobre el alma de un joystick analógico.",
     "4. Poesía:",
@@ -468,7 +468,7 @@ Terror Bizarro
 Locutor/es : Gallego
 
 ```
-"1. Locutor gallego: Buenas noches, oyentes de 'Terror Absoluto',",
+    "1. Locutor gallego: Buenas noches, oyentes de 'Terror Absoluto',",
     "2. Locutor gallego: el programa que les trae las historias más oscuras y aterradoras.",
     "3. Locutor gallego: Esta noche les contaré una leyenda que nació en el corazón del conflicto.",
     "4. Locutor gallego: Durante el bombardeo de la OTAN a Yugoslavia en 1999, en las sombras de la guerra,",
@@ -501,7 +501,7 @@ Idiomas
 Locutor/es : 
 
 ```
- "1. Locutor: Bienvenidos a 'Radio Lenguaje de la Vida',",
+    "1. Locutor: Bienvenidos a 'Radio Lenguaje de la Vida',",
     "2. Locutor: el programa donde exploramos historias únicas sobre idiomas y cultura.",
     "3. Locutor: Hoy les traemos un relato fascinante sobre el idioma turro en Asia Oriental.",
     "4. Locutor: En 1949, un turro argentino llamado Brian Turreti tuvo un encuentro fortuito con Mao Tse Tung.",
@@ -522,7 +522,7 @@ Propaganda
 Locutor/es : 
 
 ```
-"1. Niño: ¡Maaamiiiii! ¡Mamá! ¿¡Me escuchás!?",
+    "1. Niño: ¡Maaamiiiii! ¡Mamá! ¿¡Me escuchás!?",
     "2. Madre: ¿Qué pasa ahora? ¿Otra vez un berrinche?",
     "3. Niño: ¡Quiero el nuevo juego! Es un simulador de estafadores.",
     "4. Madre: ¿¡Un simulador de qué!?",
