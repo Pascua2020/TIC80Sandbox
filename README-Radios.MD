@@ -409,6 +409,31 @@ Noticias Tristes
 
 Locutor/es : Amarguino y Juaquin
 
+```
+ "1. Amarguino: ¡Bienvenidos a Radio Pesimista!",
+    "2. Amarguino: Hoy cubrimos la crisis de inseguridad premium en Japón.",
+    "3. Amarguino: Juaquín, ¿es verdad que ahora es más probable respirar que salir vivo?",
+    "4. Juaquín: ¡Es totalmente cierto, Amarguino!",
+    "5. Juaquín: En Japón, hasta las sombras son peligrosas.",
+    "6. Amarguino: ¡Increíble! Dicen que caminar de noche equivale a un deporte extremo.",
+    "7. Juaquín: ¡Exacto! La gente lleva seguro de vida solo para salir a comprar pan.",
+    "8. Amarguino: ¿Y qué pasa con las calles? ¿Son una zona de guerra?",
+    "9. Juaquín: Peor, Amarguino. En las calles japonesas, el aire te asfixia de puro estrés.",
+    "10. Amarguino: ¡Una locura! ¿Qué hace el gobierno al respecto?",
+    "11. Juaquín: Nada. Proponen distribuir chalecos antibalas como uniforme escolar.",
+    "12. Amarguino: ¡Pero los chalecos no protegen el alma de tanto miedo!",
+    "13. Juaquín: Así es, Amarguino. Los niños ya no aprenden a sumar, sino a esquivar.",
+    "14. Amarguino: ¡Qué mundo, Juaquín! ¿Qué dicen las estadísticas?",
+    "15. Juaquín: Escalofriantes. Una persona en Japón tiene más chance de ser robada que de encontrar el amor.",
+    "16. Amarguino: ¡Eso explica el récord de ventas de robots de compañía!",
+    "17. Juaquín: Exacto. Hasta los robots tienen miedo de salir de sus cajas.",
+    "18. Amarguino: ¿Y el futuro, Juaquín? ¿Hay esperanza?",
+    "19. Juaquín: Ninguna, Amarguino. Japón será el primer país donde la paz sea un mito.",
+    "20. Amarguino: ¡Impactante! Últimas palabras, Juaquín.",
+    "21. Juaquín: Si respiran, dense por agradecidos. Esto fue Radio Pesimista.",
+    "22. Amarguino: Hasta nunca, queridos oyentes. Esto es el fin."
+```
+
 
 #### 🎭"19 Poesia Pixelar"
 
