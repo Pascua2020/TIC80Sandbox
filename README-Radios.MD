@@ -8,6 +8,35 @@ Noticias Locales
 
 Locutor/es : Barcelo Monelli
 
+```
+"1. Barcelo: ¡Urgente en Todo Vardo!",
+    "2. Barcelo: Estamos en vivo con Juan Garcamaru.",
+    "3. Barcelo: Juan, ¿qué está pasando con las galletitas CULO?",
+    "4. Juan: Buenas tardes, Barcelo. La inflación nos está destruyendo.",
+    "5. Barcelo: ¿Inflación del 1200%? ¿Cómo afecta esto a las ventas?",
+    "6. Juan: Nadie compra. Antes eran 50 pesos, ahora 15 mil.",
+    "7. Barcelo: ¡Es una locura! ¿Qué dice la empresa?",
+    "8. Juan: La empresa está considerando cambiar el nombre.",
+    "9. Barcelo: ¿El nombre? ¿Cómo lo cambiarían?",
+    "10. Juan: Quizás 'Delicias Niponas'. Algo más refinado.",
+    "11. Barcelo: Pero el nombre CULO es histórico...",
+    "12. Juan: Lo sabemos, pero el público lo asocia con inflación.",
+    "13. Barcelo: ¿Qué piensa hacer la empresa para sobrevivir?",
+    "14. Juan: Estamos lanzando galletitas más pequeñas.",
+    "15. Barcelo: ¿Más pequeñas? ¿Y el precio?",
+    "16. Juan: Más caras, claro. ¡No tenemos opción!",
+    "17. Barcelo: ¿Y qué dice el gobierno sobre esta crisis?",
+    "18. Juan: Nos prometieron subsidios, pero nunca llegaron.",
+    "19. Barcelo: ¿Creen que podrán superar esta situación?",
+    "20. Juan: Es difícil, pero confiamos en el mercado nipón.",
+    "21. Barcelo: ¿Exportarían galletitas CULO a Japón?",
+    "22. Juan: Sí, allá el nombre sería un éxito.",
+    "23. Barcelo: ¡Esto es increíble! Últimas palabras, Juan.",
+    "24. Juan: Coman CULO, mientras puedan pagarlas.",
+    "25. Barcelo: Seguiremos informando. Esto fue Todo Vardo."
+}
+```
+
 #### 🎭"02 Radio Bajones"
 
 Tango
