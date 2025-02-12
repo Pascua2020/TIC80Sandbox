@@ -143,6 +143,8 @@ Economia
 
 Locutor/es : 
 
+![r06](./Imagenes/r06.gif)
+
 ```
     "1. Locutor: Bienvenidos a 'Desgracias Económicas',",
     "2. Locutor: el programa donde analizamos las cotizaciones del dólar en tiempo real.",
@@ -163,6 +165,8 @@ Historia
 
 Locutor/es : 
 
+![r07](./Imagenes/r07.gif)
+
 ```
     "1. Locutor: Bienvenidos a 'Joyas de la Historia Argentina Desconocidas',",
     "2. Locutor: el programa que descubre las historias que la historia nunca contó.",
@@ -182,6 +186,8 @@ Locutor/es :
 Internacional
 
 Locutor/es : 
+
+![r08](./Imagenes/r08.gif)
 
 ```
     "1. Locutor: Bienvenidos a 'No me Importa',",
@@ -205,6 +211,8 @@ Locutor/es :
 Historias Unicas
 
 Locutor/es : 
+
+![r09](./Imagenes/r09.gif)
 
 ```
     "1. Locutor: Bienvenidos a Radio Antimainstream, donde las historias van más allá de lo común.",
@@ -235,6 +243,8 @@ Locutor/es :
 Cine
 
 Locutor/es : Adrian de la Trampa
+
+![r10](./Imagenes/r10.gif)
 
 ```
     "1. Locutor: Bienvenidos a Cine Ultra 8K, la radio del cine más grande y brillante.",
