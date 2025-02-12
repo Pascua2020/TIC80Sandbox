@@ -175,6 +175,22 @@ Internacional
 
 Locutor/es : 
 
+```
+"1. Locutor: Bienvenidos a 'No me Importa',",
+    "2. Locutor: el espacio que te mantiene informado, sin importar cuán irrelevante sea.",
+    "3. Locutor: Hoy, en noticias internacionales, nos llega una actualización impactante desde Europa.",
+    "4. Locutor: En el año 2025, Suiza y Noruega han comenzado una guerra sin precedentes,",
+    "5. Locutor: una guerra en la que se utilizan huevos de pascua bomba como armas de destrucción masiva.",
+    "6. Locutor: Según fuentes confiables, los huevos de pascua bomba tienen una gran capacidad de explosión,",
+    "7. Locutor: y han sido utilizados por ambos países en una serie de ataques sorpresivos.",
+    "8. Locutor: La situación ha escalado rápidamente, con ambos bandos desplegando ejércitos enteros de huevos de pascua.",
+    "9. Locutor: Los analistas internacionales aseguran que es la guerra más surrealista de la historia reciente.",
+    "10. Locutor: Los expertos en armamento explican que la efectividad de estos huevos de pascua bomba",
+    "11. Locutor: se debe a su capacidad de camuflaje, ya que son difíciles de detectar antes de su explosión.",
+    "12. Locutor: En un giro inesperado, los líderes de ambos países han llamado a una tregua para negociar...",
+    "13. Locutor: ...pero hasta ahora no ha habido avances significativos.",
+    "14. Locutor: Esto fue 'No me Importa'. Mantente al tanto de lo que realmente no te importa."
+```
 
 #### 🎭"09 Radio Antimainstream"
 
