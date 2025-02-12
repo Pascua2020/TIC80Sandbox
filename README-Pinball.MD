@@ -40,6 +40,8 @@ Por donde cae la bola y se pierde una vida.
 Al rebotar múltiples veces la bola se generan combos.
 Al subir de niveles se multiplican los puntos recibidos.
 
+![pinball-6](./Imagenes/pinball-6.jpg)
+
 Puntos necesarios para subir de Nivel :
 ```
 NV2=300
@@ -56,6 +58,8 @@ NV9=15000
 Se van completando con cada Rebote.
 Al completarse el jugador gana puntos y se empieza a completar otra frase.
 
+![pinball-7](./Imagenes/pinball-7.jpg)
+
 ```
 "Tecnofeudalismo",
 "Cuchi Cuchi Cuchi",
@@ -70,6 +74,7 @@ Al completarse el jugador gana puntos y se empieza a completar otra frase.
 
 Se reproduce mientras el jugador está jugando.
 
+![pinball-8](./Imagenes/pinball-8.jpg)
 ``` 
 "1- Rap del pinball en Buenos Aires",
 "2- Pinball por aqui, pinball por alla!",
