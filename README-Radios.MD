@@ -278,6 +278,7 @@ Locutor/es :
 ```
     "1. Locutor: Bienvenidos a 'Radio Grieta',",
     "2. Locutor: la emisora donde todas las voces tienen su sesgo.",
+    --Primer noticia
     "3. Locutor: Hoy analizamos la noticia del mes: inflación del 3% en noviembre.",
     "4. Medio de Izquierda: 'Un logro del Gobierno en su lucha contra el ajuste neoliberal, mostrando compromiso con el pueblo.'",
     "5. Medio de Derecha: 'Otro fracaso en la economía, reflejando la incapacidad del Gobierno para controlar la inflación.'",
