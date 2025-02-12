@@ -4,12 +4,12 @@ Trompos
 
 Elementos
 
--Trompos
+🎆-Trompos
 
--Vida
+🎆-Vida
 
--Circulos
+🎆-Circulos
 
--Tiempo
+🎆-Tiempo
 
--Rap
+🎆-Rap
