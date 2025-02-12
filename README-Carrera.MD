@@ -6,7 +6,11 @@ Elementos
 
 #### ▶️-Modo Carrera / Libre
 
+![gt01](./Imagenes/gt01.png)
+
 Carrera: Dar vueltas en un escenario.
+
+![gt02](./Imagenes/gt02.png)
 
 Libre: Correr sin ningún objetivo.
 
@@ -14,11 +18,17 @@ Libre: Correr sin ningún objetivo.
 
 Berna,Suiza
 
+![gtb01](./Imagenes/gtb01.png)
+
 #### ▶️-Coches
 
 --Tochota Fulero ( Japón )
 
+![gtc01](./Imagenes/gtc01.png)
+
 --ZhoZho EgoEgo ( China )
+
+![gtc02](./Imagenes/gtc02.png)
 
 --Color
 
@@ -28,4 +38,10 @@ Berna,Suiza
 
 Normal o Inversa.
 
+![gtd01](./Imagenes/gtd01.png)
+![gtd02](./Imagenes/gtd02.png)
+
 #### ▶️-Con / Sin Lluvia
+
+![gte01](./Imagenes/gte01.png)
+![gte02](./Imagenes/gte02.png)
