@@ -7,7 +7,7 @@ Radios
 Noticias Locales
 
 Locutor/es : Barcelo Monelli
-
+![r01](./Imagenes/r01.gif)
 ```
     "1. Barcelo: ¡Urgente en Todo Vardo!",
     "2. Barcelo: Estamos en vivo con Juan Garcamaru.",
@@ -43,6 +43,8 @@ Tango
 
 Locutor/es : 
 
+![r02](./Imagenes/r02.gif)
+
 ```
     "1. Locutor: Desde Radio Bajones les traemos esto para amargarles el día. Buena tarde.",
     "2. Locutor: Hoy les presentamos a Bajolini, quien nos cantará su tema 'Mi Querido Pinball'.",
@@ -71,6 +73,8 @@ Trap
 
 Locutor/es : 
 
+![r03](./Imagenes/r03.gif)
+
 ```
     "1. Locutor: Bienvenidos a Radio Poesía de la Calle, donde la calle tiene voz.",
     "2. Locutor: Hoy les traemos el último éxito del dúo ruso-senegalés.",
@@ -91,6 +95,8 @@ Locutor/es :
 Cadena Nacional
 
 Locutor/es : Presidente
+
+![r04](./Imagenes/r04.gif)
 
 ```
     "1. Locutor: De acuerdo a la ley 24.422, que regula la radiodifusión en Argentina,",
@@ -114,6 +120,8 @@ Locutor/es : Presidente
 Relaciones Amorosas
 
 Locutor/es : Profesor Levantini y Profesora Dopamina
+
+![r05](./Imagenes/r05.gif)
 
 ```
     "1. Locutor: Bienvenidos a 'Solos y Solas ;)',",
