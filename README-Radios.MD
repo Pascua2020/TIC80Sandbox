@@ -9,7 +9,7 @@ Noticias Locales
 Locutor/es : Barcelo Monelli
 
 ```
-"1. Barcelo: ¡Urgente en Todo Vardo!",
+    "1. Barcelo: ¡Urgente en Todo Vardo!",
     "2. Barcelo: Estamos en vivo con Juan Garcamaru.",
     "3. Barcelo: Juan, ¿qué está pasando con las galletitas CULO?",
     "4. Juan: Buenas tardes, Barcelo. La inflación nos está destruyendo.",
@@ -44,7 +44,7 @@ Tango
 Locutor/es : 
 
 ```
-"1. Locutor: Desde Radio Bajones les traemos esto para amargarles el día. Buena tarde.",
+    "1. Locutor: Desde Radio Bajones les traemos esto para amargarles el día. Buena tarde.",
     "2. Locutor: Hoy les presentamos a Bajolini, quien nos cantará su tema 'Mi Querido Pinball'.",
     "3. Locutor: 'Mi Querido Pinball' es una canción melancólica sobre un juego de cartas que se fue perdiendo con el tiempo.",
     "4. Locutor: Pero antes de escuchar a Bajolini, les dejamos con un vistazo al juego de cartas...",
@@ -72,7 +72,7 @@ Trap
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a Radio Poesía de la Calle, donde la calle tiene voz.",
+    "1. Locutor: Bienvenidos a Radio Poesía de la Calle, donde la calle tiene voz.",
     "2. Locutor: Hoy les traemos el último éxito del dúo ruso-senegalés.",
     "3. Locutor: La canción se llama 'Ojiva Nuclear', un trap erótico que lo tiene todo.",
     "4. Duo: (Cantando) 'Ella sabe por qué usa la IA,'",
@@ -93,7 +93,7 @@ Cadena Nacional
 Locutor/es : Presidente
 
 ```
-"1. Locutor: De acuerdo a la ley 24.422, que regula la radiodifusión en Argentina,",
+    "1. Locutor: De acuerdo a la ley 24.422, que regula la radiodifusión en Argentina,",
     "2. Locutor: transmitimos esta Cadena Nacional 2025 N1 en vivo para toda la nación.",
     "3. Locutor: En esta histórica transmisión, el Presidente Armando Gene Tinoman nos hablará.",
     "4. Presidente: Buenas noches a todos los argentinos y argentinas.",
@@ -116,7 +116,7 @@ Relaciones Amorosas
 Locutor/es : Profesor Levantini y Profesora Dopamina
 
 ```
-"1. Locutor: Bienvenidos a 'Solos y Solas ;)',",
+    "1. Locutor: Bienvenidos a 'Solos y Solas ;)',",
     "2. Locutor: el programa donde exploramos cómo las relaciones van de mal en peor.",
     "3. Locutor: Hoy tenemos una entrevista con Virgolini, quien nos contará una historia sorprendente.",
     "4. Profesor Levantini: Bienvenido Virgolini, ¿puedes contarnos qué sucedió?",
@@ -136,7 +136,7 @@ Economia
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a 'Desgracias Económicas',",
+    "1. Locutor: Bienvenidos a 'Desgracias Económicas',",
     "2. Locutor: el programa donde analizamos las cotizaciones del dólar en tiempo real.",
     "3. Locutor: Hoy, las cotizaciones del dólar están por las nubes.",
     "4. Locutor: Dólar Otaku: 10000 pesos.",
@@ -156,7 +156,7 @@ Historia
 Locutor/es : 
 
 ```
- "1. Locutor: Bienvenidos a 'Joyas de la Historia Argentina Desconocidas',",
+    "1. Locutor: Bienvenidos a 'Joyas de la Historia Argentina Desconocidas',",
     "2. Locutor: el programa que descubre las historias que la historia nunca contó.",
     "3. Locutor: Hoy les traemos una increíble anécdota sobre el General San Martín.",
     "4. Locutor: En una entrevista exclusiva con el historiador Damian Blablaman,",
@@ -176,7 +176,7 @@ Internacional
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a 'No me Importa',",
+    "1. Locutor: Bienvenidos a 'No me Importa',",
     "2. Locutor: el espacio que te mantiene informado, sin importar cuán irrelevante sea.",
     "3. Locutor: Hoy, en noticias internacionales, nos llega una actualización impactante desde Europa.",
     "4. Locutor: En el año 2025, Suiza y Noruega han comenzado una guerra sin precedentes,",
@@ -199,7 +199,7 @@ Historias Unicas
 Locutor/es : 
 
 ```
-"1. Locutor: Bienvenidos a Radio Antimainstream, donde las historias van más allá de lo común.",
+    "1. Locutor: Bienvenidos a Radio Antimainstream, donde las historias van más allá de lo común.",
     "2. Locutor: Hoy les traemos una historia exclusiva desde el Barrio Viejo de Montevideo.",
     "3. Locutor: Cerebrito y Wachin, dos chicos inquietos, van en busca de un árcade perdido.",
     "4. Cerebrito: ¡Wachin, sabías que la historia de este lugar tiene tintes de lo que podría considerarse una 'alegoría'?",
@@ -229,7 +229,7 @@ Cine
 Locutor/es : Adrian de la Trampa
 
 ```
-"1. Locutor: Bienvenidos a Cine Ultra 8K, la radio del cine más grande y brillante.",
+    "1. Locutor: Bienvenidos a Cine Ultra 8K, la radio del cine más grande y brillante.",
     "2. Locutor: Hoy tenemos el honor de entrevistar a uno de los íconos del cine de acción.",
     "3. Locutor: ¡Adrián Delatrampa entrevista al gran actor estadounidense, Silvestre Stacchotta!",
     "4. Adrián Delatrampa: ¡Silvestre! Un placer tenerte en nuestros micrófonos.",
@@ -257,7 +257,7 @@ Investigaciones
 Locutor/es : Jorge Lanota
 
 ```
-"1. Locutor: Bienvenidos a Radio Destapando Curros, donde nada se esconde.",
+    "1. Locutor: Bienvenidos a Radio Destapando Curros, donde nada se esconde.",
     "2. Locutor: Hoy les traemos un comercial exclusivo de nuestro periodista Jorge LaNota.",
     "3. Jorge LaNota: Hola, soy Jorge LaNota, y tengo una fascinación enfermiza por destapar los culos sucios de la política argentina.",
     "4. Jorge LaNota: He viajado por todo el mundo, infiltrándome en los rincones más oscuros para exponer la verdad.",
