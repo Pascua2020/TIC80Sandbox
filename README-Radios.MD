@@ -274,6 +274,7 @@ Investigaciones
 
 Locutor/es : Jorge Lanota
 
+![r11](./Imagenes/r11.gif)
 ```
     "1. Locutor: Bienvenidos a Radio Destapando Curros, donde nada se esconde.",
     "2. Locutor: Hoy les traemos un comercial exclusivo de nuestro periodista Jorge LaNota.",
@@ -292,6 +293,8 @@ Locutor/es : Jorge Lanota
 Polarización
 
 Locutor/es : 
+
+![r12](./Imagenes/r12.gif)
 
 ```
     "1. Locutor: Bienvenidos a 'Radio Grieta',",
@@ -315,6 +318,8 @@ Vida Real
 
 Locutor/es : Quien sabe
 
+![r13](./Imagenes/r13.gif)
+
 ```
     "1. Bienvenidos a 'Radio Cuarta Pared',la Radio que va mas alla de este videojuego y te dice la verdad",
     "2. El juego mas dificil es resolver tu vida.",
@@ -331,6 +336,8 @@ Locutor/es : Quien sabe
 No Humanos
 
 Locutor/es : I y A
+
+![r14](./Imagenes/r14.gif)
 
 ```
     "1. I: Bienvenidos a 'La IA Avanza',",
@@ -353,6 +360,8 @@ Locutor/es : I y A
 Religion
 
 Locutor/es : 
+
+![r15](./Imagenes/r15.gif)
 
 ```
     "0. Bienvenidos a Radio Jesus te Ama,compartiendo clasicos del Nuevo Testamento",
@@ -382,6 +391,8 @@ Lofi
 
 Locutor/es : 
 
+![r16](./Imagenes/r16.gif)
+
 ```
     "1. Locutor: Bienvenidos a 'Sonidos Pacíficos Animalunos',",
     "2. Locutor: el programa donde los sonidos de la naturaleza toman protagonismo.",
@@ -401,6 +412,8 @@ Locutor/es :
 Naturaleza
 
 Locutor/es : 
+
+![r17](./Imagenes/r17.gif)
 
 ```
     "1. Locutor: Bienvenidos a 'Radio Naturaleza Insólita',",
@@ -427,6 +440,7 @@ Locutor/es :
 Noticias Tristes
 
 Locutor/es : Amarguino y Juaquin
+
 
 ```
     "1. Amarguino: ¡Bienvenidos a Radio Pesimista!",
@@ -459,6 +473,8 @@ Locutor/es : Amarguino y Juaquin
 Poesia Gamer
 
 Locutor/es : 
+
+![r19](./Imagenes/r19.gif)
 
 ```
     "1. Locutor: Bienvenidos a 'Poesía Pixelar',",
@@ -519,6 +535,8 @@ Idiomas
 
 Locutor/es : 
 
+![r21](./Imagenes/r21.gif)
+
 ```
     "1. Locutor: Bienvenidos a 'Radio Lenguaje de la Vida',",
     "2. Locutor: el programa donde exploramos historias únicas sobre idiomas y cultura.",
@@ -539,6 +557,8 @@ Locutor/es :
 Propaganda
 
 Locutor/es : 
+
+![r22](./Imagenes/r22.gif)
 
 ```
     "1. Niño: ¡Maaamiiiii! ¡Mamá! ¿¡Me escuchás!?",
