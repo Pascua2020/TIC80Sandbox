@@ -228,6 +228,27 @@ Cine
 
 Locutor/es : Adrian de la Trampa
 
+```
+"1. Locutor: Bienvenidos a Cine Ultra 8K, la radio del cine más grande y brillante.",
+    "2. Locutor: Hoy tenemos el honor de entrevistar a uno de los íconos del cine de acción.",
+    "3. Locutor: ¡Adrián Delatrampa entrevista al gran actor estadounidense, Silvestre Stacchotta!",
+    "4. Adrián Delatrampa: ¡Silvestre! Un placer tenerte en nuestros micrófonos.",
+    "5. Silvestre Stacchotta: Gracias, Adrián, es un gusto estar aquí. Siempre es bueno estar cerca de los fans de cine.",
+    "6. Adrián Delatrampa: Estás a punto de protagonizar una película muy esperada, *Mambo*, ¿qué nos puedes contar sobre tu personaje?",
+    "7. Silvestre Stacchotta: Bueno, mi personaje, ¡es un tipo rudo! Pero también tiene un toque de sensibilidad que creo que va a sorprender a la gente.",
+    "8. Adrián Delatrampa: ¡Eso suena increíble! ¿Cómo te preparaste para este papel? ¿Hubo algún desafío particular?",
+    "9. Silvestre Stacchotta: Claro, la preparación fue intensa. Pasé semanas entrenando para las escenas de acción, pero también me enfoqué mucho en la psicología de mi personaje.",
+    "10. Adrián Delatrampa: ¡Increíble! Sabemos que la película se estrenará en cines argentinos el 32 de enero, ¡algo que los fans esperan con ansias!",
+    "11. Silvestre Stacchotta: Así es. ¡Será un estreno espectacular! Y creo que los argentinos van a disfrutar mucho de la acción, pero también de las emociones profundas que muestra la película.",
+    "12. Adrián Delatrampa: ¿Podrías darnos un adelanto de alguna de las escenas más épicas de *Mambo*?",
+    "13. Silvestre Stacchotta: ¡Hay una escena en la que me enfrento a un ejército de villanos usando una motosierra! Pero lo más épico es cuando mi personaje decide dar un giro inesperado y se convierte en un líder.",
+    "14. Adrián Delatrampa: ¡Eso suena a lo grande! Silvestre, ¿qué es lo que más te atrae de los papeles de acción como los que interpretas?",
+    "15. Silvestre Stacchotta: Me encanta mostrar que los héroes no tienen que ser perfectos. Son humanos, con fallos y debilidades. Pero también con una gran determinación.",
+    "16. Adrián Delatrampa: Definitivamente eso resuena con el público. ¡No podemos esperar para ver *Mambo* en la pantalla grande!",
+    "17. Silvestre Stacchotta: ¡Gracias! Estoy muy emocionado de que la gente vea la película. ¡Seguro que va a ser un gran éxito!",
+    "18. Adrián Delatrampa: ¡Muchísimas gracias por tu tiempo, Silvestre! Y a todos nuestros oyentes, ¡no se olviden de ir al cine el 32 de enero para disfrutar de *Mambo*!",
+    "19. Locutor: Así finaliza esta increíble entrevista con Silvestre Stacchotta. ¡Nos vemos en la próxima transmisión de Cine Ultra 8K!"
+```
 
 #### 🎭"11 Destapando Curros"
 
