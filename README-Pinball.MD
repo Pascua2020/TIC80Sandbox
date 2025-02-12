@@ -29,10 +29,20 @@ Por donde cae la bola y se pierde una vida.
 Al rebotar múltiples veces la bola se generan combos.
 Al subir de niveles se multiplican los puntos recibidos.
 
-#### ✨️-Frase a Completar
+#### ✨️-Frase a Completar ( Hashtags )
 
 Se van completando con cada Rebote.
 Al completarse el jugador gana puntos y se empieza a completar otra frase.
+
+```
+"Tecnofeudalismo",
+"Cuchi Cuchi Cuchi",
+"No seas gilipollas",
+"Viva el britpop",
+"Party Hard",
+"Usa condon,no seas pelotudo",
+"Soy la hostia tio"
+```
 
 #### ✨️-Rap
 
