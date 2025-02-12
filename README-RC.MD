@@ -1,3 +1,3 @@
 RC
 
-![rc](./Imagenes/rc.gif)
+![rc](./Imagenes/1.gif)
