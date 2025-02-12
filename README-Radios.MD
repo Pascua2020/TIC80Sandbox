@@ -156,7 +156,17 @@ Historia
 Locutor/es : 
 
 ```
-
+ "1. Locutor: Bienvenidos a 'Joyas de la Historia Argentina Desconocidas',",
+    "2. Locutor: el programa que descubre las historias que la historia nunca contó.",
+    "3. Locutor: Hoy les traemos una increíble anécdota sobre el General San Martín.",
+    "4. Locutor: En una entrevista exclusiva con el historiador Damian Blablaman,",
+    "5. Locutor: nos cuenta cómo San Martín, tras una revalorización del idioma Turro Rioplatense en Asia Oriental,",
+    "6. Locutor: se animó a hablar en este idioma en un evento internacional.",
+    "7. Damian Blablaman: 'San Martín, conocido por su astucia y liderazgo, en este evento histórico,",
+    "8. Damian Blablaman: sorprendió a todos cuando, con total seguridad, habló en Turro Rioplatense, un idioma casi olvidado'.",
+    "9. Damian Blablaman: 'Este hecho no solo marcó un hito en la historia argentina, sino también en la revalorización de lenguas olvidadas.'",
+    "10. Locutor: Una historia fascinante que pone en perspectiva la importancia de nuestra identidad cultural.",
+    "11. Locutor: ¡Esto fue 'Joyas de la Historia Argentina Desconocidas'! No se lo pierdan la próxima vez."
 ```
 
 #### 🎭"08 No me Importa"
