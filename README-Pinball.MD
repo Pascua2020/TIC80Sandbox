@@ -38,9 +38,9 @@ Al completarse el jugador gana puntos y se empieza a completar otra frase.
 
 Se reproduce mientras el jugador está jugando.
 
-```
+``` 
 "1- Rap del pinball en Buenos Aires",
-        "2- Pinball por aqui, pinball por alla!",
-        "3- Que vuele el pinball, rebote y gire",
-        "4- Pinball, pinball, siempre para adelante!"
+"2- Pinball por aqui, pinball por alla!",
+"3- Que vuele el pinball, rebote y gire",
+"4- Pinball, pinball, siempre para adelante!"
 ```
