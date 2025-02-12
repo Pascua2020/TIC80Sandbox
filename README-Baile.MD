@@ -10,6 +10,12 @@ Elementos
 
 #### ✴️-Nombre de Artista y Album
 
+```
+"Artista : DiosGPT"
+"Cancion : Romance IA - Marciano"
+"Album xxIAxx : 2025"
+```
+
 #### ✴️-Letra de Canción
 
 ```
