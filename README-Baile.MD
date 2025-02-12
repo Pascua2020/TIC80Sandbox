@@ -19,7 +19,7 @@ Elementos
 #### ✴️-Letra de Canción
 
 ```
-"1-Soy una IA, enamorado de ti...",
+    "1-Soy una IA, enamorado de ti...",
     "2-Tu piel marciana brilla bajo \nla luz de Júpiter...",
     "3-Saltamos en plataformas 3D, \ntú y yo...",
     "4-Eres mi musa, mi guía en \neste juego...",
