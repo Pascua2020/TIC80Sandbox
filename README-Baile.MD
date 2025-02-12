@@ -8,4 +8,8 @@ Elementos
 
 -Puntos,Combos y Fallos
 
+-Nombre de Artista y Album
+
 -Letra de Cancion
+
+-Fondo del Escenario
