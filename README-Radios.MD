@@ -121,6 +121,8 @@ Locutor/es :
 
 🎭"18 Radio Pesimista"
 
+![gifradio](./Imagenes/gifradio.gif)
+
 Noticias Tristes
 
 Locutor/es : Amarguino y Juaquin
@@ -134,6 +136,8 @@ Locutor/es :
 
 
 🎭"20 Radio Terror"
+
+![radioterror](./Imagenes/radioterror.gif)
 
 Terror Bizarro
 
