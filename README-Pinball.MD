@@ -8,21 +8,32 @@ Elementos:
 
 Es el que dispara la bola.
 
+![pinball-1](./Imagenes/pinball-1.jpg)
+
 #### ✨️-Bola
 
 Rebota en el escenario.
+
+![pinball-2](./Imagenes/pinball-2.jpg)
 
 #### ✨️-Palancas
 
 Hay 2 de cada lado,con el botón de dirección se mueven ambas del mismo lado ( = izquierdo o derecho ).
 
+![pinball-3](./Imagenes/pinball-3.jpg)
+
+
 #### ✨️-Muros
 
 Para evitar que la bola se salga de la pantalla.Al tocar un muro este se enciende.
 
+![pinball-4](./Imagenes/pinball-4.jpg)
+
 #### ✨️-Agujero ( Game Over )
 
 Por donde cae la bola y se pierde una vida.
+
+![pinball-5](./Imagenes/pinball-5.jpg)
 
 #### ✨️-Combos,Puntos y Niveles
 
