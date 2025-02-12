@@ -90,7 +90,9 @@ Crimen y Chori es un Videojuego Sandbox 2D ambientado en una ciudad de Argentina
 
 En esta Ciudad hay una fuerte presencia de las Emisoras de Radio y la Cultura Underground.Ademas ocurren todo tipo de cosas bizarras y en el medio hay un cambio de Gobierno.
 
-El famoso actor Silvestre Stacchotta viene de Los Guapos County de Los Angeles a filmar escenas de Stuntman en Buenos Aires,en un clima de impresionante humedad y bardo nacional e internacional.Y hay una fuerte hiperinflacion económica : el importantisimo empresario Japones-Argentino Juan Garcamaru enfrenta serias dificultades económicas con sus historicas Galletitas Marca CULO.
+El famoso actor Silvestre Stacchotta viene de Los Guapos County de Los Angeles a filmar escenas de Stuntman en Buenos Aires,en un clima de impresionante humedad y bardo nacional e internacional.
+
+Y hay una fuerte hiperinflacion económica : El importantisimo empresario Japones-Argentino Juan Garcamaru enfrenta serias dificultades económicas con sus historicas Galletitas Marca CULO.
 
 Esto y mucho más en...Crimen y Chori!
 
