@@ -38,10 +38,10 @@ Berna,Suiza
 
 Normal o Inversa.
 
-![gtd01](./Imagenes/gtd01.png)
-![gtd02](./Imagenes/gtd02.png)
+![gtd01](./Imagenes/gtd1.png)
+![gtd02](./Imagenes/gtd2.png)
 
 #### ▶️-Con / Sin Lluvia
 
-![gte01](./Imagenes/gte01.png)
-![gte02](./Imagenes/gte02.png)
+![gte01](./Imagenes/gte1.png)
+![gte02](./Imagenes/gte2.png)
