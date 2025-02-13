@@ -93,7 +93,7 @@ Funciones:
 
 #### 🔑-15  reiniciar_juego()
 
-
+Reinicia el juego en caso de perder.
 
 #### 🔑-16  cambiar_frase()
 
