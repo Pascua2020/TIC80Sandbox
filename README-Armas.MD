@@ -5,7 +5,7 @@ Armas
 1
 ### 🎃-Puño
 
-
+![a-puño](./Imagenes/a-puño.jpg)
 
 2
 ### 🎃-Katana
@@ -15,11 +15,11 @@ Armas
 3
 ### 🎃-Pistola
 
-
+![a-pistola](./Imagenes/a-pistola.jpg)
 4
 ### 🎃-Escopeta
 
-
+![a-es](./Imagenes/a-es.jpg)
 5
 ### 🎃-Granada
 
@@ -28,7 +28,7 @@ Armas
 6
 ### 🎃-Rifle Electrico
 
-
+![a-re](./Imagenes/a-re.jpg)
 
 7
 ### 🎃-Lanzallamas
@@ -38,7 +38,7 @@ Armas
 8
 ### 🎃-Bazooka
 
-
+![a-ba](./Imagenes/a-ba.jpg)
 
 9
 ### 🎃-MiniGun
@@ -48,7 +48,7 @@ Armas
 10
 ### 🎃-AK 47
 
-
+![a-ak](./Imagenes/a-ak.jpg)
 
 11
 ### 🎃-Rayo Laser
