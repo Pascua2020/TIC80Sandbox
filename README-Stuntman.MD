@@ -96,13 +96,21 @@ Bucle principal.
 
 -4  update_camera()
 
--5  generate_particles(x,y)
+##### -5  generate_particles(x,y)
 
--6  update_and_draw_particles()
+.
 
--7  check_collisions()
+##### -6  update_and_draw_particles()
 
--8  draw_boxes()
+.
+
+##### -7  check_collisions()
+
+.
+
+##### -8  draw_boxes()
+
+.
 
 -9  TIC()
 
