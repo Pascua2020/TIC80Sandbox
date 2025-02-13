@@ -160,13 +160,21 @@ Bucle principal.
 
 -6  check_bullet_collisions()
 
--7  draw_box()
+##### -7  draw_box()
 
--8  draw_bullets()
+.
 
--9  shoot_bullet()
+##### -8  draw_bullets()
 
--10  update_bullets()
+.
+
+##### -9  shoot_bullet()
+
+.
+
+##### -10  update_bullets()
+
+.
 
 -11  draw_nitro_effect()
 
