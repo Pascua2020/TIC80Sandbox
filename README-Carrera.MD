@@ -73,4 +73,5 @@ Funciones:
 
 #### 🔑-6  TIC()
 
+Bucle principal.
 
