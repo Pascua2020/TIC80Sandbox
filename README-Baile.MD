@@ -49,11 +49,11 @@ Funciones:
 
 #### 🔑-4  dibujar_estrellas()
 
-
+Dibujar fondo y estrellas.
 
 #### 🔑-5  dibujar_estrellas_fugaces()
 
-
+Dibujar fondo y estrellas.
 
 #### 🔑-6  dibujar_base()
 
@@ -65,15 +65,15 @@ Funciones:
 
 #### 🔑-8  actualizar_flechas()
 
-
+Actualiza lógica del juego.
 
 #### 🔑-9  verificar_input()
 
-
+Actualiza lógica del juego.
 
 #### 🔑-10  actualizar_flechas_estaticas()
 
-
+Actualiza lógica del juego.
 
 #### 🔑-11  reiniciar_flechas_estaticas()
 
@@ -85,7 +85,7 @@ Funciones:
 
 #### 🔑-13  verificar_fin()
 
-
+Actualiza lógica del juego.
 
 #### 🔑-14  dibujar_fin()
 
