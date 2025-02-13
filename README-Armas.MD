@@ -23,7 +23,7 @@ Armas
 5
 ### 🎃-Granada
 
-
+![a-gra](./Imagenes/a-gra.jpg)
 
 6
 ### 🎃-Rifle Electrico
@@ -33,7 +33,7 @@ Armas
 7
 ### 🎃-Lanzallamas
 
-
+![a-la](./Imagenes/a-la.jpg)
 
 8
 ### 🎃-Bazooka
@@ -43,7 +43,7 @@ Armas
 9
 ### 🎃-MiniGun
 
-
+![a-mini](./Imagenes/a-mini.jpg)
 
 10
 ### 🎃-AK 47
@@ -54,6 +54,7 @@ Armas
 ### 🎃-Rayo Laser
 
 ![gifarma](./Imagenes/gifarma.gif)
+![laser](./Imagenes/laser.jpg)
 
 Funciones
 
