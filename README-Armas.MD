@@ -1,31 +1,55 @@
 Armas
 
 1
--Puño
+### 🎃-Puño
+
+
 
 2
--Katana
+### 🎃-Katana
+
+
 
 3
--Pistola
+### 🎃-Pistola
+
+
 
 4
--Escopeta
+### 🎃-Escopeta
+
+
 
 5
--Granada
+### 🎃-Granada
+
+
 
 6
--Rifle Electrico
+### 🎃-Rifle Electrico
+
+
 
 7
--Lanzallamas
+### 🎃-Lanzallamas
+
+
 
 8
--Bazooka
+### 🎃-Bazooka
+
+
 
 9
--MiniGun
+### 🎃-MiniGun
+
+
 
 10
--AK 47
+### 🎃-AK 47
+
+
+
+11
+### 🎃-Rayo Laser
+
