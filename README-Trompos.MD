@@ -28,75 +28,75 @@ Rap del Trompo.
 
 Funciones:
 
-🔑-1  add_particle(x,y)
+#### 🔑-1  add_particle(x,y)
 
 
 
-🔑-2  update_particles()
+#### 🔑-2  update_particles()
 
 
 
-🔑-3  draw_particles()
+#### 🔑-3  draw_particles()
 
 
 
-🔑-4  animate_beyblades()
+#### 🔑-4  animate_beyblades()
 
 
 
-🔑-5  move_player
+#### 🔑-5  move_player
 (player,up,down,left,right)
 
 
 
-🔑-6  check_collision()
+#### 🔑-6  check_collision()
 
 
 
-🔑-7  draw_health_number(player)
+#### 🔑-7  draw_health_number(player)
 
 
 
-🔑-8  draw_timer()
+#### 🔑-8  draw_timer()
 
 
 
-🔑-9  check_game_over()
+#### 🔑-9  check_game_over()
 
 
 
-🔑-10  draw_winner()
+#### 🔑-10  draw_winner()
 
 
 
-🔑-11  generate_circles()
+#### 🔑-11  generate_circles()
 
 
 
-🔑-12  update_circles()
+#### 🔑-12  update_circles()
 
 
 
-🔑-13  check_circle_collision(player)
+#### 🔑-13  check_circle_collision(player)
 
 
 
-🔑-14  generate_rainbow_points()
+#### 🔑-14  generate_rainbow_points()
 
 
 
-🔑-15  update_rainbow_points()
+#### 🔑-15  update_rainbow_points()
 
 
 
-🔑-16  draw_rainbow_points()
+#### 🔑-16  draw_rainbow_points()
 
 
 
-🔑-17  draw_rapid_text()
+#### 🔑-17  draw_rapid_text()
 
 
 
-🔑-18  TIC()
+#### 🔑-18  TIC()
 
 
