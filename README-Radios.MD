@@ -577,15 +577,15 @@ Funciones:
 
 #### 🔑-1  dividir_en_lineas(texto)
 
-
+Divide el texto en varias líneas si excede los 36 caracteres.
 
 #### 🔑-2  dibujar_texto_con_contorno(Texto,x,y,color_texto,color_contorno)
 
-
+Dibuja el texto con contorno blanco y texto naranja.
 
 #### 🔑-3  mostrar_nombre_radio(radio)
 
-
+Muestra el nombre de la radio actual.
 
 #### 🔑-4  TIC()
 
