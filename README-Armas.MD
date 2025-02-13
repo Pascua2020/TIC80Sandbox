@@ -9,15 +9,12 @@ Armas
 ### 🎃-Katana
 
 
-
 3
 ### 🎃-Pistola
 
 
-
 4
 ### 🎃-Escopeta
-
 
 
 5
@@ -53,3 +50,16 @@ Armas
 11
 ### 🎃-Rayo Laser
 
+Funciones
+-Todas las Armas
+-Puño
+-Katana
+-Pistola
+-Escopeta
+-Granada
+-Rifle Electrico
+-Lanzallamas
+-Bazooka
+-MiniGun
+-AK47
+-Rayo Laser
