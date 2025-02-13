@@ -105,4 +105,4 @@ Funciones:
 
 #### 🔑-18  TIC()
 
-
+Bucle principal.
