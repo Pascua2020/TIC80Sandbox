@@ -225,11 +225,17 @@ Bucle principal.
 
 -5  draw_ramp()
 
--6  spawn_car()
+##### -6  spawn_car()
 
--7  draw_cars()
+.
 
--8  check_car_collision()
+##### -7  draw_cars()
+
+.
+
+##### -8  check_car_collision()
+
+.
 
 -9  handle_jump()
 
