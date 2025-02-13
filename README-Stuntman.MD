@@ -1,5 +1,11 @@
 Stuntman
 
+Descripcion de la Mision
+
+Misión: El Kamikaze del Cine"
+"Jefe: Silvestre Stacchotta"
+"Objetivo: Rodar exitosamente una escena de doble de películas con el coche."
+
 Mecanica 1
 
 Dialogo 1
