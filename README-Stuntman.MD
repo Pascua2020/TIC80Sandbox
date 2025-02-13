@@ -59,7 +59,7 @@ Dialogo 10
 
 Funciones:
 
-Stuntman4
+#### Stuntman4
 
 -1  move_player()
 
@@ -74,7 +74,7 @@ Stuntman4
 
 -6  TIC()
 
-Stuntmanv2.1
+#### Stuntmanv2.1
 
 -1  move_player()
 
@@ -94,7 +94,7 @@ Stuntmanv2.1
 
 -9  TIC()
 
-Stuntmanv3.4
+#### Stuntmanv3.4
 
 -1  move_player()
 
@@ -120,7 +120,7 @@ Stuntmanv3.4
 
 -12  TIC()
 
-Stuntmanv4.3
+#### Stuntmanv4.3
 
 -1  move_car()
 
@@ -151,7 +151,7 @@ Stuntmanv4.3
 
 -14  TIC()
 
-Stuntmanv5.1
+#### Stuntmanv5.1
 
 -1  move_car()
 
@@ -172,7 +172,7 @@ Stuntmanv5.1
 
 -9  TIC()
 
-Stuntmanv6.2
+#### Stuntmanv6.2
 
 -1  move_car()
 
@@ -197,7 +197,7 @@ Stuntmanv6.2
 
 -11  TIC()
 
-Stuntmanv7.3
+#### Stuntmanv7.3
 
 -1  move_car()
 
@@ -213,7 +213,7 @@ Stuntmanv7.3
 
 -7  TIC()
 
-Stuntmanv8.2
+#### Stuntmanv8.2
 
 -1  spawn_particles()
 
@@ -245,7 +245,7 @@ Stuntmanv8.2
 
 -15  TIC()
 
-Stuntmanv9.5
+#### Stuntmanv9.5
 
 -1  move_car()
 
@@ -279,7 +279,7 @@ Stuntmanv9.5
 
 -16  TIC()
 
-Stuntmanv10.9
+#### Stuntmanv10.9
 
 -1  move_car()
 
