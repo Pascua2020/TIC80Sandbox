@@ -3,11 +3,11 @@ Stuntman
 Dialogo 1
 ```
 "Silvestre Stacchotta: Good day wacho, altas llantas.",
-    "Silvestre Stacchotta: Perdón, estoy un poco enturrecido desde que estoy en Buenos Aires.",
-    "Silvestre Stacchotta: A diferencia de mi hogar en Los Guapos Country de Los Angeles,",
-    "Silvestre Stacchotta: la Fucking humedad de Buenos Aires está más fuerte que rusas en bikini.",
-    "Silvestre Stacchotta: En fin wacho, súbete al coche. Solo tienes 5 segundos.",
-    "Pulsa B para subir al coche."
+"Silvestre Stacchotta: Perdón, estoy un poco enturrecido desde que estoy en Buenos Aires.",
+"Silvestre Stacchotta: A diferencia de mi hogar en Los Guapos Country de Los Angeles,",
+"Silvestre Stacchotta: la Fucking humedad de Buenos Aires está más fuerte que rusas en bikini.",
+"Silvestre Stacchotta: En fin wacho, súbete al coche. Solo tienes 5 segundos.",
+"Pulsa B para subir al coche."
 ```
 
 Dialogo 2
@@ -43,7 +43,7 @@ Dialogo 7
 Dialogo 8
 ```
  "Silvestre Stacchotta: Do you have enough chechona?",
-    "Salta por el aro, pero no te quemes."
+"Salta por el aro, pero no te quemes."
 ```
 
 Dialogo 9
@@ -54,5 +54,5 @@ Dialogo 9
 Dialogo 10
 ```
 "Prepárate, conduce hacia el círculo violeta.",
-    "Una vez allí, presiona el botón para detonar la bomba."
+"Una vez allí, presiona el botón para detonar la bomba."
 ```
