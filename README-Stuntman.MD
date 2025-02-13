@@ -196,11 +196,17 @@ Bucle principal.
 -4  draw_text_multiline_with_bg
 (Text,x,y,color,bg_color,max_width)
 
--5  draw_ramp()
+##### -5  draw_ramp()
 
--6  check_ramp_collision()
+.
 
--7  handle_jump()
+##### -6  check_ramp_collision()
+
+.
+
+##### -7  handle_jump()
+
+.
 
 -8  draw_nitro_effect()
 
