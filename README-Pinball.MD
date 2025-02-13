@@ -110,21 +110,20 @@ Dibuja el resorte debajo de la bola.
 
 #### 🔑-7  wall_collision()
 
-
+Maneja la colisión de la bola con las paredes.
 
 #### 🔑-8  draw_paddle_collision(paddle)
 
-
+Dibuja área de colisión de las paletas.
 
 #### 🔑-9  frase()
 
-
+Dibuja frases del Rap del Pinball.
 
 #### 🔑-10  imprimir_frase(frase,num_caracteres)
 
-
+Imprimir una frase ( hashtag ) hasta un número de caracteres.
 
 #### 🔑-11  TIC()
-
 
 Bucle principal.
