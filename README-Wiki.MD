@@ -67,12 +67,13 @@ Funciones:
 
 #### 🔑-1  split_lines(text,max_width)
 
-
+Divide texto para mostrarlo correctamente en pantalla.
 
 #### 🔑-2  print_rainbow(text,x,y)
 
-
+Muestra texto animado con colores arcoíris.
 
 #### 🔑-3  TIC()
 
 
+Bucle principal.
