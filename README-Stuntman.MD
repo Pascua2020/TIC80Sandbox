@@ -1,20 +1,20 @@
 ## Stuntman
 
-## 🎭Ambientacion
+### 🎭 Ambientacion
 
 Estudios de Cine "Choriwood",Argentina
 
-### 🎭Descripcion de la Mision
+### 🎭 Descripcion de la Mision
 
 Misión: El Kamikaze del Cine"
 "Jefe: Silvestre Stacchotta"
 "Objetivo: Rodar exitosamente una escena de doble de películas con el coche."
 
-### Mecanica 1
+### 🌇Mecanica 1
 
 .
 
-### Dialogo 1
+### 🎆Dialogo 1
 ```
 "Silvestre Stacchotta: Good day wacho, altas llantas.",
 "Silvestre Stacchotta: Perdón, estoy un poco enturrecido desde que estoy en Buenos Aires.",
@@ -23,83 +23,83 @@ Misión: El Kamikaze del Cine"
 "Silvestre Stacchotta: En fin wacho, súbete al coche. Solo tienes 5 segundos.",
 "Pulsa B para subir al coche."
 ```
-### Mecanica 2
+### 🌇Mecanica 2
 
 .
 
-### Dialogo 2
+### 🎆Dialogo 2
 ```
 "Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
 ```
-### Mecanica 3
+### 🌇Mecanica 3
 
 .
 
-### Dialogo 3
+### 🎆Dialogo 3
 ```
 "Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia."
 ```
 
-### Mecanica 4
+### 🌇Mecanica 4
 
 .
 
-### Dialogo 4
+### 🎆Dialogo 4
 ```
 "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
-### Mecanica 5
+### 🌇Mecanica 5
 
 .
 
-### Dialogo 5
+### 🎆Dialogo 5
 ```
 "Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto."
 ```
-### Mecanica 6
+### 🌇Mecanica 6
 
 .
 
-### Dialogo 6
+### 🎆Dialogo 6
 ```
 "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal ."
 ```
-### Mecanica 7
+### 🌇Mecanica 7
 
 .
 
-### Dialogo 7
+### 🎆Dialogo 7
 ```
 "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!"
 ```
-### Mecanica 8
+### 🌇Mecanica 8
 
 .
 
-### Dialogo 8
+### 🎆Dialogo 8
 ```
 "Silvestre Stacchotta: Do you have enough chechona?",
 "Salta por el aro, pero no te quemes."
 ```
-### Mecanica 9
+### 🌇Mecanica 9
 
 .
 
-### Dialogo 9
+### 🎆Dialogo 9
 ```
 "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
-### Mecanica 10
+### 🌇Mecanica 10
 
 .
 
-### Dialogo 10
+### 🎆Dialogo 10
 ```
 "Silvestre Stacchotta: Prepárate, conduce hacia el círculo violeta.",
 "Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
 ```
 
-## 🎭Funciones:
+## 🎭 Funciones:
 
 #### ✨️Stuntman4
 
