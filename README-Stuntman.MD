@@ -1,5 +1,7 @@
 ## Stuntman
 
+![gifcoche](./Imagenes/subircoche.gif)
+
 ### 🎭 Ambientacion
 
 Estudios de Cine "Choriwood",Argentina
@@ -93,6 +95,8 @@ Perseguir coche.
 ![st8](./Imagenes/st8.jpg)
 
 Saltar por el aro pero solo cuando no este en llamas.
+
+![gifaro](./Imagenes/gifaro.gif)
 
 ### 🎆Dialogo 8
 ```
