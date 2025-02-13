@@ -14,6 +14,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ### 🌇Mecanica 1
 
+![st1](./Imagenes/st1.jpg)
+
 .
 
 ### 🎆Dialogo 1
@@ -27,6 +29,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 ```
 ### 🌇Mecanica 2
 
+![st2](./Imagenes/st2.jpg)
+
 .
 
 ### 🎆Dialogo 2
@@ -34,6 +38,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 "Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
 ```
 ### 🌇Mecanica 3
+
+![st3](./Imagenes/st3.jpg)
 
 .
 
@@ -44,6 +50,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ### 🌇Mecanica 4
 
+![st4](./Imagenes/st4.jpg)
+
 .
 
 ### 🎆Dialogo 4
@@ -51,6 +59,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
 ### 🌇Mecanica 5
+
+![st5](./Imagenes/st5.jpg)
 
 .
 
@@ -60,6 +70,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 ```
 ### 🌇Mecanica 6
 
+![st6](./Imagenes/st6.jpg)
+
 .
 
 ### 🎆Dialogo 6
@@ -68,6 +80,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 ```
 ### 🌇Mecanica 7
 
+![st7](./Imagenes/st7.jpg)
+
 .
 
 ### 🎆Dialogo 7
@@ -75,6 +89,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!"
 ```
 ### 🌇Mecanica 8
+
+![st8](./Imagenes/st8.jpg)
 
 .
 
@@ -85,6 +101,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 ```
 ### 🌇Mecanica 9
 
+![st9](./Imagenes/st9.jpg)
+
 .
 
 ### 🎆Dialogo 9
@@ -92,6 +110,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
 ### 🌇Mecanica 10
+
+![st10](./Imagenes/st10.jpg)
 
 .
 
