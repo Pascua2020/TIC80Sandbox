@@ -86,27 +86,27 @@ Funciones:
 
 #### 🔑-1  update_ball()
 
-
+Maneja el movimiento de la bola.
 
 #### 🔑-2  update_paddles()
 
-
+Maneja las paletas.
 
 #### 🔑-3  draw_paddle( paddle )
 
-
+Dibujar una paleta como línea rotada.
 
 #### 🔑-4  create_animated_circles()
 
-
+Crea círculos animados.
 
 #### 🔑-5  update_circles()
 
-
+Actualiza los círculos animados.
 
 #### 🔑-6  draw_spring()
 
-
+Dibuja el resorte debajo de la bola.
 
 #### 🔑-7  wall_collision()
 
