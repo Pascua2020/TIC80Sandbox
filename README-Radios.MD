@@ -579,8 +579,7 @@ Funciones:
 
 
 
-#### 🔑-2  dibujar_texto_con_contorno
-(Texto,x,y,color_texto,color_contorno)
+#### 🔑-2  dibujar_texto_con_contorno(Texto,x,y,color_texto,color_contorno)
 
 
 
