@@ -12,22 +12,22 @@ Dialogo 1
 
 Dialogo 2
 ```
-
+"Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
 ```
 
 Dialogo 3
 ```
-
+"Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia."
 ```
 
 Dialogo 4
 ```
-
+ "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
 
 Dialogo 5
 ```
-
+"Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto."
 ```
 
 Dialogo 6
