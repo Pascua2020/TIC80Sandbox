@@ -20,6 +20,8 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 Subir a coche.
 
+![stu1](./Imagenes/stu1.gif)
+
 ### 🎆Dialogo 1
 ```
 "Silvestre Stacchotta: Good day wacho, altas llantas.",
@@ -35,6 +37,8 @@ Subir a coche.
 
 Arrollar cajas con el coche.
 
+![stu2](./Imagenes/stu2.gif)
+
 ### 🎆Dialogo 2
 ```
 "Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
@@ -44,6 +48,8 @@ Arrollar cajas con el coche.
 ![st3](./Imagenes/st3.jpg)
 
 Activar nitro para llegar a checkpoint.
+
+![stu3](./Imagenes/stu3.gif)
 
 ### 🎆Dialogo 3
 ```
@@ -56,6 +62,8 @@ Activar nitro para llegar a checkpoint.
 
 Disparar desde el coche para destruir a la caja plateada ( no se puede destruir pisandola ).
 
+![stu4](./Imagenes/stu4.gif)
+
 ### 🎆Dialogo 4
 ```
 "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
@@ -65,6 +73,8 @@ Disparar desde el coche para destruir a la caja plateada ( no se puede destruir 
 ![st5](./Imagenes/st5.jpg)
 
 Usar rampa para saltar.
+
+![stu5](./Imagenes/stu5.gif)
 
 ### 🎆Dialogo 5
 ```
@@ -76,6 +86,8 @@ Usar rampa para saltar.
 
 Esquivar coches.
 
+![stu6](./Imagenes/stu6.gif)
+
 ### 🎆Dialogo 6
 ```
 "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal ."
@@ -85,6 +97,8 @@ Esquivar coches.
 ![st7](./Imagenes/st7.jpg)
 
 Perseguir coche.
+
+![stu7](./Imagenes/stu7.gif)
 
 ### 🎆Dialogo 7
 ```
@@ -109,6 +123,8 @@ Saltar por el aro pero solo cuando no este en llamas.
 
 Esquivar tren.
 
+![stu9](./Imagenes/stu9.gif)
+
 ### 🎆Dialogo 9
 ```
 "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
@@ -118,6 +134,8 @@ Esquivar tren.
 ![st10](./Imagenes/st10.jpg)
 
 Salir del coche para hacerlo detonar,pero a distancia.
+
+![stu10](./Imagenes/stu10.gif)
 
 ### 🎆Dialogo 10
 ```
