@@ -16,7 +16,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st1](./Imagenes/st1.jpg)
 
-.
+Subir a coche.
 
 ### 🎆Dialogo 1
 ```
@@ -31,7 +31,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st2](./Imagenes/st2.jpg)
 
-.
+Arrollar cajas con el coche.
 
 ### 🎆Dialogo 2
 ```
@@ -41,7 +41,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st3](./Imagenes/st3.jpg)
 
-.
+Activar nitro para llegar a checkpoint.
 
 ### 🎆Dialogo 3
 ```
@@ -52,7 +52,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st4](./Imagenes/st4.jpg)
 
-.
+Disparar desde el coche para destruir a la caja plateada ( no se puede destruir pisandola ).
 
 ### 🎆Dialogo 4
 ```
@@ -62,7 +62,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st5](./Imagenes/st5.jpg)
 
-.
+Usar rampa para saltar.
 
 ### 🎆Dialogo 5
 ```
@@ -72,7 +72,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st6](./Imagenes/st6.jpg)
 
-.
+Esquivar coches.
 
 ### 🎆Dialogo 6
 ```
@@ -82,7 +82,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st7](./Imagenes/st7.jpg)
 
-.
+Perseguir coche.
 
 ### 🎆Dialogo 7
 ```
@@ -92,7 +92,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st8](./Imagenes/st8.jpg)
 
-.
+Saltar por el aro pero solo cuando no este en llamas.
 
 ### 🎆Dialogo 8
 ```
@@ -103,7 +103,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st9](./Imagenes/st9.jpg)
 
-.
+Esquivar tren.
 
 ### 🎆Dialogo 9
 ```
@@ -113,7 +113,7 @@ Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ![st10](./Imagenes/st10.jpg)
 
-.
+Salir del coche para hacerlo detonar,pero a distancia.
 
 ### 🎆Dialogo 10
 ```
