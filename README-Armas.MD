@@ -15,39 +15,47 @@ Armas
 3
 ### 🎃-Pistola
 
+![gifpistola](./Imagenes/pistola.gif)
 ![a-pistola](./Imagenes/a-pistola.jpg)
 4
 ### 🎃-Escopeta
 
+![gifescopeta](./Imagenes/escopeta.gif)
 ![a-es](./Imagenes/a-es.jpg)
 5
 ### 🎃-Granada
 
+![gifgranada](./Imagenes/granada.gif)
 ![a-gra](./Imagenes/a-gra.jpg)
 
 6
 ### 🎃-Rifle Electrico
 
+![gifre](./Imagenes/rifleel.gif)
 ![a-re](./Imagenes/a-re.jpg)
 
 7
 ### 🎃-Lanzallamas
 
+![gifla](./Imagenes/lanzallama.gif)
 ![a-la](./Imagenes/a-la.jpg)
 
 8
 ### 🎃-Bazooka
 
+![gifba](./Imagenes/bazooka.gif)
 ![a-ba](./Imagenes/a-ba.jpg)
 
 9
 ### 🎃-MiniGun
 
+![gifminigun](./Imagenes/minigun.gif)
 ![a-mini](./Imagenes/a-mini.jpg)
 
 10
 ### 🎃-AK 47
 
+![gifak](./Imagenes/ak47.gif)
 ![a-ak](./Imagenes/a-ak.jpg)
 
 11
