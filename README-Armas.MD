@@ -281,62 +281,109 @@ Funciones
 -Bazooka
 
 -1  disparar_bazooka()
+
 -2  mover_disparos()
+
 -3  dibujar_disparos()
+
 -4  recargar()
+
 -5  mostrar_controles()
+
 -6  mover_personaje()
+
 -7  agregar_coches()
+
 -8  mover_coches()
+
 -9  dibujar_coches()
+
 -10  crear_explosion(x,y)
+
 -11  dibujar_explosiones()
+
 -12  verificar_impactos()
+
 -13  dibujar_personaje()
+
 -14  TIC()
 
 -MiniGun
 
 -1  crear_enemigo()
+
 -2  mover_personaje()
+
 -3  disparar_minigun()
+
 -4  mover_balas()
+
 -5  dibujar_balas()
+
 -6  dibujar_enemigos()
+
 -7  crear_efecto_sangre(x,y)
+
 -8  crear_efecto_explosion(x,y)
+
 -9  mover_y_dibujar_explosion()
+
 -10  mostrar_frase()
+
 -11  recargar()
+
 -12  mostrar_controles()
+
 -13  TIC()
 
 -AK47
 
 -1  disparar_ak47()
+
 -2  mover_disparos()
+
 -3  dibujar_disparos()
+
 -4  recargar()
+
 -5  mostrar_controles()
+
 -6  mover_personaje()
+
 -7  agregar_coches()
+
 -8  mover_coches()
+
 -9  dibujar_coches()
+
 -10  crear_explosion()
+
 -11  dibujar_explosiones()
+
 -12  verificar_impactos()
+
 -13  dibujar_personaje()
+
 -14  TIC()
 
 -Rayo Laser
 
 -1  dibujar_personaje()
+
 -2  mover_personaje()
+
 -3  disparar_laser()
+
 -4  dibujar_laser()
+
 -5  dibujar_enemigos()
+
 -6  dibujar_sangre()
+
 -7  mostrar_frase()
+
 -8  recargar()
+
 -9  mostrar_controles()
+
 -10  TIC()
