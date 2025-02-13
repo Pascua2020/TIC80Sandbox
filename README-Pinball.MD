@@ -84,46 +84,46 @@ Se reproduce mientras el jugador está jugando.
 
 Funciones:
 
--1  update_ball()
+🔑-1  update_ball()
 
 
 
--2  update_paddles()
+🔑-2  update_paddles()
 
 
 
--3  draw_paddle( paddle )
+🔑-3  draw_paddle( paddle )
 
 
 
--4  create_animated_circles()
+🔑-4  create_animated_circles()
 
 
 
--5  update_circles()
+🔑-5  update_circles()
 
 
 
--6  draw_spring()
+🔑-6  draw_spring()
 
 
 
--7  wall_collision()
+🔑-7  wall_collision()
 
 
 
--8  draw_paddle_collision(paddle)
+🔑-8  draw_paddle_collision(paddle)
 
 
 
--9  frase()
+🔑-9  frase()
 
 
 
--10  imprimir_frase(frase,num_caracteres)
+🔑-10  imprimir_frase(frase,num_caracteres)
 
 
 
--11  TIC()
+🔑-11  TIC()
 
 
