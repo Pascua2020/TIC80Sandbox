@@ -574,19 +574,19 @@ Locutor/es :
 ```
 
 Funciones:
--1  dividir_en_lineas(texto)
+🔑-1  dividir_en_lineas(texto)
 
 
 
--2  dibujar_texto_con_contorno
+🔑-2  dibujar_texto_con_contorno
 (Texto,x,y,color_texto,color_contorno)
 
 
 
--3  mostrar_nombre_radio(radio)
+🔑-3  mostrar_nombre_radio(radio)
 
 
 
--4  TIC()
+🔑-4  TIC()
 
 
