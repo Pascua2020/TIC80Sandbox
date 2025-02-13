@@ -51,15 +51,51 @@ Armas
 ### 🎃-Rayo Laser
 
 Funciones
+
 -Todas las Armas
+
+
+
 -Puño
+
+
+
 -Katana
+
+
+
 -Pistola
+
+
+
 -Escopeta
+
+
+
 -Granada
+
+
+
 -Rifle Electrico
+
+
+
 -Lanzallamas
+
+
+
 -Bazooka
+
+
+
 -MiniGun
+
+
+
 -AK47
+
+
+
 -Rayo Laser
+
+
