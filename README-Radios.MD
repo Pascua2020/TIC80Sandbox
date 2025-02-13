@@ -572,3 +572,21 @@ Locutor/es :
     "9. Narrador: Disponible ahora para la MegaStation LaNota.",
     "10. Narrador: El juego que estabas esperando... si te atrevés."
 ```
+
+Funciones:
+-1  dividir_en_lineas(texto)
+
+
+
+-2  dibujar_texto_con_contorno
+(Texto,x,y,color_texto,color_contorno)
+
+
+
+-3  mostrar_nombre_radio(radio)
+
+
+
+-4  TIC()
+
+
