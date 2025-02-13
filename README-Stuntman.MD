@@ -1,5 +1,9 @@
 ## Stuntman
 
+## Ambientacion
+
+Estudios de Cine "Choriwood",Argentina
+
 ### Descripcion de la Mision
 
 Misión: El Kamikaze del Cine"
@@ -7,6 +11,8 @@ Misión: El Kamikaze del Cine"
 "Objetivo: Rodar exitosamente una escena de doble de películas con el coche."
 
 ### Mecanica 1
+
+.
 
 ### Dialogo 1
 ```
@@ -19,11 +25,15 @@ Misión: El Kamikaze del Cine"
 ```
 ### Mecanica 2
 
+.
+
 ### Dialogo 2
 ```
 "Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
 ```
 ### Mecanica 3
+
+.
 
 ### Dialogo 3
 ```
@@ -32,11 +42,15 @@ Misión: El Kamikaze del Cine"
 
 ### Mecanica 4
 
+.
+
 ### Dialogo 4
 ```
 "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
 ### Mecanica 5
+
+.
 
 ### Dialogo 5
 ```
@@ -44,17 +58,23 @@ Misión: El Kamikaze del Cine"
 ```
 ### Mecanica 6
 
+.
+
 ### Dialogo 6
 ```
 "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal ."
 ```
 ### Mecanica 7
 
+.
+
 ### Dialogo 7
 ```
 "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!"
 ```
 ### Mecanica 8
+
+.
 
 ### Dialogo 8
 ```
@@ -63,11 +83,15 @@ Misión: El Kamikaze del Cine"
 ```
 ### Mecanica 9
 
+.
+
 ### Dialogo 9
 ```
 "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
 ### Mecanica 10
+
+.
 
 ### Dialogo 10
 ```
