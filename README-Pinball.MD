@@ -81,3 +81,49 @@ Se reproduce mientras el jugador está jugando.
 "3- Que vuele el pinball, rebote y gire",
 "4- Pinball, pinball, siempre para adelante!"
 ```
+
+Funciones:
+
+-1  update_ball()
+
+
+
+-2  update_paddles()
+
+
+
+-3  draw_paddle( paddle )
+
+
+
+-4  create_animated_circles()
+
+
+
+-5  update_circles()
+
+
+
+-6  draw_spring()
+
+
+
+-7  wall_collision()
+
+
+
+-8  draw_paddle_collision(paddle)
+
+
+
+-9  frase()
+
+
+
+-10  imprimir_frase(frase,num_caracteres)
+
+
+
+-11  TIC()
+
+
