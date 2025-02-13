@@ -53,15 +53,15 @@ Funciones:
 
 #### 🔑-1  menu()
 
-
+Menú principal.
 
 #### 🔑-2  cambiar_opcion(opcion,direccion)
 
-
+Cambia las opciones según la entrada del jugador.
 
 #### 🔑-3  carrera()
 
-
+Pantalla de carrera.
 
 #### 🔑-4  wrap( valor,max )
 
