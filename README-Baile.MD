@@ -35,74 +35,74 @@ Simula ser una Lluvia de Estrellas.
 
 Funciones:
 
--1  generar_flecha()
+🔑-1  generar_flecha()
 
 
 
--2  generar_estrellas()
+🔑-2  generar_estrellas()
 
 
 
--3  generar_estrella_fugaz()
+🔑-3  generar_estrella_fugaz()
 
 
 
--4  dibujar_estrellas()
+🔑-4  dibujar_estrellas()
 
 
 
--5  dibujar_estrellas_fugaces()
+🔑-5  dibujar_estrellas_fugaces()
 
 
 
--6  dibujar_base()
+🔑-6  dibujar_base()
 
 
 
--7  dibujar_flechas()
+🔑-7  dibujar_flechas()
 
 
 
--8  actualizar_flechas()
+🔑-8  actualizar_flechas()
 
 
 
--9  verificar_input()
+🔑-9  verificar_input()
 
 
 
--10  actualizar_flechas_estaticas()
+🔑-10  actualizar_flechas_estaticas()
 
 
 
--11  reiniciar_flechas_estaticas()
+🔑-11  reiniciar_flechas_estaticas()
 
 
 
--12  dibujar_puntuacion()
+🔑-12  dibujar_puntuacion()
 
 
 
--13  verificar_fin()
+🔑-13  verificar_fin()
 
 
 
--14  dibujar_fin()
+🔑-14  dibujar_fin()
 
 
 
--15  reiniciar_juego()
+🔑-15  reiniciar_juego()
 
 
 
--16  cambiar_frase()
+🔑-16  cambiar_frase()
 
 
 
--17  dibujar_cancion()
+🔑-17  dibujar_cancion()
 
 
 
--18  TIC()
+🔑-18  TIC()
 
 
