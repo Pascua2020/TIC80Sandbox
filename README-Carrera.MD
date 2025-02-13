@@ -65,11 +65,11 @@ Pantalla de carrera.
 
 #### 🔑-4  wrap( valor,max )
 
-
+Función auxiliar para envolver índices.
 
 #### 🔑-5  dibujar_rectangulo_arcoiris(x,y,w,h)
 
-
+Función para dibujar rectángulos con bordes animados arcoíris.
 
 #### 🔑-6  TIC()
 
