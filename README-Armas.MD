@@ -5,10 +5,12 @@ Armas
 1
 ### 🎃-Puño
 
-![a-punio](./Imagenes/a-punio.jpg)
+![punio](./Imagenes/punio.gif)
 
 Arma cuerpo a cuerpo.
 Poca potencia.
+
+![a-punio](./Imagenes/a-punio.jpg)
 
 2
 ### 🎃-Katana
