@@ -61,18 +61,30 @@ Funciones:
 
 #### Stuntman4
 
--1  move_player()
+##### -1  move_player()
 
--2  move_car()
+.
 
--3  nueva_camara(x,y)
+##### -2  move_car()
 
--4  update_camera()
+.
 
--5  draw_text_multiline_with_bg
+##### -3  nueva_camara(x,y)
+
+.
+
+##### -4  update_camera()
+
+.
+
+##### -5  draw_text_multiline_with_bg
 (Text,x,y,color,bg_color,max_width)
 
--6  TIC()
+.
+
+##### -6  TIC()
+
+Bucle principal.
 
 #### Stuntmanv2.1
 
