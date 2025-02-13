@@ -57,11 +57,11 @@ Dibujar fondo y estrellas.
 
 #### 🔑-6  dibujar_base()
 
-
+Dibujar elementos.
 
 #### 🔑-7  dibujar_flechas()
 
-
+Dibujar elementos.
 
 #### 🔑-8  actualizar_flechas()
 
@@ -81,7 +81,7 @@ Actualiza lógica del juego.
 
 #### 🔑-12  dibujar_puntuacion()
 
-
+Dibujar elementos.
 
 #### 🔑-13  verificar_fin()
 
@@ -97,11 +97,11 @@ Reinicia el juego en caso de perder.
 
 #### 🔑-16  cambiar_frase()
 
-
+Cambiar y dibujar la frase de la canción.
 
 #### 🔑-17  dibujar_cancion()
 
-
+Cambiar y dibujar la frase de la canción.
 
 #### 🔑-18  TIC()
 
