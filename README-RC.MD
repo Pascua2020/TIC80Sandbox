@@ -58,29 +58,28 @@ Función de boton.
 
 #### 🔑-10  update_car()
 
-
+Función de movimiento ( Jugador 1 ).
 
 #### 🔑-11  update_car2()
 
-
+Función de movimiento ( Jugador 2 ).
 
 #### 🔑-12  update_ia_car()
 
-
+Función de movimiento ( Coche controlado por IA ).
 
 #### 🔑-13  draw_ia_car()
 
-
+Dibuja coche de IA.
 
 #### 🔑-14  draw_player_car()
 
-
+Dibuja coche de Jugador 1.
 
 #### 🔑-15  draw_player_car2()
 
-
+Dibuja coche de Jugador 2.
 
 #### 🔑-16  TIC()
-
 
 Bucle principal.
