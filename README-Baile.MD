@@ -41,11 +41,11 @@ Generar flechas en intervalos.
 
 #### 🔑-2  generar_estrellas()
 
-
+Inicializa las estrellas.
 
 #### 🔑-3  generar_estrella_fugaz()
 
-
+Genera estrellas fugaces.
 
 #### 🔑-4  dibujar_estrellas()
 
@@ -89,7 +89,7 @@ Actualiza lógica del juego.
 
 #### 🔑-14  dibujar_fin()
 
-
+Pantalla de fin de juego.
 
 #### 🔑-15  reiniciar_juego()
 
