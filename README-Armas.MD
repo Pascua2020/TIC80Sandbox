@@ -52,7 +52,7 @@ Armas
 
 Funciones
 
--Todas las Armas
+✅️-Todas las Armas
 
 -1  disparar_pistola()
 
@@ -88,7 +88,7 @@ Funciones
 
 -17  TIC()
 
--Puño
+✅️-Puño
 
 -1  golpear()
 
@@ -116,7 +116,7 @@ Funciones
 
 -13  TIC()
 
--Katana
+✅️-Katana
 
 -1  dibujar_personaje()
 
@@ -134,7 +134,7 @@ Funciones
 
 -8  TIC()
 
--Pistola
+✅️-Pistola
 
 -1  dibujar_personaje()
 
@@ -168,7 +168,7 @@ Funciones
 
 -16  TIC()
 
--Escopeta
+✅️-Escopeta
 
 -1  disparar_escopeta()
 
@@ -198,7 +198,7 @@ Funciones
 
 -14  TIC()
 
--Granada
+✅️-Granada
 
 -1  disparar_granada()
 
@@ -226,7 +226,7 @@ Funciones
 
 -13  dibujar_mira_impacto()
 
--Rifle Electrico
+✅️-Rifle Electrico
 
 -1  dibujar_personaje()
 
@@ -252,7 +252,7 @@ Funciones
 
 -12  TIC()
 
--Lanzallamas
+✅️-Lanzallamas
 
 -1  dibujar_personaje()
 
@@ -278,7 +278,7 @@ Funciones
 
 -12  TIC()
 
--Bazooka
+✅️-Bazooka
 
 -1  disparar_bazooka()
 
@@ -308,7 +308,7 @@ Funciones
 
 -14  TIC()
 
--MiniGun
+✅️-MiniGun
 
 -1  crear_enemigo()
 
@@ -336,7 +336,7 @@ Funciones
 
 -13  TIC()
 
--AK47
+✅️-AK47
 
 -1  disparar_ak47()
 
@@ -366,7 +366,7 @@ Funciones
 
 -14  TIC()
 
--Rayo Laser
+✅️-Rayo Laser
 
 -1  dibujar_personaje()
 
