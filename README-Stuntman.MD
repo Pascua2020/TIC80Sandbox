@@ -6,9 +6,11 @@ Estudios de Cine "Choriwood",Argentina
 
 ### 🎭 Descripcion de la Mision
 
-Misión: El Kamikaze del Cine"
-"Jefe: Silvestre Stacchotta"
-"Objetivo: Rodar exitosamente una escena de doble de películas con el coche."
+Misión: El Kamikaze del Cine
+
+Jefe: Silvestre Stacchotta
+
+Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
 ### 🌇Mecanica 1
 
