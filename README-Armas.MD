@@ -1,6 +1,6 @@
 Armas
 
-![gif3](./Imagenes/3.gif)
+![gifarmasvarias](./Imagenes/armasvarias.gif)
 
 1
 ### 🎃-Puño
