@@ -5,7 +5,7 @@ Armas
 1
 ### 🎃-Puño
 
-![a-puño](./Imagenes/a-puño.jpg)
+![a-punio](./Imagenes/a-punio.jpg)
 
 2
 ### 🎃-Katana
