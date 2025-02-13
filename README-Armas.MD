@@ -56,35 +56,67 @@ Funciones
 
 #### 🔑-1  disparar_pistola()
 
+.
+
 #### 🔑-2  disparar_ak47()
+
+.
 
 #### 🔑-3  disparar_bazooka()
 
+.
+
 #### 🔑-4  disparar_escopeta()
+
+.
 
 #### 🔑-5  disparar_granada()
 
+.
+
 #### 🔑-6  mover_disparos()
+
+.
 
 #### 🔑-7  mover_granadas()
 
+.
+
 #### 🔑-8  recargar()
+
+.
 
 #### 🔑-9  cambiar_arma()
 
+.
+
 #### 🔑-10  mostrar_controles()
+
+.
 
 #### 🔑-11  mover_personaje()
 
+.
+
 #### 🔑-12  agregar_coches()
+
+.
 
 #### 🔑-13  mover_coches()
 
+.
+
 #### 🔑-14  crear_explosion(x,y)
+
+.
 
 #### 🔑-15  agregar_enemigos()
 
+.
+
 #### 🔑-16  mover_enemigos()
+
+.
 
 #### 🔑-17  TIC()
 
