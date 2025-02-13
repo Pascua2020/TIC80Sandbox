@@ -54,7 +54,7 @@ Armas
 ### 🎃-Rayo Laser
 
 ![gifarma](./Imagenes/gifarma.gif)
-![laser](./Imagenes/laser.jpg)
+![laser](./Imagenes/armas.jpg)
 
 Funciones
 
