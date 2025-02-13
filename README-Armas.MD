@@ -7,61 +7,99 @@ Armas
 
 ![a-punio](./Imagenes/a-punio.jpg)
 
+Arma cuerpo a cuerpo.
+Poca potencia.
+
 2
 ### 🎃-Katana
 
 ![gifkatana](./Imagenes/katana.gif)
+
+Arma cuerpo a cuerpo.
+Mucha potencia.
+
 ![a-sangre](./Imagenes/sangre.jpg)
 3
 ### 🎃-Pistola
 
 ![gifpistola](./Imagenes/pistola.gif)
+
+Arma de largo alcance.
+Poca potencia.
+Disparos lentos.
+
 ![a-pistola](./Imagenes/a-pistola.jpg)
 4
 ### 🎃-Escopeta
 
 ![gifescopeta](./Imagenes/escopeta.gif)
+
+Arma de largo alcance.
+Multiples disparos.
+
 ![a-es](./Imagenes/a-es.jpg)
 5
 ### 🎃-Granada
 
 ![gifgranada](./Imagenes/granada.gif)
+
+Arma de largo alcance.
+Mucha potencia.
+
 ![a-gra](./Imagenes/a-gra.jpg)
 
 6
 ### 🎃-Rifle Electrico
 
 ![gifre](./Imagenes/rifleel.gif)
+
+Arma con rafagas pero corto alcance.
+Mucha potencia.
 ![a-re](./Imagenes/a-re.jpg)
 
 7
 ### 🎃-Lanzallamas
 
 ![gifla](./Imagenes/lanzallama.gif)
+Arma con rafagas pero largo alcance.
+Mucha potencia.
 ![a-la](./Imagenes/a-la.jpg)
 
 8
 ### 🎃-Bazooka
 
 ![gifba](./Imagenes/bazooka.gif)
+
+Arma con disparos lentos pero grandes.
+Mucha potencia.
+
 ![a-ba](./Imagenes/a-ba.jpg)
 
 9
 ### 🎃-MiniGun
 
 ![gifminigun](./Imagenes/minigun.gif)
+Arma con disparos de multiples rafagas.
+Mucha potencia.
+
 ![a-mini](./Imagenes/a-mini.jpg)
 
 10
 ### 🎃-AK 47
 
 ![gifak](./Imagenes/ak47.gif)
+
+Arma de largo alcance.
+Disparos rapidos.
+
 ![a-ak](./Imagenes/a-ak.jpg)
 
 11
 ### 🎃-Rayo Laser
 
 ![gifarma](./Imagenes/gifarma.gif)
+Arma de largo alcance.
+Mucha potencia.
 ![laser](./Imagenes/Armas.jpg)
 
 Funciones
