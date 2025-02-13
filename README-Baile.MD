@@ -77,7 +77,7 @@ Actualiza lógica del juego.
 
 #### 🔑-11  reiniciar_flechas_estaticas()
 
-
+Reiniciar estado de flechas estáticas.
 
 #### 🔑-12  dibujar_puntuacion()
 
