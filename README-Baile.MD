@@ -37,7 +37,7 @@ Funciones:
 
 #### 🔑-1  generar_flecha()
 
-
+Generar flechas en intervalos.
 
 #### 🔑-2  generar_estrellas()
 
