@@ -132,11 +132,17 @@ Bucle principal.
 
 -8  draw_boxes()
 
--9  draw_nitro_effect()
+##### -9  draw_nitro_effect()
 
--10  draw_checkpoint()
+.
 
--11  check_checkpoint_collision()
+##### -10  draw_checkpoint()
+
+.
+
+##### -11  check_checkpoint_collision()
+
+.
 
 -12  TIC()
 
