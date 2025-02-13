@@ -589,4 +589,5 @@ Funciones:
 
 #### 🔑-4  TIC()
 
+Bucle principal.
 
