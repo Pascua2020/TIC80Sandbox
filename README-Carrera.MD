@@ -48,3 +48,29 @@ Normal o Inversa.
 
 ![gtd01](./Imagenes/gtd1.png)
 ![gtd02](./Imagenes/gtd2.png)
+
+Funciones:
+
+-1  menu()
+
+
+
+-2  cambiar_opcion(opcion,direccion)
+
+
+
+-3  carrera()
+
+
+
+-4  wrap( valor,max )
+
+
+
+-5  dibujar_rectangulo_arcoiris(x,y,w,h)
+
+
+
+-6  TIC()
+
+
