@@ -56,3 +56,148 @@ Dialogo 10
 "Silvestre Stacchotta: Prepárate, conduce hacia el círculo violeta.",
 "Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
 ```
+
+Funciones:
+
+Stuntman4
+
+-1  move_player()
+-2  move_car()
+-3  nueva_camara(x,y)
+-4  update_camera()
+-5  draw_text_multiline_with_bg
+(Text,x,y,color,bg_color,max_width)
+-6  TIC()
+
+Stuntmanv2.1
+
+-1  move_player()
+-2  move_car()
+-3  nueva_camara(x,y)
+-4  update_camera()
+-5  generate_particles(x,y)
+-6  update_and_draw_particles()
+-7  check_collisions()
+-8  draw_boxes()
+-9  TIC()
+
+Stuntmanv3.4
+
+-1  move_player()
+-2  move_car()
+-3  nueva_camara(x,y)
+-4  update_camera()
+-5  generate_particles(x,y)
+-6  update_and_draw_particles()
+-7  check_collisions()
+-8  draw_boxes()
+-9  draw_nitro_effect()
+-10  draw_checkpoint()
+-11  check_checkpoint_collision()
+-12  TIC()
+
+Stuntmanv4.3
+
+-1  move_car()
+-2  nueva_camara(x,y)
+-3  update_camera()
+-4  generate_particles(x,y)
+-5  update_and_draw_particles()
+-6  check_bullet_collisions()
+-7  draw_box()
+-8  draw_bullets()
+-9  shoot_bullet()
+-10  update_bullets()
+-11  draw_nitro_effect()
+-12  check_checkpoint_collisions
+-13 draw_text_multiline_with_bg
+(Text,x,y,color,bg_color,max_width)
+-14  TIC()
+
+Stuntmanv5.1
+
+-1  move_car()
+-2  nueva_camara(x,y)
+-3  update_camera()
+-4  draw_text_multiline_with_bg
+(Text,x,y,color,bg_color,max_width)
+-5  draw_ramp()
+-6  check_ramp_collision()
+-7  handle_jump()
+-8  draw_nitro_effect()
+-9  TIC()
+
+Stuntmanv6.2
+
+-1  move_car()
+-2  nueva_camara(x,y)
+-3  update_camera()
+-4  draw_text_multiline_with_bg
+(Text,x,y,color,bg_color,max_width)
+-5  draw_ramp()
+-6  spawn_car()
+-7  draw_cars()
+-8  check_car_collision()
+-9  handle_jump()
+-10  draw_nitro_effect()
+-11  TIC()
+
+Stuntmanv7.3
+
+-1  move_car()
+-2  nueva_camara()
+-3  update_camera()
+-4  draw_target_car()
+-5  draw_target_car_lost()
+-6  draw_follow_range()
+-7  TIC()
+
+Stuntmanv8.2
+
+-1  spawn_particles()
+-2  update_particles()
+-3  draw_particles()
+-4  move_car()
+-5  draw_hoop()
+-6  update_hoop()
+-7  check_hoop_collision()
+-8  handle_jump()
+-9  draw_nitro_effect()
+-10  check_ramp_collision()
+-11  nueva_camara(x,y)
+-12  update_camera()
+-13  draw_ramp()
+-14  draw_landing_circle()
+-15  TIC()
+
+Stuntmanv9.5
+
+-1  move_car()
+-2  nueva_camara(x,y)
+-3  update_camera()
+-4  draw_ramp()
+-5  draw_hoop()
+-6  draw_victory_circle()
+-7  update_hoop()
+-8  check_hoop_collision()
+-9  check_victory_collision()
+-10  check_ramp_collision()
+-11  check_train_collision()
+-12  handle_jump()
+-13  draw_nitro_effect()
+-14  move_train()
+-15  draw_train()
+-16  TIC()
+
+Stuntmanv10.9
+
+-1  move_car()
+-2  move_player()
+-3  update_camera()
+-4  draw_entities()
+-5  draw_victory_circle()
+-6  check_victory_collision()
+-7  handle_explosion()
+-8  exit_car()
+-9  handle_game_over()
+-10  TIC()
