@@ -251,11 +251,17 @@ Bucle principal.
 
 -3  update_camera()
 
--4  draw_target_car()
+##### -4  draw_target_car()
 
--5  draw_target_car_lost()
+.
 
--6  draw_follow_range()
+##### -5  draw_target_car_lost()
+
+.
+
+##### -6  draw_follow_range()
+
+.
 
 -7  TIC()
 
@@ -269,11 +275,17 @@ Bucle principal.
 
 -4  move_car()
 
--5  draw_hoop()
+##### -5  draw_hoop()
 
--6  update_hoop()
+.
 
--7  check_hoop_collision()
+##### -6  update_hoop()
+
+.
+
+##### -7  check_hoop_collision()
+
+.
 
 -8  handle_jump()
 
@@ -287,7 +299,9 @@ Bucle principal.
 
 -13  draw_ramp()
 
--14  draw_landing_circle()
+##### -14  draw_landing_circle()
+
+.
 
 -15  TIC()
 
@@ -303,7 +317,9 @@ Bucle principal.
 
 -5  draw_hoop()
 
--6  draw_victory_circle()
+##### -6  draw_victory_circle()
+
+.
 
 -7  update_hoop()
 
@@ -313,15 +329,21 @@ Bucle principal.
 
 -10  check_ramp_collision()
 
--11  check_train_collision()
+##### -11  check_train_collision()
+
+.
 
 -12  handle_jump()
 
 -13  draw_nitro_effect()
 
--14  move_train()
+##### -14  move_train()
 
--15  draw_train()
+.
+
+##### -15  draw_train()
+
+.
 
 -16  TIC()
 
@@ -333,16 +355,24 @@ Bucle principal.
 
 -3  update_camera()
 
--4  draw_entities()
+##### -4  draw_entities()
+
+.
 
 -5  draw_victory_circle()
 
 -6  check_victory_collision()
 
--7  handle_explosion()
+##### -7  handle_explosion()
 
--8  exit_car()
+.
 
--9  handle_game_over()
+##### -8  exit_car()
+
+.
+
+##### -9  handle_game_over()
+
+.
 
 -10  TIC()
