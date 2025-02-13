@@ -32,25 +32,27 @@ Dialogo 5
 
 Dialogo 6
 ```
-
+"Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal ."
 ```
 
 Dialogo 7
 ```
-
+"Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!"
 ```
 
 Dialogo 8
 ```
-
+ "Silvestre Stacchotta: Do you have enough chechona?",
+    "Salta por el aro, pero no te quemes."
 ```
 
 Dialogo 9
 ```
-
+ "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
 
 Dialogo 10
 ```
-
+"Prepárate, conduce hacia el círculo violeta.",
+    "Una vez allí, presiona el botón para detonar la bomba."
 ```
