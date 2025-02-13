@@ -22,7 +22,7 @@ Dialogo 3
 
 Dialogo 4
 ```
- "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
+"Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
 
 Dialogo 5
@@ -42,17 +42,17 @@ Dialogo 7
 
 Dialogo 8
 ```
- "Silvestre Stacchotta: Do you have enough chechona?",
+"Silvestre Stacchotta: Do you have enough chechona?",
 "Salta por el aro, pero no te quemes."
 ```
 
 Dialogo 9
 ```
- "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
+"Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
 
 Dialogo 10
 ```
-"Prepárate, conduce hacia el círculo violeta.",
-"Una vez allí, presiona el botón para detonar la bomba."
+"Silvestre Stacchotta: Prepárate, conduce hacia el círculo violeta.",
+"Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
 ```
