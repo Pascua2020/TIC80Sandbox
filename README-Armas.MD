@@ -1,5 +1,7 @@
 Armas
 
+![gif1](./Imagenes/1.gif)
+
 1
 ### 🎃-Puño
 
@@ -49,6 +51,8 @@ Armas
 
 11
 ### 🎃-Rayo Laser
+
+![gifarma](./Imagenes/gifarma.gif)
 
 Funciones
 
