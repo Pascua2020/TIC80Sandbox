@@ -10,6 +10,7 @@ Armas
 2
 ### 🎃-Katana
 
+![gifkatana](./Imagenes/katana.gif)
 
 3
 ### 🎃-Pistola
