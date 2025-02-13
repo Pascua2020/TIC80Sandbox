@@ -51,26 +51,26 @@ Normal o Inversa.
 
 Funciones:
 
-🔑-1  menu()
+#### 🔑-1  menu()
 
 
 
-🔑-2  cambiar_opcion(opcion,direccion)
+#### 🔑-2  cambiar_opcion(opcion,direccion)
 
 
 
-🔑-3  carrera()
+#### 🔑-3  carrera()
 
 
 
-🔑-4  wrap( valor,max )
+#### 🔑-4  wrap( valor,max )
 
 
 
-🔑-5  dibujar_rectangulo_arcoiris(x,y,w,h)
+#### 🔑-5  dibujar_rectangulo_arcoiris(x,y,w,h)
 
 
 
-🔑-6  TIC()
+#### 🔑-6  TIC()
 
 
