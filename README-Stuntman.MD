@@ -143,6 +143,12 @@ Salir del coche para hacerlo detonar,pero a distancia.
 "Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
 ```
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 ## 🎭 Funciones:
 
 #### ✨️Stuntman4
