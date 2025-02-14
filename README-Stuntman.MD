@@ -344,6 +344,38 @@ time_avoided = 0 -- Tiempo en segundos que el coche ha estado esquivando coches 
 
 7
 ```
+- Configuración inicial
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed = 3 -- Velocidad del coche
+nitro_active = false -- Si el nitro está activado
+jumping = false -- Si el coche está saltando
+jump_height = 0 -- Altura del salto
+jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_distance = 50 -- Distancia del salto (aumentado)
+jumping_timer = 0 -- Temporizador del salto
+
+-- Diálogo inicial
+mission_description = "Misión: El Persecución del Coche\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Perseguir al coche por 10 segundos para ganar."
+dialogue = {
+    "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!",
+}
+
+dialogue_index = 1
+countdown = 10 -- Tiempo para la misión en segundos
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+-- Configuración del coche a perseguir
+target_car = {x = 40, y = math.random(10, 40), speed = 2, sprite_id = 50} -- Coche que el jugador debe perseguir
+target_car_distance = 0 -- Distancia entre el coche del jugador y el coche objetivo
+chase_time = 0 -- Tiempo de persecución
+max_chase_time = 10 -- Tiempo máximo de persecución en segundos
+follow_range = 24 -- Rango de seguimiento alrededor del coche objetivo
+
+-- Objetivo 1-7: Perseguir al coche durante 10 segundos
+objective_status = "incomplete"
 
 ```
 
