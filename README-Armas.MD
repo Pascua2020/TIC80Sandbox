@@ -104,7 +104,13 @@ Arma de largo alcance.
 Mucha potencia.
 ![laser](./Imagenes/Armas.jpg)
 
-Funciones
+## ✨️Variables / Atributos
+
+```
+
+```
+
+## Funciones
 
 ### ✅️-Todas las Armas
 
