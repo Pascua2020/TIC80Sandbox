@@ -209,7 +209,8 @@ numero_golpes = 30
 golpes = {}  
 -- Lista de golpes
 
-frases = {"¡Bam!", "Golpe certero", "¡Te alcancé!", "Toma eso", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
+frases = 
+{"¡Bam!", "Golpe certero", "¡Te alcancé!", "Toma eso", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
 
 tiempo_frase = 0
 
@@ -236,23 +237,32 @@ particulas = {}
 Variables principales
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje
+x_personaje = 64  
+-- Posición inicial del personaje
 
-y_personaje = 64  -- Posición inicial del personaje
+y_personaje = 64  
+-- Posición inicial del personaje
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-cortes = {}  -- Tabla para almacenar los efectos de cortes
+cortes = {}  
+-- Tabla para almacenar los efectos de cortes
 
-duracion_corte = 15  -- Duración del efecto de corte en cuadros
+duracion_corte = 15  
+-- Duración del efecto de corte en cuadros
 
-longitud_corte = 20  -- Longitud inicial del corte
+longitud_corte = 20  
+-- Longitud inicial del corte
 
-velocidad_giro = -0.2  -- Giro inverso del corte
+velocidad_giro = -0.2  
+-- Giro inverso del corte
 
-tiempo_entre_cortes = 10  -- Tiempo mínimo entre cortes consecutivos
+tiempo_entre_cortes = 10  
+-- Tiempo mínimo entre cortes consecutivos
 
-tiempo_ultimo_corte = 0  -- Reloj para limitar cortes consecutivos
+tiempo_ultimo_corte = 0  
+-- Reloj para limitar cortes consecutivos
 
 -- Enemigos
 
@@ -271,31 +281,41 @@ particulas = {}
 ```
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-balanza = nil  -- La balanza estará inicialmente inactiva
+balanza = nil  
+-- La balanza estará inicialmente inactiva
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
 direccion_balanza = 0  
 -- Dirección de la balanza 
 (0 = no disparada, 1 = disparada hacia la derecha, -1 = disparada hacia la izquierda)
 
-pos_balanza_x = 0  -- Posición X de la balanza
+pos_balanza_x = 0  
+-- Posición X de la balanza
 
-pos_balanza_y = 64  -- Posición Y de la balanza
+pos_balanza_y = 64  
+-- Posición Y de la balanza
 
 -- Contador de balas
 
-numero_balas = 20  -- Número inicial de balas
+numero_balas = 20  
+-- Número inicial de balas
 
-disparando = false  -- Estado de disparo
+disparando = false  
+-- Estado de disparo
 
-tiempo_frase = 0  -- Temporizador para la frase
+tiempo_frase = 0  
+-- Temporizador para la frase
 
-frase_actual = ""  -- Frase que se mostrará
+frase_actual = ""  
+-- Frase que se mostrará
 
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
@@ -311,34 +331,45 @@ coches = {
     {x = 120, y = 88, colisionado = false},  -- Coche abajo
 }
 
-coche_explosion = false  -- Estado de la explosión
+coche_explosion = false  
+-- Estado de la explosión
 
-explosion_tiempo = 0  -- Temporizador para la animación de explosión
+explosion_tiempo = 0  
+-- Temporizador para la animación de explosión
 
-explosion_puntos = {}  -- Lista de puntos para la explosión
+explosion_puntos = {}  
+-- Lista de puntos para la explosión
 
 -- Variables para el poder del jugador
 
-poder_jugador = 0  -- Poder que se mostrará al colisionar
+poder_jugador = 0  
+-- Poder que se mostrará al colisionar
 
-poder_tiempo = 0  -- Tiempo en que se generó el poder
+poder_tiempo = 0  
+-- Tiempo en que se generó el poder
 
-mostrar_poder = false  -- Indica si el poder debe mostrarse
+mostrar_poder = false  
+-- Indica si el poder debe mostrarse
 ```
 
 ### Granada
 ```
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-numero_granadas = 5  -- Número inicial de granadas
+numero_granadas = 5  
+-- Número inicial de granadas
 
-granadas = {}  -- Lista de granadas activas
+granadas = {}  
+-- Lista de granadas activas
 
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
 
@@ -346,23 +377,30 @@ tiempo_frase = 0
 
 frase_actual = ""
 
-coches = {}  -- Lista de coches en la pantalla
+coches = {}  
+-- Lista de coches en la pantalla
 
-explosiones = {}  -- Lista de explosiones
+explosiones = {}  
+-- Lista de explosiones
 ```
 ### AK 47
 ```
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-numero_cartuchos = 30  -- Número inicial de balas del AK-47
+numero_cartuchos = 30  
+-- Número inicial de balas del AK-47
 
-disparos = {}  -- Lista de disparos activos
+disparos = {}  
+-- Lista de disparos activos
 
 frases = {"¡Bang!", "Disparo certero", "Te alcancé", "Toma esto", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
 
@@ -370,9 +408,11 @@ tiempo_frase = 0
 
 frase_actual = ""
 
-coches = {}  -- Lista de coches en la pantalla
+coches = {}  
+-- Lista de coches en la pantalla
 
-explosiones = {}  -- Lista de explosiones
+explosiones = {}  
+-- Lista de explosiones
 
 distancia_entre_disparos = 5  
 -- Distancia entre disparos consecutivos
@@ -381,13 +421,17 @@ distancia_entre_disparos = 5
 ```
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-numero_cartuchos = 5  -- Número inicial de cartuchos
+numero_cartuchos = 5  
+-- Número inicial de cartuchos
 
 disparos = {}  -- Lista de disparos activos
 
@@ -397,9 +441,11 @@ tiempo_frase = 0
 
 frase_actual = ""
 
-coches = {}  -- Lista de coches en la pantalla
+coches = {}  
+-- Lista de coches en la pantalla
 
-explosiones = {}  -- Lista de explosiones
+explosiones = {}  
+-- Lista de explosiones
 
 ```
 
@@ -408,23 +454,32 @@ explosiones = {}  -- Lista de explosiones
 -- Variables
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-rayos = {}  -- Lista para los rayos del rifle
+rayos = {}  
+-- Lista para los rayos del rifle
 
-energia = 100  -- Energía inicial del rifle
+energia = 100  
+-- Energía inicial del rifle
 
-disparando = false  -- Estado de disparo
+disparando = false  
+-- Estado de disparo
 
-tiempo_frase = 0  -- Temporizador para la frase
+tiempo_frase = 0  
+-- Temporizador para la frase
 
-frase_actual = ""  -- Frase que se mostrará
+frase_actual = ""  
+-- Frase que se mostrará
 
-tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+tiempo_frase_mostrar = 0  
+-- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
 frases = {"¡Descarga eléctrica!", "¡Siente la chispa!", "¡Electricidad pura!", "¡Zas!", "¡Impacto eléctrico!"}
@@ -436,7 +491,8 @@ coches = {
     {x = 120, y = 88, colisionado = false},
 }
 
-explosion_puntos = {}  -- Lista de puntos para explosiones
+explosion_puntos = {}  
+-- Lista de puntos para explosiones
 ```
 
 ### Lanzallamas
@@ -444,23 +500,32 @@ explosion_puntos = {}  -- Lista de puntos para explosiones
 -- Variables
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-llamas = {}  -- Lista para las llamaradas del lanzallamas
+llamas = {}  
+-- Lista para las llamaradas del lanzallamas
 
-numero_combustible = 100  -- Combustible inicial del lanzallamas
+numero_combustible = 100  
+-- Combustible inicial del lanzallamas
 
-disparando = false  -- Estado de disparo
+disparando = false  
+-- Estado de disparo
 
-tiempo_frase = 0  -- Temporizador para la frase
+tiempo_frase = 0  
+-- Temporizador para la frase
 
-frase_actual = ""  -- Frase que se mostrará
+frase_actual = ""  
+-- Frase que se mostrará
 
-tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+tiempo_frase_mostrar = 0  
+-- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
 frases = {"Te quemo!", "Arde!", "Fuego!", "Esto es calor!", "A la parrilla!", "A quemarse!"}
@@ -472,7 +537,8 @@ coches = {
     {x = 120, y = 88, colisionado = false},
 }
 
-explosion_puntos = {}  -- Lista de puntos para explosiones
+explosion_puntos = {}  
+-- Lista de puntos para explosiones
 
 ```
 ### Rayo Laser
