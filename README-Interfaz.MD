@@ -34,8 +34,13 @@ Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 
 ### ✨️Mapa
 
+.
+
 ## 🎭 Variables / Atributos
 
+```
+
+```
 
 
 ## 🎭 Funciones
