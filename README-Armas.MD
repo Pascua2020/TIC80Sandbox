@@ -443,14 +443,23 @@ explosion_puntos = {}  -- Lista de puntos para explosiones
 ```
 -- Variables
 t = 0
+
 x_personaje = 64  -- Posición inicial del personaje (horizontal)
+
 y_personaje = 64  -- Posición inicial del personaje (vertical)
+
 velocidad = 1  -- Velocidad del personaje
+
 llamas = {}  -- Lista para las llamaradas del lanzallamas
+
 numero_combustible = 100  -- Combustible inicial del lanzallamas
+
 disparando = false  -- Estado de disparo
+
 tiempo_frase = 0  -- Temporizador para la frase
+
 frase_actual = ""  -- Frase que se mostrará
+
 tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
@@ -469,15 +478,25 @@ explosion_puntos = {}  -- Lista de puntos para explosiones
 ### Rayo Laser
 ```
 -- Variables
+
 t = 0
+
 x_personaje = 64  -- Posición inicial del personaje
+
 y_personaje = 64  -- Posición inicial del personaje
+
 velocidad = 1  -- Velocidad del personaje
+
 energia = 100  -- Energía inicial del láser
+
 disparando = false  -- Estado de disparo
+
 tiempo_frase = 0  -- Temporizador para la frase
-frase_actual = ""  -- Frase que se mostrará
+
+frase_actual = ""  -- Frase que se mostrara
+
 tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+
 longitud_laser = 0  -- Longitud del láser
 
 -- Frases aleatorias
@@ -490,39 +509,66 @@ enemigos = {
     {x = 120, y = 88, colisionado = false},
 }
 
-sangre = {}  -- Lista para partículas de sangre
+sangre = {}  
+-- Lista para partículas de sangre
 ```
 ### Bazooka
 ```
 t = 0
+
 x_personaje = 64  -- Posición inicial del personaje (horizontal)
+
 y_personaje = 64  -- Posición inicial del personaje (vertical)
+
 velocidad = 1  -- Velocidad del personaje
+
 numero_cartuchos = 5  -- Número inicial de cartuchos
+
 disparos = {}  -- Lista de disparos activos
+
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
+
 tiempo_frase = 0
+
 frase_actual = ""
+
 coches = {}  -- Lista de coches en la pantalla
+
 explosiones = {}  -- Lista de explosiones
 ```
 
 ### MiniGun
 ```
 -- Variables
+
 t = 0
+
 x_personaje = 64  -- Posición inicial del personaje (horizontal)
+
 y_personaje = 64  -- Posición inicial del personaje (vertical)
+
 velocidad = 1  -- Velocidad del personaje
+
 balas = {}  -- Lista para las balas de la minigun
+
 energia = 100  -- Energía inicial de la minigun
+
 disparando = false  -- Estado de disparo
+
 tiempo_frase = 0  -- Temporizador para la frase
+
 frase_actual = ""  -- Frase que se mostrará
+
 tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
-enemigos = {}  -- Lista de enemigos
-tiempo_efecto_sangre = 0  -- Para controlar el efecto de sangre
-particulas_explosion = {}  -- Lista para las partículas de la explosión
+
+enemigos = {}  
+-- Lista de enemigos
+
+tiempo_efecto_sangre = 0  
+-- Para controlar el efecto de sangre
+
+particulas_explosion = {}  
+-- Lista para las partículas de la explosión
 
 -- Frases aleatorias
 frases = {"¡Ráfaga!", "¡Disparando!", "¡Toma esto!", "¡Minigun a full!", "¡No escaparás!"}
