@@ -251,11 +251,11 @@ Descripción:
 
 Descripción: 
 
--08
+-08 Pinball
 
 Descripción: 
 
--09
+-09 Trompos
 
 Descripción: 
 
