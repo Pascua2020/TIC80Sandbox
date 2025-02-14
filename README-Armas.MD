@@ -184,11 +184,11 @@ Bucle principal.
 
 ### ✅️-Puño
 
--1  golpear()
+#### 🔑-1  golpear()
 
--2  mover_golpes()
+#### 🔑-2  mover_golpes()
 
--3  dibujar_golpes()
+#### 🔑-3  dibujar_golpes()
 
 -4  mover_personaje()
 
@@ -216,9 +216,9 @@ Bucle principal.
 
 -2  mover_personaje()
 
--3  cortar_katana()
+#### 🔑-3  cortar_katana()
 
--4  actualizar_cortes()
+#### 🔑-4  actualizar_cortes()
 
 -5  generar_particulas(x,y)
 
@@ -234,13 +234,13 @@ Bucle principal.
 
 -2  dibujar_coches()
 
--3  dibujar_balanza()
+#### 🔑-3  dibujar_balanza()
 
 -4  mover_personaje()
 
--5  disparar_balanza()
+#### 🔑-5  disparar_balanza()
 
--6  mover_balanza()
+#### 🔑-6  mover_balanza()
 
 -7  detectar_colision()
 
@@ -264,7 +264,7 @@ Bucle principal.
 
 ### ✅️-Escopeta
 
--1  disparar_escopeta()
+#### 🔑-1  disparar_escopeta()
 
 -2  mover_disparos()
 
@@ -294,11 +294,11 @@ Bucle principal.
 
 ### ✅️-Granada
 
--1  disparar_granada()
+#### 🔑-1  disparar_granada()
 
--2  mover_granada()
+#### 🔑-2  mover_granada()
 
--3  dibujar_granada()
+#### 🔑-3  dibujar_granada()
 
 -4  mostrar_controles()
 
@@ -318,7 +318,7 @@ Bucle principal.
 
 -12  TIC()
 
--13  dibujar_mira_impacto()
+#### 🔑-13  dibujar_mira_impacto()
 
 ### ✅️-Rifle Electrico
 
@@ -326,11 +326,11 @@ Bucle principal.
 
 -2  mover_personaje()
 
--3  disparar_rifle()
+#### 🔑-3  disparar_rifle()
 
--4  mover_rayos()
+#### 🔑-4  mover_rayos()
 
--5  dibujar_rayos()
+#### 🔑-5  dibujar_rayos()
 
 -6  detectar_colision()
 
@@ -352,11 +352,11 @@ Bucle principal.
 
 -2  mover_personaje()
 
--3  disparar_lanzallamas()
+#### 🔑-3  disparar_lanzallamas()
 
--4  mover_llamas()
+#### 🔑-4  mover_llamas()
 
--5  dibujar_llamas()
+#### 🔑-5  dibujar_llamas()
 
 -6  detectar_colision()
 
@@ -374,7 +374,7 @@ Bucle principal.
 
 ### ✅️-Bazooka
 
--1  disparar_bazooka()
+#### 🔑-1  disparar_bazooka()
 
 -2  mover_disparos()
 
@@ -408,11 +408,11 @@ Bucle principal.
 
 -2  mover_personaje()
 
--3  disparar_minigun()
+#### 🔑-3  disparar_minigun()
 
--4  mover_balas()
+#### 🔑-4  mover_balas()
 
--5  dibujar_balas()
+#### 🔑-5  dibujar_balas()
 
 -6  dibujar_enemigos()
 
@@ -432,7 +432,7 @@ Bucle principal.
 
 ### ✅️-AK47
 
--1  disparar_ak47()
+#### 🔑-1  disparar_ak47()
 
 -2  mover_disparos()
 
@@ -466,9 +466,9 @@ Bucle principal.
 
 -2  mover_personaje()
 
--3  disparar_laser()
+#### 🔑-3  disparar_laser()
 
--4  dibujar_laser()
+#### 🔑-4  dibujar_laser()
 
 -5  dibujar_enemigos()
 
