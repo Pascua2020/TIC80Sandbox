@@ -341,7 +341,29 @@ explosiones = {}  -- Lista de explosiones
 
 ### Rifle Electrico
 ```
+-- Variables
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+rayos = {}  -- Lista para los rayos del rifle
+energia = 100  -- Energía inicial del rifle
+disparando = false  -- Estado de disparo
+tiempo_frase = 0  -- Temporizador para la frase
+frase_actual = ""  -- Frase que se mostrará
+tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
 
+-- Frases aleatorias
+frases = {"¡Descarga eléctrica!", "¡Siente la chispa!", "¡Electricidad pura!", "¡Zas!", "¡Impacto eléctrico!"}
+
+-- Posición de los coches
+coches = {
+    {x = 120, y = 64, colisionado = false},
+    {x = 120, y = 40, colisionado = false},
+    {x = 120, y = 88, colisionado = false},
+}
+
+explosion_puntos = {}  -- Lista de puntos para explosiones
 ```
 
 ### Lanzallamas
