@@ -6,16 +6,32 @@ Distintos tipos de climas.
 
 ![clima](./Imagenes/clima.jpg)
 
-## Variables / Atributos
-
-```
-
-```
-
-## Funciones
-
 ## 🎭 Tipos de Clima
 
+### ⭐️ Lluvia
+
+
+
+### ⭐️ Viento
+
+
+
+### ⭐️ Hojas
+
+
+
+### ⭐️ Nieve
+
+
+
+### ⭐️ Relampagos
+
+
+
 ## 🎭 Variables / Atributos
+
+```
+
+```
 
 ## 🎭 Funciones
