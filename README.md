@@ -20,11 +20,24 @@
 
 READMEs :
 ![README Armas](./README-Armas.MD)
+
 ![README Baile](./README-Baile.MD)
+
 ![README Carrera](./README-Carrera.MD)
+
 ![README Combate Vehicular](./README-CombateVehicular.MD)
+
 ![README Pinball](./README-Pinball.MD)
-![rda](./README-Armas.MD)
+
+![README RC](./README-RC.MD)
+
+![README Radios](./README-Radios.MD)
+
+![README Stuntman](./README-Stuntman.MD)
+
+![README Trompos](./README-Trompos.MD)
+
+![README Wiki](./README-Wiki.MD)
 
 🎲 ***Nombre del juego :*** 
 
