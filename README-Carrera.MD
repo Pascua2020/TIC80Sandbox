@@ -54,19 +54,23 @@ Normal o Inversa.
 ```
 1
 -- Configuración inicial
-menu_actual = 1 -- Menú principal
+menu_actual = 1 
+-- Menú principal
 
 2
-selecciones = {1, 1, 1, 1, 1} -- Índices de selección
+selecciones = {1, 1, 1, 1, 1} 
+-- Índices de selección
 
 3
 juego_empezado = false
 
 4
-color_arcoiris = 0 -- Variable para cambiar el color del texto
+color_arcoiris = 0 
+-- Variable para cambiar el color del texto
 
 5
-scroll_x = 250 -- Posición de inicio del scroll (extremo derecho)
+scroll_x = 250 
+-- Posición de inicio del scroll (extremo derecho)
 
 -- Datos de las opciones
 6
@@ -77,9 +81,15 @@ pistas = {"Berna Suiza"}
 
 8
 coches = {
-    {nombre = "Tochota Fulero", sprite = {144, 145}, colores = {"Rojo", "Azul"}, descripcion = "País: Japón Modelo: 2023 Descripción: Un coche con una potencia que desafía las leyes de la física."}, -- Sprite 144 para rojo y 145 para azul
+    {nombre = "Tochota Fulero",
+ sprite = {144, 145}, 
+ colores = {"Rojo", "Azul"}, 
+ descripcion = "País: Japón Modelo: 2023 Descripción: Un coche con una potencia que desafía las leyes de la física."}, 
+-- Sprite 144 para rojo y 145 para azul
 
-    {nombre = "Zhozho Egoego", sprite = {160, 161}, colores = {"Verde", "Amarillo"}, descripcion = "País: China Modelo: 2024 Descripción: Este coche tiene un diseño tan avanzado que ni siquiera los científicos saben cómo funciona."} 
+    {nombre = "Zhozho Egoego", 
+sprite = {160, 161}, 
+colores = {"Verde", "Amarillo"}, descripcion = "País: China Modelo: 2024 Descripción: Este coche tiene un diseño tan avanzado que ni siquiera los científicos saben cómo funciona."} 
 -- Sprite 160 para verde y 161 para amarillo
 }
 
@@ -92,7 +102,8 @@ direcciones = {"Normal", "Inversa"}
 -- Índice de colores específico por coche
 
 11
-indice_colores = {1, 1} -- Cada coche tiene su propio índice de color
+indice_colores = {1, 1} 
+-- Cada coche tiene su propio índice de color
 
 ```
 
