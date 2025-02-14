@@ -2,11 +2,11 @@
 
 ![gifcoche](./Imagenes/subircoche.gif)
 
-### 🎭 Ambientacion
+### 🎭 Ambientación
 
 Estudios de Cine "Choriwood",Argentina
 
-### 🎭 Descripcion de la Mision
+### 🎭 Descripción de la Mision
 
 Misión: El Kamikaze del Cine
 
@@ -151,7 +151,7 @@ Salir del coche para hacerlo detonar,pero a distancia.
 
 ## 🎭 Funciones:
 
-#### ✨️Stuntman4
+#### ✨️Stuntman4 / Parte 1
 
 ##### 🔑-1  move_player()
 
@@ -178,7 +178,7 @@ Salir del coche para hacerlo detonar,pero a distancia.
 
 Bucle principal.
 
-#### ✨️Stuntmanv2.1
+#### ✨️Stuntmanv2.1 / Parte 2
 
 -1  move_player()
 
@@ -206,7 +206,7 @@ Bucle principal.
 
 -9  TIC()
 
-#### ✨️Stuntmanv3.4
+#### ✨️Stuntmanv3.4 / Parte 3
 
 -1  move_player()
 
@@ -238,7 +238,7 @@ Bucle principal.
 
 -12  TIC()
 
-#### ✨️Stuntmanv4.3
+#### ✨️Stuntmanv4.3 / Parte 4
 
 -1  move_car()
 
@@ -277,7 +277,7 @@ Bucle principal.
 
 -14  TIC()
 
-#### ✨️Stuntmanv5.1
+#### ✨️Stuntmanv5.1 / Parte 5
 
 -1  move_car()
 
@@ -304,7 +304,7 @@ Bucle principal.
 
 -9  TIC()
 
-#### ✨️Stuntmanv6.2
+#### ✨️Stuntmanv6.2 / Parte 6
 
 -1  move_car()
 
@@ -335,7 +335,7 @@ Bucle principal.
 
 -11  TIC()
 
-#### ✨️Stuntmanv7.3
+#### ✨️Stuntmanv7.3 / Parte 7
 
 -1  move_car()
 
@@ -357,7 +357,7 @@ Bucle principal.
 
 -7  TIC()
 
-#### ✨️Stuntmanv8.2
+#### ✨️Stuntmanv8.2 / Parte 8
 
 -1  spawn_particles()
 
@@ -397,7 +397,7 @@ Bucle principal.
 
 -15  TIC()
 
-#### ✨️Stuntmanv9.5
+#### ✨️Stuntmanv9.5 / Parte 9
 
 -1  move_car()
 
@@ -439,7 +439,7 @@ Bucle principal.
 
 -16  TIC()
 
-#### ✨️Stuntmanv10.9
+#### ✨️Stuntmanv10.9 / Parte 10
 
 -1  move_car()
 
