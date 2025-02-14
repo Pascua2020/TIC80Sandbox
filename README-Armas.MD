@@ -276,7 +276,17 @@ mostrar_poder = false  -- Indica si el poder debe mostrarse
 
 ### Granada
 ```
-
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+numero_granadas = 5  -- Número inicial de granadas
+granadas = {}  -- Lista de granadas activas
+frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
+tiempo_frase = 0
+frase_actual = ""
+coches = {}  -- Lista de coches en la pantalla
+explosiones = {}  -- Lista de explosiones
 ```
 ### AK 47
 ```
