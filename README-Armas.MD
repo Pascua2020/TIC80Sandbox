@@ -3,7 +3,7 @@
 ![gifarmasvarias](./Imagenes/armasvarias.gif)
 
 1
-### 🎃-Puño
+### 🎃 Puño
 
 ![punio](./Imagenes/punio.gif)
 
@@ -13,7 +13,7 @@ Poca potencia.
 ![a-punio](./Imagenes/a-punio.jpg)
 
 2
-### 🎃-Katana
+### 🎃 Katana
 
 ![gifkatana](./Imagenes/katana.gif)
 
@@ -22,7 +22,7 @@ Mucha potencia.
 
 ![a-sangre](./Imagenes/sangre.jpg)
 3
-### 🎃-Pistola
+### 🎃 Pistola
 
 ![gifpistola](./Imagenes/pistola.gif)
 
@@ -32,7 +32,7 @@ Disparos lentos.
 
 ![a-pistola](./Imagenes/a-pistola.jpg)
 4
-### 🎃-Escopeta
+### 🎃 Escopeta
 
 ![gifescopeta](./Imagenes/escopeta.gif)
 
@@ -41,7 +41,7 @@ Multiples disparos.
 
 ![a-es](./Imagenes/a-es.jpg)
 5
-### 🎃-Granada
+### 🎃 Granada
 
 ![gifgranada](./Imagenes/granada.gif)
 
@@ -51,7 +51,7 @@ Mucha potencia.
 ![a-gra](./Imagenes/a-gra.jpg)
 
 6
-### 🎃-Rifle Electrico
+### 🎃 Rifle Electrico
 
 ![gifre](./Imagenes/rifleel.gif)
 
@@ -60,7 +60,7 @@ Mucha potencia.
 ![a-re](./Imagenes/a-re.jpg)
 
 7
-### 🎃-Lanzallamas
+### 🎃 Lanzallamas
 
 ![gifla](./Imagenes/lanzallama.gif)
 Arma con rafagas pero largo alcance.
@@ -68,7 +68,7 @@ Mucha potencia.
 ![a-la](./Imagenes/a-la.jpg)
 
 8
-### 🎃-Bazooka
+### 🎃 Bazooka
 
 ![gifba](./Imagenes/bazooka.gif)
 
@@ -78,7 +78,7 @@ Mucha potencia.
 ![a-ba](./Imagenes/a-ba.jpg)
 
 9
-### 🎃-MiniGun
+### 🎃 MiniGun
 
 ![gifminigun](./Imagenes/minigun.gif)
 Arma con disparos de multiples rafagas.
@@ -87,7 +87,7 @@ Mucha potencia.
 ![a-mini](./Imagenes/a-mini.jpg)
 
 10
-### 🎃-AK 47
+### 🎃 AK 47
 
 ![gifak](./Imagenes/ak47.gif)
 
@@ -97,7 +97,7 @@ Disparos rapidos.
 ![a-ak](./Imagenes/a-ak.jpg)
 
 11
-### 🎃-Rayo Laser
+### 🎃 Rayo Laser
 
 ![gifarma](./Imagenes/gifarma.gif)
 Arma de largo alcance.
