@@ -38,34 +38,48 @@ Simula ser una Lluvia de Estrellas.
 ```
 - Variables principales
 
+1
 flechas = {} -- Lista de flechas
 
+2
 tiempo_generacion = 60 -- Intervalo de generación
 
+3
 temporizador = 0 -- Temporizador para crear flechas
 
+4
 ancho_flecha = 16
 
+5
 alto_flecha = 16
 
+6
 posiciones = {40, 80, 120, 160} -- Posiciones X para las flechas (←, ↓, ↑, →)
 
+7
 puntuacion = 0
 
+8
 combo = 0
 
+9
 fallos = 0
 
+10
 juego_activo = true
 
 -- Estrellas
+11
 estrellas = {}
 
+12
 num_estrellas = 50
 
+13
 estrella_fugaz = {}
 
 -- Variables para la canción
+14
 frases_cancion = {
     "1-Soy una IA, enamorado de ti...",
     "2-Tu piel marciana brilla bajo \nla luz de Júpiter...",
@@ -75,13 +89,17 @@ frases_cancion = {
     "6-Júpiter es solo el comienzo \nde nuestro viaje..."
 }
 
+15
 indice_frase = 1
 
+16
 tiempo_frase = 0
 
+17
 cambio_frase_intervalo = 240 -- Cambia la frase cada 4 segundos (60 FPS * 4 segundos) 
 
 -- Estados de las flechas estáticas
+18
 flechas_estaticas = {false, false, false, false}
 
 ```
