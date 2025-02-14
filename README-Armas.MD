@@ -547,23 +547,32 @@ explosion_puntos = {}
 
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje
+x_personaje = 64  
+-- Posición inicial del personaje
 
-y_personaje = 64  -- Posición inicial del personaje
+y_personaje = 64  
+-- Posición inicial del personaje
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-energia = 100  -- Energía inicial del láser
+energia = 100  
+-- Energía inicial del láser
 
-disparando = false  -- Estado de disparo
+disparando = false  
+-- Estado de disparo
 
-tiempo_frase = 0  -- Temporizador para la frase
+tiempo_frase = 0  
+-- Temporizador para la frase
 
-frase_actual = ""  -- Frase que se mostrara
+frase_actual = ""  
+-- Frase que se mostrara
 
-tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+tiempo_frase_mostrar = 0  
+-- Tiempo en que se mostró la última frase
 
-longitud_laser = 0  -- Longitud del láser
+longitud_laser = 0  
+-- Longitud del láser
 
 -- Frases aleatorias
 frases = {"¡Corte láser!", "¡Quema!", "¡Desintegración!", "¡Nada sobrevivirá!", "¡Muere!"}
@@ -582,15 +591,20 @@ sangre = {}
 ```
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-numero_cartuchos = 5  -- Número inicial de cartuchos
+numero_cartuchos = 5  
+-- Número inicial de cartuchos
 
-disparos = {}  -- Lista de disparos activos
+disparos = {} 
+-- Lista de disparos activos
 
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
 
@@ -598,9 +612,11 @@ tiempo_frase = 0
 
 frase_actual = ""
 
-coches = {}  -- Lista de coches en la pantalla
+coches = {}  
+-- Lista de coches en la pantalla
 
-explosiones = {}  -- Lista de explosiones
+explosiones = {}  
+-- Lista de explosiones
 ```
 
 ### MiniGun
@@ -609,23 +625,32 @@ explosiones = {}  -- Lista de explosiones
 
 t = 0
 
-x_personaje = 64  -- Posición inicial del personaje (horizontal)
+x_personaje = 64  
+-- Posición inicial del personaje (horizontal)
 
-y_personaje = 64  -- Posición inicial del personaje (vertical)
+y_personaje = 64  
+-- Posición inicial del personaje (vertical)
 
-velocidad = 1  -- Velocidad del personaje
+velocidad = 1  
+-- Velocidad del personaje
 
-balas = {}  -- Lista para las balas de la minigun
+balas = {}  
+-- Lista para las balas de la minigun
 
-energia = 100  -- Energía inicial de la minigun
+energia = 100  
+-- Energía inicial de la minigun
 
-disparando = false  -- Estado de disparo
+disparando = false  
+-- Estado de disparo
 
-tiempo_frase = 0  -- Temporizador para la frase
+tiempo_frase = 0  
+-- Temporizador para la frase
 
-frase_actual = ""  -- Frase que se mostrará
+frase_actual = ""  
+-- Frase que se mostrará
 
-tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+tiempo_frase_mostrar = 0  
+-- Tiempo en que se mostró la última frase
 
 enemigos = {}  
 -- Lista de enemigos
