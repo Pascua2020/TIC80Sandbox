@@ -4,6 +4,15 @@
 
 ## Frases al Disparar
 ```
+1 "SOS boleta", 
+2 "morite loco",
+3 "te voy a volar la cabeza",
+4 "no te lo voy a perdonar",
+5 "soy el más vivo",
+6 "comete esta gil",
+7 "te gusta el sabor a balas?",
+8 "con el debido respeto",
+9 "BANG"}
 
 ```
 
