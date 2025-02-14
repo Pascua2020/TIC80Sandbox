@@ -84,8 +84,7 @@ Distintos tipos de climas.
 
 .
 
-#### 🔑-13  draw_lightning
-(x_start,y_start,segments,length)
+#### 🔑-13  draw_lightning(x_start,y_start,segments,length)
 
 .
 
