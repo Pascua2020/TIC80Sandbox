@@ -381,7 +381,37 @@ objective_status = "incomplete"
 
 8
 ```
+-- Configuración inicial (igual que antes)
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0
+car_speed = 3
+nitro_active = false
+jumping = false
+jump_height = 0
+jump_speed = 2
+jump_distance = 50
+jumping_timer = 0
 
+mission_description = "Misión: Aro en Llamas\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Salta por el aro sin tocar las llamas."
+dialogue = {
+    "Silvestre Stacchotta: Do you have enough chichón?",
+    "Salta por el aro, pero no te quemes.",
+}
+
+dialogue_index = 1
+countdown = 10
+game_state = "mission_intro"
+
+ramp = {x = 150, y = 80}
+
+hoop = {x = 180, y = 40, state = "normal", timer = 0}
+
+objective_status = "incomplete"
+
+-- Partículas de llamas
+particles = {}
 ```
 
 9
