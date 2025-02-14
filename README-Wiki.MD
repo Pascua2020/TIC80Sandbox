@@ -72,18 +72,24 @@ Hay una o varias dentro de cada sección.
 ```
 - Variables de estado
 
+1
 section = 1
 
+2
 page = 1
 
+3
 sections = {"A", "B", "C", "D", "E", "F", "G", "H", "I",
  "J", "K", "L", "M", "N"} 
 -- Secciones disponibles (agregado "M" y "N")
 
+4
 pages = {{"A1"}, {"B1", "B2", "B3"}, {"C1"}, {"D1", "D2"}, {"E1", "E2", "E3", "E4", "E5", "E6"}, {"F1", "F2", "F3", "F4", "F5", "F6","F7"}, {"G1","G2"}, {"H1", "H2"}, {"I1"}, {"J1", "J2", "J3", "J4", "J5", "J6"}, {"K1"}, {"L1"}, {"M1","M2"}, {"N1","N2"}} 
 -- Páginas por sección (agregado "M1" y "N1")
 
 -- Contenido de las secciones y páginas
+
+5
 content = {
     A = {
         "Nerdpedia",
@@ -179,14 +185,19 @@ content = {
 }
 
 -- Variables para animación de colores
+
+6
 color_offset = 0
 
+7
 rainbow_speed = 0 
 -- Controla la velocidad del arcoíris
 
+8
 rainbow_timer = 3 
 -- Cuántos TIC debe esperar antes de avanzar el color (más rápido)
 
+9
 rainbow_colors = 
 {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 0}
 
