@@ -89,7 +89,8 @@ coches = {
 
     {nombre = "Zhozho Egoego", 
 sprite = {160, 161}, 
-colores = {"Verde", "Amarillo"}, descripcion = "País: China Modelo: 2024 Descripción: Este coche tiene un diseño tan avanzado que ni siquiera los científicos saben cómo funciona."} 
+colores = {"Verde", "Amarillo"},
+ descripcion = "País: China Modelo: 2024 Descripción: Este coche tiene un diseño tan avanzado que ni siquiera los científicos saben cómo funciona."} 
 -- Sprite 160 para verde y 161 para amarillo
 }
 
