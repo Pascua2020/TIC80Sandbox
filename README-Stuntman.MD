@@ -398,115 +398,149 @@ objective_status = "incomplete"
 ```
 -- Configuración inicial
 
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
+5
 jumping = false 
 -- Si el coche está saltando
 
+6
 jump_height = 0 
 -- Altura del salto
 
+7
 jump_speed = 2 
 -- Velocidad del salto (aumentado)
 
+8
 jump_distance = 50 
 -- Distancia del salto (aumentado)
 
+9
 jumping_timer = 0 
 -- Temporizador del salto
 
 -- Diálogo inicial
+10
 mission_description = 
 "Misión: El Salto de la Rampa\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Saltar sobre una rampa para ganar distancia."
 
+11
 dialogue = {
     "Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto.",
 }
 
+12
 dialogue_index = 1
 
+13
 countdown = 10
 
+14
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
+15
 ramp = {x = 150, y = 80} 
 -- Coordenadas de la rampa
 
 -- Objetivo 1-5
+16
 objective_status = "incomplete"
 ```
 
 6
 ```
 -- Configuración inicial
-
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
+5
 jumping = false 
 -- Si el coche está saltando
 
+6
 jump_height = 0 
 -- Altura del salto
 
+7
 jump_speed = 2 
 -- Velocidad del salto (aumentado)
 
+8
 jump_distance = 50 
 -- Distancia del salto (aumentado)
 
+9
 jumping_timer = 0 
 -- Temporizador del salto
 
 -- Diálogo inicial
+10
 mission_description = 
 "Misión: El Salto de la Rampa\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Saltar sobre una rampa para ganar distancia."
 
+11
 dialogue = {
     "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal .",
 }
 
+12
 dialogue_index = 1
 
+13
 countdown = 5
 
+14
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
+15
 ramp = {x = 150, y = 80} 
 -- Coordenadas de la rampa
 
 -- Objetivo 1-6: Esquivar coches durante 5 segundos
+16
 objective_status = "incomplete"
 
+17
 cars = {}
 
+18
 car_spawn_timer = 0
 
+19
 time_avoided = 0 
 -- Tiempo en segundos que el coche ha estado esquivando coches sin colisiones
 
@@ -515,70 +549,90 @@ time_avoided = 0
 7
 ```
 - Configuración inicial
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
+5
 jumping = false 
 -- Si el coche está saltando
 
+6
 jump_height = 0 
 -- Altura del salto
 
+7
 jump_speed = 2 
 -- Velocidad del salto (aumentado)
 
+8
 jump_distance = 50 
 -- Distancia del salto (aumentado)
 
+9
 jumping_timer = 0 
 -- Temporizador del salto
 
 -- Diálogo inicial
 
+10
 mission_description = 
 "Misión: El Persecución del Coche\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Perseguir al coche por 10 segundos para ganar."
 
+11
 dialogue = {
     "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!",
 }
 
+12
 dialogue_index = 1
 
+13
 countdown = 10 
 -- Tiempo para la misión en segundos
 
+14
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración del coche a perseguir
 
+15
 target_car = {x = 40, y = math.random(10, 40), speed = 2, sprite_id = 50} 
 -- Coche que el jugador debe perseguir
 
+16
 target_car_distance = 0 
 -- Distancia entre el coche del jugador y el coche objetivo
 
+17
 chase_time = 0 
 -- Tiempo de persecución
 
+18
 max_chase_time = 10 
 -- Tiempo máximo de persecución en segundos
 
+19
 follow_range = 24 
 -- Rango de seguimiento alrededor del coche objetivo
 
 -- Objetivo 1-7: Perseguir al coche durante 10 segundos
 
+20
 objective_status = "incomplete"
 
 ```
@@ -587,46 +641,64 @@ objective_status = "incomplete"
 ```
 -- Configuración inicial (igual que antes)
 
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0
 
+3
 car_speed = 3
 
+4
 nitro_active = false
 
+5
 jumping = false
 
+6
 jump_height = 0
 
+7
 jump_speed = 2
 
+8
 jump_distance = 50
 
+9
 jumping_timer = 0
 
+10
 mission_description = 
 "Misión: Aro en Llamas\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Salta por el aro sin tocar las llamas."
 
+11
 dialogue = {
     "Silvestre Stacchotta: Do you have enough chichón?",
     "Salta por el aro, pero no te quemes.",
 }
 
+12
 dialogue_index = 1
 
+13
 countdown = 10
 
+14
 game_state = "mission_intro"
 
+15
 ramp = {x = 150, y = 80}
 
+16
 hoop = {x = 180, y = 40, state = "normal", timer = 0}
 
+17
 objective_status = "incomplete"
 
+18
 -- Partículas de llamas
 particles = {}
 ```
@@ -634,70 +706,88 @@ particles = {}
 9
 ```
  -- Configuración inicial
-
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
+5
 jumping = false 
 -- Si el coche está saltando
 
+6
 jump_height = 0 
 -- Altura del salto
 
+7
 jump_speed = 2 
 -- Velocidad del salto (aumentado)
 
+8
 jump_distance = 50 
 -- Distancia del salto (aumentado)
 
+9
 jumping_timer = 0 
 -- Temporizador del salto
 
 -- Diálogo inicial
 
+10
 mission_description = 
 "Misión: Aro en Llamas\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Salta por el aro sin tocar las llamas y evita el tren."
 
+11
 dialogue = {
     "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram.",
     "Salta por el aro, pero no te quemes. Y cuidado con el tren.",
 }
 
+12
 dialogue_index = 1
 
+13
 countdown = 10
 
+14
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
+15
 ramp = {x = 150, y = 80} 
 -- Coordenadas de la rampa
 
 -- Configuración del aro
+16
 hoop = {x = 180, y = 40, state = "normal", timer = 0} 
 -- Aro por donde pasar
 
 -- Objetivo 1-9
+17
 objective_status = "incomplete"
 
 -- Configuración del tren
+18
 train = 
 {x = 120, y = -20, speed = 1, width = 2, height = 2, sprite_id = 49} 
 -- Tren que se mueve de arriba a abajo
 
 -- Configuración de los vagones
 
+19
 train_wagons = {
     {x = train.x, y = train.y}, 
 -- Primer vagón
@@ -711,6 +801,7 @@ train_wagons = {
 
 
 -- Configuración del círculo de victoria
+20
 victory_circle = { sx = 250, y = 40, radius = 10} 
 -- Círculo para ganar
 
@@ -719,56 +810,73 @@ victory_circle = { sx = 250, y = 40, radius = 10}
 10
 ```
 -- Configuración inicial
+1
 car_x, car_y = 30, 50
 
+2
 player_x, player_y = car_x, car_y 
 -- Coordenadas iniciales del jugador
 
+3
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+4
 car_speed, player_speed = 3, 2 
 -- Velocidad del coche y del jugador
 
+5
 nitro_active = false 
 -- Si el nitro está activado
 
+6
 in_car = true 
 -- Estado del jugador (dentro o fuera del coche)
 
+7
 jumping = false 
 -- Si el coche está saltando
 
+8
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, explosion, final_escape, game_over
 
 -- Diálogo inicial
 
+9
 mission_description = 
 "Misión: Explosión Épica\n" ..
 "Objetivo: Ve al círculo violeta y prepara la explosión."
 
+10
 dialogue = {
     "Prepárate, conduce hacia el círculo violeta.",
     "Una vez allí, presiona el botón para detonar la bomba.",
 }
 
+11
 dialogue_index = 1
 
+12
 countdown = 10
 
 -- Configuración del círculo de victoria
 
+13
 victory_circle = {x = 250, y = 40, radius = 10} 
 -- Círculo violeta
 
+14
 bomb_prepared = false
 
+15
 explosion_timer = 0
 
+16
 explosion_radius = 40  
 -- Radio de la explosión
 
+17
 explosion_complete = false 
 -- Si la explosión se completó
 
