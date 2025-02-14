@@ -17,6 +17,10 @@
 
 ![TIC80 Logo](https://img.itch.zone/aW1nLzQyOTUwMTYucG5n/original/zzHnBx.png)
 
+
+READMEs :
+![rda](./Imagenes/README-Armas.MD)
+
 🎲 ***Nombre del juego :*** 
 
 ![gifinicio](./Imagenes/inicio.gif)
