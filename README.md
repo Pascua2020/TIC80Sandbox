@@ -138,6 +138,12 @@ Para más detalles sobre el pinball, consulta el [README del Pinball Minigame](h
 
 ![trompo](./Imagenes/MinijuegodeTrompos.jpg)
 
+🍪 ***Combate Vehicular en Lituania***
+
+( Minijuego de Combate Vehicular. )
+
+![cv](./Imagenes/CombateVehicular.jpg)
+
 ## 🎮 Requisitos e Instalación :
 
 Al ser un Juego de TIC-80,corre en:
