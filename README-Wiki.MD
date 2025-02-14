@@ -63,6 +63,12 @@ Elementos
 
 -Pagina
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  split_lines(text,max_width)
