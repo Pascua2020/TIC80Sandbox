@@ -2,7 +2,7 @@
 
 ![gifarmasvarias](./Imagenes/armasvarias.gif)
 
-## Frases al Disparar
+## 🎭 Frases al Disparar
 ```
 1 "SOS boleta", 
 2 "Morite loco",
