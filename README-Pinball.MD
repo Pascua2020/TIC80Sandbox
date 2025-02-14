@@ -139,7 +139,8 @@ local paddle_top_left = {x = 1, y = 40, length = 20, angle = -math.pi / 2}
 -- Paleta en la parte superior izquierda (más arriba)
 
 17
-local paddle_top_right = {x = 214, y = 40, length = 20, angle = -math.pi / 2}  -- Paleta en la parte superior derecha (más arriba)
+local paddle_top_right = {x = 214, y = 40, length = 20, angle = -math.pi / 2} 
+ -- Paleta en la parte superior derecha (más arriba)
 
 18
 intentos=0
