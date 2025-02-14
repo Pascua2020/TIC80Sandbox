@@ -4,7 +4,7 @@
 
 Distintos tipos de climas.
 
-![clima](./Imagenes/climatologia.jpg)
+![clima](./Imagenes/Climatologia.jpg)
 
 ## 🎭 Tipos de Clima
 
