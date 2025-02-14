@@ -242,6 +242,35 @@ objective_status = "incomplete"
 
 4
 ```
+-- Configuración inicial
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed = 3 -- Velocidad del coche
+nitro_active = false -- Si el nitro está activado
+bullet_speed = 5 -- Velocidad de las balas
+bullet_size = 4 -- Tamaño de las balas
+bullets = {} -- Lista de balas
+bullet_timer = 0 -- Temporizador para evitar disparos rápidos
+
+-- Diálogo inicial
+mission_description = "Misión: El Kamikaze del Cine\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Destruir una caja disparando balas."
+dialogue = {
+    "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk.",
+}
+
+dialogue_index = 1
+countdown = 10
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+-- Configuración de la caja
+box = {x = 200, y = 100, active = true, health = 3} -- Caja con 3 de vida
+
+particles = {} -- Lista para partículas de explosión
+
+-- Objetivo 1-4
+objective_status = "incomplete"
 
 ```
 
