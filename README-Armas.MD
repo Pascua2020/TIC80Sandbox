@@ -2,6 +2,11 @@
 
 ![gifarmasvarias](./Imagenes/armasvarias.gif)
 
+## Frases al Disparar
+```
+
+```
+
 1
 ### 🎃 Puño
 
