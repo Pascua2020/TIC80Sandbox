@@ -238,7 +238,40 @@ particulas = {}
 
 ### Pistola
 ```
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+balanza = nil  -- La balanza estará inicialmente inactiva
+velocidad = 1  -- Velocidad del personaje
+direccion_balanza = 0  -- Dirección de la balanza (0 = no disparada, 1 = disparada hacia la derecha, -1 = disparada hacia la izquierda)
+pos_balanza_x = 0  -- Posición X de la balanza
+pos_balanza_y = 64  -- Posición Y de la balanza
 
+-- Contador de balas
+numero_balas = 20  -- Número inicial de balas
+disparando = false  -- Estado de disparo
+tiempo_frase = 0  -- Temporizador para la frase
+frase_actual = ""  -- Frase que se mostrará
+tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+
+-- Frases aleatorias
+frases = {"SOS boleta", "morite loco", "te voy a volar la cabeza", "no te lo voy a perdonar", "soy el más vivo", "comete esta gil", "te gusta el sabor a balas?", "con el debido respeto", "BANG"}
+
+-- Posición de los coches
+coches = {
+    {x = 120, y = 64, colisionado = false},  -- Primer coche
+    {x = 120, y = 40, colisionado = false},  -- Coche arriba
+    {x = 120, y = 88, colisionado = false},  -- Coche abajo
+}
+
+coche_explosion = false  -- Estado de la explosión
+explosion_tiempo = 0  -- Temporizador para la animación de explosión
+explosion_puntos = {}  -- Lista de puntos para la explosión
+
+-- Variables para el poder del jugador
+poder_jugador = 0  -- Poder que se mostrará al colisionar
+poder_tiempo = 0  -- Tiempo en que se generó el poder
+mostrar_poder = false  -- Indica si el poder debe mostrarse
 ```
 
 ### Granada
