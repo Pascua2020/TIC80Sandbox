@@ -8,6 +8,20 @@ Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 
 ## 🎭 Secciones
 
+✨️Vida
+
+
+
+✨️Arma
+
+
+
+✨️Vehículo
+
+
+
+✨️Radio
+
 
 
 ## 🎭 Variables / Atributos
