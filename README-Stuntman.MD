@@ -149,18 +149,27 @@ Salir del coche para hacerlo detonar,pero a distancia.
 ```
 -- Configuración inicial
 player_x, player_y = 30, 50
+
 stacchotta_x, stacchotta_y = 80, 50
+
 car_x, car_y = 120, 50
+
 player_in_car = false
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
+
 player_speed = 1
+
 car_speed = 3 -- Velocidad aumentada para el coche
+
 debug=0
+
 -- Diálogo inicial
 mission_description ={ "Mision: El Kamikaze del Cine" ,
                       "Jefe: Silvestre Stacchotta" ,
                       "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
+
 dialogue = {
     "Silvestre Stacchotta: Good day wacho, altas llantas.",
     "Silvestre Stacchotta: Perdon, estoy un poco enturrecido desde que estoy en Buenos Aires.",
@@ -171,8 +180,11 @@ dialogue = {
 }
 
 dialogue_index = 1
+
 introindex=1
+
 countdown = 5
+
 game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, in_car, finished
 
 -- Objetivo 1-1
@@ -183,26 +195,33 @@ objective_status = "incomplete"
 ```
 -- Configuración inicial
 car_x, car_y = 30, 50
+
 camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+
 car_speed = 3 -- Velocidad del coche
 
 -- Diálogo inicial
 mission_description = "Misión: El Kamikaze del Cine\n" ..
                       "Jefe: Silvestre Stacchotta\n" ..
                       "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
+
 dialogue = {
     "Silvestre Stacchotta: Ahora arrolla esas malditas cajas.",
 }
 
 dialogue_index = 1
+
 countdown = 10
+
 game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de cajas
 boxes = {}
+
 for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
+
 particles = {} -- Lista para partículas de explosión
 
 -- Objetivo 1-2
@@ -212,27 +231,38 @@ objective_status = "incomplete"
 3
 ```
 car_x, car_y = 30, 50
+
 camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+
 car_speed = 3 -- Velocidad del coche
+
 nitro_active = false -- Si el nitro está activado
 
 -- Diálogo inicial
+
 mission_description = "Misión: El Kamikaze del Cine\n" ..
                       "Jefe: Silvestre Stacchotta\n" ..
                       "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
+
 dialogue = {
     "Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia.",
 }
 
 dialogue_index = 1
+
 countdown = 10
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de cajas
+
 boxes = {}
+
 for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
+
 particles = {} -- Lista para partículas de explosión
 
 -- Objetivo 1-3
