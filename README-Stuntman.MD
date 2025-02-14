@@ -468,6 +468,32 @@ victory_circle = { sx = 250, y = 40, radius = 10} -- Círculo para ganar
 
 10
 ```
+-- Configuración inicial
+car_x, car_y = 30, 50
+player_x, player_y = car_x, car_y -- Coordenadas iniciales del jugador
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed, player_speed = 3, 2 -- Velocidad del coche y del jugador
+nitro_active = false -- Si el nitro está activado
+in_car = true -- Estado del jugador (dentro o fuera del coche)
+jumping = false -- Si el coche está saltando
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, explosion, final_escape, game_over
+
+-- Diálogo inicial
+mission_description = "Misión: Explosión Épica\n" ..
+                      "Objetivo: Ve al círculo violeta y prepara la explosión."
+dialogue = {
+    "Prepárate, conduce hacia el círculo violeta.",
+    "Una vez allí, presiona el botón para detonar la bomba.",
+}
+dialogue_index = 1
+countdown = 10
+
+-- Configuración del círculo de victoria
+victory_circle = {x = 250, y = 40, radius = 10} -- Círculo violeta
+bomb_prepared = false
+explosion_timer = 0
+explosion_radius = 40  -- Radio de la explosión
+explosion_complete = false -- Si la explosión se completó
 
 ```
 
