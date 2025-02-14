@@ -84,7 +84,75 @@ Se reproduce mientras el jugador está jugando.
 ## ✨️Variables / Atributos
 
 ```
+-- Variables de la bola
+local ball = {x = 190, y = 120, vx = 0, vy = 0, radius = 4}
 
+local ball_launched = false
+
+nv=1
+nvsig=300
+signv2=300
+signv3=800
+signv4=1300
+signv5=1800
+signv6=3000
+signv7=5500
+signv8=9000
+signv9=15000
+
+combos=0
+
+-- Variables de las paletas
+
+local paddle_left = {x = 40, y = 100, length = 20, angle = -math.pi / 2}  -- Inicialmente hacia abajo
+
+local paddle_right = {x = 80, y = 100, length = 20, angle = -math.pi / 2}  -- Inicialmente hacia abajo
+
+local paddle_top_left = {x = 1, y = 40, length = 20, angle = -math.pi / 2}  -- Paleta en la parte superior izquierda (más arriba)
+
+local paddle_top_right = {x = 214, y = 40, length = 20, angle = -math.pi / 2}  -- Paleta en la parte superior derecha (más arriba)
+
+intentos=0
+
+-- Agujero
+
+local hole = {x = 35, y = 130, width = 40, height = 10}
+
+hashtag="Sos el rey de la fiesta wacho"
+
+hashtags= {"Tecnofeudalismo",
+"Cuchi Cuchi Cuchi",
+"No seas gilipollas",
+"Viva el britpop",
+"Party Hard",
+"Usa condon,no seas pelotudo",
+"Soy la hostia tio"} 
+
+contadorcolision=0
+
+colorizq=4
+
+colorder=4
+
+colorarr=4
+
+coloraba=4
+
+colorpaletaizq=1
+
+colorpaletader=1
+
+colorpaletaarr=1
+
+colorpaletaaba=1
+
+poshash=1
+
+-- Puntaje
+local score = 0
+
+-- Círculos animados
+local circles = {}
 ```
 
 ## 🎭 Funciones:
