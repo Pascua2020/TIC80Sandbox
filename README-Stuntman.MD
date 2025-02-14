@@ -145,6 +145,81 @@ Salir del coche para hacerlo detonar,pero a distancia.
 
 ## ✨️Variables / Atributos
 
+1
+```
+-- Configuración inicial
+player_x, player_y = 30, 50
+stacchotta_x, stacchotta_y = 80, 50
+car_x, car_y = 120, 50
+player_in_car = false
+
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+player_speed = 1
+car_speed = 3 -- Velocidad aumentada para el coche
+debug=0
+-- Diálogo inicial
+mission_description ={ "Mision: El Kamikaze del Cine" ,
+                      "Jefe: Silvestre Stacchotta" ,
+                      "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
+dialogue = {
+    "Silvestre Stacchotta: Good day wacho, altas llantas.",
+    "Silvestre Stacchotta: Perdon, estoy un poco enturrecido desde que estoy en Buenos Aires.",
+    "Silvestre Stacchotta: A diferencia de mi hogar en Los Guapos Country de Los Angeles,",
+    "Silvestre Stacchotta: la Fucking humedad de Buenos Aires está más fuerte que rusas en bikini.",
+    "Silvestre Stacchotta: En fin wacho, súbete al coche. Solo tienes 5 segundos.",
+    "Pulsa B para subir al coche."
+}
+
+dialogue_index = 1
+introindex=1
+countdown = 5
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, in_car, finished
+
+-- Objetivo 1-1
+objective_status = "incomplete"
+```
+
+2
+```
+
+```
+
+3
+```
+
+```
+
+4
+```
+
+```
+
+5
+```
+
+```
+
+6
+```
+
+```
+
+7
+```
+
+```
+
+8
+```
+
+```
+
+9
+```
+
+```
+
+10
 ```
 
 ```
