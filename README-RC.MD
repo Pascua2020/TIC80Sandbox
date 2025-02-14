@@ -21,7 +21,49 @@
 ## ✨️Variables / Atributos
 
 ```
+-- Configuración inicial
 
+selected_sprite = 2
+
+map_width = 30
+
+map_height = 17
+
+edit_mode = true
+
+car_x = 64
+
+car_y = 64
+
+car_speed = 2
+
+-- Configuración del coche IA
+
+ia_car_x = 120
+
+ia_car_y = 120
+
+ia_angle = 0
+
+ia_radius = 20
+
+ia_speed = 0.05
+
+local intiax = 0
+
+local intiay = 0
+
+-- Variables para el modo de 2 jugadores
+
+two_player_mode = false
+
+car2_x = 100
+
+car2_y = 50
+
+-- Variable para ocultar los cuadros
+
+show_car_boxes = true
 ```
 
 ## 🎭 Funciones:
