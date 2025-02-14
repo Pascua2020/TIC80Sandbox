@@ -436,7 +436,23 @@ explosiones = {}  -- Lista de explosiones
 
 ### MiniGun
 ```
+-- Variables
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+balas = {}  -- Lista para las balas de la minigun
+energia = 100  -- Energía inicial de la minigun
+disparando = false  -- Estado de disparo
+tiempo_frase = 0  -- Temporizador para la frase
+frase_actual = ""  -- Frase que se mostrará
+tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+enemigos = {}  -- Lista de enemigos
+tiempo_efecto_sangre = 0  -- Para controlar el efecto de sangre
+particulas_explosion = {}  -- Lista para las partículas de la explosión
 
+-- Frases aleatorias
+frases = {"¡Ráfaga!", "¡Disparando!", "¡Toma esto!", "¡Minigun a full!", "¡No escaparás!"}
 ```
 
 ## Funciones
