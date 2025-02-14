@@ -221,6 +221,69 @@ Descripción:
 
 Descripción: 
 
+### ✨️Interactuar
+
+-01 DiosGPT
+
+Descripción: 
+
+-02 RC
+
+Descripción: 
+
+-03 Baile
+
+Descripción: 
+
+-04 Carrera Arcade
+
+Descripción: 
+
+-05 Wiki
+
+Descripción: 
+
+-06 Combate Vehicular
+
+Descripción: 
+
+-07 Galería de Tiro
+
+Descripción: 
+
+-08
+
+Descripción: 
+
+-09
+
+Descripción: 
+
+-10
+
+Descripción: 
+
+-11
+
+Descripción: 
+
+-12
+
+Descripción: 
+
+-13
+
+Descripción: 
+
+-14
+
+Descripción: 
+
+-15
+
+Descripción: 
+
+
 ### ✨️Tactica
 
 .
