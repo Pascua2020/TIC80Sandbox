@@ -1,4 +1,4 @@
-# 🎭 RC
+# 🎭 RC ( Remote Control = Coches a Control Remoto )
 
 ![rc](./Imagenes/2.gif)
 
