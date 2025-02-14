@@ -1,4 +1,4 @@
-Baile
+## Baile
 
 ![gifbaile](./Imagenes/gifbaile.gif)
 
@@ -32,6 +32,12 @@ Son 4 ( Izquierda,Derecha,Arriba,Abajo ).
 #### ✴️-Fondo del Escenario
 
 Simula ser una Lluvia de Estrellas.
+
+## ✨️Variables / Atributos
+
+```
+
+```
 
 Funciones:
 
