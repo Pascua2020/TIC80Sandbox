@@ -18,6 +18,12 @@ Elementos
 
 --Controles de movimiento para 2 Jugadores
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  print_with_border(text,x,y,text_color,border_color)
