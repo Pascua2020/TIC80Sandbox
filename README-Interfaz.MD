@@ -11,8 +11,16 @@ Interfaz Minimalista ( Estilo Cartas ) ,con Modo Táctico.
 ### ✨️Vida
 
 -Vida
+
+Descripción:
+
 -Estres
+
+Descripción:
+
 -Ansiedad
+
+Descripción:
 
 ### ✨️Arma
 
