@@ -82,6 +82,12 @@ Se reproduce mientras el jugador está jugando.
 "4- Pinball, pinball, siempre para adelante!"
 ```
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  update_ball()
