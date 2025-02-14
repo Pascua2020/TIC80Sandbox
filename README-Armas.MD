@@ -192,7 +192,20 @@ enemies = {}
 ```
 ### Puño
 ```
-
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+numero_golpes = 30  -- Número inicial de golpes
+golpes = {}  -- Lista de golpes
+frases = {"¡Bam!", "Golpe certero", "¡Te alcancé!", "Toma eso", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
+tiempo_frase = 0
+frase_actual = ""
+coches = {}  -- Lista de coches en la pantalla
+explosiones = {}  -- Lista de explosiones
+distancia_entre_golpes = 5  -- Distancia entre golpes consecutivos
+tiempo_golpe_visible = 20  -- Tiempo durante el cual el golpe es visible
+particulas = {}  -- Lista de partículas para explosiones
 ```
 
 ### Katana
