@@ -161,12 +161,14 @@ camera_x, camera_y = 0, 0
 
 player_speed = 1
 
-car_speed = 3 -- Velocidad aumentada para el coche
+car_speed = 3 
+-- Velocidad aumentada para el coche
 
 debug=0
 
 -- Diálogo inicial
-mission_description ={ "Mision: El Kamikaze del Cine" ,
+mission_description =
+{ "Mision: El Kamikaze del Cine" ,
                       "Jefe: Silvestre Stacchotta" ,
                       "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
 
@@ -185,7 +187,8 @@ introindex=1
 
 countdown = 5
 
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, in_car, finished
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, in_car, finished
 
 -- Objetivo 1-1
 objective_status = "incomplete"
@@ -196,9 +199,11 @@ objective_status = "incomplete"
 -- Configuración inicial
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
 -- Diálogo inicial
 mission_description = "Misión: El Kamikaze del Cine\n" ..
@@ -213,7 +218,8 @@ dialogue_index = 1
 
 countdown = 10
 
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de cajas
 boxes = {}
@@ -222,7 +228,8 @@ for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
 
-particles = {} -- Lista para partículas de explosión
+particles = {} 
+-- Lista para partículas de explosión
 
 -- Objetivo 1-2
 objective_status = "incomplete"
@@ -232,11 +239,14 @@ objective_status = "incomplete"
 ```
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
 -- Diálogo inicial
 
@@ -263,7 +273,8 @@ for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
 
-particles = {} -- Lista para partículas de explosión
+particles = {} 
+-- Lista para partículas de explosión
 
 -- Objetivo 1-3
 objective_status = "incomplete"
@@ -275,19 +286,26 @@ objective_status = "incomplete"
 -- Configuración inicial
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-bullet_speed = 5 -- Velocidad de las balas
+bullet_speed = 5 
+-- Velocidad de las balas
 
-bullet_size = 4 -- Tamaño de las balas
+bullet_size = 4 
+-- Tamaño de las balas
 
-bullets = {} -- Lista de balas
+bullets = {} 
+-- Lista de balas
 
-bullet_timer = 0 -- Temporizador para evitar disparos rápidos
+bullet_timer = 0 
+-- Temporizador para evitar disparos rápidos
 
 -- Diálogo inicial
 
@@ -324,21 +342,29 @@ objective_status = "incomplete"
 
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-jumping = false -- Si el coche está saltando
+jumping = false 
+-- Si el coche está saltando
 
-jump_height = 0 -- Altura del salto
+jump_height = 0 
+-- Altura del salto
 
-jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_speed = 2 
+-- Velocidad del salto (aumentado)
 
-jump_distance = 50 -- Distancia del salto (aumentado)
+jump_distance = 50 
+-- Distancia del salto (aumentado)
 
-jumping_timer = 0 -- Temporizador del salto
+jumping_timer = 0 
+-- Temporizador del salto
 
 -- Diálogo inicial
 mission_description = "Misión: El Salto de la Rampa\n" ..
@@ -373,19 +399,26 @@ car_x, car_y = 30, 50
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-jumping = false -- Si el coche está saltando
+jumping = false 
+-- Si el coche está saltando
 
-jump_height = 0 -- Altura del salto
+jump_height = 0 
+-- Altura del salto
 
-jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_speed = 2 
+-- Velocidad del salto (aumentado)
 
-jump_distance = 50 -- Distancia del salto (aumentado)
+jump_distance = 50 
+-- Distancia del salto (aumentado)
 
-jumping_timer = 0 -- Temporizador del salto
+jumping_timer = 0 
+-- Temporizador del salto
 
 -- Diálogo inicial
 mission_description = "Misión: El Salto de la Rampa\n" ..
@@ -404,7 +437,8 @@ game_state = "mission_intro"
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
-ramp = {x = 150, y = 80} -- Coordenadas de la rampa
+ramp = {x = 150, y = 80} 
+-- Coordenadas de la rampa
 
 -- Objetivo 1-6: Esquivar coches durante 5 segundos
 objective_status = "incomplete"
@@ -413,7 +447,8 @@ cars = {}
 
 car_spawn_timer = 0
 
-time_avoided = 0 -- Tiempo en segundos que el coche ha estado esquivando coches sin colisiones
+time_avoided = 0 
+-- Tiempo en segundos que el coche ha estado esquivando coches sin colisiones
 
 ```
 
