@@ -4,7 +4,7 @@
 
 ## 🎭 Elementos
 
-### -Sección
+### 🎃 Sección
 
 Desde A ( Principal ) hasta N ( Tecnologia ).
 
@@ -63,7 +63,7 @@ Desde A ( Principal ) hasta N ( Tecnologia ).
 
 ![w14](./Imagenes/w14.gif)
 
--Pagina
+### 🎃 Pagina
 
 Hay una o varias dentro de cada sección.
 
