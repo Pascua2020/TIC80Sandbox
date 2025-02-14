@@ -233,7 +233,27 @@ particulas = {}
 
 ### Katana
 ```
+Variables principales
+t = 0
+x_personaje = 64  -- Posición inicial del personaje
+y_personaje = 64  -- Posición inicial del personaje
+velocidad = 1  -- Velocidad del personaje
+cortes = {}  -- Tabla para almacenar los efectos de cortes
+duracion_corte = 15  -- Duración del efecto de corte en cuadros
+longitud_corte = 20  -- Longitud inicial del corte
+velocidad_giro = -0.2  -- Giro inverso del corte
+tiempo_entre_cortes = 10  -- Tiempo mínimo entre cortes consecutivos
+tiempo_ultimo_corte = 0  -- Reloj para limitar cortes consecutivos
 
+-- Enemigos
+enemigos = {
+    {x = 120, y = 64, colisionado = false},
+    {x = 120, y = 40, colisionado = false},
+    {x = 120, y = 88, colisionado = false},
+}
+
+-- Partículas de sangre
+particulas = {}
 ```
 
 ### Pistola
