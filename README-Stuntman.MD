@@ -421,35 +421,55 @@ time_avoided = 0 -- Tiempo en segundos que el coche ha estado esquivando coches 
 ```
 - Configuración inicial
 car_x, car_y = 30, 50
+
 camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+
 car_speed = 3 -- Velocidad del coche
+
 nitro_active = false -- Si el nitro está activado
+
 jumping = false -- Si el coche está saltando
+
 jump_height = 0 -- Altura del salto
+
 jump_speed = 2 -- Velocidad del salto (aumentado)
+
 jump_distance = 50 -- Distancia del salto (aumentado)
+
 jumping_timer = 0 -- Temporizador del salto
 
 -- Diálogo inicial
+
 mission_description = "Misión: El Persecución del Coche\n" ..
                       "Jefe: Silvestre Stacchotta\n" ..
                       "Objetivo: Perseguir al coche por 10 segundos para ganar."
+
 dialogue = {
     "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!",
 }
 
 dialogue_index = 1
+
 countdown = 10 -- Tiempo para la misión en segundos
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración del coche a perseguir
-target_car = {x = 40, y = math.random(10, 40), speed = 2, sprite_id = 50} -- Coche que el jugador debe perseguir
+
+target_car = {x = 40, y = math.random(10, 40), speed = 2, sprite_id = 50} 
+-- Coche que el jugador debe perseguir
+
 target_car_distance = 0 -- Distancia entre el coche del jugador y el coche objetivo
+
 chase_time = 0 -- Tiempo de persecución
+
 max_chase_time = 10 -- Tiempo máximo de persecución en segundos
+
 follow_range = 24 -- Rango de seguimiento alrededor del coche objetivo
 
 -- Objetivo 1-7: Perseguir al coche durante 10 segundos
+
 objective_status = "incomplete"
 
 ```
@@ -457,26 +477,38 @@ objective_status = "incomplete"
 8
 ```
 -- Configuración inicial (igual que antes)
+
 car_x, car_y = 30, 50
+
 camera_x, camera_y = 0, 0
+
 car_speed = 3
+
 nitro_active = false
+
 jumping = false
+
 jump_height = 0
+
 jump_speed = 2
+
 jump_distance = 50
+
 jumping_timer = 0
 
 mission_description = "Misión: Aro en Llamas\n" ..
                       "Jefe: Silvestre Stacchotta\n" ..
                       "Objetivo: Salta por el aro sin tocar las llamas."
+
 dialogue = {
     "Silvestre Stacchotta: Do you have enough chichón?",
     "Salta por el aro, pero no te quemes.",
 }
 
 dialogue_index = 1
+
 countdown = 10
+
 game_state = "mission_intro"
 
 ramp = {x = 150, y = 80}
@@ -492,28 +524,42 @@ particles = {}
 9
 ```
  -- Configuración inicial
+
 car_x, car_y = 30, 50
+
 camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+
 car_speed = 3 -- Velocidad del coche
+
 nitro_active = false -- Si el nitro está activado
+
 jumping = false -- Si el coche está saltando
+
 jump_height = 0 -- Altura del salto
+
 jump_speed = 2 -- Velocidad del salto (aumentado)
+
 jump_distance = 50 -- Distancia del salto (aumentado)
+
 jumping_timer = 0 -- Temporizador del salto
 
 -- Diálogo inicial
+
 mission_description = "Misión: Aro en Llamas\n" ..
                       "Jefe: Silvestre Stacchotta\n" ..
                       "Objetivo: Salta por el aro sin tocar las llamas y evita el tren."
+
 dialogue = {
     "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram.",
     "Salta por el aro, pero no te quemes. Y cuidado con el tren.",
 }
 
 dialogue_index = 1
+
 countdown = 10
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
 ramp = {x = 150, y = 80} -- Coordenadas de la rampa
@@ -525,19 +571,27 @@ hoop = {x = 180, y = 40, state = "normal", timer = 0} -- Aro por donde pasar
 objective_status = "incomplete"
 
 -- Configuración del tren
-train = {x = 120, y = -20, speed = 1, width = 2, height = 2, sprite_id = 49} -- Tren que se mueve de arriba a abajo
+train = 
+{x = 120, y = -20, speed = 1, width = 2, height = 2, sprite_id = 49} 
+-- Tren que se mueve de arriba a abajo
 
 -- Configuración de los vagones
+
 train_wagons = {
-    {x = train.x, y = train.y}, -- Primer vagón
-    {x = train.x, y = train.y - 32}, -- Segundo vagón (justo encima del primero)
-    {x = train.x, y = train.y - 64}, -- Tercer vagón
-    {x = train.x, y = train.y - 96}, -- Cuarto vagón
+    {x = train.x, y = train.y}, 
+-- Primer vagón
+    {x = train.x, y = train.y - 32}, 
+-- Segundo vagón (justo encima del primero)
+    {x = train.x, y = train.y - 64}, 
+-- Tercer vagón
+    {x = train.x, y = train.y - 96}, 
+-- Cuarto vagón
 }
 
 
 -- Configuración del círculo de victoria
-victory_circle = { sx = 250, y = 40, radius = 10} -- Círculo para ganar
+victory_circle = { sx = 250, y = 40, radius = 10} 
+-- Círculo para ganar
 
 ```
 
@@ -545,30 +599,51 @@ victory_circle = { sx = 250, y = 40, radius = 10} -- Círculo para ganar
 ```
 -- Configuración inicial
 car_x, car_y = 30, 50
-player_x, player_y = car_x, car_y -- Coordenadas iniciales del jugador
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+
+player_x, player_y = car_x, car_y 
+-- Coordenadas iniciales del jugador
+
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
+
 car_speed, player_speed = 3, 2 -- Velocidad del coche y del jugador
+
 nitro_active = false -- Si el nitro está activado
+
 in_car = true -- Estado del jugador (dentro o fuera del coche)
+
 jumping = false -- Si el coche está saltando
-game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, explosion, final_escape, game_over
+
+game_state = "mission_intro" 
+-- Estados: mission_intro, dialogue, countdown, explosion, final_escape, game_over
 
 -- Diálogo inicial
+
 mission_description = "Misión: Explosión Épica\n" ..
                       "Objetivo: Ve al círculo violeta y prepara la explosión."
+
 dialogue = {
     "Prepárate, conduce hacia el círculo violeta.",
     "Una vez allí, presiona el botón para detonar la bomba.",
 }
+
 dialogue_index = 1
+
 countdown = 10
 
 -- Configuración del círculo de victoria
+
 victory_circle = {x = 250, y = 40, radius = 10} -- Círculo violeta
+
 bomb_prepared = false
+
 explosion_timer = 0
-explosion_radius = 40  -- Radio de la explosión
-explosion_complete = false -- Si la explosión se completó
+
+explosion_radius = 40  
+-- Radio de la explosión
+
+explosion_complete = false 
+-- Si la explosión se completó
 
 ```
 
