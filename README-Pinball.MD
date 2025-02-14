@@ -127,19 +127,23 @@ combos=0
 -- Variables de las paletas
 
 14
-local paddle_left = {x = 40, y = 100, length = 20, angle = -math.pi / 2}  
+local paddle_left = 
+{x = 40, y = 100, length = 20, angle = -math.pi / 2}  
 -- Inicialmente hacia abajo
 
 15
-local paddle_right = {x = 80, y = 100, length = 20, angle = -math.pi / 2}  
+local paddle_right = 
+{x = 80, y = 100, length = 20, angle = -math.pi / 2}  
 -- Inicialmente hacia abajo
 
 16
-local paddle_top_left = {x = 1, y = 40, length = 20, angle = -math.pi / 2}  
+local paddle_top_left = 
+{x = 1, y = 40, length = 20, angle = -math.pi / 2}  
 -- Paleta en la parte superior izquierda (más arriba)
 
 17
-local paddle_top_right = {x = 214, y = 40, length = 20, angle = -math.pi / 2} 
+local paddle_top_right = 
+{x = 214, y = 40, length = 20, angle = -math.pi / 2} 
  -- Paleta en la parte superior derecha (más arriba)
 
 18
