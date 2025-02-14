@@ -23,46 +23,64 @@
 ```
 -- Configuración inicial
 
+1
 selected_sprite = 2
 
+2
 map_width = 30
 
+3
 map_height = 17
 
+4
 edit_mode = true
 
+5
 car_x = 64
 
+6
 car_y = 64
 
+7
 car_speed = 2
 
 -- Configuración del coche IA
 
+8
 ia_car_x = 120
 
+9
 ia_car_y = 120
 
+10
 ia_angle = 0
 
+11
 ia_radius = 20
 
+12
 ia_speed = 0.05
 
+13
 local intiax = 0
 
+14
 local intiay = 0
 
 -- Variables para el modo de 2 jugadores
 
+15
 two_player_mode = false
 
+16
 car2_x = 100
 
+17
 car2_y = 50
 
 -- Variable para ocultar los cuadros
 
+18
 show_car_boxes = true
 ```
 
