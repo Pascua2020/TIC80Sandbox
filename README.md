@@ -19,6 +19,11 @@
 
 
 READMEs :
+![README Armas](./README-Armas.MD)
+![README Baile](./README-Baile.MD)
+![README Carrera](./README-Carrera.MD)
+![README Combate Vehicular](./README-CombateVehicular.MD)
+![README Pinball](./README-Pinball.MD)
 ![rda](./README-Armas.MD)
 
 🎲 ***Nombre del juego :*** 
