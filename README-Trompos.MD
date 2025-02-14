@@ -1,8 +1,8 @@
-Trompos
+# 🎭 Trompos
 
 ![giftrompo](./Imagenes/giftrompo.gif)
 
-Elementos
+## 🎭 Elementos
 
 #### 🎆-Trompos
 
@@ -32,7 +32,7 @@ Rap del Trompo.
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  add_particle(x,y)
 
