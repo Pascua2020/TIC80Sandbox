@@ -2,7 +2,7 @@
 
 ![rc](./Imagenes/2.gif)
 
-Elementos
+## 🎭 Elementos
 
 #### 🎃-Editor de Pista
 
@@ -24,7 +24,7 @@ Elementos
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  print_with_border(text,x,y,text_color,border_color)
 
