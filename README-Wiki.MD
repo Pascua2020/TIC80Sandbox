@@ -6,6 +6,8 @@
 
 ### -Sección
 
+Desde A ( Principal ) hasta N ( Tecnologia ).
+
 #### 📀**01 Principal
 ![w1](./Imagenes/w1.gif)
 
@@ -62,6 +64,8 @@
 ![w14](./Imagenes/w14.gif)
 
 -Pagina
+
+Hay una o varias dentro de cada sección.
 
 ## ✨️Variables / Atributos
 
