@@ -29,6 +29,35 @@ Rap del Trompo.
 ## ✨️Variables / Atributos
 
 ```
+-- Configuración inicial
+
+1
+player1 = {x = 40, y = 68, sprite_base = 0, frame = 0, speed = 2, life = 100}
+
+2
+player2 = {x = 200, y = 68, sprite_base = 16, frame = 0, speed = 2, life = 100}
+
+3
+frame_counter = 0
+
+4
+particles = {}
+
+5
+time_left = 30
+
+6
+game_over = false
+
+7
+winner = nil
+
+8
+circles = {}
+
+9
+rainbow_points = {}  
+-- Nueva tabla para los puntos de arcoíris
 
 ```
 
