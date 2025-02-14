@@ -276,7 +276,34 @@ objective_status = "incomplete"
 
 5
 ```
+-- Configuración inicial
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed = 3 -- Velocidad del coche
+nitro_active = false -- Si el nitro está activado
+jumping = false -- Si el coche está saltando
+jump_height = 0 -- Altura del salto
+jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_distance = 50 -- Distancia del salto (aumentado)
+jumping_timer = 0 -- Temporizador del salto
 
+-- Diálogo inicial
+mission_description = "Misión: El Salto de la Rampa\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Saltar sobre una rampa para ganar distancia."
+dialogue = {
+    "Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto.",
+}
+
+dialogue_index = 1
+countdown = 10
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+-- Configuración de la rampa
+ramp = {x = 150, y = 80} -- Coordenadas de la rampa
+
+-- Objetivo 1-5
+objective_status = "incomplete"
 ```
 
 6
