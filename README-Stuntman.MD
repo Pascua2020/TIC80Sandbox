@@ -181,7 +181,32 @@ objective_status = "incomplete"
 
 2
 ```
+-- Configuración inicial
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed = 3 -- Velocidad del coche
 
+-- Diálogo inicial
+mission_description = "Misión: El Kamikaze del Cine\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
+dialogue = {
+    "Silvestre Stacchotta: Ahora arrolla esas malditas cajas.",
+}
+
+dialogue_index = 1
+countdown = 10
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+-- Configuración de cajas
+boxes = {}
+for i = 1, 10 do
+    table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
+end
+particles = {} -- Lista para partículas de explosión
+
+-- Objetivo 1-2
+objective_status = "incomplete"
 ```
 
 3
