@@ -64,3 +64,43 @@ app_abierta = false
 ```
 
 ## 🎭 Funciones
+
+#### 🔑-1  dibujar_triangulo(x,y,color)
+
+.
+
+#### 🔑-2  mostrar_hora(x,y)
+
+.
+
+#### 🔑-3  dividir_mensaje(texto,x,y,color)
+
+.
+
+#### 🔑-4  mostrar_menu_opciones()
+
+.
+
+#### 🔑-5  manejar_seleccion_opcion()
+
+.
+
+#### 🔑-6  abrir_app_diosgpt()
+
+.
+
+#### 🔑-7  mostrar_mensaje_inicial_b()
+
+.
+
+#### 🔑-8  mostrar_mensajes_celular()
+
+.
+
+#### 🔑-9  actualizar_color_triangulo()
+
+.
+
+#### 🔑-10  TIC()
+
+Bucle principal.
