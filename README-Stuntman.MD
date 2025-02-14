@@ -457,21 +457,29 @@ time_avoided = 0
 - Configuración inicial
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-jumping = false -- Si el coche está saltando
+jumping = false 
+-- Si el coche está saltando
 
-jump_height = 0 -- Altura del salto
+jump_height = 0 
+-- Altura del salto
 
-jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_speed = 2 
+-- Velocidad del salto (aumentado)
 
-jump_distance = 50 -- Distancia del salto (aumentado)
+jump_distance = 50 
+-- Distancia del salto (aumentado)
 
-jumping_timer = 0 -- Temporizador del salto
+jumping_timer = 0 
+-- Temporizador del salto
 
 -- Diálogo inicial
 
@@ -485,7 +493,8 @@ dialogue = {
 
 dialogue_index = 1
 
-countdown = 10 -- Tiempo para la misión en segundos
+countdown = 10 
+-- Tiempo para la misión en segundos
 
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
@@ -495,13 +504,17 @@ game_state = "mission_intro"
 target_car = {x = 40, y = math.random(10, 40), speed = 2, sprite_id = 50} 
 -- Coche que el jugador debe perseguir
 
-target_car_distance = 0 -- Distancia entre el coche del jugador y el coche objetivo
+target_car_distance = 0 
+-- Distancia entre el coche del jugador y el coche objetivo
 
-chase_time = 0 -- Tiempo de persecución
+chase_time = 0 
+-- Tiempo de persecución
 
-max_chase_time = 10 -- Tiempo máximo de persecución en segundos
+max_chase_time = 10 
+-- Tiempo máximo de persecución en segundos
 
-follow_range = 24 -- Rango de seguimiento alrededor del coche objetivo
+follow_range = 24 
+-- Rango de seguimiento alrededor del coche objetivo
 
 -- Objetivo 1-7: Perseguir al coche durante 10 segundos
 
@@ -562,21 +575,29 @@ particles = {}
 
 car_x, car_y = 30, 50
 
-camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+camera_x, camera_y = 0, 0 
+-- Coordenadas iniciales de la cámara
 
-car_speed = 3 -- Velocidad del coche
+car_speed = 3 
+-- Velocidad del coche
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-jumping = false -- Si el coche está saltando
+jumping = false 
+-- Si el coche está saltando
 
-jump_height = 0 -- Altura del salto
+jump_height = 0 
+-- Altura del salto
 
-jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_speed = 2 
+-- Velocidad del salto (aumentado)
 
-jump_distance = 50 -- Distancia del salto (aumentado)
+jump_distance = 50 
+-- Distancia del salto (aumentado)
 
-jumping_timer = 0 -- Temporizador del salto
+jumping_timer = 0 
+-- Temporizador del salto
 
 -- Diálogo inicial
 
@@ -597,10 +618,12 @@ game_state = "mission_intro"
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la rampa
-ramp = {x = 150, y = 80} -- Coordenadas de la rampa
+ramp = {x = 150, y = 80} 
+-- Coordenadas de la rampa
 
 -- Configuración del aro
-hoop = {x = 180, y = 40, state = "normal", timer = 0} -- Aro por donde pasar
+hoop = {x = 180, y = 40, state = "normal", timer = 0} 
+-- Aro por donde pasar
 
 -- Objetivo 1-9
 objective_status = "incomplete"
@@ -641,13 +664,17 @@ player_x, player_y = car_x, car_y
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
-car_speed, player_speed = 3, 2 -- Velocidad del coche y del jugador
+car_speed, player_speed = 3, 2 
+-- Velocidad del coche y del jugador
 
-nitro_active = false -- Si el nitro está activado
+nitro_active = false 
+-- Si el nitro está activado
 
-in_car = true -- Estado del jugador (dentro o fuera del coche)
+in_car = true 
+-- Estado del jugador (dentro o fuera del coche)
 
-jumping = false -- Si el coche está saltando
+jumping = false 
+-- Si el coche está saltando
 
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, explosion, final_escape, game_over
@@ -668,7 +695,8 @@ countdown = 10
 
 -- Configuración del círculo de victoria
 
-victory_circle = {x = 250, y = 40, radius = 10} -- Círculo violeta
+victory_circle = {x = 250, y = 40, radius = 10} 
+-- Círculo violeta
 
 bomb_prepared = false
 
