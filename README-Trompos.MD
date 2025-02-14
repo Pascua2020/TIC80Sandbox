@@ -26,6 +26,12 @@ Desde 30 segundos para abajo,gana el que llega al final con más puntos de vida 
 
 Rap del Trompo.
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  add_particle(x,y)
