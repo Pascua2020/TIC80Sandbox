@@ -2,12 +2,22 @@
 
 ## 🎭 Elementos
 
--Vehículos
+### ✨️ Vehículos
 
--Armas
+.
 
--Escenario
+### ✨️ Armas
+
+.
+
+### ✨️ Escenario
+
+.
 
 ## 🎭 Variables / Atributos
+
+```
+.
+```
 
 ## 🎭 Funciones
