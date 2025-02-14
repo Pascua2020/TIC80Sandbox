@@ -49,6 +49,12 @@ Normal o Inversa.
 ![gtd01](./Imagenes/gtd1.png)
 ![gtd02](./Imagenes/gtd2.png)
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  menu()
