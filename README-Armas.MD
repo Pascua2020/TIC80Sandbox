@@ -280,7 +280,18 @@ mostrar_poder = false  -- Indica si el poder debe mostrarse
 ```
 ### AK 47
 ```
-
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+numero_cartuchos = 30  -- Número inicial de balas del AK-47
+disparos = {}  -- Lista de disparos activos
+frases = {"¡Bang!", "Disparo certero", "Te alcancé", "Toma esto", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
+tiempo_frase = 0
+frase_actual = ""
+coches = {}  -- Lista de coches en la pantalla
+explosiones = {}  -- Lista de explosiones
+distancia_entre_disparos = 5  -- Distancia entre disparos consecutivos
 ```
 ### Escopeta
 ```
