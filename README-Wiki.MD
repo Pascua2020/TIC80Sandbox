@@ -1,8 +1,8 @@
-Nerdpedia
+# 🎭 Nerdpedia / Wiki
 
 ![gifwiki](./Imagenes/gifwiki.gif)
 
-Elementos
+## 🎭 Elementos
 
 -Sección
 
@@ -69,7 +69,7 @@ Elementos
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  split_lines(text,max_width)
 
