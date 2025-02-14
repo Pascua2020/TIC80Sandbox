@@ -579,7 +579,7 @@ Locutor/es :
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  dividir_en_lineas(texto)
 
