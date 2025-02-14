@@ -334,7 +334,17 @@ explosiones = {}  -- Lista de explosiones
 ```
 ### Bazooka
 ```
-
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+numero_cartuchos = 5  -- Número inicial de cartuchos
+disparos = {}  -- Lista de disparos activos
+frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
+tiempo_frase = 0
+frase_actual = ""
+coches = {}  -- Lista de coches en la pantalla
+explosiones = {}  -- Lista de explosiones
 ```
 
 ### MiniGun
