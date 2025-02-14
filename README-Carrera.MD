@@ -52,22 +52,30 @@ Normal o Inversa.
 ## ✨️Variables / Atributos
 
 ```
+1
 -- Configuración inicial
 menu_actual = 1 -- Menú principal
 
+2
 selecciones = {1, 1, 1, 1, 1} -- Índices de selección
 
+3
 juego_empezado = false
 
+4
 color_arcoiris = 0 -- Variable para cambiar el color del texto
 
+5
 scroll_x = 250 -- Posición de inicio del scroll (extremo derecho)
 
 -- Datos de las opciones
+6
 modos = {"Carrera Rápida", "Modo Libre"}
 
+7
 pistas = {"Berna Suiza"}
 
+8
 coches = {
     {nombre = "Tochota Fulero", sprite = {144, 145}, colores = {"Rojo", "Azul"}, descripcion = "País: Japón Modelo: 2023 Descripción: Un coche con una potencia que desafía las leyes de la física."}, -- Sprite 144 para rojo y 145 para azul
 
@@ -75,11 +83,15 @@ coches = {
 -- Sprite 160 para verde y 161 para amarillo
 }
 
+9
 climas = {"Con lluvia", "Sin lluvia"}
+
+10
 direcciones = {"Normal", "Inversa"}
 
 -- Índice de colores específico por coche
 
+11
 indice_colores = {1, 1} -- Cada coche tiene su propio índice de color
 
 ```
