@@ -4,7 +4,7 @@
 
 Tutorial Interactivo.
 
-![interfaz](./Imagenes/diosgpt.jpg)
+![interfaz](./Imagenes/DiosGPT.jpg)
 
 ## 🎭 Variables / Atributos
 
