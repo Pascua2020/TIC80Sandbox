@@ -416,6 +416,53 @@ particles = {}
 
 9
 ```
+ -- Configuración inicial
+car_x, car_y = 30, 50
+camera_x, camera_y = 0, 0 -- Coordenadas iniciales de la cámara
+car_speed = 3 -- Velocidad del coche
+nitro_active = false -- Si el nitro está activado
+jumping = false -- Si el coche está saltando
+jump_height = 0 -- Altura del salto
+jump_speed = 2 -- Velocidad del salto (aumentado)
+jump_distance = 50 -- Distancia del salto (aumentado)
+jumping_timer = 0 -- Temporizador del salto
+
+-- Diálogo inicial
+mission_description = "Misión: Aro en Llamas\n" ..
+                      "Jefe: Silvestre Stacchotta\n" ..
+                      "Objetivo: Salta por el aro sin tocar las llamas y evita el tren."
+dialogue = {
+    "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram.",
+    "Salta por el aro, pero no te quemes. Y cuidado con el tren.",
+}
+
+dialogue_index = 1
+countdown = 10
+game_state = "mission_intro" -- Estados: mission_intro, dialogue, countdown, finished
+
+-- Configuración de la rampa
+ramp = {x = 150, y = 80} -- Coordenadas de la rampa
+
+-- Configuración del aro
+hoop = {x = 180, y = 40, state = "normal", timer = 0} -- Aro por donde pasar
+
+-- Objetivo 1-9
+objective_status = "incomplete"
+
+-- Configuración del tren
+train = {x = 120, y = -20, speed = 1, width = 2, height = 2, sprite_id = 49} -- Tren que se mueve de arriba a abajo
+
+-- Configuración de los vagones
+train_wagons = {
+    {x = train.x, y = train.y}, -- Primer vagón
+    {x = train.x, y = train.y - 32}, -- Segundo vagón (justo encima del primero)
+    {x = train.x, y = train.y - 64}, -- Tercer vagón
+    {x = train.x, y = train.y - 96}, -- Cuarto vagón
+}
+
+
+-- Configuración del círculo de victoria
+victory_circle = { sx = 250, y = 40, radius = 10} -- Círculo para ganar
 
 ```
 
