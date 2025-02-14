@@ -169,8 +169,8 @@ debug=0
 -- Diálogo inicial
 mission_description =
 { "Mision: El Kamikaze del Cine" ,
-                      "Jefe: Silvestre Stacchotta" ,
-                      "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
+  "Jefe: Silvestre Stacchotta" ,
+  "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
 
 dialogue = {
     "Silvestre Stacchotta: Good day wacho, altas llantas.",
@@ -206,9 +206,10 @@ car_speed = 3
 -- Velocidad del coche
 
 -- Diálogo inicial
-mission_description = "Misión: El Kamikaze del Cine\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
+mission_description = 
+"Misión: El Kamikaze del Cine\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
 
 dialogue = {
     "Silvestre Stacchotta: Ahora arrolla esas malditas cajas.",
@@ -250,9 +251,10 @@ nitro_active = false
 
 -- Diálogo inicial
 
-mission_description = "Misión: El Kamikaze del Cine\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
+mission_description = 
+"Misión: El Kamikaze del Cine\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
 
 dialogue = {
     "Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia.",
@@ -309,9 +311,10 @@ bullet_timer = 0
 
 -- Diálogo inicial
 
-mission_description = "Misión: El Kamikaze del Cine\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Destruir una caja disparando balas."
+mission_description = 
+"Misión: El Kamikaze del Cine\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Destruir una caja disparando balas."
 
 dialogue = {
     "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk.",
@@ -367,9 +370,10 @@ jumping_timer = 0
 -- Temporizador del salto
 
 -- Diálogo inicial
-mission_description = "Misión: El Salto de la Rampa\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Saltar sobre una rampa para ganar distancia."
+mission_description = 
+"Misión: El Salto de la Rampa\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Saltar sobre una rampa para ganar distancia."
 
 dialogue = {
     "Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto.",
@@ -421,9 +425,10 @@ jumping_timer = 0
 -- Temporizador del salto
 
 -- Diálogo inicial
-mission_description = "Misión: El Salto de la Rampa\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Saltar sobre una rampa para ganar distancia."
+mission_description = 
+"Misión: El Salto de la Rampa\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Saltar sobre una rampa para ganar distancia."
 
 dialogue = {
     "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal .",
@@ -483,9 +488,10 @@ jumping_timer = 0
 
 -- Diálogo inicial
 
-mission_description = "Misión: El Persecución del Coche\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Perseguir al coche por 10 segundos para ganar."
+mission_description = 
+"Misión: El Persecución del Coche\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Perseguir al coche por 10 segundos para ganar."
 
 dialogue = {
     "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!",
@@ -544,9 +550,10 @@ jump_distance = 50
 
 jumping_timer = 0
 
-mission_description = "Misión: Aro en Llamas\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Salta por el aro sin tocar las llamas."
+mission_description = 
+"Misión: Aro en Llamas\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Salta por el aro sin tocar las llamas."
 
 dialogue = {
     "Silvestre Stacchotta: Do you have enough chichón?",
@@ -601,9 +608,10 @@ jumping_timer = 0
 
 -- Diálogo inicial
 
-mission_description = "Misión: Aro en Llamas\n" ..
-                      "Jefe: Silvestre Stacchotta\n" ..
-                      "Objetivo: Salta por el aro sin tocar las llamas y evita el tren."
+mission_description = 
+"Misión: Aro en Llamas\n" ..
+"Jefe: Silvestre Stacchotta\n" ..
+"Objetivo: Salta por el aro sin tocar las llamas y evita el tren."
 
 dialogue = {
     "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram.",
@@ -681,8 +689,9 @@ game_state = "mission_intro"
 
 -- Diálogo inicial
 
-mission_description = "Misión: Explosión Épica\n" ..
-                      "Objetivo: Ve al círculo violeta y prepara la explosión."
+mission_description = 
+"Misión: Explosión Épica\n" ..
+"Objetivo: Ve al círculo violeta y prepara la explosión."
 
 dialogue = {
     "Prepárate, conduce hacia el círculo violeta.",
