@@ -395,7 +395,29 @@ explosion_puntos = {}  -- Lista de puntos para explosiones
 ```
 ### Rayo Laser
 ```
+-- Variables
+t = 0
+x_personaje = 64  -- Posición inicial del personaje
+y_personaje = 64  -- Posición inicial del personaje
+velocidad = 1  -- Velocidad del personaje
+energia = 100  -- Energía inicial del láser
+disparando = false  -- Estado de disparo
+tiempo_frase = 0  -- Temporizador para la frase
+frase_actual = ""  -- Frase que se mostrará
+tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+longitud_laser = 0  -- Longitud del láser
 
+-- Frases aleatorias
+frases = {"¡Corte láser!", "¡Quema!", "¡Desintegración!", "¡Nada sobrevivirá!", "¡Muere!"}
+
+-- Enemigos (coches en este caso)
+enemigos = {
+    {x = 120, y = 64, colisionado = false},
+    {x = 120, y = 40, colisionado = false},
+    {x = 120, y = 88, colisionado = false},
+}
+
+sangre = {}  -- Lista para partículas de sangre
 ```
 ### Bazooka
 ```
