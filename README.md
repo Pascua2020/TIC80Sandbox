@@ -17,8 +17,8 @@
 
 ![TIC80 Logo](https://img.itch.zone/aW1nLzQyOTUwMTYucG5n/original/zzHnBx.png)
 
-
-READMEs :
+Este es el README Principal.
+READMEs de SubSecciones / Opcionales :
 ![README Armas](./README-Armas.MD)
 
 ![README Baile](./README-Baile.MD)
