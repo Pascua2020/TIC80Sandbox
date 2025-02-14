@@ -148,30 +148,40 @@ Salir del coche para hacerlo detonar,pero a distancia.
 1
 ```
 -- Configuración inicial
+1
 player_x, player_y = 30, 50
 
+2
 stacchotta_x, stacchotta_y = 80, 50
 
+3
 car_x, car_y = 120, 50
 
+4
 player_in_car = false
 
+5
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+6
 player_speed = 1
 
+7
 car_speed = 3 
 -- Velocidad aumentada para el coche
 
+8
 debug=0
 
 -- Diálogo inicial
+9
 mission_description =
 { "Mision: El Kamikaze del Cine" ,
   "Jefe: Silvestre Stacchotta" ,
   "Objetivo: Rodar exitosamente una escena de doble de peliculas con el coche."}
 
+10
 dialogue = {
     "Silvestre Stacchotta: Good day wacho, altas llantas.",
     "Silvestre Stacchotta: Perdon, estoy un poco enturrecido desde que estoy en Buenos Aires.",
@@ -181,104 +191,133 @@ dialogue = {
     "Pulsa B para subir al coche."
 }
 
+11
 dialogue_index = 1
 
+12
 introindex=1
 
+13
 countdown = 5
 
+14
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, in_car, finished
 
 -- Objetivo 1-1
+15
 objective_status = "incomplete"
 ```
 
 2
 ```
 -- Configuración inicial
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
 -- Diálogo inicial
+4
 mission_description = 
 "Misión: El Kamikaze del Cine\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
 
+5
 dialogue = {
     "Silvestre Stacchotta: Ahora arrolla esas malditas cajas.",
 }
 
+6
 dialogue_index = 1
 
+7
 countdown = 10
 
+8
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de cajas
+9
 boxes = {}
 
+10
 for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
 
+11
 particles = {} 
 -- Lista para partículas de explosión
 
 -- Objetivo 1-2
+12
 objective_status = "incomplete"
 ```
 
 3
 ```
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
 -- Diálogo inicial
 
+5
 mission_description = 
 "Misión: El Kamikaze del Cine\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Rodar exitosamente una escena de doble de películas chocando cajas."
 
+6
 dialogue = {
     "Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia.",
 }
 
+7
 dialogue_index = 1
 
+8
 countdown = 10
 
+9
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de cajas
-
+10
 boxes = {}
 
+11
 for i = 1, 10 do
     table.insert(boxes, {x = math.random(50, 300), y = math.random(50, 200), active = true})
 end
 
+12
 particles = {} 
 -- Lista para partículas de explosión
 
 -- Objetivo 1-3
+13
 objective_status = "incomplete"
 
 ```
@@ -286,55 +325,71 @@ objective_status = "incomplete"
 4
 ```
 -- Configuración inicial
+1
 car_x, car_y = 30, 50
 
+2
 camera_x, camera_y = 0, 0 
 -- Coordenadas iniciales de la cámara
 
+3
 car_speed = 3 
 -- Velocidad del coche
 
+4
 nitro_active = false 
 -- Si el nitro está activado
 
+5
 bullet_speed = 5 
 -- Velocidad de las balas
 
+6
 bullet_size = 4 
 -- Tamaño de las balas
 
+7
 bullets = {} 
 -- Lista de balas
 
+8
 bullet_timer = 0 
 -- Temporizador para evitar disparos rápidos
 
 -- Diálogo inicial
 
+9
 mission_description = 
 "Misión: El Kamikaze del Cine\n" ..
 "Jefe: Silvestre Stacchotta\n" ..
 "Objetivo: Destruir una caja disparando balas."
 
+10
 dialogue = {
     "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk.",
 }
 
+11
 dialogue_index = 1
 
+12
 countdown = 10
 
+13
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
 -- Configuración de la caja
 
+14
 box = {x = 200, y = 100, active = true, health = 3} -- Caja con 3 de vida
 
+15
 particles = {} 
 -- Lista para partículas de explosión
 
 -- Objetivo 1-4
+16
 objective_status = "incomplete"
 
 ```
