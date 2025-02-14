@@ -2,7 +2,7 @@
 
 ![gifgt](./Imagenes/modocarrera.gif)
 
-Elementos
+## 🎭 Elementos
 
 #### ▶️-Modo Carrera / Libre
 
@@ -55,7 +55,7 @@ Normal o Inversa.
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  menu()
 
