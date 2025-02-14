@@ -2,7 +2,7 @@
 
 ![pinball](./Imagenes/pinball.gif)
 
-Elementos:
+## 🎭 Elementos:
 
 #### ✨️-Resorte
 
@@ -21,7 +21,6 @@ Rebota en el escenario.
 Hay 2 de cada lado,con el botón de dirección se mueven ambas del mismo lado ( = izquierdo o derecho ).
 
 ![pinball-3](./Imagenes/pinball-3.jpg)
-
 
 #### ✨️-Muros
 
@@ -88,7 +87,7 @@ Se reproduce mientras el jugador está jugando.
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  update_ball()
 
