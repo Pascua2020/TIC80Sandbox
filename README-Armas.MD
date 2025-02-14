@@ -119,6 +119,7 @@ Mucha potencia.
 
 ## ✨️Variables / Atributos
 
+### Todas las Armas
 ```
 1
 t = 0
@@ -187,6 +188,46 @@ arma_actual = 1
 18
 enemies = {}  
 -- Lista de enemigos
+
+```
+### Puño
+```
+
+```
+
+### Katana
+```
+
+```
+### AK 47
+```
+
+```
+### Escopeta
+```
+
+```
+
+### Rifle Electrico
+```
+
+```
+
+### Lanzallamas
+```
+
+```
+### Rayo Laser
+```
+
+```
+### Bazooka
+```
+
+```
+
+### MiniGun
+```
 
 ```
 
