@@ -2,7 +2,7 @@
 
 ![gifbaile](./Imagenes/gifbaile.gif)
 
-Elementos
+## 🎭 Elementos
 
 #### ✴️-Flechas
 
@@ -39,7 +39,7 @@ Simula ser una Lluvia de Estrellas.
 
 ```
 
-Funciones:
+## 🎭 Funciones:
 
 #### 🔑-1  generar_flecha()
 
