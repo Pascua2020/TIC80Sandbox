@@ -120,6 +120,41 @@ Mucha potencia.
 ## ✨️Variables / Atributos
 
 ```
+t = 0
+
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+
+velocidad = 1  -- Velocidad del personaje
+
+numero_cartuchos_pistola = 5  -- Número inicial de cartuchos de la pistola
+
+numero_cartuchos_ak47 = 5  -- Número inicial de cartuchos del AK47
+
+numero_cartuchos_bazooka = 5  -- Número inicial de cartuchos de la bazooka
+
+numero_cartuchos_escopeta = 5  -- Número inicial de cartuchos de la escopeta
+
+numero_granadas = 5  -- Número inicial de granadas
+
+disparos = {}  -- Lista de disparos activos
+
+granadas = {}  -- Lista de granadas activas
+
+frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
+
+tiempo_frase = 0
+
+frase_actual = ""
+
+coches = {}  -- Lista de coches en la pantalla
+
+explosiones = {}  -- Lista de explosiones
+
+arma_actual = 1  -- 1: Pistola, 2: AK47, 3: Bazooka, 4: Escopeta, 5: Granada
+
+enemies = {}  -- Lista de enemigos
 
 ```
 
