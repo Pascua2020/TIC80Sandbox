@@ -577,6 +577,101 @@ Locutor/es :
 
 ```
 
+1
+t = 0
+
+2
+x = 10
+
+3
+y = 100
+
+-- Frases
+4
+dialogo_radio_1 = {
+    "1. Barcelo: ¡Urgente en Todo Vardo!",
+    "2. Barcelo: Estamos en vivo con Juan Garcamaru.",
+    ETC
+    "25. Barcelo: Seguiremos informando. Esto fue Todo Vardo."
+}
+
+5
+dialogo_radio_2 = {}
+
+6
+dialogo_radio_3 = {}
+
+7
+dialogo_radio_4 = {}
+
+8
+dialogo_radio_5 = {}
+
+9
+dialogo_radio_6 = {}
+
+10
+dialogo_radio_7 = {}
+
+11
+dialogo_radio_8 = {}
+
+12
+dialogo_radio_9 = {}
+
+13
+dialogo_radio_10 = {}
+
+14
+dialogo_radio_11 = {}
+
+15
+dialogo_radio_12 = {}
+
+16
+dialogo_radio_13 = {}
+
+17
+dialogo_radio_14 = {}
+
+18
+dialogo_radio_15 = {}
+
+19
+dialogo_radio_16 = {}
+
+20
+dialogo_radio_17 = {}
+
+21
+dialogo_radio_18 = {}
+
+22
+dialogo_radio_19 = {}
+
+23
+dialogo_radio_20 = {}
+
+24
+dialogo_radio_21 = {}
+
+25
+dialogo_radio_22 = {}
+
+--Variables de desplazamiento
+
+26
+indice_frase = 1
+
+27
+linea_actual = 1  
+-- Control de la línea que se está mostrando
+
+28
+radio_actual = 1  
+-- 1 para Radio 1, 2 para Radio 2, 3 para Radio 3, 4 para Radio 4
+
+
 ```
 
 ## 🎭 Funciones:
