@@ -346,6 +346,29 @@ explosiones = {}  -- Lista de explosiones
 
 ### Lanzallamas
 ```
+-- Variables
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+llamas = {}  -- Lista para las llamaradas del lanzallamas
+numero_combustible = 100  -- Combustible inicial del lanzallamas
+disparando = false  -- Estado de disparo
+tiempo_frase = 0  -- Temporizador para la frase
+frase_actual = ""  -- Frase que se mostrará
+tiempo_frase_mostrar = 0  -- Tiempo en que se mostró la última frase
+
+-- Frases aleatorias
+frases = {"Te quemo!", "Arde!", "Fuego!", "Esto es calor!", "A la parrilla!", "A quemarse!"}
+
+-- Posición de los coches
+coches = {
+    {x = 120, y = 64, colisionado = false},
+    {x = 120, y = 40, colisionado = false},
+    {x = 120, y = 88, colisionado = false},
+}
+
+explosion_puntos = {}  -- Lista de puntos para explosiones
 
 ```
 ### Rayo Laser
