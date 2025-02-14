@@ -19,7 +19,7 @@
 
 
 READMEs :
-![rda](./Imagenes/README-Armas.MD)
+![rda](./README-Armas.MD)
 
 🎲 ***Nombre del juego :*** 
 
