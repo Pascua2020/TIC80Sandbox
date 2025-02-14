@@ -573,6 +573,12 @@ Locutor/es :
     "10. Narrador: El juego que estabas esperando... si te atrevés."
 ```
 
+## ✨️Variables / Atributos
+
+```
+
+```
+
 Funciones:
 
 #### 🔑-1  dividir_en_lineas(texto)
