@@ -814,67 +814,67 @@ frases = {"¡Ráfaga!", "¡Disparando!", "¡Toma esto!", "¡Minigun a full!", "�
 
 #### 🔑-1  disparar_pistola()
 
-.
+Dispara la pistola.
 
 #### 🔑-2  disparar_ak47()
 
-.
+Dispara el AK47.
 
 #### 🔑-3  disparar_bazooka()
 
-.
+Dispara la Bazooka.
 
 #### 🔑-4  disparar_escopeta()
 
-.
+Dispara la Escopeta.
 
 #### 🔑-5  disparar_granada()
 
-.
+Dispara la Granada.
 
 #### 🔑-6  mover_disparos()
 
-.
+Mueve los disparos.
 
 #### 🔑-7  mover_granadas()
 
-.
+Mueve las granadas.
 
 #### 🔑-8  recargar()
 
-.
+Recarga las municiones de las armas.
 
 #### 🔑-9  cambiar_arma()
 
-.
+Cambia de arma.
 
 #### 🔑-10  mostrar_controles()
 
-.
+Muestra los controles en pantalla.
 
 #### 🔑-11  mover_personaje()
 
-.
+Mueve al personaje en la pantalla.
 
 #### 🔑-12  agregar_coches()
 
-.
+Agrega coches en la pantalla.
 
 #### 🔑-13  mover_coches()
 
-.
+Mueve los coches en la pantalla.
 
 #### 🔑-14  crear_explosion(x,y)
 
-.
+Crea las explosiones ( con coordenadas X e Y ).
 
 #### 🔑-15  agregar_enemigos()
 
-.
+Agrega a los enemigos.
 
 #### 🔑-16  mover_enemigos()
 
-.
+Mueve a los enemigos.
 
 #### 🔑-17  TIC()
 
