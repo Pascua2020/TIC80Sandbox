@@ -6,17 +6,25 @@
 
 #### 🎃-Editor de Pista
 
+Se edita con el Mouse / Pantalla Tactil.Se pueden borrar los sprites dibujados de la pista.
+
 #### 🎃-Coches a Control Remoto
 
---Jugador 1
+✨️ Jugador 1
 
---Jugador 2
+Se controla con los botones 0,1,2 y 3.
 
---IA
+✨️ Jugador 2
+
+Se controla con los botones 4,5,6 y 7.
+
+✨️ IA
+
+Tiene un patrón de movimiento automático.
 
 #### 🎃-Modo Jugar
 
---Controles de movimiento para 2 Jugadores
+✨️ Controles de movimiento para 2 Jugadores
 
 ## ✨️Variables / Atributos
 
