@@ -342,6 +342,7 @@ descripciones_cartas = {
     ["Vida"] = "Te permite mantener tu salud en el juego.",
     ["Ansiedad"] = "Reduce tu capacidad de tomar decisiones rápidamente.",
     ["Estres"] = "Te hace perder claridad mental bajo presión.",
+
     ["Pistola"] = "Un arma de fuego básica, útil a corta distancia.",
     ["Escopeta"] = "Arma de largo alcance que dispersa proyectiles.",
     ["Rifle"] = "Perfecto para ataques a larga distancia y precisión.",
@@ -349,6 +350,7 @@ descripciones_cartas = {
     ["Lanzacohetes"] = "Un arma de alto poder, útil para destruir vehículos y obstáculos.",
     ["SMG"] = "Subfusil ligero con alta cadencia de fuego.",
     ["Granada"] = "Explosivos de mano para causar daño en áreas amplias.",
+
     ["Auto"] = "Vehículo rápido y ágil para moverse por el mapa.",
     ["Moto"] = "Ideal para maniobras rápidas y esquivas.",
     ["Camión"] = "Vehículo pesado, útil para transportar objetos o crear barreras.",
@@ -356,6 +358,7 @@ descripciones_cartas = {
     ["Barco"] = "Utilizado para moverse en agua, tiene buena velocidad.",
     ["Bicicleta"] = "Vehículo económico y fácil de maniobrar.",
     ["Tanque"] = "Vehículo blindado con gran poder destructivo y resistencia.",
+
     ["Poesia de la Calle"] = "Poemas urbanos que reflejan la realidad de la ciudad.",
     ["La IA Avanza"] = "La inteligencia artificial está alcanzando niveles preocupantes.",
     ["Solos y Solas"] = "El sentimiento de soledad en el mundo moderno.",
