@@ -884,15 +884,15 @@ Bucle principal.
 
 #### 🔑-1  golpear()
 
-.
+Función para golpear (al presionar el botón).
 
 #### 🔑-2  mover_golpes()
 
-.
+Función para mover y eliminar los golpes que ya no están visibles.
 
 #### 🔑-3  dibujar_golpes()
 
-.
+Función para dibujar los golpes (el puño).
 
 -4  mover_personaje()
 
