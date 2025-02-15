@@ -36,32 +36,46 @@ Distintos tipos de climas.
 
 ```
 -- Parámetros generales
+1
 raindrops = {}
 
+2
 leaves = {}
 
+3
 snowflakes = {}
 
+4
 wind_lines = {}
 
+5
 max_raindrops = 100
 
+6
 num_leaves = 10
 
+7
 max_snowflakes = 50
 
+8
 num_wind_lines = 8
 
-wind_speed = 2 -- Velocidad del viento
+9
+wind_speed = 2 
+-- Velocidad del viento
 
 -- Parámetros de los relámpagos
+10
 lightning_timer = 0
 
+11
 lightning_flash_duration = 5
 
+12
 lightning_active = false
 
 -- Estado de los efectos
+13
 effects = {
     earthquake = false,
     rain = false,
@@ -72,19 +86,27 @@ effects = {
 }
 
 -- Parámetros de los efectos de terremoto
+14
 earthquake_intensity = 0
 
+15
 earthquake_timer = 0
 
-earthquake_duration = 30  -- Duración del terremoto en ciclos
+16
+earthquake_duration = 30  
+-- Duración del terremoto en ciclos
 
 -- Variables del mapa
+17
 map_width = 240
 
+18
 map_height = 136
 
+19
 map_offsetX = 0
 
+20
 map_offsetY = 0
 ```
 
