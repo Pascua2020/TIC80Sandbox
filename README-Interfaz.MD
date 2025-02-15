@@ -279,12 +279,24 @@ Descripción:
 
 ```
 -- Variables globales
-modo_tactica = false -- Si el Modo Táctica está activado
-carta_seleccionada = 1 -- Índice de la carta seleccionada
-nombres_cartas = { "Vida", "Arma", "Vehículo", "Radio", "Interactuar", "Táctica", "Parametro" } -- Nombres de las secciones
-total_cartas = #nombres_cartas -- Cantidad total de secciones
-seccion_activa = nil -- Sección activa (nil significa que no hay sección activa)
-carta_seleccionada_en_seccion = 1 -- Índice de la carta seleccionada dentro de la sección activa
+
+modo_tactica = false 
+-- Si el Modo Táctica está activado
+
+carta_seleccionada = 1 
+-- Índice de la carta seleccionada
+
+nombres_cartas = { "Vida", "Arma", "Vehículo", "Radio", "Interactuar", "Táctica", "Parametro" } 
+-- Nombres de las secciones
+
+total_cartas = #nombres_cartas 
+-- Cantidad total de secciones
+
+seccion_activa = nil 
+-- Sección activa (nil significa que no hay sección activa)
+
+carta_seleccionada_en_seccion = 1 
+-- Índice de la carta seleccionada dentro de la sección activa
 
 -- Tabla de cartas por sección
 cartas_por_seccion = {
@@ -298,8 +310,11 @@ cartas_por_seccion = {
 }
 
 -- Tabla de sprites
-sprites_cartas = { 7, 8, 9, 10, 11, 12, 13 } -- Sprites normales
-sprites_seleccionados = { 23, 24, 25, 26, 27, 28, 29 } -- Sprites alternativos
+sprites_cartas = { 7, 8, 9, 10, 11, 12, 13 } 
+-- Sprites normales
+
+sprites_seleccionados = { 23, 24, 25, 26, 27, 28, 29 } 
+-- Sprites alternativos
 
 -- Colores para las secciones, empezando en rojo (8) y terminando en azul (6)
 colores_secciones = { 2, 3, 4, 5, 10, 8, 1 }
