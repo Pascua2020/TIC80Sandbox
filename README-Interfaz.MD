@@ -280,25 +280,32 @@ Descripción:
 ```
 -- Variables globales
 
+1
 modo_tactica = false 
 -- Si el Modo Táctica está activado
 
+2
 carta_seleccionada = 1 
 -- Índice de la carta seleccionada
 
+3
 nombres_cartas = { "Vida", "Arma", "Vehículo", "Radio", "Interactuar", "Táctica", "Parametro" } 
 -- Nombres de las secciones
 
+4
 total_cartas = #nombres_cartas 
 -- Cantidad total de secciones
 
+5
 seccion_activa = nil 
 -- Sección activa (nil significa que no hay sección activa)
 
+6
 carta_seleccionada_en_seccion = 1 
 -- Índice de la carta seleccionada dentro de la sección activa
 
 -- Tabla de cartas por sección
+7
 cartas_por_seccion = {
     { "Vida", "Ansiedad", "Estres"   },
  -- Vida
@@ -317,16 +324,20 @@ cartas_por_seccion = {
 }
 
 -- Tabla de sprites
+8
 sprites_cartas = { 7, 8, 9, 10, 11, 12, 13 } 
 -- Sprites normales
 
+9
 sprites_seleccionados = { 23, 24, 25, 26, 27, 28, 29 } 
 -- Sprites alternativos
 
 -- Colores para las secciones, empezando en rojo (8) y terminando en azul (6)
+10
 colores_secciones = { 2, 3, 4, 5, 10, 8, 1 }
 
 -- Descripciones de las cartas
+11
 descripciones_cartas = {
     ["Vida"] = "Te permite mantener tu salud en el juego.",
     ["Ansiedad"] = "Reduce tu capacidad de tomar decisiones rápidamente.",
@@ -369,6 +380,7 @@ descripciones_cartas = {
     ["Destapando Curros"] = "Exponiendo las corrupciones y malversaciones del poder."
 }
 
+12
 local scroll_x = 0
 ```
 
