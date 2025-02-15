@@ -14,7 +14,7 @@ Jefe: Silvestre Stacchotta
 
 Objetivo: Rodar exitosamente una escena de doble de películas con el coche.
 
-### 🌇Mecanica 1
+### 🌇 Mecanica 1
 
 ![st1](./Imagenes/st1.jpg)
 
@@ -22,7 +22,7 @@ Subir a coche.
 
 ![stu1](./Imagenes/stu1.gif)
 
-### 🎆Dialogo 1
+### 🎆 Dialogo 1
 ```
 "Silvestre Stacchotta: Good day wacho, altas llantas.",
 "Silvestre Stacchotta: Perdón, estoy un poco enturrecido desde que estoy en Buenos Aires.",
@@ -31,7 +31,7 @@ Subir a coche.
 "Silvestre Stacchotta: En fin wacho, súbete al coche. Solo tienes 5 segundos.",
 "Pulsa B para subir al coche."
 ```
-### 🌇Mecanica 2
+### 🌇 Mecanica 2
 
 ![st2](./Imagenes/st2.jpg)
 
@@ -39,11 +39,11 @@ Arrollar cajas con el coche.
 
 ![stu2](./Imagenes/stu2.gif)
 
-### 🎆Dialogo 2
+### 🎆 Dialogo 2
 ```
 "Silvestre Stacchotta: Ahora arrolla esas malditas cajas."
 ```
-### 🌇Mecanica 3
+### 🌇 Mecanica 3
 
 ![st3](./Imagenes/st3.jpg)
 
@@ -51,12 +51,12 @@ Activar nitro para llegar a checkpoint.
 
 ![stu3](./Imagenes/stu3.gif)
 
-### 🎆Dialogo 3
+### 🎆 Dialogo 3
 ```
 "Silvestre Stacchotta: Ahora eres un fucking meteorito,activa el nitro tardigrado de bosnia."
 ```
 
-### 🌇Mecanica 4
+### 🌇 Mecanica 4
 
 ![st4](./Imagenes/st4.jpg)
 
@@ -64,11 +64,11 @@ Disparar desde el coche para destruir a la caja plateada ( no se puede destruir 
 
 ![stu4](./Imagenes/stu4.gif)
 
-### 🎆Dialogo 4
+### 🎆 Dialogo 4
 ```
 "Silvestre Stacchotta: Ahora tenes que dispararle desde el coche a esa caja malvada,solo puedes destruirla asi,lince del oblast de kursk."
 ```
-### 🌇Mecanica 5
+### 🌇 Mecanica 5
 
 ![st5](./Imagenes/st5.jpg)
 
@@ -76,11 +76,11 @@ Usar rampa para saltar.
 
 ![stu5](./Imagenes/stu5.gif)
 
-### 🎆Dialogo 5
+### 🎆 Dialogo 5
 ```
 "Silvestre Stacchotta: Lince, tenés que usar esa rampa para volar como los dioses del asfalto."
 ```
-### 🌇Mecanica 6
+### 🌇 Mecanica 6
 
 ![st6](./Imagenes/st6.jpg)
 
@@ -88,11 +88,11 @@ Esquivar coches.
 
 ![stu6](./Imagenes/stu6.gif)
 
-### 🎆Dialogo 6
+### 🎆 Dialogo 6
 ```
 "Silvestre Stacchotta: Mas vale que esquives esos coches porque me estoy enturreciendo mal ."
 ```
-### 🌇Mecanica 7
+### 🌇 Mecanica 7
 
 ![st7](./Imagenes/st7.jpg)
 
@@ -100,11 +100,11 @@ Perseguir coche.
 
 ![stu7](./Imagenes/stu7.gif)
 
-### 🎆Dialogo 7
+### 🎆 Dialogo 7
 ```
 "Silvestre Stacchotta: Ahí va el infeliz que me robó mi chorinesa (choripán con milanesa), ¡a por el wacho de Nunavut!"
 ```
-### 🌇Mecanica 8
+### 🌇 Mecanica 8
 
 ![st8](./Imagenes/st8.jpg)
 
@@ -112,12 +112,12 @@ Saltar por el aro pero solo cuando no este en llamas.
 
 ![gifaro](./Imagenes/gifaro.gif)
 
-### 🎆Dialogo 8
+### 🎆 Dialogo 8
 ```
 "Silvestre Stacchotta: Do you have enough chechona?",
 "Salta por el aro, pero no te quemes."
 ```
-### 🌇Mecanica 9
+### 🌇 Mecanica 9
 
 ![st9](./Imagenes/st9.jpg)
 
@@ -125,11 +125,11 @@ Esquivar tren.
 
 ![stu9](./Imagenes/stu9.gif)
 
-### 🎆Dialogo 9
+### 🎆 Dialogo 9
 ```
 "Silvestre Stacchotta: Esquiva el maldito tren así llegas al final y posteamos algo en Egogram."
 ```
-### 🌇Mecanica 10
+### 🌇 Mecanica 10
 
 ![st10](./Imagenes/st10.jpg)
 
@@ -137,7 +137,7 @@ Salir del coche para hacerlo detonar,pero a distancia.
 
 ![stu10](./Imagenes/stu10.gif)
 
-### 🎆Dialogo 10
+### 🎆 Dialogo 10
 ```
 "Silvestre Stacchotta: Prepárate, conduce hacia el círculo violeta.",
 "Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
