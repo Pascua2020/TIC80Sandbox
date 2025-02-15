@@ -2,6 +2,12 @@
 
 ![gifradio](./Imagenes/gifradio.gif)
 
+### 🎃 Características 
+
+✨️ Dialogo Automatico.
+
+✨️ 22 Radios Diferentes ( con su Número y Nombre en pantalla ).
+
 #### 🎭"01 Radio Todo Vardo" 
 
 Noticias Locales
