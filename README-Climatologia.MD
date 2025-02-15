@@ -22,11 +22,11 @@ Distintos tipos de climas.
 
 ### ⭐️ Hojas
 
-![clima3](./Imagenes/clima3.png)
+![clima3](./Imagenes/clima4.png)
 
 ### ⭐️ Nieve
 
-![clima4](./Imagenes/clima4.png)
+![clima4](./Imagenes/clima1.png)
 
 ### ⭐️ Relampagos
 
