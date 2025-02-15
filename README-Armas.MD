@@ -192,42 +192,56 @@ enemies = {}
 ```
 ### Puño
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 numero_golpes = 30  
 -- Número inicial de golpes
 
+6
 golpes = {}  
 -- Lista de golpes
 
+7
 frases = 
 {"¡Bam!", "Golpe certero", "¡Te alcancé!", "Toma eso", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
 
+8
 tiempo_frase = 0
 
+9
 frase_actual = ""
 
+10
 coches = {}  
 -- Lista de coches en la pantalla
 
+11
 explosiones = {}  
 -- Lista de explosiones
 
+12
 distancia_entre_golpes = 5  
 -- Distancia entre golpes consecutivos
 
+13
 tiempo_golpe_visible = 20  
 -- Tiempo durante el cual el golpe es visible
 
+14
 particulas = {}  
 -- Lista de partículas para explosiones
 ```
@@ -235,37 +249,47 @@ particulas = {}
 ### Katana
 ```
 Variables principales
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 cortes = {}  
 -- Tabla para almacenar los efectos de cortes
 
+6
 duracion_corte = 15  
 -- Duración del efecto de corte en cuadros
 
+7
 longitud_corte = 20  
 -- Longitud inicial del corte
 
+8
 velocidad_giro = -0.2  
 -- Giro inverso del corte
 
+9
 tiempo_entre_cortes = 10  
 -- Tiempo mínimo entre cortes consecutivos
 
+10
 tiempo_ultimo_corte = 0  
 -- Reloj para limitar cortes consecutivos
 
 -- Enemigos
-
+11
 enemigos = {
     {x = 120, y = 64, colisionado = false},
     {x = 120, y = 40, colisionado = false},
@@ -273,57 +297,74 @@ enemigos = {
 }
 
 -- Partículas de sangre
-
+12
 particulas = {}
 ```
 
 ### Pistola
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 balanza = nil  
 -- La balanza estará inicialmente inactiva
 
+5
 velocidad = 1  
 -- Velocidad del personaje
 
+6
 direccion_balanza = 0  
 -- Dirección de la balanza 
-(0 = no disparada, 1 = disparada hacia la derecha, -1 = disparada hacia la izquierda)
+(0 = no disparada, 
+1 = disparada hacia la derecha, 
+-1 = disparada hacia la izquierda)
 
+7
 pos_balanza_x = 0  
 -- Posición X de la balanza
 
+8
 pos_balanza_y = 64  
 -- Posición Y de la balanza
 
 -- Contador de balas
 
+9
 numero_balas = 20  
 -- Número inicial de balas
 
+10
 disparando = false  
 -- Estado de disparo
 
+11
 tiempo_frase = 0  
 -- Temporizador para la frase
 
+12
 frase_actual = ""  
 -- Frase que se mostrará
 
+13
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
+14
 frases = 
 {"SOS boleta", "morite loco", "te voy a volar la cabeza", "no te lo voy a perdonar", "soy el más vivo", "comete esta gil", "te gusta el sabor a balas?", "con el debido respeto", "BANG"}
 
+15
 -- Posición de los coches
 coches = {
     {x = 120, y = 64, colisionado = false},  -- Primer coche
@@ -331,119 +372,159 @@ coches = {
     {x = 120, y = 88, colisionado = false},  -- Coche abajo
 }
 
+16
 coche_explosion = false  
 -- Estado de la explosión
 
+17
 explosion_tiempo = 0  
 -- Temporizador para la animación de explosión
 
+18
 explosion_puntos = {}  
 -- Lista de puntos para la explosión
 
 -- Variables para el poder del jugador
 
+19
 poder_jugador = 0  
 -- Poder que se mostrará al colisionar
 
+20
 poder_tiempo = 0  
 -- Tiempo en que se generó el poder
 
+21
 mostrar_poder = false  
 -- Indica si el poder debe mostrarse
 ```
 
 ### Granada
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 numero_granadas = 5  
 -- Número inicial de granadas
 
+6
 granadas = {}  
 -- Lista de granadas activas
 
+7
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
 
+8
 tiempo_frase = 0
 
+9
 frase_actual = ""
 
+10
 coches = {}  
 -- Lista de coches en la pantalla
 
+11
 explosiones = {}  
 -- Lista de explosiones
 ```
 ### AK 47
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 numero_cartuchos = 30  
 -- Número inicial de balas del AK-47
 
+6
 disparos = {}  
 -- Lista de disparos activos
 
+7
 frases = {"¡Bang!", "Disparo certero", "Te alcancé", "Toma esto", "¿Te dolió?", "Hasta nunca", "¡Te reventé!"}
 
+8
 tiempo_frase = 0
 
+9
 frase_actual = ""
 
+10
 coches = {}  
 -- Lista de coches en la pantalla
 
+11
 explosiones = {}  
 -- Lista de explosiones
 
+12
 distancia_entre_disparos = 5  
 -- Distancia entre disparos consecutivos
 ```
 ### Escopeta
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 numero_cartuchos = 5  
 -- Número inicial de cartuchos
 
+6
 disparos = {}  -- Lista de disparos activos
 
+7
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
 
+8
 tiempo_frase = 0
 
+9
 frase_actual = ""
 
+10
 coches = {}  
 -- Lista de coches en la pantalla
 
+11
 explosiones = {}  
 -- Lista de explosiones
 
