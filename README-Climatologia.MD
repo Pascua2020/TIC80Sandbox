@@ -18,7 +18,7 @@ Distintos tipos de climas.
 
 ### ⭐️ Viento
 
-![clima2](./Imagenes/clima2.png)
+![clima2](./Imagenes/clima3.png)
 
 ### ⭐️ Hojas
 
