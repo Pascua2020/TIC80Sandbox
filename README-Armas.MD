@@ -533,45 +533,58 @@ explosiones = {}
 ### 8 Rifle Electrico
 ```
 -- Variables
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 rayos = {}  
 -- Lista para los rayos del rifle
 
+6
 energia = 100  
 -- Energía inicial del rifle
 
+7
 disparando = false  
 -- Estado de disparo
 
+8
 tiempo_frase = 0  
 -- Temporizador para la frase
 
+9
 frase_actual = ""  
 -- Frase que se mostrará
 
+10
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
+11
 frases = {"¡Descarga eléctrica!", "¡Siente la chispa!", "¡Electricidad pura!", "¡Zas!", "¡Impacto eléctrico!"}
 
 -- Posición de los coches
+12
 coches = {
     {x = 120, y = 64, colisionado = false},
     {x = 120, y = 40, colisionado = false},
     {x = 120, y = 88, colisionado = false},
 }
 
+13
 explosion_puntos = {}  
 -- Lista de puntos para explosiones
 ```
@@ -579,45 +592,58 @@ explosion_puntos = {}
 ### 9 Lanzallamas
 ```
 -- Variables
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 llamas = {}  
 -- Lista para las llamaradas del lanzallamas
 
+6
 numero_combustible = 100  
 -- Combustible inicial del lanzallamas
 
+7
 disparando = false  
 -- Estado de disparo
 
+8
 tiempo_frase = 0  
 -- Temporizador para la frase
 
+9
 frase_actual = ""  
 -- Frase que se mostrará
 
+10
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
+11
 frases = {"Te quemo!", "Arde!", "Fuego!", "Esto es calor!", "A la parrilla!", "A quemarse!"}
 
 -- Posición de los coches
+12
 coches = {
     {x = 120, y = 64, colisionado = false},
     {x = 120, y = 40, colisionado = false},
     {x = 120, y = 88, colisionado = false},
 }
 
+13
 explosion_puntos = {}  
 -- Lista de puntos para explosiones
 
@@ -625,77 +651,100 @@ explosion_puntos = {}
 ### 10 Rayo Laser
 ```
 -- Variables
-
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 energia = 100  
 -- Energía inicial del láser
 
+6
 disparando = false  
 -- Estado de disparo
 
+7
 tiempo_frase = 0  
 -- Temporizador para la frase
 
+8
 frase_actual = ""  
 -- Frase que se mostrara
 
+9
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
+10
 longitud_laser = 0  
 -- Longitud del láser
 
 -- Frases aleatorias
+11
 frases = {"¡Corte láser!", "¡Quema!", "¡Desintegración!", "¡Nada sobrevivirá!", "¡Muere!"}
 
 -- Enemigos (coches en este caso)
+12
 enemigos = {
     {x = 120, y = 64, colisionado = false},
     {x = 120, y = 40, colisionado = false},
     {x = 120, y = 88, colisionado = false},
 }
 
+13
 sangre = {}  
 -- Lista para partículas de sangre
 ```
 ### 11 Bazooka
 ```
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 numero_cartuchos = 5  
 -- Número inicial de cartuchos
 
+6
 disparos = {} 
 -- Lista de disparos activos
 
+7
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
 
+8
 tiempo_frase = 0
 
+9
 frase_actual = ""
 
+10
 coches = {}  
 -- Lista de coches en la pantalla
 
+11
 explosiones = {}  
 -- Lista de explosiones
 ```
@@ -703,46 +752,59 @@ explosiones = {}
 ### 12 MiniGun
 ```
 -- Variables
-
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
+5
 balas = {}  
 -- Lista para las balas de la minigun
 
+6
 energia = 100  
 -- Energía inicial de la minigun
 
+7
 disparando = false  
 -- Estado de disparo
 
+8
 tiempo_frase = 0  
 -- Temporizador para la frase
 
+9
 frase_actual = ""  
 -- Frase que se mostrará
 
+10
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
+11
 enemigos = {}  
 -- Lista de enemigos
 
+12
 tiempo_efecto_sangre = 0  
 -- Para controlar el efecto de sangre
 
+13
 particulas_explosion = {}  
 -- Lista para las partículas de la explosión
 
 -- Frases aleatorias
+14
 frases = {"¡Ráfaga!", "¡Disparando!", "¡Toma esto!", "¡Minigun a full!", "¡No escaparás!"}
 ```
 
