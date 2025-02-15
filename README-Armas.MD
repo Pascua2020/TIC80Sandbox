@@ -119,7 +119,7 @@ Mucha potencia.
 
 ## ✨️Variables / Atributos
 
-### ⭐️1 Todas las Armas
+### ⭐️ 1 Todas las Armas
 ```
 1
 t = 0
@@ -190,7 +190,7 @@ enemies = {}
 -- Lista de enemigos
 
 ```
-### ⭐️2 Puño
+### ⭐️ 2 Puño
 ```
 1
 t = 0
@@ -246,7 +246,7 @@ particulas = {}
 -- Lista de partículas para explosiones
 ```
 
-### ⭐️3 Katana
+### ⭐️ 3 Katana
 ```
 Variables principales
 1
@@ -301,7 +301,7 @@ enemigos = {
 particulas = {}
 ```
 
-### ⭐️4 Pistola
+### ⭐️ 4 Pistola
 ```
 1
 t = 0
@@ -399,7 +399,7 @@ mostrar_poder = false
 -- Indica si el poder debe mostrarse
 ```
 
-### ⭐️5 Granada
+### ⭐️ 5 Granada
 ```
 1
 t = 0
@@ -441,7 +441,7 @@ coches = {}
 explosiones = {}  
 -- Lista de explosiones
 ```
-### ⭐️6 AK 47
+### ⭐️ 6 AK 47
 ```
 1
 t = 0
@@ -487,7 +487,7 @@ explosiones = {}
 distancia_entre_disparos = 5  
 -- Distancia entre disparos consecutivos
 ```
-### ⭐️7 Escopeta
+### ⭐️ 7 Escopeta
 ```
 1
 t = 0
@@ -530,7 +530,7 @@ explosiones = {}
 
 ```
 
-### ⭐️8 Rifle Electrico
+### ⭐️ 8 Rifle Electrico
 ```
 -- Variables
 1
@@ -589,7 +589,7 @@ explosion_puntos = {}
 -- Lista de puntos para explosiones
 ```
 
-### ⭐️9 Lanzallamas
+### ⭐️ 9 Lanzallamas
 ```
 -- Variables
 1
@@ -648,7 +648,7 @@ explosion_puntos = {}
 -- Lista de puntos para explosiones
 
 ```
-### ⭐️10 Rayo Laser
+### ⭐️ 10 Rayo Laser
 ```
 -- Variables
 1
@@ -706,7 +706,7 @@ enemigos = {
 sangre = {}  
 -- Lista para partículas de sangre
 ```
-### ⭐️11 Bazooka
+### ⭐️ 11 Bazooka
 ```
 1
 t = 0
@@ -749,7 +749,7 @@ explosiones = {}
 -- Lista de explosiones
 ```
 
-### ⭐️12 MiniGun
+### ⭐️ 12 MiniGun
 ```
 -- Variables
 1
