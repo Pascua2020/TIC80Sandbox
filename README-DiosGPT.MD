@@ -67,39 +67,39 @@ app_abierta = false
 
 #### 🔑-1  dibujar_triangulo(x,y,color)
 
-.
+Función para dibujar el triángulo (icono de DiosGPT).
 
 #### 🔑-2  mostrar_hora(x,y)
 
-.
+Función para mostrar la hora.
 
 #### 🔑-3  dividir_mensaje(texto,x,y,color)
 
-.
+Función para dividir mensajes largos en líneas.
 
 #### 🔑-4  mostrar_menu_opciones()
 
-.
+Función para mostrar el menú de opciones.
 
 #### 🔑-5  manejar_seleccion_opcion()
 
-.
+Función para manejar la selección de opción.
 
 #### 🔑-6  abrir_app_diosgpt()
 
-.
+Función para manejar la apertura de la app DiosGPT.
 
 #### 🔑-7  mostrar_mensaje_inicial_b()
 
-.
+Función para mostrar el mensaje "B - Abrir Celular".
 
 #### 🔑-8  mostrar_mensajes_celular()
 
-.
+Función para mostrar mensajes dentro del celular.
 
 #### 🔑-9  actualizar_color_triangulo()
 
-.
+Función para actualizar el color del triángulo a cada segundo (arcoíris).
 
 #### 🔑-10  TIC()
 
