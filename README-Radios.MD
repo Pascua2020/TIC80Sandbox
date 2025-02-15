@@ -45,9 +45,9 @@
 
 #### 🎭"02 Radio Bajones"
 
-⭐️Tango
+⭐️ Tango
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r02](./Imagenes/r02.gif)
 
@@ -75,9 +75,9 @@
 
 #### 🎭"03 Radio Poesía de la Calle"
 
-⭐️Trap
+⭐️ Trap
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r03](./Imagenes/r03.gif)
 
@@ -98,9 +98,9 @@
 
 #### 🎭"04 Gobierno de Argentina"
 
-⭐️Cadena Nacional
+⭐️vCadena Nacional
 
-⭐️Locutor/es : Presidente
+⭐️ Locutor/es : Presidente
 
 ![r04](./Imagenes/r04.gif)
 
@@ -123,9 +123,9 @@
 
 #### 🎭"05 Solos y Solas"
 
-⭐️Relaciones Amorosas
+⭐️ Relaciones Amorosas
 
-⭐️Locutor/es : Profesor Levantini y Profesora Dopamina
+⭐️ Locutor/es : Profesor Levantini y Profesora Dopamina
 
 ![r05](./Imagenes/r05.gif)
 
@@ -145,9 +145,9 @@
 
 #### 🎭"06 Desgracias Economicas"
 
-⭐️Economia
+⭐️ Economia
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r06](./Imagenes/r06.gif)
 
@@ -167,9 +167,9 @@
 
 #### 🎭"07 Joyas de la Historia"
 
-⭐️Historia
+⭐️ Historia
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r07](./Imagenes/r07.gif)
 
@@ -189,9 +189,9 @@
 
 #### 🎭"08 No me Importa"
 
-⭐️Internacional
+⭐️ Internacional
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r08](./Imagenes/r08.gif)
 
@@ -214,9 +214,9 @@
 
 #### 🎭"09 Radio Antimainstream"
 
-⭐️Historias Unicas
+⭐️ Historias Unicas
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r09](./Imagenes/r09.gif)
 
@@ -246,9 +246,9 @@
 
 #### 🎭"10 Cine Ultra 8K"
 
-⭐️Cine
+⭐️ Cine
 
-⭐️Locutor/es : Adrian de la Trampa
+⭐️ Locutor/es : Adrian de la Trampa
 
 ![r10](./Imagenes/r10.gif)
 
@@ -276,9 +276,9 @@
 
 #### 🎭"11 Destapando Curros"
 
-⭐️Investigaciones
+⭐️ Investigaciones
 
-⭐️Locutor/es : Jorge Lanota
+⭐️ Locutor/es : Jorge Lanota
 
 ![r11](./Imagenes/r11.gif)
 ```
@@ -296,9 +296,9 @@
 
 #### 🎭"12 Radio Grieta"
 
-⭐️Polarización
+⭐️ Polarización
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r12](./Imagenes/r12.gif)
 
@@ -320,9 +320,9 @@
 
 #### 🎭"13 Radio Cuarta Pared"
 
-⭐️Vida Real
+⭐️ Vida Real
 
-⭐️Locutor/es : Quien sabe
+⭐️ Locutor/es : Quien sabe
 
 ![r13](./Imagenes/r13.gif)
 
@@ -339,9 +339,9 @@
 
 #### 🎭"14 La IA Avanza"
 
-⭐️No Humanos
+⭐️ No Humanos
 
-⭐️Locutor/es : I y A
+⭐️ Locutor/es : I y A
 
 ![r14](./Imagenes/r14.gif)
 
@@ -363,9 +363,9 @@
 
 #### 🎭"15 Jesus te Ama"
 
-⭐️Religion
+⭐️ Religion
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r15](./Imagenes/r15.gif)
 
@@ -393,9 +393,9 @@
 
 #### 🎭"16 Sonidos Animalunos"
 
-⭐️Lofi
+⭐️ Lofi
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r16](./Imagenes/r16.gif)
 
@@ -415,9 +415,9 @@
 
 #### 🎭"17 Naturaleza Insolita"
 
-⭐️Naturaleza
+⭐️ Naturaleza
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r17](./Imagenes/r17.gif)
 
@@ -443,9 +443,9 @@
 
 ![gifradio](./Imagenes/gifradio.gif)
 
-⭐️Noticias Tristes
+⭐️ Noticias Tristes
 
-⭐️Locutor/es : Amarguino y Juaquin
+⭐️ Locutor/es : Amarguino y Juaquin
 
 
 ```
@@ -476,9 +476,9 @@
 
 #### 🎭"19 Poesia Pixelar"
 
-⭐️Poesia Gamer
+⭐️ Poesia Gamer
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r19](./Imagenes/r19.gif)
 
@@ -504,9 +504,9 @@
 
 ![radioterror](./Imagenes/radioterror.gif)
 
-⭐️Terror Bizarro
+⭐️ Terror Bizarro
 
-⭐️Locutor/es : Gallego
+⭐️ Locutor/es : Gallego
 
 ```
     "1. Locutor gallego: Buenas noches, oyentes de 'Terror Absoluto',",
@@ -537,9 +537,9 @@
 
 #### 🎭"21 Radio Lenguaje de la vida"
 
-⭐️Idiomas
+⭐️ Idiomas
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r21](./Imagenes/r21.gif)
 
@@ -560,9 +560,9 @@
 
 #### 🎭"22 Comerciales Gamers"
 
-⭐️Propaganda
+⭐️ Propaganda
 
-⭐️Locutor/es : 
+⭐️ Locutor/es : 
 
 ![r22](./Imagenes/r22.gif)
 
