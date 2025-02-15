@@ -11,6 +11,8 @@ Tiene sprites de Asfalto y Cesped.
 
 #### 🎃 Coches a Control Remoto
 
+Todos muestran sus coordenadas de X e Y en pantalla.
+
 ✨️ Jugador 1
 
 Se controla con los botones 0,1,2 y 3.
