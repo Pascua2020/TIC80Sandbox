@@ -8,25 +8,29 @@ Distintos tipos de climas.
 
 ## 🎭 Tipos de Clima
 
+### ⭐️ Sin Clima
+
+![clima0](./Imagenes/Clima0.jpg)
+
 ### ⭐️ Lluvia
 
-
+![clima1](./Imagenes/Clima1.jpg)
 
 ### ⭐️ Viento
 
-
+![clima2](./Imagenes/Clima2.jpg)
 
 ### ⭐️ Hojas
 
-
+![clima3](./Imagenes/Clima3.jpg)
 
 ### ⭐️ Nieve
 
-
+![clima4](./Imagenes/Clima4.jpg)
 
 ### ⭐️ Relampagos
 
-
+![clima5](./Imagenes/Clima5.jpg)
 
 ## 🎭 Variables / Atributos
 
