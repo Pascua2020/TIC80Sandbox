@@ -1084,15 +1084,15 @@ Función para dibujar los rayos eléctricos.
 
 #### 🔑-3  disparar_lanzallamas()
 
-.
+Función para disparar el lanzallamas.
 
 #### 🔑-4  mover_llamas()
 
-.
+Función para mover las llamaradas.
 
 #### 🔑-5  dibujar_llamas()
 
-.
+Función para dibujar las llamaradas.
 
 -6  detectar_colision()
 
@@ -1112,7 +1112,7 @@ Función para dibujar los rayos eléctricos.
 
 #### 🔑-1  disparar_bazooka()
 
-.
+Función para disparar la bazooka (1 disparo más grande).
 
 -2  mover_disparos()
 
@@ -1148,15 +1148,15 @@ Función para dibujar los rayos eléctricos.
 
 #### 🔑-3  disparar_minigun()
 
-.
+Función para disparar la minigun (ráfaga de 4 balas con posiciones Y distintas).
 
 #### 🔑-4  mover_balas()
 
-.
+Función para mover las balas.
 
 #### 🔑-5  dibujar_balas()
 
-.
+Función para dibujar las balas.
 
 -6  dibujar_enemigos()
 
