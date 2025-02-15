@@ -1052,15 +1052,15 @@ Función para dibujar una mira de impacto.
 
 #### 🔑-3  disparar_rifle()
 
-.
+Función para disparar el rifle eléctrico.
 
 #### 🔑-4  mover_rayos()
 
-.
+Función para mover los rayos eléctricos.
 
 #### 🔑-5  dibujar_rayos()
 
-.
+Función para dibujar los rayos eléctricos.
 
 -6  detectar_colision()
 
