@@ -1178,7 +1178,7 @@ Función para dibujar las balas.
 
 #### 🔑-1  disparar_ak47()
 
-.
+Función para disparar el AK-47 (1 bala a la vez).
 
 -2  mover_disparos()
 
@@ -1214,11 +1214,11 @@ Función para dibujar las balas.
 
 #### 🔑-3  disparar_laser()
 
-.
+Función para disparar el láser.
 
 #### 🔑-4  dibujar_laser()
 
-.
+Función para dibujar el láser.
 
 -5  dibujar_enemigos()
 
