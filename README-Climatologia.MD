@@ -14,7 +14,7 @@ Distintos tipos de climas.
 
 ### ⭐️ Lluvia
 
-![clima1](./Imagenes/clima1.png)
+![clima1](./Imagenes/clima2.png)
 
 ### ⭐️ Viento
 
