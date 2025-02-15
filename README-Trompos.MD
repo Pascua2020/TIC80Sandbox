@@ -6,9 +6,9 @@
 
 #### 🎆-Trompos
 
--Jugador 1
+🎮 Jugador 1
 
--Jugador 2
+🎮 Jugador 2
 
 #### 🎆-Vida
 
