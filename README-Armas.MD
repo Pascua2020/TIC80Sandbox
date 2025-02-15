@@ -119,7 +119,7 @@ Mucha potencia.
 
 ## ✨️Variables / Atributos
 
-### Todas las Armas
+### 1 Todas las Armas
 ```
 1
 t = 0
@@ -190,7 +190,7 @@ enemies = {}
 -- Lista de enemigos
 
 ```
-### Puño
+### 2 Puño
 ```
 1
 t = 0
@@ -246,7 +246,7 @@ particulas = {}
 -- Lista de partículas para explosiones
 ```
 
-### Katana
+### 3 Katana
 ```
 Variables principales
 1
@@ -301,7 +301,7 @@ enemigos = {
 particulas = {}
 ```
 
-### Pistola
+### 4 Pistola
 ```
 1
 t = 0
@@ -399,7 +399,7 @@ mostrar_poder = false
 -- Indica si el poder debe mostrarse
 ```
 
-### Granada
+### 5 Granada
 ```
 1
 t = 0
@@ -441,7 +441,7 @@ coches = {}
 explosiones = {}  
 -- Lista de explosiones
 ```
-### AK 47
+### 6 AK 47
 ```
 1
 t = 0
@@ -487,7 +487,7 @@ explosiones = {}
 distancia_entre_disparos = 5  
 -- Distancia entre disparos consecutivos
 ```
-### Escopeta
+### 7 Escopeta
 ```
 1
 t = 0
@@ -530,7 +530,7 @@ explosiones = {}
 
 ```
 
-### Rifle Electrico
+### 8 Rifle Electrico
 ```
 -- Variables
 t = 0
@@ -576,7 +576,7 @@ explosion_puntos = {}
 -- Lista de puntos para explosiones
 ```
 
-### Lanzallamas
+### 9 Lanzallamas
 ```
 -- Variables
 t = 0
@@ -622,7 +622,7 @@ explosion_puntos = {}
 -- Lista de puntos para explosiones
 
 ```
-### Rayo Laser
+### 10 Rayo Laser
 ```
 -- Variables
 
@@ -668,7 +668,7 @@ enemigos = {
 sangre = {}  
 -- Lista para partículas de sangre
 ```
-### Bazooka
+### 11 Bazooka
 ```
 t = 0
 
@@ -700,7 +700,7 @@ explosiones = {}
 -- Lista de explosiones
 ```
 
-### MiniGun
+### 12 MiniGun
 ```
 -- Variables
 
