@@ -42,11 +42,11 @@
 
 #### ▶️ Dirección
 
-🚘Normal.
+🚘 Normal.
 
 ![gte01](./Imagenes/gte1.png)
 
-🚘Inversa.
+🚘 Inversa.
 
 ![gte02](./Imagenes/gte2.png)
 
