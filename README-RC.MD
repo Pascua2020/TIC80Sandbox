@@ -13,21 +13,21 @@ Tiene sprites de Asfalto y Cesped.
 
 Todos muestran sus coordenadas de X e Y en pantalla.
 
-✨️ Jugador 1
+##### ✨️ Jugador 1
 
 Se controla con los botones 0,1,2 y 3.
 
-✨️ Jugador 2
+##### ✨️ Jugador 2
 
 Se controla con los botones 4,5,6 y 7.
 
-✨️ IA
+##### ✨️ IA
 
 Tiene un patrón de movimiento automático.
 
 #### 🎃 Modo Jugar
 
-✨️ Controles de movimiento para 2 Jugadores
+##### ✨️ Controles de movimiento para 2 Jugadores
 
 ## ✨️Variables / Atributos
 
