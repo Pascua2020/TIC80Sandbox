@@ -922,11 +922,11 @@ Función para dibujar los golpes (el puño).
 
 #### 🔑-3  cortar_katana()
 
-.
+Función para realizar un corte con la katana.
 
 #### 🔑-4  actualizar_cortes()
 
-.
+Función para actualizar y dibujar los cortes.
 
 -5  generar_particulas(x,y)
 
