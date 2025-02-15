@@ -980,7 +980,7 @@ Función para mover la balanza.
 
 #### 🔑-1  disparar_escopeta()
 
-.
+Función para disparar la escopeta (3 balas a la vez).
 
 -2  mover_disparos()
 
@@ -1012,15 +1012,15 @@ Función para mover la balanza.
 
 #### 🔑-1  disparar_granada()
 
-.
+Función para disparar la granada (proyectil más lento y con caída).
 
 #### 🔑-2  mover_granada()
 
-.
+Función para mover las granadas.
 
 #### 🔑-3  dibujar_granada()
 
-.
+Función para dibujar las granadas (más grandes y redondas).
 
 -4  mostrar_controles()
 
@@ -1042,7 +1042,7 @@ Función para mover la balanza.
 
 #### 🔑-13  dibujar_mira_impacto()
 
-.
+Función para dibujar una mira de impacto.
 
 ### ✅️-Rifle Electrico
 
