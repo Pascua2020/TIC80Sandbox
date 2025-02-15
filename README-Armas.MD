@@ -944,17 +944,17 @@ Función para actualizar y dibujar los cortes.
 
 #### 🔑-3  dibujar_balanza()
 
-.
+Función para dibujar la balanza.
 
 -4  mover_personaje()
 
 #### 🔑-5  disparar_balanza()
 
-.
+Función para disparar la balanza.
 
 #### 🔑-6  mover_balanza()
 
-.
+Función para mover la balanza.
 
 -7  detectar_colision()
 
