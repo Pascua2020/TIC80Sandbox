@@ -113,6 +113,7 @@ Dibuja el menú.
 Manejo de efectos.
 
 #### 🔑-20  toggle_earthquake()
+REPETIDO
 
 Manejo de efectos.
 
