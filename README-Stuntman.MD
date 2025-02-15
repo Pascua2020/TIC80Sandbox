@@ -1102,15 +1102,15 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-5  draw_hoop()
 
-.
+Dibujar el aro con partículas.
 
 ##### 🔑-6  update_hoop()
 
-.
+Actualizar el estado del aro.
 
 ##### 🔑-7  check_hoop_collision()
 
-.
+Comprobar colisión con el aro y la rampa.
 
 -8  handle_jump()
 
@@ -1126,7 +1126,7 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-14  draw_landing_circle()
 
-.
+Dibujar el círculo verde de aterrizaje (fijo).
 
 -15  TIC()
 
@@ -1144,7 +1144,7 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-6  draw_victory_circle()
 
-.
+Dibujar el círculo de victoria.
 
 -7  update_hoop()
 
@@ -1156,7 +1156,7 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-11  check_train_collision()
 
-.
+Comprobar colisión con el tren y vagones.
 
 -12  handle_jump()
 
@@ -1164,11 +1164,11 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-14  move_train()
 
-.
+Mover el tren y sus vagones.
 
 ##### 🔑-15  draw_train()
 
-.
+Dibujar el tren y los vagones.
 
 -16  TIC()
 
@@ -1182,7 +1182,7 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-4  draw_entities()
 
-.
+Dibujar el coche y el jugador.
 
 -5  draw_victory_circle()
 
@@ -1190,14 +1190,14 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 ##### 🔑-7  handle_explosion()
 
-.
+Manejar la explosión.
 
 ##### 🔑-8  exit_car()
 
-.
+Salir del coche.
 
 ##### 🔑-9  handle_game_over()
 
-.
+Manejar el estado de Game Over.
 
 -10  TIC()
