@@ -38,83 +38,83 @@ Distintos tipos de climas.
 
 #### 🔑-1  init_raindrops()
 
-.
+Inicializa las gotas de lluvia.
 
 #### 🔑-2  init_leaves()
 
-.
+Inicializa las hojas.
 
 #### 🔑-3  init_snowflakes()
 
-.
+Inicializa los copos de nieve.
 
 #### 🔑-4  init_wind()
 
-.
+Inicializa las líneas de viento.
 
 #### 🔑-5  update_earthquake()
 
-.
+Función de terremoto.
 
 #### 🔑-6  toggle_earthquake()
 
-.
+Función de terremoto.
 
 #### 🔑-7  update_raindrops()
 
-.
+Actualiza las gotas de lluvia.
 
 #### 🔑-8  update_leaves()
 
-.
+Actualiza las hojas.
 
 #### 🔑-9  update_snowflakes()
 
-.
+Actualiza los copos de nieve.
 
 #### 🔑-10  update_wind()
 
-.
+Actualiza las líneas de viento.
 
 #### 🔑-11  update_lightning()
 
-.
+Actualiza el estado del relámpago.
 
 #### 🔑-12  draw_lightning_effect()
 
-.
+Dibuja el efecto de relámpago.
 
 #### 🔑-13  draw_lightning(x_start,y_start,segments,length)
 
-.
+Genera un rayo zigzagueante.
 
 #### 🔑-14  draw_raindrops()
 
-.
+Dibuja las gotas de lluvia.
 
 #### 🔑-15  draw_leaves()
 
-.
+Dibuja las hojas.
 
 #### 🔑-16  draw_snowflakes()
 
-.
+Dibuja los copos de nieve.
 
 #### 🔑-17  draw_wind()
 
-.
+Dibuja el viento (líneas).
 
 #### 🔑-18  draw_menu()
 
-.
+Dibuja el menú.
 
 #### 🔑-19  toggle_effect(effect)
 
-.
+Manejo de efectos.
 
 #### 🔑-20  toggle_earthquake()
 
-.
+Manejo de efectos.
 
 #### 🔑-21  TIC()
 
