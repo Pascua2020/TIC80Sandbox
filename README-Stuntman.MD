@@ -888,24 +888,24 @@ explosion_complete = false
 
 ##### 🔑-1  move_player()
 
-.
+Movimiento del jugador.
 
 ##### 🔑-2  move_car()
 
-.
+Movimiento del coche.
 
 ##### 🔑-3  nueva_camara(x,y)
 
-.
+Simulación de cámara.
 
 ##### 🔑-4  update_camera()
 
-.
+Actualizar cámara.
 
 ##### 🔑-5  draw_text_multiline_with_bg
 (Text,x,y,color,bg_color,max_width)
 
-.
+Dividir texto en líneas con fondo negro.
 
 ##### 🔑-6  TIC()
 
@@ -923,19 +923,19 @@ Bucle principal.
 
 ##### 🔑-5  generate_particles(x,y)
 
-.
+Generar partículas de explosión.
 
 ##### 🔑-6  update_and_draw_particles()
 
-.
+Actualizar y dibujar partículas.
 
 ##### 🔑-7  check_collisions()
 
-.
+Detectar colisiones con cajas.
 
 ##### 🔑-8  draw_boxes()
 
-.
+Dibujar cajas.
 
 -9  TIC()
 
@@ -959,15 +959,15 @@ Bucle principal.
 
 ##### 🔑-9  draw_nitro_effect()
 
-.
+Mostrar la línea de nitro (cuando está activado).
 
 ##### 🔑-10  draw_checkpoint()
 
-.
+Dibujar el checkpoint como un círculo rojo.
 
 ##### 🔑-11  check_checkpoint_collision()
 
-.
+Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 -12  TIC()
 
