@@ -143,9 +143,9 @@ Salir del coche para hacerlo detonar,pero a distancia.
 "Silvestre Stacchotta: Una vez allí, presiona el botón para detonar la bomba."
 ```
 
-## ✨️Variables / Atributos
+## ✨️ Variables / Atributos
 
-1
+⭐️1
 ```
 -- Configuración inicial
 1
@@ -209,7 +209,7 @@ game_state = "mission_intro"
 objective_status = "incomplete"
 ```
 
-2
+⭐️2
 ```
 -- Configuración inicial
 1
@@ -263,7 +263,7 @@ particles = {}
 objective_status = "incomplete"
 ```
 
-3
+⭐️3
 ```
 1
 car_x, car_y = 30, 50
@@ -322,7 +322,7 @@ objective_status = "incomplete"
 
 ```
 
-4
+⭐️4
 ```
 -- Configuración inicial
 1
@@ -394,7 +394,7 @@ objective_status = "incomplete"
 
 ```
 
-5
+⭐️5
 ```
 -- Configuración inicial
 
@@ -465,7 +465,7 @@ ramp = {x = 150, y = 80}
 objective_status = "incomplete"
 ```
 
-6
+⭐️6
 ```
 -- Configuración inicial
 1
@@ -546,7 +546,7 @@ time_avoided = 0
 
 ```
 
-7
+⭐️7
 ```
 - Configuración inicial
 1
@@ -637,7 +637,7 @@ objective_status = "incomplete"
 
 ```
 
-8
+⭐️8
 ```
 -- Configuración inicial (igual que antes)
 
@@ -703,7 +703,7 @@ objective_status = "incomplete"
 particles = {}
 ```
 
-9
+⭐️9
 ```
  -- Configuración inicial
 1
@@ -807,7 +807,7 @@ victory_circle = { sx = 250, y = 40, radius = 10}
 
 ```
 
-10
+⭐️10
 ```
 -- Configuración inicial
 1
@@ -884,7 +884,7 @@ explosion_complete = false
 
 ## 🎭 Funciones:
 
-#### ✨️Stuntman4 / Parte 1
+#### ✨️ Stuntman4 / Parte 1
 
 ##### 🔑-1  move_player()
 
@@ -911,7 +911,7 @@ Dividir texto en líneas con fondo negro.
 
 Bucle principal.
 
-#### ✨️Stuntmanv2.1 / Parte 2
+#### ✨️ Stuntmanv2.1 / Parte 2
 
 -1  move_player()
 
@@ -939,7 +939,7 @@ Dibujar cajas.
 
 -9  TIC()
 
-#### ✨️Stuntmanv3.4 / Parte 3
+#### ✨️ Stuntmanv3.4 / Parte 3
 
 -1  move_player()
 
@@ -971,7 +971,7 @@ Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 -12  TIC()
 
-#### ✨️Stuntmanv4.3 / Parte 4
+#### ✨️ Stuntmanv4.3 / Parte 4
 
 -1  move_car()
 
@@ -1010,7 +1010,7 @@ Actualizar balas.
 
 -14  TIC()
 
-#### ✨️Stuntmanv5.1 / Parte 5
+#### ✨️ Stuntmanv5.1 / Parte 5
 
 -1  move_car()
 
@@ -1037,7 +1037,7 @@ Manejar el salto.
 
 -9  TIC()
 
-#### ✨️Stuntmanv6.2 / Parte 6
+#### ✨️ Stuntmanv6.2 / Parte 6
 
 -1  move_car()
 
@@ -1068,7 +1068,7 @@ Comprobar colisión con los coches.
 
 -11  TIC()
 
-#### ✨️Stuntmanv7.3 / Parte 7
+#### ✨️ Stuntmanv7.3 / Parte 7
 
 -1  move_car()
 
@@ -1090,7 +1090,7 @@ Dibujar el rango de persecución alrededor del coche objetivo.
 
 -7  TIC()
 
-#### ✨️Stuntmanv8.2 / Parte 8
+#### ✨️ Stuntmanv8.2 / Parte 8
 
 -1  spawn_particles()
 
@@ -1130,7 +1130,7 @@ Dibujar el círculo verde de aterrizaje (fijo).
 
 -15  TIC()
 
-#### ✨️Stuntmanv9.5 / Parte 9
+#### ✨️ Stuntmanv9.5 / Parte 9
 
 -1  move_car()
 
@@ -1172,7 +1172,7 @@ Dibujar el tren y los vagones.
 
 -16  TIC()
 
-#### ✨️Stuntmanv10.9 / Parte 10
+#### ✨️ Stuntmanv10.9 / Parte 10
 
 -1  move_car()
 
