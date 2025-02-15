@@ -987,19 +987,19 @@ Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 ##### 🔑-7  draw_box()
 
-.
+Dibujar la caja.
 
 ##### 🔑-8  draw_bullets()
 
-.
+Dibujar las balas.
 
 ##### 🔑-9  shoot_bullet()
 
-.
+Disparar balas.
 
 ##### 🔑-10  update_bullets()
 
-.
+Actualizar balas.
 
 -11  draw_nitro_effect()
 
@@ -1023,15 +1023,15 @@ Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 ##### 🔑-5  draw_ramp()
 
-.
+Dibujar la rampa.
 
 ##### 🔑-6  check_ramp_collision()
 
-.
+Comprobar colisión con la rampa.
 
 ##### 🔑-7  handle_jump()
 
-.
+Manejar el salto.
 
 -8  draw_nitro_effect()
 
@@ -1052,15 +1052,15 @@ Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 ##### 🔑-6  spawn_car()
 
-.
+Crear y dibujar los coches enemigos.
 
 ##### 🔑-7  draw_cars()
 
-.
+Dibujar los coches enemigos.
 
 ##### 🔑-8  check_car_collision()
 
-.
+Comprobar colisión con los coches.
 
 -9  handle_jump()
 
@@ -1078,15 +1078,15 @@ Comprobar si el coche ha pasado por el checkpoint (con un círculo).
 
 ##### 🔑-4  draw_target_car()
 
-.
+Dibujar el coche a perseguir.
 
 ##### 🔑-5  draw_target_car_lost()
 
-.
+Comprobar si el jugador ha perdido el rastro del coche.
 
 ##### 🔑-6  draw_follow_range()
 
-.
+Dibujar el rango de persecución alrededor del coche objetivo.
 
 -7  TIC()
 
