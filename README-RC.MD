@@ -7,6 +7,7 @@
 #### 🎃 Editor de Pista
 
 Se edita con el Mouse / Pantalla Tactil.Se pueden borrar los sprites dibujados de la pista.
+Tiene sprites de Asfalto y Cesped.
 
 #### 🎃 Coches a Control Remoto
 
