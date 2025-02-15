@@ -35,7 +35,57 @@ Distintos tipos de climas.
 ## 🎭 Variables / Atributos
 
 ```
+-- Parámetros generales
+raindrops = {}
 
+leaves = {}
+
+snowflakes = {}
+
+wind_lines = {}
+
+max_raindrops = 100
+
+num_leaves = 10
+
+max_snowflakes = 50
+
+num_wind_lines = 8
+
+wind_speed = 2 -- Velocidad del viento
+
+-- Parámetros de los relámpagos
+lightning_timer = 0
+
+lightning_flash_duration = 5
+
+lightning_active = false
+
+-- Estado de los efectos
+effects = {
+    earthquake = false,
+    rain = false,
+    leaves = false,
+    snow = false,
+    wind = false,
+    lightning = false
+}
+
+-- Parámetros de los efectos de terremoto
+earthquake_intensity = 0
+
+earthquake_timer = 0
+
+earthquake_duration = 30  -- Duración del terremoto en ciclos
+
+-- Variables del mapa
+map_width = 240
+
+map_height = 136
+
+map_offsetX = 0
+
+map_offsetY = 0
 ```
 
 ## 🎭 Funciones
