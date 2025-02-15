@@ -300,13 +300,20 @@ carta_seleccionada_en_seccion = 1
 
 -- Tabla de cartas por sección
 cartas_por_seccion = {
-    { "Vida", "Ansiedad", "Estres"   }, -- Vida
-    { "Pistola", "Escopeta", "Rifle", "Francotirador", "Lanzacohetes", "SMG", "Granada" }, -- Arma
-    { "Auto", "Moto", "Camión", "Helicóptero", "Barco", "Bicicleta", "Tanque" }, -- Vehículo
-    { "Poesia de la Calle", "La IA Avanza", "Solos y Solas", "Antimainstream", "Joyas de la Historia", "Pesimista", "Bajones","Lenguaje","Idioma","Jesus te Ama","Cuarta Pared","Terror","Poesia","Naturaleza","Sonidos Animalunos","Grieta","Todo Vardo","Gobierno","Desgracias Economicas","No me importa","Cine Ultra 8K","Destapando Curros" }, -- Radio
-    { "Hablar", "Abrir", "Cerrar", "Leer", "Usar", "Inspeccionar", "Escuchar" }, -- Interactuar
-    { "Ataque Coordinado", "Defensa" }, -- Táctica
-    { "Fuerza", "Velocidad", "Resistencia", "Agilidad", "Precisión", "Sigilo", "Inteligencia" } -- Parámetro
+    { "Vida", "Ansiedad", "Estres"   },
+ -- Vida
+    { "Pistola", "Escopeta", "Rifle", "Francotirador", "Lanzacohetes", "SMG", "Granada" }, 
+-- Arma
+    { "Auto", "Moto", "Camión", "Helicóptero", "Barco", "Bicicleta", "Tanque" }, 
+-- Vehículo
+    { "Poesia de la Calle", "La IA Avanza", "Solos y Solas", "Antimainstream", "Joyas de la Historia", "Pesimista", "Bajones","Lenguaje","Idioma","Jesus te Ama","Cuarta Pared","Terror","Poesia","Naturaleza","Sonidos Animalunos","Grieta","Todo Vardo","Gobierno","Desgracias Economicas","No me importa","Cine Ultra 8K","Destapando Curros" }, 
+-- Radio
+    { "Hablar", "Abrir", "Cerrar", "Leer", "Usar", "Inspeccionar", "Escuchar" }, 
+-- Interactuar
+    { "Ataque Coordinado", "Defensa" }, 
+-- Táctica
+    { "Fuerza", "Velocidad", "Resistencia", "Agilidad", "Precisión", "Sigilo", "Inteligencia" } 
+-- Parámetro
 }
 
 -- Tabla de sprites
