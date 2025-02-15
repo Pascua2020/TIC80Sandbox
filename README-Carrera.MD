@@ -4,49 +4,60 @@
 
 ## 🎭 Elementos
 
-#### ▶️-Modo Carrera / Libre
+#### ▶️ Modo Carrera / Libre
 
 ![gt01](./Imagenes/gt01.png)
 
-Carrera: Dar vueltas en un escenario.
+🚘 Carrera: Dar vueltas en un escenario.
 
 ![gt02](./Imagenes/gt02.png)
 
-Libre: Correr sin ningún objetivo.
+🚘 Libre: Correr sin ningún objetivo.
 
-#### ▶️-Pista
+#### ▶️ Pista
 
-Berna,Suiza
+🚘 Berna,Suiza
 
 ![gtb01](./Imagenes/gtb01.png)
 
-#### ▶️-Coches
+#### ▶️ Coches
 
---Tochota Fulero ( Japón )
+🚘 Tochota Fulero ( Japón )
 
 ![gtc01](./Imagenes/gtc01.png)
 
---ZhoZho EgoEgo ( China )
+🚘 ZhoZho EgoEgo ( China )
 
 ![gtc02](./Imagenes/gtc02.png)
 
---Color
+▶️ Color
 
 2 colores por cada coche.
 
+🚘 Color A.
 ![gtf1](./Imagenes/gtf1.png)
+
+🚘 Color B.
 ![gtf2](./Imagenes/gtf2.png)
 
-#### ▶️-Direccion
+#### ▶️ Dirección
 
-Normal o Inversa.
+🚘Normal.
 
 ![gte01](./Imagenes/gte1.png)
+
+🚘Inversa.
+
 ![gte02](./Imagenes/gte2.png)
 
-#### ▶️-Con / Sin Lluvia
+#### ▶️ Con / Sin Lluvia
+
+🚘 Con lluvia.
 
 ![gtd01](./Imagenes/gtd1.png)
+
+🚘 Sin lluvia.
+
 ![gtd02](./Imagenes/gtd2.png)
 
 ## ✨️Variables / Atributos
