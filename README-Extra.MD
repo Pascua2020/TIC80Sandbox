@@ -60,3 +60,41 @@
 ### Funciones
 
 .
+
+## Menú de Pausa
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Lector de Diarios
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Skate
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
