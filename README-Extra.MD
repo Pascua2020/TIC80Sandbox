@@ -136,3 +136,41 @@
 ### Funciones
 
 .
+
+## Teclado 1
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Teclado 2
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Terremoto
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
