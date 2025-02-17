@@ -406,7 +406,39 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Variables de desplazamiento
+scroll = 0
+scroll_max = 480 -- Máximo desplazamiento ajustado para el contenido visible
 
+-- Función para dividir texto en líneas según palabras
+function dividir_texto_por_palabras(texto, max_caracteres)
+    local palabras = {}
+    for palabra in texto:gmatch("%S+") do
+        table.insert(palabras, palabra)
+    end
+
+    local lineas = {}
+    local linea_actual = ""
+
+    for _, palabra in ipairs(palabras) do
+        if #linea_actual + #palabra + 1 > max_caracteres then
+            table.insert(lineas, linea_actual)
+            linea_actual = palabra
+        else
+            if #linea_actual > 0 then
+                linea_actual = linea_actual .. " " .. palabra
+            else
+                linea_actual = palabra
+            end
+        end
+    end
+
+    if #linea_actual > 0 then
+        table.insert(lineas, linea_actual)
+    end
+
+    return lineas
+end
 ```
 
 ### 🎃 Funciones
