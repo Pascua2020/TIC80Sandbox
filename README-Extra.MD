@@ -18,7 +18,7 @@
 
 #### 🔑-3  TIC().
 
-.
+Bucle principal.
 
 ## ⭐️ Créditos
 
@@ -40,7 +40,7 @@
 
 #### 🔑-3  TIC().
 
-.
+Bucle principal.
 
 
 ## ⭐️ Nafta
@@ -55,7 +55,7 @@
 
 #### 🔑-1 TIC().
 
-.
+Bucle principal.
 
 
 ## ⭐️ Moneda
@@ -122,7 +122,7 @@
 
 #### 🔑-14 TIC().
 
-.
+Bucle principal.
 
 
 ## ⭐️ Parada
@@ -189,7 +189,7 @@
 
 #### 🔑-14  TIC().
 
-.
+Bucle principal.
 
 ## ⭐️ Menú de Pausa
 
@@ -219,7 +219,7 @@
 
 #### 🔑-5  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Lector de Diarios
@@ -246,7 +246,7 @@
 
 #### 🔑-4  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Skate
@@ -261,7 +261,7 @@
 
 #### 🔑-1 TIC()
 
-.
+Bucle principal.
 
 ### ⭐️ Jetpack
 
@@ -287,7 +287,7 @@
 
 #### 🔑-4  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Telescopio
@@ -330,7 +330,7 @@
 
 #### 🔑-8  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Mensajes Moviles
@@ -353,7 +353,7 @@
 
 #### 🔑-3  TIC()
 
-.
+Bucle principal.
 
 ## ⭐️ Teclado 1
 
@@ -387,7 +387,7 @@
 
 #### 🔑-6  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Teclado 2
@@ -414,7 +414,7 @@
 
 #### 🔑-4  TIC()
 
-.
+Bucle principal.
 
 
 ## ⭐️ Terremoto
@@ -434,4 +434,4 @@
 
 #### 🔑-2  TIC()
 
-.
+Bucle principal.
