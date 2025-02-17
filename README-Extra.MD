@@ -88,6 +88,8 @@ Bucle principal.
 
 ## ⭐️ Nafta
 
+![gifnafta](./Imagenes/nafta.gif
+
 ### ✨️ Variables / Atributos
 
 ```
