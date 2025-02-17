@@ -38,7 +38,7 @@ Bucle principal.
 
 ## ⭐️ Créditos
 
-![gifcreditos](./Imagenes/creditos.gif
+![gifcreditos](./Imagenes/creditos.gif)
 
 ### ✨️ Variables / Atributos
 
