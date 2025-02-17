@@ -446,55 +446,55 @@ colectivo = {
 
 #### 🔑-1  dibujar_personaje()
 
-.
+Función para dibujar el personaje.
 
 #### 🔑-2  dibujar_tarjeta_suba()
 
-.
+Función para dibujar la tarjeta SUBA.
 
 #### 🔑-3  mover_personaje()
 
-.
+Función para mover el personaje.
 
 #### 🔑-4  detectar_colision_tarjeta_suba()
 
-.
+Función para detectar colisión con la tarjeta SUBA.
 
 #### 🔑-5  mostrar_mensaje_suba()
 
-.
+Función para mostrar los mensajes al recoger la tarjeta SUBA.
 
 #### 🔑-6  cargar_suba()
 
-.
+Función para cargar Peluca$ a la tarjeta SUBA.
 
 #### 🔑-7  mostrar_saldos()
 
-.
+Función para mostrar el saldo del jugador y la tarjeta SUBA.
 
 #### 🔑-8  mostrar_frase_carga()
 
-.
+Función para mostrar la frase al cargar la SUBA.
 
 #### 🔑-9  dibujar_parada()
 
-.
+Función para dibujar la parada.
 
 #### 🔑-10  interactuar_con_parada()
 
-.
+Función para interactuar con la parada de colectivo.
 
 #### 🔑-11  mover_colectivo()
 
-.
+Función para mover el colectivo.
 
 #### 🔑-12  mostrar_texto_parada()
 
-.
+Función para mostrar el texto en la parada.
 
 #### 🔑-13  mostrar_texto_colectivo()
 
-.
+Función para mostrar el texto del chofer del colectivo.
 
 #### 🔑-14  TIC().
 
