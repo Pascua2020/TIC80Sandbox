@@ -508,6 +508,8 @@ Bucle principal.
 
 ## ⭐️ Telescopio
 
+![giftelescopio](./Imagenes/telescopio.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -551,6 +553,8 @@ Bucle principal.
 
 ## ⭐️ Mensajes Moviles
 
+![gifsms](./Imagenes/gifsms.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -583,6 +587,8 @@ mensaje = "Miau miau miau ('Dame de comer, gil')"
 Bucle principal.
 
 ## ⭐️ Teclado 1
+
+![gifteclado](./Imagenes/teclado.gif)
 
 ### ✨️ Variables / Atributos
 
@@ -638,6 +644,8 @@ Bucle principal.
 
 ## ⭐️ Teclado 2
 
+![giftecladonum](./Imagenes/tecladonum.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -678,6 +686,8 @@ Bucle principal.
 
 
 ## ⭐️ Terremoto
+
+![gifterremoto](./Imagenes/terremoto.gif)
 
 ### ✨️ Variables / Atributos
 
