@@ -1,5 +1,7 @@
 ## ⭐️ Inicio
 
+![gifinicio](./Imagenes/inicio.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -35,6 +37,8 @@ end
 Bucle principal.
 
 ## ⭐️ Créditos
+
+![gifcreditos](./Imagenes/creditos.gif
 
 ### ✨️ Variables / Atributos
 
@@ -344,6 +348,9 @@ Bucle principal.
 
 ## ⭐️ Menú de Pausa
 
+![gifpausa](./Imagenes/pausa.gif)
+
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -487,6 +494,8 @@ local sparks = {}  -- Lista para almacenar las posiciones de las chispas
 Bucle principal.
 
 ### ⭐️ Jetpack
+
+![gifjetpack](./Imagenes/gifjetpack.gif
 
 ### ✨️ Variables / Atributos
 
