@@ -115,6 +115,8 @@ Bucle principal.
 
 ## ⭐️ Moneda
 
+![gifmoneda](./Imagenes/moneda.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -238,6 +240,8 @@ Bucle principal.
 
 
 ## ⭐️ Parada
+
+![gifsuba](./Imagenes/suba.gif)
 
 ### ✨️ Variables / Atributos
 
@@ -403,6 +407,8 @@ Bucle principal.
 
 ## ⭐️ Lector de Diarios
 
+![gifdiario](./Imagenes/gifdiario.gif)
+
 ### ✨️ Variables / Atributos
 
 ```
@@ -461,6 +467,8 @@ Bucle principal.
 
 
 ## ⭐️ Skate
+
+![gifskate](./Imagenes/skate.gif)
 
 ### ✨️ Variables / Atributos
 
