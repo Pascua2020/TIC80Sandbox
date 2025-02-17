@@ -485,9 +485,6 @@ Bucle principal.
 ```
 -- Configuración inicial
 p = {x=120, y=68, spd=2, sparks={}}
-function add_spark(x, y, dx, dy, col)
-    table.insert(p.sparks, {x=x, y=y, dx=dx, dy=dy, life=30, col=col})
-end
 ```
 
 ### 🎃 Funciones
