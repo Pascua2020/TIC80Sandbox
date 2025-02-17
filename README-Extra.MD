@@ -22,9 +22,12 @@ mensajes = {
 }
 
 -- Generar estrellas en posiciones aleatorias
+4
 estrellas = {}
 for i = 1, 50 do
-    table.insert(estrellas, {x = math.random(0, 239), y = math.random(0, 135)})
+    table.insert(estrellas, 
+{x = math.random(0, 239), 
+y = math.random(0, 135)})
 end
 ```
 
@@ -50,11 +53,15 @@ Bucle principal.
 
 ```
 -- Variables
+1
 t = 0
+
+2
 y = 136  
 -- Posición inicial de los créditos (fuera de la pantalla)
 
 -- Texto de los créditos
+3
 creditos = {
 			 "CREDITOS",
 				"",
@@ -72,9 +79,16 @@ creditos = {
 }
 
 -- Generar estrellas en posiciones aleatorias
+
+4
 estrellas = {}
+
+5
 for i = 1, 50 do
-    table.insert(estrellas, {x = math.random(0, 239), y = math.random(0, 135)})
+    table.insert
+(estrellas, 
+{x = math.random(0, 239), 
+y = math.random(0, 135)})
 end
 ```
 
@@ -101,42 +115,56 @@ Bucle principal.
 
 ```
 -- Configuración inicial
+1
 local car_x = 120  
 -- Posición inicial en X
 
+2
 local car_y = 68   
 -- Posición inicial en Y
 
+3
 local fuel = 50    
 -- Nafta inicial (cantidad total)
 
+4
 local max_fuel = 100 
 -- Capacidad máxima del tanque
 
+5
 local fuel_consumption = max_fuel / 300 
 -- Nafta consumida por frame
 
+6
 local speed = 1.5  
 -- Velocidad del coche en píxeles por frame
 
+7
 local money = 200  
 -- Dinero inicial en peluca$
 
+8
 local car_sprite = 0 
 -- ID del sprite del coche
 
+9
 local running = true 
 -- Indica si el coche está funcionando
 
 -- Estación de servicio
+10
 local station_x = 50
 
+11
 local station_y = 50
 
+12
 local station_width = 30
 
+13
 local station_height = 30
 
+14
 local refill_cost = 100 
 -- Costo de recargar el tanque
 ```
