@@ -3,7 +3,21 @@
 ### ✨️ Variables / Atributos
 
 ```
+-- Variables
+t = 0
+indice_mensaje = 1
+mensajes = {
+"Alta Facha Games",
+"Todos los derechos reservados 2025",
+"by Pascua",
+"Proyecto 2025"
+}
 
+-- Generar estrellas en posiciones aleatorias
+estrellas = {}
+for i = 1, 50 do
+    table.insert(estrellas, {x = math.random(0, 239), y = math.random(0, 135)})
+end
 ```
 
 ### 🎃 Funciones
