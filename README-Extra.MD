@@ -210,7 +210,11 @@
 
 ### 🎃 Funciones
 
-.
+-1  split_lines(text,max_width)
+
+-2  print_rainbow(text,x,y)
+
+-3  TIC().
 
 ## ⭐️ Teclado 1
 
