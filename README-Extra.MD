@@ -131,6 +131,15 @@
 
 ### 🎃 Funciones
 
+-1  dibujar_texto_arcoiris(texto,x,y,color_seleccionado)
+
+-2  dibujar_estrellas()
+
+-3  dibujar_minimapa()
+
+-4  dibujar_menu()
+
+-5  TIC()
 .
 
 
