@@ -6,8 +6,14 @@
 
 ```
 -- Variables
+
+1
 t = 0
+
+2
 indice_mensaje = 1
+
+3
 mensajes = {
 "Alta Facha Games",
 "Todos los derechos reservados 2025",
