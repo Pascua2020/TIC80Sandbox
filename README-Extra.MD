@@ -783,23 +783,31 @@ Bucle principal.
 
 ```
 -- Configuración de variables
+
 local correct_password = "1234"  
 -- La contraseña correcta
+
 local input_password = ""        
 -- La contraseña ingresada por el usuario
+
 local message = ""               
 -- Mensaje a mostrar
+
 local selected_key = 1           
 -- Tecla seleccionada (índice del teclado)
+
 local keys = {
     "1", "2", "3",
     "4", "5", "6",
     "7", "8", "9",
     "0", "Borrar", "Enter"
-}  -- Teclas disponibles
+}  
+-- Teclas disponibles
 
 -- Colores del arcoíris
+
 local rainbow_colors = {8, 12, 11, 10, 9, 7, 6}
+
 local color_offset = 0  
 -- Offset para animar el arcoíris
 ```
@@ -831,15 +839,22 @@ Bucle principal.
 
 ```
 t = 0
+
 x = 5
-y = 80  -- Posición más cercana al límite inferior de la pantalla
+
+y = 80  
+-- Posición más cercana al límite inferior de la pantalla
 
 -- Variables de desplazamiento
+
 indice_frase = 1
+
 temblor_intensidad = 5 
 -- Aumenté la intensidad del temblor
+
 temblor_duracion = 30 
 -- Duración del temblor en cuadros
+
 temblor_tiempo = 0 
 -- Contador de tiempo para duración del temblor
 ```
