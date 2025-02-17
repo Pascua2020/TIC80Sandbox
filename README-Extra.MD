@@ -1,176 +1,176 @@
 ## ⭐️ Inicio
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 ## ⭐️ Créditos
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Nafta
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Moneda
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Parada
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 ## ⭐️ Menú de Pausa
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Lector de Diarios
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Skate
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 ### ⭐️ Jetpack
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Telescopio
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Mensajes Moviles
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 ## ⭐️ Teclado 1
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Teclado 2
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
 
 
 ## ⭐️ Terremoto
 
-### ✨️Variables / Atributos
+### ✨️ Variables / Atributos
 
 ```
 
 ```
 
-### 🎃Funciones
+### 🎃 Funciones
 
 .
