@@ -184,49 +184,69 @@ Bucle principal.
 
 ```
 -- Variables
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 balanza = nil  
 -- La balanza estará inicialmente inactiva
 
+5
 velocidad = 1  
 -- Velocidad del personaje
 
+6
 direccion_balanza = 0  
--- Dirección de la balanza (0 = no disparada, 1 = disparada hacia la derecha, -1 = disparada hacia la izquierda)
+-- Dirección de la balanza 
+(0 = no disparada, 
+1 = disparada hacia la derecha, 
+-1 = disparada hacia la izquierda)
 
+7
 pos_balanza_x = 0  
 -- Posición X de la balanza
 
+8
 pos_balanza_y = 64  
 -- Posición Y de la balanza
 
+9
 -- Contador de balas
 numero_balas = 20  
 -- Número inicial de balas
 
+10
 disparando = false  
 -- Estado de disparo
 
+11
 tiempo_frase = 0  
 -- Temporador para la frase
 
+12
 frase_actual = ""  
 -- Frase que se mostrará
 
+13
 tiempo_frase_mostrar = 0  
 -- Tiempo en que se mostró la última frase
 
 -- Frases aleatorias
-frases = {"yupi", "ya tengo crédito para la SUBA"}
+14
+frases = 
+{"yupi", 
+"ya tengo crédito para la SUBA"}
 
 -- Posición de los coches
+15
 coches = {
     {x = 120, y = 64, colisionado = false},  
 -- Primer coche
@@ -236,31 +256,39 @@ coches = {
 -- Coche abajo
 }
 
+16
 coche_explosion = false  
 -- Estado de la explosión
 
+17
 explosion_tiempo = 0  
 -- Temporizador para la animación de explosión
 
+18
 explosion_puntos = {}  
 -- Lista de puntos para la explosión
 
 -- Variables para el poder del jugador
 
+19
 poder_jugador = 0  
 -- Poder que se mostrará al colisionar
 
+20
 poder_tiempo = 0  
 -- Tiempo en que se generó el poder
 
+21
 mostrar_poder = false  
 -- Indica si el poder debe mostrarse
 
 -- Nueva variable para contar monedas
+22
 monedas = 0  
 -- Contador de monedas
 
 -- Posición de las monedas normales
+23
 monedas_pos = {
     {x = 100, y = 50, recogida = false},
     {x = 150, y = 100, recogida = false},
@@ -268,6 +296,7 @@ monedas_pos = {
 }
 
 -- Posición de las monedas especiales
+24
 monedas_especiales_pos = {
     {x = 120, y = 80, recogida = false},
     {x = 180, y = 140, recogida = false},
@@ -278,6 +307,7 @@ monedas_especiales_pos = {
 }
 
 -- Estado de compra
+25
 comprando_chori = false  
 -- Si está en proceso de comprar un chori
 ```
