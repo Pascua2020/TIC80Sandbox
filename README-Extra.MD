@@ -320,56 +320,55 @@ Función para dibujar el personaje.
 
 #### 🔑-2  dibujar_coches()
 
-.
+Función para dibujar los coches.
 
 #### 🔑-3  dibujar_balanza()
 
-.
+Función para dibujar la balanza.
 
 #### 🔑-4  dibujar_monedas()
 
-.
+Función para dibujar las monedas normales.
 
 #### 🔑-5  dibujar_monedas_especiales()
 
-.
+Función para dibujar las monedas especiales.
 
 #### 🔑-6  mover_personaje()
 
-.
+Función para mover el personaje.
 
 #### 🔑-7  detectar_colision_monedas()
 
-.
+Función para detectar colisiones con las monedas normales.
 
 #### 🔑-8  detectar_colision_monedas_especiales()
 
-.
+Función para detectar colisiones con las monedas especiales.
 
 #### 🔑-9  mostrar_monedas()
 
-.
+Función para mostrar la cantidad de monedas.
 
 #### 🔑-10  mostrar_frase()
 
-.
+Función para mostrar la frase en la pantalla.
 
 #### 🔑-11  mostrar_opcion_comprar_chori()
 
-.
+Función para mostrar la opción de comprar un chori.
 
 #### 🔑-12  comprar_chori()
 
-.
+Función para comprar un chori.
 
 #### 🔑-13  mostrar_texto_abajo()
 
-.
+Función para mostrar el texto en la parte inferior.
 
 #### 🔑-14 TIC().
 
 Bucle principal.
-
 
 ## ⭐️ Parada
 
