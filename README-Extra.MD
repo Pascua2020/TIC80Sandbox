@@ -39,7 +39,32 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Variables
+t = 0
+y = 136  -- Posición inicial de los créditos (fuera de la pantalla)
 
+-- Texto de los créditos
+creditos = {
+			 "CREDITOS",
+				"",
+    "Director de Ética de IA: Pascua",
+    "",
+    "Generador de Contenido: ChatGPT",
+    "",
+    "Diseñador de Sprites: Pascua",
+    "",
+    "Director Ejecutivo de Código: ChatGPT",
+    "",
+    "Agradecimientos Especiales:",
+    "",
+    "- Chistes Random: Un tipo de internet",
+}
+
+-- Generar estrellas en posiciones aleatorias
+estrellas = {}
+for i = 1, 50 do
+    table.insert(estrellas, {x = math.random(0, 239), y = math.random(0, 135)})
+end
 ```
 
 ### 🎃 Funciones
@@ -62,7 +87,23 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Configuración inicial
+local car_x = 120  -- Posición inicial en X
+local car_y = 68   -- Posición inicial en Y
+local fuel = 50    -- Nafta inicial (cantidad total)
+local max_fuel = 100 -- Capacidad máxima del tanque
+local fuel_consumption = max_fuel / 300 -- Nafta consumida por frame
+local speed = 1.5  -- Velocidad del coche en píxeles por frame
+local money = 200  -- Dinero inicial en peluca$
+local car_sprite = 0 -- ID del sprite del coche
+local running = true -- Indica si el coche está funcionando
 
+-- Estación de servicio
+local station_x = 50
+local station_y = 50
+local station_width = 30
+local station_height = 30
+local refill_cost = 100 -- Costo de recargar el tanque
 ```
 
 ### 🎃 Funciones
