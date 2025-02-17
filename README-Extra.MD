@@ -41,7 +41,7 @@
 
 ### 🎃 Funciones
 
-.
+-1 TIC().
 
 
 ## ⭐️ Moneda
