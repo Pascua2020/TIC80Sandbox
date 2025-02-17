@@ -302,19 +302,34 @@
 
 -1  init()
 
+.
+
 -2  draw_star(x,y,color)
+
+.
 
 -3  draw_visible_stars()
 
+.
+
 -4  draw_visible_shooting_star()
+
+.
 
 -5  update_shooting_star()
 
+.
+
 -6  update_telescope()
+
+.
 
 -7  draw_telescope()
 
+.
+
 -8  TIC()
+
 .
 
 
@@ -330,9 +345,15 @@
 
 -1  split_lines(text,max_width)
 
+.
+
 -2  print_rainbow(text,x,y)
 
--3  TIC().
+.
+
+-3  TIC()
+
+.
 
 ## ⭐️ Teclado 1
 
@@ -346,15 +367,26 @@
 
 -1  dibujar_teclado()
 
+.
+
 -2  mover_cursor()
+
+.
 
 -3  selecionar_tecla()
 
+.
+
 -4  dibujar_texto()
+
+.
 
 -5  dibujar_pantalla_correcta()
 
+.
+
 -6  TIC()
+
 .
 
 
@@ -370,11 +402,19 @@
 
 -1  draw_keyboard()
 
+.
+
 -2  handle_input()
+
+.
 
 -3  print_rainbow(text,x,y)
 
--4  TIC().
+.
+
+-4  TIC()
+
+.
 
 
 ## ⭐️ Terremoto
@@ -390,4 +430,8 @@
 
 -1  aplicar_temblor()
 
--2  TIC().
+.
+
+-2  TIC()
+
+.
