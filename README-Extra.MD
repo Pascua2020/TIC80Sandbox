@@ -98,3 +98,41 @@
 ### Funciones
 
 .
+
+### Jetpack
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Telescopio
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## Mensajes Moviles
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
