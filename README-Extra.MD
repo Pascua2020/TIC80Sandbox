@@ -587,7 +587,26 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+- Variables para el teclado
+teclado = {
+    {"Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"},
+    {"A", "S", "D", "F", "G", "H", "J", "K", "L"},
+    {"Z", "X", "C", "V", "B", "N", "M"},
+    {"Enter", "Borrar"}
+}
+cursor_x = 1
+cursor_y = 1
+texto_escrito = ""
+clave_correcta = "inglish"
+pantalla_correcta = false
 
+-- Tamaño de las teclas y posiciones iniciales
+TECLA_ANCHO = 20
+TECLA_ALTO = 10
+ESPACIO_X = 5
+ESPACIO_Y = 5
+POS_X_INICIAL = 0
+POS_Y_INICIAL = 40
 ```
 
 ### 🎃 Funciones
@@ -622,7 +641,21 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Configuración de variables
+local correct_password = "1234"  -- La contraseña correcta
+local input_password = ""        -- La contraseña ingresada por el usuario
+local message = ""               -- Mensaje a mostrar
+local selected_key = 1           -- Tecla seleccionada (índice del teclado)
+local keys = {
+    "1", "2", "3",
+    "4", "5", "6",
+    "7", "8", "9",
+    "0", "Borrar", "Enter"
+}  -- Teclas disponibles
 
+-- Colores del arcoíris
+local rainbow_colors = {8, 12, 11, 10, 9, 7, 6}
+local color_offset = 0  -- Offset para animar el arcoíris
 ```
 
 ### 🎃 Funciones
