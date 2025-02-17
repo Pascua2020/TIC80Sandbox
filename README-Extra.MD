@@ -464,7 +464,8 @@ Bucle principal.
 ```
 -- Variables de desplazamiento
 scroll = 0
-scroll_max = 480 -- Máximo desplazamiento ajustado para el contenido visible
+scroll_max = 480 
+-- Máximo desplazamiento ajustado para el contenido visible
 
 -- Función para dividir texto en líneas según palabras
 function dividir_texto_por_palabras(texto, max_caracteres)
@@ -525,9 +526,12 @@ Bucle principal.
 ```
 -- Posición inicial del skate
 local x, y = 120, 68
-local mounted_right_to_left = false  -- Estado para saber si el skate se está montando de derecha a izquierda
-local mounted_left_to_right = false  -- Estado para saber si el skate se está montando de izquierda a derecha
-local sparks = {}  -- Lista para almacenar las posiciones de las chispas
+local mounted_right_to_left = false  
+-- Estado para saber si el skate se está montando de derecha a izquierda
+local mounted_left_to_right = false  
+-- Estado para saber si el skate se está montando de izquierda a derecha
+local sparks = {}  
+-- Lista para almacenar las posiciones de las chispas
 ```
 
 ### 🎃 Funciones
@@ -623,9 +627,12 @@ mostrar_mensaje = false
 tiempo_mensaje = 0
 
 -- Animación del ícono de WhatsApp
-whatsapp_icons = {16, 32, 48}  -- Ids de los íconos para la animación
-icono_gato = 96                -- Id del ícono del gato
-frame_actual = 1               -- Frame de animación actual
+whatsapp_icons = {16, 32, 48}  
+-- Ids de los íconos para la animación
+icono_gato = 96                
+-- Id del ícono del gato
+frame_actual = 1               
+-- Frame de animación actual
 
 -- Datos del mensaje
 remitente = "Gatito"
@@ -710,10 +717,14 @@ Bucle principal.
 
 ```
 -- Configuración de variables
-local correct_password = "1234"  -- La contraseña correcta
-local input_password = ""        -- La contraseña ingresada por el usuario
-local message = ""               -- Mensaje a mostrar
-local selected_key = 1           -- Tecla seleccionada (índice del teclado)
+local correct_password = "1234"  
+-- La contraseña correcta
+local input_password = ""        
+-- La contraseña ingresada por el usuario
+local message = ""               
+-- Mensaje a mostrar
+local selected_key = 1           
+-- Tecla seleccionada (índice del teclado)
 local keys = {
     "1", "2", "3",
     "4", "5", "6",
@@ -723,7 +734,8 @@ local keys = {
 
 -- Colores del arcoíris
 local rainbow_colors = {8, 12, 11, 10, 9, 7, 6}
-local color_offset = 0  -- Offset para animar el arcoíris
+local color_offset = 0  
+-- Offset para animar el arcoíris
 ```
 
 ### 🎃 Funciones
@@ -758,9 +770,12 @@ y = 80  -- Posición más cercana al límite inferior de la pantalla
 
 -- Variables de desplazamiento
 indice_frase = 1
-temblor_intensidad = 5 -- Aumenté la intensidad del temblor
-temblor_duracion = 30 -- Duración del temblor en cuadros
-temblor_tiempo = 0 -- Contador de tiempo para duración del temblor
+temblor_intensidad = 5 
+-- Aumenté la intensidad del temblor
+temblor_duracion = 30 
+-- Duración del temblor en cuadros
+temblor_tiempo = 0 
+-- Contador de tiempo para duración del temblor
 ```
 
 ### 🎃 Funciones
