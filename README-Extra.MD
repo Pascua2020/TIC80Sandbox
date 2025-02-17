@@ -563,19 +563,19 @@ end
 
 #### 🔑-1  dibujar_texto_arcoiris(texto,x,y,color_seleccionado)
 
-.
+Función para dibujar texto con efecto arcoíris.
 
 #### 🔑-2  dibujar_estrellas()
 
-.
+Función para dibujar estrellas con efecto arcoíris.
 
 #### 🔑-3  dibujar_minimapa()
 
-.
+Función para dibujar el minimapa simulado.
 
 #### 🔑-4  dibujar_menu()
 
-.
+Función para dibujar el menú.
 
 #### 🔑-5  TIC()
 
@@ -603,15 +603,15 @@ scroll_max = 480
 
 #### 🔑-1  dividir_texto_por_palabras(texto,max_caracteres)
 
-.
+Función para dividir texto en líneas según palabras.
 
 #### 🔑-2  dibujar_diario()
 
-.
+Función para dibujar el diario.
 
 #### 🔑-3  actualizar_scroll()
 
-.
+Función para actualizar la posición del scroll.
 
 #### 🔑-4  TIC()
 
@@ -664,15 +664,15 @@ p = {x=120, y=68, spd=2, sparks={}}
 
 #### 🔑-1  add_spark(x,y,dx,dy,col)
 
-.
+Crea las particulas del jetpack.
 
 #### 🔑-2  update_sparks()
 
-.
+Actualiza las particulas.
 
 #### 🔑-3  draw_sparks()
 
-.
+Dibuja las particulas del jetpack en pantalla.
 
 #### 🔑-4  TIC()
 
@@ -693,31 +693,31 @@ Ninguna? ( en Init() )
 
 #### 🔑-1  init()
 
-.
+Inicializa valores ( estrellas,estrella fugaz y telescopio ).
 
 #### 🔑-2  draw_star(x,y,color)
 
-.
+Dibuja un punto grande que parece estrella.
 
 #### 🔑-3  draw_visible_stars()
 
-.
+Dibuja las estrellas solo si están dentro del círculo de la mira.
 
 #### 🔑-4  draw_visible_shooting_star()
 
-.
+Dibuja la estrella fugaz solo si está dentro del círculo de la mira.
 
 #### 🔑-5  update_shooting_star()
 
-.
+Actualiza la posicion actual de la estrella fugaz.
 
 #### 🔑-6  update_telescope()
 
-.
+Controlar el movimiento de la mira con las teclas de dirección.
 
 #### 🔑-7  draw_telescope()
 
-.
+Oscurece toda la pantalla y muestra el circulo de la mira.
 
 #### 🔑-8  TIC()
 
