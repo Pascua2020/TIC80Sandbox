@@ -765,15 +765,11 @@ mensaje = "Miau miau miau ('Dame de comer, gil')"
 
 ### 🎃 Funciones
 
-#### 🔑-1  split_lines(text,max_width)
+#### 🔑-1  dibujar_texto_con_contorno(texto, x, y, color_texto, color_contorno)
 
-.
+Función para mostrar texto con contorno.
 
-#### 🔑-2  print_rainbow(text,x,y)
-
-.
-
-#### 🔑-3  TIC()
+#### 🔑-2  TIC()
 
 Bucle principal.
 
@@ -834,23 +830,23 @@ POS_Y_INICIAL = 40
 
 #### 🔑-1  dibujar_teclado()
 
-.
+Función para dibujar el teclado virtual.
 
 #### 🔑-2  mover_cursor()
 
-.
+Función para manejar la entrada del usuario.
 
 #### 🔑-3  selecionar_tecla()
 
-.
+Función para seleccionar una tecla.
 
 #### 🔑-4  dibujar_texto()
 
-.
+Dibujar texto en la parte superior.
 
 #### 🔑-5  dibujar_pantalla_correcta()
 
-.
+Pantalla de clave correcta.
 
 #### 🔑-6  TIC()
 
