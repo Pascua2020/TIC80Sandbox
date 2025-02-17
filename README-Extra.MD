@@ -650,7 +650,7 @@ Bucle principal.
 
 ### ⭐️ Jetpack
 
-![gifjetpack](./Imagenes/gifjetpack.gif
+![gifjetpack](./Imagenes/gifjetpack.gif)
 
 ### ✨️ Variables / Atributos
 
