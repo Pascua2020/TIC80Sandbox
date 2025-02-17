@@ -166,7 +166,7 @@
 
 ### 🎃 Funciones
 
-.
+-1 TIC().
 
 ### ⭐️ Jetpack
 
