@@ -242,6 +242,41 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Variables
+t = 0
+x_personaje = 64  -- Posición inicial del personaje (horizontal)
+y_personaje = 64  -- Posición inicial del personaje (vertical)
+velocidad = 1  -- Velocidad del personaje
+
+-- Posición de la tarjeta SUBA
+tarjeta_suba = {x = 100, y = 50, recogida = false}
+
+-- Mensajes al recoger la tarjeta SUBA
+mensaje_suba = ""
+tiempo_mensaje = 0  -- Temporizador para mostrar mensajes
+
+-- Cantidad de Peluca$ que posee el jugador
+peluca_saldo = 8000
+
+-- Crédito inicial de la tarjeta SUBA
+suba_credito = 0
+
+-- Frases al cargar la SUBA
+frases_carga = {
+    "Ahora me puedo ir de joda",
+    "Justo en la billetera",
+    "Espero no llegar al saldo negativo",
+    "Qué caro che"
+}
+frase_carga_actual = ""
+tiempo_frase_carga = 0  -- Temporizador para mostrar la frase de carga
+
+-- Variables para el colectivo
+colectivo = {
+    x = 104,  -- Posición inicial del colectivo (en el mapa)
+    y = 32,   -- Posición vertical
+    moviendo = false  -- Estado del colectivo (si está en movimiento)
+}
 
 ```
 
@@ -308,6 +343,38 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+-- Variables
+t = 0
+y = 136  -- Posición inicial de los créditos
+seleccion = 1  -- Índice de la opción seleccionada
+
+-- Opciones del menú
+opciones_menu = {
+    "Misiones",
+    "Objetos",
+    "Armas",
+    "Vehiculos",
+    "Estadísticas",
+    "Enciclopedia",
+    "DiosGPT"
+}
+
+-- Descripciones de cada opción
+descripciones_menu = {
+    "Explora diferentes misiones",
+    "Accede a tus objetos",
+    "Consulta tus armas disponibles",
+    "Gestiona tus vehículos",
+    "Revisa tus estadísticas",
+    "Consulta la enciclopedia",
+    "Accede a DiosGPT"
+}
+
+-- Generar estrellas en posiciones aleatorias
+estrellas = {}
+for i = 1, 50 do
+    table.insert(estrellas, {x = math.random(0, 239), y = math.random(0, 135)})
+end
 
 ```
 
