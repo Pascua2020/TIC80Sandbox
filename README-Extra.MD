@@ -153,7 +153,13 @@
 
 ### 🎃 Funciones
 
-.
+-1  dividir_texto_por_palabras(texto,max_caracteres)
+
+-2  dibujar_diario()
+
+-3  actualizar_scroll()
+
+-4  TIC().
 
 
 ## ⭐️ Skate
@@ -178,7 +184,13 @@
 
 ### 🎃 Funciones
 
-.
+-1  add_spark(x,y,dx,dy,col)
+
+-2  update_sparks()
+
+-3  draw_sparks()
+
+-4  TIC().
 
 
 ## ⭐️ Telescopio
@@ -278,4 +290,7 @@
 
 ### 🎃 Funciones
 
-.
+
+-1  aplicar_temblor()
+
+-2  TIC().
