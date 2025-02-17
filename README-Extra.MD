@@ -900,15 +900,15 @@ local color_offset = 0
 
 #### 🔑-1  draw_keyboard()
 
-.
+Función para mostrar el teclado numérico.
 
 #### 🔑-2  handle_input()
 
-.
+Función para manejar la entrada del usuario.
 
 #### 🔑-3  print_rainbow(text,x,y)
 
-.
+Función para mostrar texto con colores arcoíris animados.
 
 #### 🔑-4  TIC()
 
@@ -955,7 +955,7 @@ temblor_tiempo = 0
 
 #### 🔑-1  aplicar_temblor()
 
-.
+Función para generar el temblor.
 
 #### 🔑-2  TIC()
 
