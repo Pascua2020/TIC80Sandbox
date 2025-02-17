@@ -379,33 +379,43 @@ Bucle principal.
 
 ```
 -- Variables
+1
 t = 0
 
+2
 x_personaje = 64  
 -- Posición inicial del personaje (horizontal)
 
+3
 y_personaje = 64  
 -- Posición inicial del personaje (vertical)
 
+4
 velocidad = 1  
 -- Velocidad del personaje
 
 -- Posición de la tarjeta SUBA
+5
 tarjeta_suba = {x = 100, y = 50, recogida = false}
 
 -- Mensajes al recoger la tarjeta SUBA
+6
 mensaje_suba = ""
 
+7
 tiempo_mensaje = 0  
 -- Temporizador para mostrar mensajes
 
 -- Cantidad de Peluca$ que posee el jugador
+8
 peluca_saldo = 8000
 
 -- Crédito inicial de la tarjeta SUBA
+9
 suba_credito = 0
 
 -- Frases al cargar la SUBA
+10
 frases_carga = {
     "Ahora me puedo ir de joda",
     "Justo en la billetera",
@@ -413,12 +423,15 @@ frases_carga = {
     "Qué caro che"
 }
 
+11
 frase_carga_actual = ""
 
+12
 tiempo_frase_carga = 0  
 -- Temporizador para mostrar la frase de carga
 
 -- Variables para el colectivo
+13
 colectivo = {
     x = 104,  
 -- Posición inicial del colectivo (en el mapa)
@@ -498,15 +511,19 @@ Bucle principal.
 ```
 -- Variables
 
+1
 t = 0
 
+2
 y = 136  
 -- Posición inicial de los créditos
 
+3
 seleccion = 1  
 -- Índice de la opción seleccionada
 
 -- Opciones del menú
+4
 opciones_menu = {
     "Misiones",
     "Objetos",
@@ -518,6 +535,7 @@ opciones_menu = {
 }
 
 -- Descripciones de cada opción
+5
 descripciones_menu = {
     "Explora diferentes misiones",
     "Accede a tus objetos",
@@ -530,8 +548,10 @@ descripciones_menu = {
 
 -- Generar estrellas en posiciones aleatorias
 
+6
 estrellas = {}
 
+7
 for i = 1, 50 do
     table.insert(estrellas, 
 {x = math.random(0, 239), 
@@ -571,42 +591,13 @@ Bucle principal.
 
 ```
 -- Variables de desplazamiento
-
+1
 scroll = 0
 
+2
 scroll_max = 480 
 -- Máximo desplazamiento ajustado para el contenido visible
 
--- Función para dividir texto en líneas según palabras
-
-function dividir_texto_por_palabras(texto, max_caracteres)
-    local palabras = {}
-    for palabra in texto:gmatch("%S+") do
-        table.insert(palabras, palabra)
-    end
-
-    local lineas = {}
-    local linea_actual = ""
-
-    for _, palabra in ipairs(palabras) do
-        if #linea_actual + #palabra + 1 > max_caracteres then
-            table.insert(lineas, linea_actual)
-            linea_actual = palabra
-        else
-            if #linea_actual > 0 then
-                linea_actual = linea_actual .. " " .. palabra
-            else
-                linea_actual = palabra
-            end
-        end
-    end
-
-    if #linea_actual > 0 then
-        table.insert(lineas, linea_actual)
-    end
-
-    return lineas
-end
 ```
 
 ### 🎃 Funciones
@@ -636,14 +627,18 @@ Bucle principal.
 
 ```
 -- Posición inicial del skate
+1
 local x, y = 120, 68
 
+2
 local mounted_right_to_left = false  
 -- Estado para saber si el skate se está montando de derecha a izquierda
 
+3
 local mounted_left_to_right = false  
 -- Estado para saber si el skate se está montando de izquierda a derecha
 
+4
 local sparks = {}  
 -- Lista para almacenar las posiciones de las chispas
 ```
@@ -662,6 +657,7 @@ Bucle principal.
 
 ```
 -- Configuración inicial
+1
 p = {x=120, y=68, spd=2, sparks={}}
 ```
 
@@ -736,25 +732,35 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+1
 t = 0
+
+2
 mostrar_mensaje = false
+
+3
 tiempo_mensaje = 0
 
 -- Animación del ícono de WhatsApp
 
+4
 whatsapp_icons = {16, 32, 48}  
 -- Ids de los íconos para la animación
 
+5
 icono_gato = 96                
 -- Id del ícono del gato
 
+6
 frame_actual = 1               
 -- Frame de animación actual
 
 -- Datos del mensaje
 
+7
 remitente = "Gatito"
 
+8
 mensaje = "Miau miau miau ('Dame de comer, gil')"
 ```
 
@@ -780,6 +786,8 @@ Bucle principal.
 
 ```
 - Variables para el teclado
+
+1
 teclado = {
     {"Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"},
     {"A", "S", "D", "F", "G", "H", "J", "K", "L"},
@@ -787,28 +795,39 @@ teclado = {
     {"Enter", "Borrar"}
 }
 
+2
 cursor_x = 1
 
+3
 cursor_y = 1
 
+4
 texto_escrito = ""
 
+5
 clave_correcta = "inglish"
 
+6
 pantalla_correcta = false
 
 -- Tamaño de las teclas y posiciones iniciales
 
+7
 TECLA_ANCHO = 20
 
+8
 TECLA_ALTO = 10
 
+9
 ESPACIO_X = 5
 
+10
 ESPACIO_Y = 5
 
+11
 POS_X_INICIAL = 0
 
+12
 POS_Y_INICIAL = 40
 ```
 
@@ -848,18 +867,23 @@ Bucle principal.
 ```
 -- Configuración de variables
 
+1
 local correct_password = "1234"  
 -- La contraseña correcta
 
+2
 local input_password = ""        
 -- La contraseña ingresada por el usuario
 
+3
 local message = ""               
 -- Mensaje a mostrar
 
+4
 local selected_key = 1           
 -- Tecla seleccionada (índice del teclado)
 
+5
 local keys = {
     "1", "2", "3",
     "4", "5", "6",
@@ -869,9 +893,10 @@ local keys = {
 -- Teclas disponibles
 
 -- Colores del arcoíris
-
+6
 local rainbow_colors = {8, 12, 11, 10, 9, 7, 6}
 
+7
 local color_offset = 0  
 -- Offset para animar el arcoíris
 ```
@@ -902,23 +927,30 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+1
 t = 0
 
+2
 x = 5
 
+3
 y = 80  
 -- Posición más cercana al límite inferior de la pantalla
 
 -- Variables de desplazamiento
 
+4
 indice_frase = 1
 
+5
 temblor_intensidad = 5 
 -- Aumenté la intensidad del temblor
 
+6
 temblor_duracion = 30 
 -- Duración del temblor en cuadros
 
+7
 temblor_tiempo = 0 
 -- Contador de tiempo para duración del temblor
 ```
