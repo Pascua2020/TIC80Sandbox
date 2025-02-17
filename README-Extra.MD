@@ -35,11 +35,11 @@ end
 
 #### 🔑-1  dibujar_texto_arcoiris( texto,x,y )
 
-.
+Función para dibujar texto con efecto arcoíris.
 
 #### 🔑-2  dibujar_estrellas()
 
-.
+Función para dibujar estrellas con efecto arcoíris.
 
 #### 🔑-3  TIC().
 
@@ -96,11 +96,11 @@ end
 
 #### 🔑-1  dibujar_texto_arcoiris ( texto,x,y )
 
-.
+Función para dibujar texto con efecto arcoíris.
 
 #### 🔑-2  dibujar_estrellas()
 
-.
+Función para dibujar estrellas con efecto arcoíris.
 
 #### 🔑-3  TIC().
 
@@ -316,7 +316,7 @@ comprando_chori = false
 
 #### 🔑-1  dibujar_personaje()
 
-.
+Función para dibujar el personaje.
 
 #### 🔑-2  dibujar_coches()
 
