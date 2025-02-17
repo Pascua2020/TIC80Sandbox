@@ -1,4 +1,4 @@
-##⭐️ Inicio
+## ⭐️ Inicio
 
 ### Variables / Atributos
 
@@ -10,20 +10,7 @@
 
 .
 
-## Créditos
-
-### Variables / Atributos
-
-```
-
-```
-
-### Funciones
-
-.
-
-
-## Nafta
+## ⭐️ Créditos
 
 ### Variables / Atributos
 
@@ -36,7 +23,7 @@
 .
 
 
-## Moneda
+## ⭐️ Nafta
 
 ### Variables / Atributos
 
@@ -49,19 +36,7 @@
 .
 
 
-## Parada
-
-### Variables / Atributos
-
-```
-
-```
-
-### Funciones
-
-.
-
-## Menú de Pausa
+## ⭐️ Moneda
 
 ### Variables / Atributos
 
@@ -74,7 +49,19 @@
 .
 
 
-## Lector de Diarios
+## ⭐️ Parada
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+## ⭐️ Menú de Pausa
 
 ### Variables / Atributos
 
@@ -87,19 +74,7 @@
 .
 
 
-## Skate
-
-### Variables / Atributos
-
-```
-
-```
-
-### Funciones
-
-.
-
-### Jetpack
+## ⭐️ Lector de Diarios
 
 ### Variables / Atributos
 
@@ -112,7 +87,19 @@
 .
 
 
-## Telescopio
+## ⭐️ Skate
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+### ⭐️ Jetpack
 
 ### Variables / Atributos
 
@@ -125,19 +112,7 @@
 .
 
 
-## Mensajes Moviles
-
-### Variables / Atributos
-
-```
-
-```
-
-### Funciones
-
-.
-
-## Teclado 1
+## ⭐️ Telescopio
 
 ### Variables / Atributos
 
@@ -150,7 +125,19 @@
 .
 
 
-## Teclado 2
+## ⭐️ Mensajes Moviles
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+## ⭐️ Teclado 1
 
 ### Variables / Atributos
 
@@ -163,7 +150,20 @@
 .
 
 
-## Terremoto
+## ⭐️ Teclado 2
+
+### Variables / Atributos
+
+```
+
+```
+
+### Funciones
+
+.
+
+
+## ⭐️ Terremoto
 
 ### Variables / Atributos
 
