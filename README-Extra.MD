@@ -54,7 +54,33 @@
 
 ### 🎃 Funciones
 
-.
+-1  dibujar_personaje()
+
+-2  dibujar_coches()
+
+-3  dibujar_balanza()
+
+-4  dibujar_monedas()
+
+-5  dibujar_monedas_especiales()
+
+-6  mover_personaje()
+
+-7  detectar_colision_monedas()
+
+-8  detectar_colision_monedas_especiales()
+
+-9  mostrar_monedas()
+
+-10  mostrar_frase()
+
+-11  mostrar_opcion_comprar_chori()
+
+-12  comprar_chori()
+
+-13  mostrar_texto_abajo()
+
+-14 TIC().
 
 
 ## ⭐️ Parada
@@ -67,7 +93,33 @@
 
 ### 🎃 Funciones
 
-.
+-1  dibujar_personaje()
+
+-2  dibujar_tarjeta_suba()
+
+-3  mover_personaje()
+
+-4  detectar_colision_tarjeta_suba()
+
+-5  mostrar_mensaje_suba()
+
+-6  cargar_suba()
+
+-7  mostrar_saldos()
+
+-8  mostrar_frase_carga()
+
+-9  dibujar_parada()
+
+-10  interactuar_con_parada()
+
+-11  mover_colectivo()
+
+-12  mostrar_texto_parada()
+
+-13  mostrar_texto_colectivo()
+
+-14  TIC().
 
 ## ⭐️ Menú de Pausa
 
