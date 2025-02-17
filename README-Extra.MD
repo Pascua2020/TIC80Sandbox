@@ -511,7 +511,7 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
-
+Ninguna? ( en Init() )
 ```
 
 ### 🎃 Funciones
@@ -554,7 +554,18 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
+t = 0
+mostrar_mensaje = false
+tiempo_mensaje = 0
 
+-- Animación del ícono de WhatsApp
+whatsapp_icons = {16, 32, 48}  -- Ids de los íconos para la animación
+icono_gato = 96                -- Id del ícono del gato
+frame_actual = 1               -- Frame de animación actual
+
+-- Datos del mensaje
+remitente = "Gatito"
+mensaje = "Miau miau miau ('Dame de comer, gil')"
 ```
 
 ### 🎃 Funciones
