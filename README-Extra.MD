@@ -465,7 +465,11 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
-
+-- Posición inicial del skate
+local x, y = 120, 68
+local mounted_right_to_left = false  -- Estado para saber si el skate se está montando de derecha a izquierda
+local mounted_left_to_right = false  -- Estado para saber si el skate se está montando de izquierda a derecha
+local sparks = {}  -- Lista para almacenar las posiciones de las chispas
 ```
 
 ### 🎃 Funciones
@@ -479,7 +483,11 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
-
+-- Configuración inicial
+p = {x=120, y=68, spd=2, sparks={}}
+function add_spark(x, y, dx, dy, col)
+    table.insert(p.sparks, {x=x, y=y, dx=dx, dy=dy, life=30, col=col})
+end
 ```
 
 ### 🎃 Funciones
