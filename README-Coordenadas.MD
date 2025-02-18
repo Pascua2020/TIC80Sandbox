@@ -379,3 +379,48 @@ Pinball
 X98
 Y134
 ```
+
+GaleriaTiro
+```
+Cartel
+Id sprite 481
+
+C1
+X 129
+Y 106
+
+C2
+X 136
+Y 106
+
+C3
+X 146
+Y 106
+
+
+Botellas vidrio
+Id spr 438
+
+B1
+X 128
+Y 113
+
+B2
+X 138
+Y 113
+
+B3
+X 147
+Y 113
+
+Pelota
+Id spr 492
+
+P1
+X 121
+Y 116
+
+P2
+X 147
+Y 103
+```
