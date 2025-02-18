@@ -149,11 +149,26 @@
 ## agregarCoches
 
 ### Todas
+```
+
+```
 
 ### AK47
+```
+
+```
 
 ### Bazooka
+```
+
+```
 
 ### Granada
+```
+
+```
 
 ### Escopeta
+```
+
+```
