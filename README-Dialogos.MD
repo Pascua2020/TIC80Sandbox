@@ -1,7 +1,6 @@
 1
 Personaje : Suizo Romanche
 
-Dialogo:
 ```
 "Il mund real è bler pli benevolent che il mund mental."
 ```
@@ -9,7 +8,6 @@ Dialogo:
 2
 Personaje : Rapi el Rapero
 
-Diálogo:
 ```
 "Desde la villa hasta el centro, la calle es mi escenario,  "
 "con flow porteño, le meto al diccionario. "
@@ -20,8 +18,6 @@ Diálogo:
 3
 Personaje : Timmy Trabalenguas
 
-Dialogo :
-
 ```
 "Los galeses patagónicos desparramaban desinteresadamente" "desprolijidades descomunales, mientras desenredaban" "desconsoladamente desmesurados desvaríos desorganizados."
 ```
@@ -30,7 +26,7 @@ Dialogo :
 Personaje : "Capitán Inflacion"
 
 ```
-Dialogo : "Debo luchar contra mi peor enemigo : la Estabilidad Económica."
+"Debo luchar contra mi peor enemigo : la Estabilidad Económica."
 "Tengo 3 superpoderes : de valuación encubierta,impuestazo al impuestazo y rayo emitidor".
 ```
 
@@ -49,14 +45,14 @@ Personaje : Obsesivo y Compulsivo
 Personaje : El Profeta
 
 ```
-Dialogo: "En 2880 un asteroide va a colisionar con la tierra.me deja sin dormir la cuestion".
+"En 2880 un asteroide va a colisionar con la tierra.me deja sin dormir la cuestion".
 ```
 
 7
 Personaje : Cerebrito y Wachin
 
 ```
-Dialogo: "Sabias Wachin que en un país de África hay un idioma llamado Tenis?" Qué variedades lingüísticas tendrá?"
+"Sabias Wachin que en un país de África hay un idioma llamado Tenis?" Qué variedades lingüísticas tendrá?"
 "Basta Cerebrito : acá se tiran pasos,no palabras!"
 ```
 
@@ -64,14 +60,13 @@ Dialogo: "Sabias Wachin que en un país de África hay un idioma llamado Tenis?"
 Personaje : "El Payaso Curro Curro"
 
 ```
-Dialogo : "Si no le das tu número a extraños en la calle,porque se los das en Internet?"
+"Si no le das tu número a extraños en la calle,porque se los das en Internet?"
 "Hasta una galletita pepa es un potencial asesino sociopata".
 ```
 
 9
 Personaje : Mamá y Niño Diabolico
 
-Dialogo :
 ```
 "Se amable con el señor hijo,que le quieres decir?"
 "Ojalá que..."
