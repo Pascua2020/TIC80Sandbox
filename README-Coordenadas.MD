@@ -356,3 +356,26 @@ B16
 X 234
 Y 61
 ```
+
+Diamantes
+```
+Spr id 311
+
+En el mar ram
+
+Tinder
+X45
+Y82
+
+Chino
+X116
+Y68
+
+Ovni
+X220
+Y83
+
+Pinball
+X98
+Y134
+```
