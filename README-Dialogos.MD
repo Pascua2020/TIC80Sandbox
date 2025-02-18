@@ -1,11 +1,13 @@
-1
+✨️1
+
 Personaje : Suizo Romanche
 
 ```
 "Il mund real è bler pli benevolent che il mund mental."
 ```
 
-2
+✨️2
+
 Personaje : Rapi el Rapero
 
 ```
@@ -15,14 +17,16 @@ Personaje : Rapi el Rapero
 "acá el rap no tiene dueño, es arte verdadero. "
 ```
 
-3
+✨️3
+
 Personaje : Timmy Trabalenguas
 
 ```
 "Los galeses patagónicos desparramaban desinteresadamente" "desprolijidades descomunales, mientras desenredaban" "desconsoladamente desmesurados desvaríos desorganizados."
 ```
 
-4
+✨️4
+
 Personaje : "Capitán Inflacion"
 
 ```
@@ -30,7 +34,8 @@ Personaje : "Capitán Inflacion"
 "Tengo 3 superpoderes : de valuación encubierta,impuestazo al impuestazo y rayo emitidor".
 ```
 
-5
+✨️5
+
 Personaje : Obsesivo y Compulsivo
 
 ```
@@ -41,14 +46,16 @@ Personaje : Obsesivo y Compulsivo
 "Pero si puedo compulsionar concientizando sobre esto y tu obsesionandote en concientizar!"
 ```
 
-6
+✨️6
+
 Personaje : El Profeta
 
 ```
 "En 2880 un asteroide va a colisionar con la tierra.me deja sin dormir la cuestion".
 ```
 
-7
+✨️7
+
 Personaje : Cerebrito y Wachin
 
 ```
@@ -56,7 +63,8 @@ Personaje : Cerebrito y Wachin
 "Basta Cerebrito : acá se tiran pasos,no palabras!"
 ```
 
-8
+✨️8
+
 Personaje : "El Payaso Curro Curro"
 
 ```
@@ -64,7 +72,8 @@ Personaje : "El Payaso Curro Curro"
 "Hasta una galletita pepa es un potencial asesino sociopata".
 ```
 
-9
+✨️9
+
 Personaje : Mamá y Niño Diabolico
 
 ```
