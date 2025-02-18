@@ -528,3 +528,27 @@ B12
 X74
 Y61
 ```
+
+Peatones
+```
+Id
+
+Mamá con niño diabolico
+274 b1 x22 y6
+
+275 b2 x19 y22
+
+276 b3 x23 y38
+
+277 b4 x24 y61
+
+278 b5 x61 y11
+
+279 b6 x62 y27
+
+280 b7 x41 y46
+
+281 b8 x59 y63
+
+282 b9x74 y11
+```
