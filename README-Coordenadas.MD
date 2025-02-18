@@ -500,3 +500,31 @@ Minigun
 X85
 Y30
 ```
+
+Munición
+```
+Spr id 306
+
+B4
+X16
+Y49
+
+B9
+X65
+Y11
+```
+
+Paradas
+```
+Spr id 56
+
+Parada A
+B13
+X229
+Y15
+
+Parada B
+B12
+X74
+Y61
+```
