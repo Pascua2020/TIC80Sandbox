@@ -552,3 +552,11 @@ Mamá con niño diabolico
 
 282 b9x74 y11
 ```
+
+Rampa
+```
+Spr id 435
+
+X86
+Y63
+```
