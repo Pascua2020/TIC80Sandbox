@@ -263,3 +263,26 @@ Chocolate
 X54-55
 Y38-46
 ```
+
+Condones
+```
+B1 x19 y7
+B2 x7 y29
+B3 x7 y42
+B4 x8 y51
+
+B5 x41 y7
+B6 x49 y21
+B7 x53 y 38
+B8 x52 y63
+
+B9 x80,y7
+B10 x80 y28
+B11 x81 y41
+B12 x86 y62
+
+B13 x222 y3
+B14 x232 y22
+B15 x222 y047
+B16 x236 y61
+```
