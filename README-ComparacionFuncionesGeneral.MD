@@ -37,3 +37,14 @@ DibujarRectanguloArcoiris
 ```
 
 ```
+
+## Todos los Check
+
+
+
+## Todos los Update
+
+
+
+## Todos los Draw
+
