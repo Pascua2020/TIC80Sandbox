@@ -13,3 +13,15 @@ PrintRainbow
 ```
 
 ```
+
+Inicio
+DibujarTextoArcoiris
+```
+
+```
+
+Creditos
+DibujarTextoArcoiris
+```
+
+```
