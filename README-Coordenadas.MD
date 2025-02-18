@@ -36,3 +36,24 @@ LetraCancion
 X
 Y
 ```
+
+Basura
+```
+Spr id 407
+
+B2
+X 14
+Y 18
+
+B6
+X 50
+Y 26
+
+B10
+X 64
+Y 26
+
+B14
+X 224
+Y 28
+```
