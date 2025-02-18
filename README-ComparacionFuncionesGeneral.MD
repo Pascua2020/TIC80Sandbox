@@ -14,6 +14,12 @@ PrintRainbow
 
 ```
 
+MenuPausa
+DibujarTextoArcoiris
+```
+
+```
+
 Inicio
 DibujarTextoArcoiris
 ```
@@ -22,6 +28,12 @@ DibujarTextoArcoiris
 
 Creditos
 DibujarTextoArcoiris
+```
+
+```
+
+GT
+DibujarRectanguloArcoiris
 ```
 
 ```
