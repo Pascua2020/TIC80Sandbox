@@ -1,4 +1,4 @@
-Baile
+#### ✨️ Baile
 ```
 FlechaIzq
 FlechaIzqPres
@@ -37,7 +37,7 @@ X
 Y
 ```
 
-Basura
+#### ✨️ Basura
 ```
 Spr id 407
 
@@ -58,7 +58,7 @@ X 224
 Y 28
 ```
 
-Cajas
+#### ✨️ Cajas
 ```
 Spr id 433
 
@@ -75,7 +75,7 @@ X62
 Y42
 ```
 
-Calles
+#### ✨️ Calles
 ```
 
 1
@@ -264,7 +264,7 @@ X54-55
 Y38-46
 ```
 
-Condones
+#### ✨️ Condones
 ```
 B1 x19 y7
 B2 x7 y29
@@ -287,7 +287,7 @@ B15 x222 y047
 B16 x236 y61
 ```
 
-Curiosidades
+#### ✨️ Curiosidades
 ```
 Usa signo de pregunta ( ? )
 Sprite id 302
@@ -357,7 +357,7 @@ X 234
 Y 61
 ```
 
-Diamantes
+#### ✨️ Diamantes
 ```
 Spr id 311
 
@@ -380,7 +380,7 @@ X98
 Y134
 ```
 
-GaleriaTiro
+#### ✨️ GaleriaTiro
 ```
 Cartel
 Id sprite 481
@@ -425,7 +425,7 @@ X 147
 Y 103
 ```
 
-Helado
+#### ✨️ Helado
 ```
 Spr id 316
 
@@ -438,7 +438,7 @@ X33
 Y46
 ```
 
-Armas
+#### ✨️ Armas
 ```
 290
 B1
@@ -501,7 +501,7 @@ X85
 Y30
 ```
 
-Munición
+#### ✨️ Munición
 ```
 Spr id 306
 
@@ -514,7 +514,7 @@ X65
 Y11
 ```
 
-Paradas
+#### ✨️ Paradas
 ```
 Spr id 56
 
@@ -529,7 +529,7 @@ X74
 Y61
 ```
 
-Peatones
+#### ✨️ Peatones
 ```
 Id
 
@@ -553,7 +553,7 @@ Mamá con niño diabolico
 282 b9x74 y11
 ```
 
-Rampa
+#### ✨️ Rampa
 ```
 Spr id 435
 
@@ -561,7 +561,7 @@ X86
 Y63
 ```
 
-RC
+#### ✨️ RC
 ```
 RCJ1
 X
@@ -596,7 +596,7 @@ X
 Y
 ```
 
-Stuntman
+#### ✨️ Stuntman
 ```
 CocheJ
 X
@@ -703,7 +703,7 @@ X
 Y
 ```
 
-Suiza
+#### ✨️ Suiza
 ```
 CocheCarJ
 X
@@ -738,7 +738,7 @@ X
 Y
 ```
 
-Trompos
+#### ✨️ Trompos
 ```
 TrompoJ1
 X
@@ -749,7 +749,7 @@ X
 Y
 ```
 
-Vehículos
+#### ✨️ Vehículos
 ```
 353 x20 y6
 354 x3 y24
