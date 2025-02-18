@@ -236,3 +236,25 @@
 ```
 
 ```
+
+## detectarColision
+
+### Pistola
+```
+
+```
+
+### Puño
+```
+
+```
+
+### Lanzallamas
+```
+
+```
+
+### Rifle
+```
+
+```
