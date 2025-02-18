@@ -361,3 +361,11 @@
 ```
 
 ```
+
+## verificarImpactos
+
+### Escopeta
+
+### AK47
+
+### Granada
