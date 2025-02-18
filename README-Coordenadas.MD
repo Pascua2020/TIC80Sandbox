@@ -266,25 +266,25 @@ Y 38-46
 
 #### ✨️ Condones
 ```
-B1 x 19 y 7
-B2 x 7 y 29
-B3 x 7 y 42
-B4 x 8 y 51
+B1 X 19 Y 7
+B2 X 7 Y 29
+B3 X 7 Y 42
+B4 X 8 Y 51
 
-B5 x 41 y 7
-B6 x 49 y 21
-B7 x 53 y 38
-B8 x 52 y 63
+B5 X 41 Y 7
+B6 X 49 Y 21
+B7 X 53 Y 38
+B8 X 52 Y 63
 
-B9 x 80 y 7
-B10 x 80 y 28
-B11 x 81 y 41
-B12 x 86 y 62
+B9 X 80 Y 7
+B10 X 80 Y 28
+B11 X 81 Y 41
+B12 X 86 Y 62
 
-B13 x 222 y 3
-B14 x 232 y 22
-B15 x 222 y 47
-B16 x 236 y 61
+B13 X 222 Y 3
+B14 X 232 Y 22
+B15 X 222 Y 47
+B16 X 236 Y 61
 ```
 
 #### ✨️ Curiosidades
