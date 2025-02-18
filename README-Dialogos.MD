@@ -1,6 +1,6 @@
 ✨️1
 
-Personaje : Suizo Romanche
+#### Personaje : Suizo Romanche
 
 ```
 "Il mund real è bler pli benevolent che il mund mental."
@@ -8,7 +8,7 @@ Personaje : Suizo Romanche
 
 ✨️2
 
-Personaje : Rapi el Rapero
+#### Personaje : Rapi el Rapero
 
 ```
 "Desde la villa hasta el centro, la calle es mi escenario,  "
@@ -19,7 +19,7 @@ Personaje : Rapi el Rapero
 
 ✨️3
 
-Personaje : Timmy Trabalenguas
+#### Personaje : Timmy Trabalenguas
 
 ```
 "Los galeses patagónicos desparramaban desinteresadamente" "desprolijidades descomunales, mientras desenredaban" "desconsoladamente desmesurados desvaríos desorganizados."
@@ -27,7 +27,7 @@ Personaje : Timmy Trabalenguas
 
 ✨️4
 
-Personaje : "Capitán Inflacion"
+#### Personaje : "Capitán Inflacion"
 
 ```
 "Debo luchar contra mi peor enemigo : la Estabilidad Económica."
@@ -36,7 +36,7 @@ Personaje : "Capitán Inflacion"
 
 ✨️5
 
-Personaje : Obsesivo y Compulsivo
+#### Personaje : Obsesivo y Compulsivo
 
 ```
 "Como estas compulsivo?"
@@ -48,7 +48,7 @@ Personaje : Obsesivo y Compulsivo
 
 ✨️6
 
-Personaje : El Profeta
+#### Personaje : El Profeta
 
 ```
 "En 2880 un asteroide va a colisionar con la tierra.me deja sin dormir la cuestion".
@@ -56,7 +56,7 @@ Personaje : El Profeta
 
 ✨️7
 
-Personaje : Cerebrito y Wachin
+#### Personaje : Cerebrito y Wachin
 
 ```
 "Sabias Wachin que en un país de África hay un idioma llamado Tenis?" Qué variedades lingüísticas tendrá?"
@@ -65,7 +65,7 @@ Personaje : Cerebrito y Wachin
 
 ✨️8
 
-Personaje : "El Payaso Curro Curro"
+#### Personaje : "El Payaso Curro Curro"
 
 ```
 "Si no le das tu número a extraños en la calle,porque se los das en Internet?"
@@ -74,7 +74,7 @@ Personaje : "El Payaso Curro Curro"
 
 ✨️9
 
-Personaje : Mamá y Niño Diabolico
+#### Personaje : Mamá y Niño Diabolico
 
 ```
 "Se amable con el señor hijo,que le quieres decir?"
