@@ -303,24 +303,61 @@
 
 ### Todas
 
+```
+
+```
+
 ### Pistola
+```
+
+```
 
 ### Puño
+```
+
+```
 
 ### Katana
+```
+
+```
 
 ### Escopeta
+```
+
+```
 
 ### AK47
+```
+
+```
 
 ### Bazooka
+```
+
+```
 
 ### Rifle
+```
+
+```
 
 ### Lanzallamas
+```
+
+```
 
 ### Minigun
+```
+
+```
 
 ### Granada
+```
+
+```
 
 ### Laser
+```
+
+```
