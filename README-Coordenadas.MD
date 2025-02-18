@@ -67,12 +67,12 @@ X 12
 Y 16
 
 B6
-X48
-Y26
+X 48
+Y 26
 
 B11
-X62
-Y42
+X 62
+Y 42
 ```
 
 #### ✨️ Calles
@@ -80,58 +80,58 @@ Y42
 
 1
 Lalala
-X221-222
-Y6-12
+X 221-222
+Y 6-12
 
 2
 Lucifer
-X18-223
-Y4-5
+X 18-223
+Y 4-5
 
 3
 Proceda
-X223-229
-Y10-12
+X 223-229
+Y 10-12
 
 4
 Inflacion
-X18
-Y6-13
+X 18
+Y 6-13
 
 5
 Satanas
-X17-231
-Y14-15
+X 17-231
+Y 14-15
 
 6
 Conspiración
-X56
-Y5-13
+X 56
+Y 5-13
 
 7
 Turbina
-X39-40
-Y16-28
+X 39-40
+Y 16-28
 
 8
 Diamante
-X25-81
-Y29-30
+X 25-81
+Y 29-30
 
 9
 Chechona
-X25-81
-Y36-37
+X 25-81
+Y 36-37
 
 10
 Informeishon
-X17-43
-Y57-59
+X 17-43
+Y 57-59
 
 11
 Poker
-X17-43
-Y62-64
+X 17-43
+Y 62-64
 
 12
 No jodas
