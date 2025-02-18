@@ -209,3 +209,30 @@
 ```
 
 ```
+
+## mostrarFrase
+
+### Pistola
+```
+
+```
+
+### Minigun
+```
+
+```
+
+### Lanzallamas
+```
+
+```
+
+### Rifle
+```
+
+```
+
+### Laser
+```
+
+```
