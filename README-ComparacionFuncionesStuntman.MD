@@ -350,3 +350,14 @@
 ```
 
 ```
+
+## checkCheckpointCollision
+
+### S3
+```
+
+```
+### S4
+```
+
+```
