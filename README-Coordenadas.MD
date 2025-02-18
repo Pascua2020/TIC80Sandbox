@@ -286,3 +286,73 @@ B14 x232 y22
 B15 x222 y047
 B16 x236 y61
 ```
+
+Curiosidades
+```
+Usa signo de pregunta ( ? )
+Sprite id 302
+
+B1
+X 21
+Y 8
+
+B2
+X 25
+Y 20
+
+B3
+X 11
+Y 38
+
+B4
+X 10
+Y 57
+
+B5
+X 45
+Y 7
+
+B6
+X 57
+Y 22
+
+B7
+X 57
+Y 42
+
+B8
+X 46
+Y 55
+
+B9
+X 73
+Y 10
+
+B10
+X 76
+Y 28
+
+B11
+X 66
+Y 46
+
+B12
+X 65
+Y 62
+
+B13
+X 225
+Y 2
+
+B14
+X 232
+Y 23
+
+B15
+X 234
+Y 47
+
+B16
+X 234
+Y 61
+```
