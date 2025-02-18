@@ -364,20 +364,20 @@ Spr id 311
 En el mar ram
 
 Tinder
-X45
-Y82
+X 45
+Y 82
 
 Chino
-X116
-Y68
+X 116
+Y 68
 
 Ovni
-X220
-Y83
+X 220
+Y 83
 
 Pinball
-X98
-Y134
+X 98
+Y 134
 ```
 
 #### ✨️ GaleriaTiro
@@ -430,12 +430,12 @@ Y 103
 Spr id 316
 
 B7 
-x222
-Y57
+x 222
+Y 57
 
 B16
-X33
-Y46
+X 33
+Y 46
 ```
 
 #### ✨️ Armas
@@ -443,62 +443,62 @@ Y46
 290
 B1
 Pistola
-X5 
-Y11
+X 5 
+Y 11
 
 291
 B2
 Escopeta
-X3 
-Y28
+X 3 
+Y 28
 
 292
 B3
 AK47
-X16 
-Y45
+X 16 
+Y 45
 
 293
 B4
 Katana
-X9 
-Y53
+X 9 
+Y 53
 
 294
 B5
 Lanzallamas
-X32 
-Y7
+X 32 
+Y 7
 
 295
 B6
 Bazooka
-X26
-Y31
+X 26
+Y 31
 
 296
 B7
 Rayo Eléctrico
-X52 
-Y41
+X 52 
+Y 41
 
 297
 B8
 Láser
-X56 
-Y55
+X 56 
+Y 55
 
 298
 B9
 Granada
-X83
-Y7
+X 83
+Y 7
 
 299
 B10
 Minigun
-X85
-Y30
+X 85
+Y 30
 ```
 
 #### ✨️ Munición
