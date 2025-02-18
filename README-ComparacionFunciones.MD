@@ -176,15 +176,36 @@
 ## dibujarCoches
 
 ### Pistola
+```
+
+```
 
 ### AK47
+```
+
+```
 
 ### Bazooka
+```
+
+```
 
 ### Granada
+```
+
+```
 
 ### Escopeta
+```
+
+```
 
 ### Lanzallamas
+```
+
+```
 
 ### Rifle
+```
+
+```
