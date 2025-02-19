@@ -216,42 +216,144 @@ end
 
 Baile - actualizarFlechas
 ```
-
+-- Actualizar flechas
+function actualizar_flechas()
+    for i = #flechas, 1, -1 do
+        local flecha = flechas[i]
+        if flecha.activa then
+            flecha.y = flecha.y - 1
+            if flecha.y < 0 then
+                flecha.activa = false
+                combo = 0
+                fallos = fallos + 1
+            end
+        elseif flecha.acertada then
+            flecha.tiempo_acertada = flecha.tiempo_acertada - 1
+            if flecha.tiempo_acertada <= 0 then
+                table.remove(flechas, i) -- Eliminar flecha después del efecto
+            end
+        end
+    end
+end
 ```
 
 Baile - ActualizarFlechasEstaticas
 ```
-
+-- Verificar botones para cambiar color de flechas estáticas
+function actualizar_flechas_estaticas()
+    if btnp(2) then flechas_estaticas[1] = true end -- ←
+    if btnp(0) then flechas_estaticas[2] = true end -- ↓
+    if btnp(1) then flechas_estaticas[3] = true end -- ↑
+    if btnp(3) then flechas_estaticas[4] = true end -- →
+end
 ```
 
 Climatologia - updateEarthquake
 ```
-
+-- Funciones de efectos de terremoto
+-- Función de terremoto
+function update_earthquake()
+    -- Mueve la cámara o el "mapa" aleatoriamente dentro de los límites establecidos
+    if earthquake_timer > 0 then
+        earthquake_timer = earthquake_timer - 1
+        local shake_x = math.random(-earthquake_intensity, earthquake_intensity)
+        local shake_y = math.random(-earthquake_intensity, earthquake_intensity)
+        -- Aquí movemos el contenido (simulando el terremoto) mediante un desplazamiento
+        camera(shake_x, shake_y)
+    else
+        -- Resetear la cámara al estado normal cuando termine el terremoto
+        camera(0, 0)
+    end
+end
 ```
 
 Climatologia - updateLeaves
 ```
+-- Actualiza las hojas
+function update_leaves()
+    for i, leaf in ipairs(leaves) do
+        leaf.x = leaf.x + leaf.speed_x + math.sin(leaf.sway) * 0.5
+        leaf.y = leaf.y + leaf.speed_y
+        leaf.sway = leaf.sway + 0.1
 
+        if leaf.y > 136 then
+            leaf.y = math.random(-20, -1)
+            leaf.x = math.random(0, 240)
+        end
+        if leaf.x < 0 then 
+            leaf.x = math.random(0, 240)
+        elseif leaf.x > 240 then
+            leaf.x = math.random(0, 240)
+        end
+    end
+end
 ```
 
 Climatologia - updateLightning
 ```
-
+-- Actualiza el estado del relámpago
+function update_lightning()
+    if lightning_active then
+        lightning_timer = lightning_timer - 1
+        if lightning_timer <= 0 then
+            lightning_active = false
+        end
+    else
+        if math.random(0, 20) == 0 then
+            lightning_active = true
+            lightning_timer = lightning_flash_duration
+        end
+    end
+end
 ```
 
 Climatologia - updateRaindrops
 ```
-
+-- Actualiza las gotas de lluvia
+function update_raindrops()
+    for i, drop in ipairs(raindrops) do
+        drop.y = drop.y + drop.speed
+        if drop.y > 136 then
+            drop.y = math.random(-20, -1)
+            drop.x = math.random(0, 240)
+        end
+    end
+end
 ```
 
 Climatologia - updateSnowflakes
 ```
-
+-- Actualiza los copos de nieve
+function update_snowflakes()
+    for i, flake in ipairs(snowflakes) do
+        flake.x = flake.x + flake.sway
+        flake.y = flake.y + flake.speed_y
+        if flake.y > 136 then
+            flake.y = math.random(-20, -1)
+            flake.x = math.random(0, 240)
+        end
+        if flake.x < 0 then flake.x = 0 end
+        if flake.x > 240 then flake.x = 240 end
+    end
+end
 ```
 
 Climatologia - updateWind
 ```
-
+-- Actualiza las líneas de viento
+function update_wind()
+    for i, line in ipairs(wind_lines) do
+        line.x = line.x - wind_speed
+        line.phase = line.phase + 4
+        if line.x + 240 < 0 then
+            line.x = 240
+            line.y = math.random(0, 136)
+            line.amplitude = math.random(5, 10)
+            line.frequency = math.random(10, 20)
+            line.phase = math.random(0, 360)
+        end
+    end
+end
 ```
 
 DiosGPT - actualizarColorTriangulo
