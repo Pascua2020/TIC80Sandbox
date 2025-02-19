@@ -560,22 +560,111 @@ end
 
 ### Pistola
 ```
+-- Función para detectar colisión entre la balanza y los coches
+function detectar_colision()
+    for _, coche in ipairs(coches) do
+        if not coche.colisionado then  -- Si el coche no ha sido colisionado
+            if pos_balanza_x + 8 >= coche.x and pos_balanza_x <= coche.x + 16 and pos_balanza_y >= coche.y and pos_balanza_y <= coche.y + 16 then
+                coche.colisionado = true  -- Marcar el coche como colisionado
 
+                -- Generar la explosión para el coche
+                explosion_tiempo = t  -- Registrar el tiempo de la explosión
+                poder_jugador = math.random(3, 5)
+                poder_tiempo = t  -- Registrar el tiempo en que se generó
+                mostrar_poder = true  -- Habilitar la visualización del poder
+
+                -- Generar puntos para la explosión
+                for i = 1, 30 do
+                    local angle = math.random() * math.pi * 2
+                    local speed = math.random(2, 5)
+                    table.insert(explosion_puntos, {
+                        x = coche.x + 8,
+                        y = coche.y + 8,
+                        dx = math.cos(angle) * speed,
+                        dy = math.sin(angle) * speed,
+                        vida = math.random(30, 50)
+                    })
+                end
+            end
+        end
+    end
+end
 ```
 
 ### Puño
 ```
-
+-- Función para detectar colisión entre golpes y coches
+function detectar_colisiones()
+    for i, golpe in ipairs(golpes) do
+        for j, coche in ipairs(coches) do
+            if golpe.x < coche.x + 8 and golpe.x + 8 > coche.x and
+               golpe.y < coche.y + 8 and golpe.y + 8 > coche.y then
+                -- Colisión detectada, eliminar coche y golpe
+                table.remove(coches, j)
+                table.remove(golpes, i)
+                -- Generar partículas de explosión
+                generar_particulas(coche.x, coche.y)
+                break
+            end
+        end
+    end
+end
 ```
 
 ### Lanzallamas
 ```
-
+-- Función para detectar colisiones con los coches
+function detectar_colision()
+    for _, coche in ipairs(coches) do
+        if not coche.colisionado then
+            for _, llama in ipairs(llamas) do
+                if llama.x >= coche.x and llama.x <= coche.x + 16 and llama.y >= coche.y and llama.y <= coche.y + 16 then
+                    coche.colisionado = true
+                    -- Generar puntos para explosión
+                    for i = 1, 30 do
+                        local angle = math.random() * math.pi * 2
+                        local speed = math.random(2, 5)
+                        table.insert(explosion_puntos, {
+                            x = coche.x + 8,
+                            y = coche.y + 8,
+                            dx = math.cos(angle) * speed,
+                            dy = math.sin(angle) * speed,
+                            vida = math.random(30, 50)
+                        })
+                    end
+                end
+            end
+        end
+    end
+end
 ```
 
 ### Rifle
 ```
-
+-- Función para detectar colisiones con los coches
+function detectar_colision()
+    for _, coche in ipairs(coches) do
+        if not coche.colisionado then
+            for _, rayo in ipairs(rayos) do
+                if rayo.x_fin >= coche.x and rayo.x_fin <= coche.x + 16 and rayo.y_fin >= coche.y and rayo.y_fin <= coche.y + 16 then
+                    coche.colisionado = true
+                    -- Generar puntos para explosión
+                    for i = 1, 30 do
+                        local angle = math.random() * math.pi * 2
+                        local speed = math.random(2, 5)
+                        table.insert(explosion_puntos, {
+                            x = coche.x + 8,
+                            y = coche.y + 8,
+                            dx = math.cos(angle) * speed,
+                            dy = math.sin(angle) * speed,
+                            vida = math.random(30, 50)
+                        })
+                    end
+                end
+            end
+        end
+    end
+end
 ```
 
 ## dibujarExplosion
