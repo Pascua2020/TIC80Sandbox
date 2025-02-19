@@ -1161,17 +1161,68 @@ end
 ### Escopeta
 
 ```
-
+-- Función para verificar si un disparo ha impactado un coche
+function verificar_impactos()
+    for i = #disparos, 1, -1 do
+        local disparo = disparos[i]
+        for j = #coches, 1, -1 do
+            local coche = coches[j]
+            -- Comprobar colisión entre disparo y coche
+            if disparo.x + 2 > coche.x and disparo.x < coche.x + 8 and disparo.y + 2 > coche.y and disparo.y < coche.y + 8 then
+                -- Crear una explosión en el lugar del impacto
+                crear_explosion(coche.x, coche.y)
+                -- Eliminar disparo y coche
+                table.remove(disparos, i)
+                table.remove(coches, j)
+                break
+            end
+        end
+    end
+end
 ```
 
 ### AK47
 
 ```
-
+-- Función para verificar si un disparo ha impactado un coche
+function verificar_impactos()
+    for i = #disparos, 1, -1 do
+        local disparo = disparos[i]
+        for j = #coches, 1, -1 do
+            local coche = coches[j]
+            -- Comprobar colisión entre disparo y coche
+            if disparo.x + 2 > coche.x and disparo.x < coche.x + 8 and disparo.y + 2 > coche.y and disparo.y < coche.y + 8 then
+                -- Crear una explosión en el lugar del impacto
+                crear_explosion(coche.x, coche.y)
+                -- Eliminar disparo y coche
+                table.remove(disparos, i)
+                table.remove(coches, j)
+                break
+            end
+        end
+    end
+end
 ```
 
 ### Granada
 
 ```
-
+-- Función para verificar si una granada ha impactado un coche
+function verificar_impactos()
+    for i = #granadas, 1, -1 do
+        local granada = granadas[i]
+        for j = #coches, 1, -1 do
+            local coche = coches[j]
+            -- Comprobar colisión entre granada y coche
+            if granada.x + 5 > coche.x and granada.x < coche.x + 8 and granada.y + 5 > coche.y and granada.y < coche.y + 8 then
+                -- Crear una explosión en el lugar del impacto
+                crear_explosion(coche.x, coche.y)
+                -- Eliminar granada y coche
+                table.remove(granadas, i)
+                table.remove(coches, j)
+                break
+            end
+        end
+    end
+end
 ```
