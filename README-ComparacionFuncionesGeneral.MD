@@ -187,7 +187,15 @@ DiosGPT - actualizarColorTriangulo
 ```
 
 ```
+Telescopio - updateShootingStar
+```
 
+```
+
+Telescopio - updateTelescope
+```
+
+```
 Trompo - updateCircles
 ```
 
