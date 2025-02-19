@@ -1497,32 +1497,78 @@ end
 
 ### S3
 ```
-
+-- Mostrar la línea de nitro (cuando está activado)
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+    end
+end
 ```
 
 ### S4
 ```
-
+-- Mostrar la línea de nitro (cuando está activado)
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+    end
+end
 ```
 
 ### S5
 ```
-
+-- Mostrar la línea de nitro (cuando está activado)
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+    end
+end
 ```
 
 ### S6
 ```
-
+-- Mostrar la línea de nitro (cuando está activado)
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+    end
+end
 ```
 
 ### S8
 ```
-
+-- Dibujar efectos de nitro
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x - effect_length, car_y - camera_y + 4, 12)
+        line(car_x - camera_x, car_y - camera_y + 2, car_x - camera_x - effect_length, car_y - camera_y + 2, 12)
+    end
+end
 ```
 
 ### S9
 ```
-
+-- Mostrar la línea de nitro (cuando está activado)
+function draw_nitro_effect()
+    if nitro_active then
+        local effect_length = 15
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x - effect_length, car_y - camera_y + 4, 12)
+        line(car_x - camera_x, car_y - camera_y + 2, car_x - camera_x - effect_length, car_y - camera_y + 2, 12)
+    end
+end
 ```
 
 ## drawRamp
