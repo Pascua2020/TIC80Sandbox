@@ -150,6 +150,42 @@ Trompo - updateRainbowPoints
 
 ## Todos los Draw
 
+Climatologia - drawLeaves
+```
+
+```
+
+Climatologia - drawLightning
+```
+
+```
+
+Climatologia - drawLightningEffect
+```
+
+```
+
+Climatologia - drawMenu
+```
+
+```
+
+Climatologia - drawRaindrops
+```
+
+```
+
+Climatologia - drawSnowflakes
+```
+
+```
+
+Climatologia - drawWind
+```
+
+```
+
+
 Pinball - drawPaddle
 ```
 
