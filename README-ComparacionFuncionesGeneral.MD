@@ -358,46 +358,120 @@ end
 
 DiosGPT - actualizarColorTriangulo
 ```
-
+-- Función para actualizar el color del triángulo a cada segundo (arcoíris)
+function actualizar_color_triangulo()
+    local t = time() / 40 -- Obtiene el tiempo actual en segundos
+    local colores = {0,1,2,3,4,5,6,7,8,9,10,11, 12, 13, 14, 15, 8}  -- Colores para el arcoíris (puedes ajustarlos)
+    color_triangulo = colores[math.floor(t) % #colores + 1]  -- Cambiar el color cada segundo
+end
 ```
 Jetpack - updateSparks
 ```
-
+function update_sparks()
+    for i = #p.sparks, 1, -1 do
+        local s = p.sparks[i]
+        s.x = s.x + s.dx
+        s.y = s.y + s.dy
+        s.life = s.life - 1
+        if s.life <= 0 then
+            table.remove(p.sparks, i)
+        end
+    end
+end
 ```
 Telescopio - updateShootingStar
 ```
+function update_shooting_star()
+    -- Agregar la posición actual a la cola
+    table.insert(shooting_star.trail, 1, {x = shooting_star.x, y = shooting_star.y})
 
+    -- Limitar la longitud de la cola
+    if #shooting_star.trail > 10 then
+        table.remove(shooting_star.trail)
+    end
+
+    -- Mueve la estrella fugaz de derecha a izquierda
+    shooting_star.x = shooting_star.x - 3
+    shooting_star.y = shooting_star.y + 1
+
+    -- Si la estrella fugaz sale de la pantalla, reiníciala
+    if shooting_star.x < 0 or shooting_star.y > 135 then
+        shooting_star.x = 240
+        shooting_star.y = math.random(0, 50)
+        shooting_star.trail = {} -- Reinicia la cola
+    end
+end
 ```
 
 Telescopio - updateTelescope
 ```
-
+function update_telescope()
+    -- Controlar el movimiento de la mira con las teclas de dirección
+    if btn(0) then telescope.y = math.max(telescope.y - 2, telescope.radius) end -- Arriba
+    if btn(1) then telescope.y = math.min(telescope.y + 2, 135 - telescope.radius) end -- Abajo
+    if btn(2) then telescope.x = math.max(telescope.x - 2, telescope.radius) end -- Izquierda
+    if btn(3) then telescope.x = math.min(telescope.x + 2, 239 - telescope.radius) end -- Derecha
+end
 ```
 Trompo - updateCircles
 ```
-
+function update_circles()
+    for _, circle in ipairs(circles) do
+        circle.x = circle.x + math.random(-1, 1)
+        circle.y = circle.y + math.random(-1, 1)
+    end
+end
 ```
 
 Trompo - updateParticles
 ```
-
+function update_particles()
+    for i = #particles, 1, -1 do
+        local p = particles[i]
+        p.x = p.x + p.dx
+        p.y = p.y + p.dy
+        p.life = p.life - 1
+        if p.life <= 0 then
+            table.remove(particles, i)
+        end
+    end
+end
 ```
 
 Trompo - updateRainbowPoints
 ```
-
+function update_rainbow_points()
+    for _, point in ipairs(rainbow_points) do
+        point.timer = point.timer + 1
+        point.color = (point.color + 1) % 16  -- Cambiar de color con el tiempo
+    end
+end
 ```
 
 ## Todos los Draw / Dibujar
 
 Baile - dibujarBase
 ```
-
+-- Dibujar flechas fijas de referencia
+function dibujar_base()
+    for i, x in ipairs(posiciones) do
+        if flechas_estaticas[i] then
+            spr(48 + i - 1, x, 16, 0, 2) -- Flechas de color al presionar el botón
+        else
+            spr(16 + i - 1, x, 16, 0, 2) -- Flechas fijas en la parte superior
+        end
+    end
+end
 ```
 
 Baile - dibujarCancion
 ```
-
+-- Dibujar la frase de la canción en la pantalla
+function dibujar_cancion()
+				print("Artista : DiosGPT",10,100,3)
+				print("Cancion : Romance IA - Marciano \n(Album xxIAxx : 2025)",10,110,3)
+    print(frases_cancion[indice_frase], 10, 125, 7) -- Dibuja la frase en la parte inferior
+end
 ```
 
 Baile - dibujarEstrellas
