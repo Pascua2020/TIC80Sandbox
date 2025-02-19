@@ -643,37 +643,544 @@ end
 
 ### S1
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if not player_in_car then
+                objective_status = "failed" -- Cambiar a misión fallida si el jugador no está en el coche
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del jugador
+        move_player()
+
+        -- Detecta si el jugador llega al coche
+        if player_x >= car_x - 8 and player_x <= car_x + 8 and
+           player_y >= car_y - 8 and player_y <= car_y + 8 then
+            if btnp(5) then -- Botón B para subirse
+                player_in_car = true
+                objective_status = "complete" -- Objetivo 1-1 cumplido
+                game_state = "in_car"
+            end
+        end
+    elseif game_state == "in_car" then
+        draw_text_multiline_with_bg("¡Estás en el coche! Conduce usando las flechas.", 8, 8, 11, 0, 200)
+        move_car()
+    elseif game_state == "finished" then
+        if player_in_car then
+            print("¡Te subiste al coche a tiempo! Misión cumplida.", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-1
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-1: súbete al coche.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-1 cumplido.", 0, 80, 12, 6, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-1: misión fallida.", 0, 80, 12, 2, 150)
+    end
+
+    -- Dibuja los sprites
+    if not player_in_car then
+        spr(2, player_x - camera_x, player_y - camera_y,0) -- Jugador (id 2)
+    end
+    spr(1, stacchotta_x - camera_x, stacchotta_y - camera_y,0) -- Silvestre Stacchotta
+    spr(48, car_x - camera_x, car_y - camera_y,0) -- Coche
+end
 ```
 
 ### S2
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed" -- Cambiar a misión fallida si no chocaste las cajas
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del coche
+        move_car()
+        check_collisions()
+
+        -- Verificar si todas las cajas han sido chocadas
+        local all_boxes_hit = true
+        for _, box in ipairs(boxes) do
+            if box.active then
+                all_boxes_hit = false
+                break
+            end
+        end
+        if all_boxes_hit then
+            objective_status = "complete"
+            game_state = "finished"
+        end
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Chocaste todas las cajas! Misión cumplida.", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-2 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-2: choca todas las cajas.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-2 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-2: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibuja los sprites
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+
+    -- Dibujar cajas y partículas
+    draw_boxes()
+    update_and_draw_particles()
+end
 ```
 
 ### S3
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed" -- Cambiar a misión fallida si no llegaste al checkpoint
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del coche
+        move_car()
+        check_collisions()
+
+        -- Verificar si el coche llegó al checkpoint
+        if check_checkpoint_collision() and objective_status == "incomplete" then
+            objective_status = "complete"
+            game_state = "finished"
+        end
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Llegaste al checkpoint! Misión cumplida.", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-3 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-3: llegar al checkpoint en 10 segundos.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-3 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-3: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibuja los sprites
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+
+    -- Dibujar cajas, partículas y checkpoint
+    draw_boxes()
+    update_and_draw_particles()
+    draw_checkpoint() -- Dibuja el checkpoint en la pantalla
+
+    -- Dibujar el efecto del nitro
+    draw_nitro_effect()
+end
 ```
 
 ### S4
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed" -- Cambiar a misión fallida si no destruíste la caja
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del coche
+        move_car()
+        shoot_bullet() -- Disparar balas
+        check_bullet_collisions() -- Comprobar colisiones con la caja
+        update_bullets() -- Actualizar balas
+
+        -- Verificar si la caja ha sido destruida
+        if box.health <= 0 then
+            box.active = false
+            objective_status = "complete"
+            game_state = "finished"
+        end
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Caja destruida! Misión cumplida.", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-4 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-4: destruir la caja en 10 segundos.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-4 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-4: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibuja los sprites
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+
+    -- Dibujar la caja, balas, partículas y checkpoint
+    draw_box()
+    draw_bullets()
+    update_and_draw_particles()
+
+    -- Dibujar el efecto del nitro
+    draw_nitro_effect()
+end
 ```
 
 ### S5
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed" -- Cambiar a misión fallida si no se salta
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del coche y comprobaciones
+        move_car()
+        check_ramp_collision()
+        handle_jump()
+
+        -- Verificar si el coche ha saltado sobre la rampa
+        if car_x > ramp.x + 32 and jumping then
+            objective_status = "complete"
+            game_state = "finished"
+        end
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Salto exitoso! Misión cumplida.", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-5 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-5: saltar sobre la rampa en 10 segundos.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-5 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-5: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibujar el coche, la rampa y efectos
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    draw_ramp()
+    draw_nitro_effect()
+end
 ```
 
 ### S6
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed" -- Cambiar a misión fallida si no esquiva coches
+            end
+            game_state = "finished"
+        end
+
+        -- Movimiento del coche y comprobaciones
+        move_car()
+
+        -- Verificar si el coche ha esquivado coches por 5 segundos
+        if not check_car_collision() then
+            time_avoided = time_avoided + 1 / 60 -- Aumenta el tiempo de esquive
+            if time_avoided >= 5 then
+                objective_status = "complete"
+            end
+        else
+            time_avoided = 0 -- Reinicia el contador si hubo colisión
+        end
+
+        handle_jump()
+
+        -- Crear y mover los coches enemigos
+        spawn_car()
+        draw_cars()
+
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Misión completada!", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-6 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-6: esquivar coches durante 5 segundos.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-6 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-6: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibujar el coche, la rampa y efectos
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    draw_ramp()
+    draw_nitro_effect()
+end
 ```
 
 ### S7
 ```
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para comenzar el diálogo
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
+        if btnp(4) then -- Botón A para avanzar diálogo
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        -- Mostrar el contador en la parte superior derecha
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            -- Solo verificar la condición de victoria si el tiempo se agotó
+            if objective_status == "complete" then
+                game_state = "finished" -- Misión completada
+            else
+                game_state = "finished" -- Misión fallida si el objetivo no se completó
+            end
+        end
+
+        -- Movimiento del coche y comprobaciones
+        move_car()
+
+        -- Comprobar si el jugador ha perdido el rastro del coche
+        if check_target_car_lost() then
+            objective_status = "failed" -- Misión fallida si el coche objetivo se pierde
+            game_state = "finished"
+        end
+
+        -- Dibujar el rango de persecución alrededor del coche objetivo
+        draw_follow_range()
+
+        -- Comprobar si el coche del jugador está tocando el círculo de persecución
+        local distance_to_target = math.sqrt((car_x - target_car.x)^2 + (car_y - target_car.y)^2)
+        if distance_to_target <= follow_range then
+            -- Si el coche está tocando el círculo, marcar como completado **solo si el tiempo ya ha pasado**
+            if countdown <= 0 then
+                objective_status = "complete" -- Misión completada
+            end
+        end
+
+        -- Dibujar el coche a perseguir
+        draw_target_car()
+
+    elseif game_state == "finished" then
+        -- Verificar el estado de la misión al final
+        if objective_status == "complete" then
+            print("¡Misión completada!", 10 - camera_x, 10 - camera_y, 11)
+        else
+            print("¡Se acabó el tiempo! Misión fallida.", 10 - camera_x, 10 - camera_y, 6)
+        end
+    end
+
+    -- Mostrar objetivo 1-7 con colores
+    if objective_status == "incomplete" then
+        draw_text_multiline_with_bg("Objetivo 1-7: Perseguir el coche durante 10 segundos.", 0, 80, 12, 4, 150)
+    elseif objective_status == "complete" then
+        draw_text_multiline_with_bg("Objetivo 1-7 cumplido.", 0, 80, 11, 3, 150)
+    elseif objective_status == "failed" then
+        draw_text_multiline_with_bg("Objetivo 1-7: misión fallida.", 0, 80, 6, 2, 150)
+    end
+
+    -- Dibujar el coche, la rampa y efectos
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+end
 ```
 
 ### S8
