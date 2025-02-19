@@ -64,15 +64,12 @@ function move_car()
     if btn(2) then car_x = car_x - car_speed end 
     if btn(3) then car_x = car_x + car_speed end 
 
-    -- Activar nitro si el botón adecuado es presionado
     if btn(4) then
         nitro_active = true
         car_speed = 6 
--- Aumenta la velocidad del coche cuando se activa el nitro
     else
         nitro_active = false
         car_speed = 3 
--- Restablece la velocidad normal
     end
 end
 ```
@@ -86,15 +83,12 @@ function move_car()
         if btn(2) then car_x = car_x - car_speed end 
         if btn(3) then car_x = car_x + car_speed end 
 
-        -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
             car_speed = 6 
--- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
             car_speed = 3 
--- Restablece la velocidad normal
         end
     end
 end
@@ -109,15 +103,12 @@ function move_car()
         if btn(2) then car_x = car_x - car_speed end 
         if btn(3) then car_x = car_x + car_speed end 
 
-        -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
             car_speed = 6 
--- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
             car_speed = 3 
--- Restablece la velocidad normal
         end
     end
 end
@@ -132,15 +123,12 @@ function move_car()
         if btn(2) then car_x = car_x - car_speed end 
         if btn(3) then car_x = car_x + car_speed end 
 
-        -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
             car_speed = 6 
--- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
             car_speed = 3 
--- Restablece la velocidad normal
         end
     end
 end
@@ -177,11 +165,9 @@ function move_car()
         if btn(4) then
             nitro_active = true
             car_speed = 6 
--- Velocidad aumentada con nitro
         else
             nitro_active = false
             car_speed = 3 
--- Velocidad normal
         end
     end
 end
@@ -198,11 +184,9 @@ function move_car()
     if btn(4) then
         nitro_active = true
         car_speed = 6 
--- Velocidad aumentada con nitro
     else
         nitro_active = false
         car_speed = 3 
--- Velocidad normal
     end
 end
 ```
