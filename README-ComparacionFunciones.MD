@@ -212,26 +212,18 @@ end
 ```
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
--- Flecha arriba
     if btn(1) then y_personaje = y_personaje + velocidad end  
--- Flecha abajo
     if btn(2) then x_personaje = x_personaje - velocidad end  
--- Flecha izquierda
     if btn(3) then x_personaje = x_personaje + velocidad end  
--- Flecha derecha
 end
 ```
 ### Puño
 ```
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
--- Flecha arriba
     if btn(1) then y_personaje = y_personaje + velocidad end  
--- Flecha abajo
     if btn(2) then x_personaje = x_personaje - velocidad end  
--- Flecha izquierda
     if btn(3) then x_personaje = x_personaje + velocidad end  
--- Flecha derecha
 end
 ```
 ### Katana
@@ -247,39 +239,27 @@ end
 ```
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
--- Flecha arriba
     if btn(1) then y_personaje = y_personaje + velocidad end  
--- Flecha abajo
     if btn(2) then x_personaje = x_personaje - velocidad end  
--- Flecha izquierda
     if btn(3) then x_personaje = x_personaje + velocidad end  
--- Flecha derecha
 end
 ```
 ### Granada
 ```
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
--- Flecha arriba
     if btn(1) then y_personaje = y_personaje + velocidad end  
--- Flecha abajo
     if btn(2) then x_personaje = x_personaje - velocidad end  
--- Flecha izquierda
     if btn(3) then x_personaje = x_personaje + velocidad end  
--- Flecha derecha
 end
 ```
 ### Escopeta
 ```
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
--- Flecha arriba
     if btn(1) then y_personaje = y_personaje + velocidad end  
--- Flecha abajo
     if btn(2) then x_personaje = x_personaje - velocidad end  
--- Flecha izquierda
     if btn(3) then x_personaje = x_personaje + velocidad end  
--- Flecha derecha
 end
 ```
 ### Minigun
@@ -335,7 +315,6 @@ end
 
 ### AK47
 ```
--- Función para agregar coches aleatorios
 function agregar_coches()
     if math.random(1, 100) > 98 then  
 -- Asegura que los coches aparezcan raramente
@@ -347,7 +326,6 @@ end
 
 ### Bazooka
 ```
--- Función para agregar más coches aleatorios
 function agregar_coches()
     if math.random(1, 100) > 95 then  
 -- Asegura que los coches aparezcan con mayor frecuencia
@@ -359,7 +337,6 @@ end
 
 ### Granada
 ```
--- Función para agregar más coches aleatorios
 function agregar_coches()
     if math.random(1, 100) > 95 then  
 -- Asegura que los coches aparezcan con mayor frecuencia
@@ -371,7 +348,6 @@ end
 
 ### Escopeta
 ```
--- Función para agregar coches aleatorios
 function agregar_coches()
     if math.random(1, 100) > 98 then  
 -- Asegura que los coches aparezcan raramente
