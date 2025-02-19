@@ -25,7 +25,8 @@ function print_rainbow(text, x, y)
         local char = text:sub(i, i)
         local color = rainbow_colors[(color_index % #rainbow_colors) + 1]
         print(char, x, y, color)
-        x = x + 6 -- Avanzar posición horizontal
+        x = x + 6 
+-- Avanzar posición horizontal
         color_index = color_index + 1
     end
 end
@@ -41,7 +42,8 @@ function dibujar_texto_arcoiris(texto, x, y, color_seleccionado)
         local color = (t // 5 + i) % 16  -- Efecto arcoíris
         -- Resaltar la opción seleccionada en azul
         if color_seleccionado then
-            color = 12  -- Azul
+            color = 12  
+-- Azul
         end
         print(letra, x + (i - 1) * 6, y, color)
     end
@@ -82,13 +84,17 @@ function dibujar_rectangulo_arcoiris(x, y, w, h)
     for i = 0, 3 do
         local color = (color_arcoiris + i) % 16
         if i == 0 then
-            line(x + i, y, x + w - i, y, color) -- Línea superior
+            line(x + i, y, x + w - i, y, color) 
+-- Línea superior
         elseif i == 1 then
-            line(x + i, y + h, x + w - i, y + h, color) -- Línea inferior
+            line(x + i, y + h, x + w - i, y + h, color) 
+-- Línea inferior
         elseif i == 2 then
-            line(x, y + i, x, y + h - i, color) -- Línea izquierda
+            line(x, y + i, x, y + h - i, color) 
+-- Línea izquierda
         else
-            line(x + w, y + i, x + w, y + h - i, color) -- Línea derecha
+            line(x + w, y + i, x + w, y + h - i, color) 
+-- Línea derecha
         end
     end
 end
@@ -112,13 +118,18 @@ Baile - verificarInput
 function verificar_input()
     for _, flecha in ipairs(flechas) do
         if flecha.activa and flecha.y >= 16 and flecha.y <= 32 then
-            if (btnp(2) and flecha.tipo == 1) or -- ←
-               (btnp(3) and flecha.tipo == 4) or -- →
-               (btnp(1) and flecha.tipo == 3) or -- ↑
-               (btnp(0) and flecha.tipo == 2) then -- ↓
+            if (btnp(2) and flecha.tipo == 1) or 
+-- ←
+               (btnp(3) and flecha.tipo == 4) or 
+-- →
+               (btnp(1) and flecha.tipo == 3) or 
+-- ↑
+               (btnp(0) and flecha.tipo == 2) then 
+-- ↓
                 flecha.activa = false
                 flecha.acertada = true
-                flecha.tiempo_acertada = 15 -- Duración del efecto en cuadros
+                flecha.tiempo_acertada = 15 
+-- Duración del efecto en cuadros
                 puntuacion = puntuacion + 10 + combo * 2
                 combo = combo + 1
             end
@@ -241,10 +252,14 @@ Baile - ActualizarFlechasEstaticas
 ```
 -- Verificar botones para cambiar color de flechas estáticas
 function actualizar_flechas_estaticas()
-    if btnp(2) then flechas_estaticas[1] = true end -- ←
-    if btnp(0) then flechas_estaticas[2] = true end -- ↓
-    if btnp(1) then flechas_estaticas[3] = true end -- ↑
-    if btnp(3) then flechas_estaticas[4] = true end -- →
+    if btnp(2) then flechas_estaticas[1] = true end 
+-- ←
+    if btnp(0) then flechas_estaticas[2] = true end 
+-- ↓
+    if btnp(1) then flechas_estaticas[3] = true end 
+-- ↑
+    if btnp(3) then flechas_estaticas[4] = true end 
+-- →
 end
 ```
 
