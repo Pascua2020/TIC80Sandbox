@@ -6,14 +6,16 @@
 ```
 -- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)  
+-- Dibujar el sprite del personaje
 end
 ```
 ### AK47
 ```
 -- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)  
+-- Dibujar el sprite del personaje
 end
 ```
 ### Puño
@@ -34,21 +36,24 @@ end
 ```
 -- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)  
+-- Dibujar el sprite del personaje
 end
 ```
 ### Granada
 ```
 -- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)  
+-- Dibujar el sprite del personaje
 end
 ```
 ### Escopeta
 ```
 -- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)  
+-- Dibujar el sprite del personaje
 end
 ```
 ### Minigun
@@ -115,7 +120,8 @@ end
 -- Función para recargar el AK-47
 function recargar()
     if btnp(4) then
-        numero_cartuchos = 30  -- Restablecer las balas a 30
+        numero_cartuchos = 30  
+-- Restablecer las balas a 30
     end
 end
 ```
@@ -124,7 +130,8 @@ end
 -- Función para recargar los golpes (restablecer)
 function recargar()
     if btnp(4) then
-        numero_golpes = 30  -- Restablecer los golpes a 30
+        numero_golpes = 30  
+-- Restablecer los golpes a 30
     end
 end
 ```
@@ -133,7 +140,8 @@ end
 -- Función para recargar la bazooka
 function recargar()
     if btnp(4) then
-        numero_cartuchos = 5  -- Restablecer los cartuchos a 5
+        numero_cartuchos = 5  
+-- Restablecer los cartuchos a 5
     end
 end
 ```
@@ -142,7 +150,8 @@ end
 -- Función para recargar las granadas
 function recargar()
     if btnp(4) then
-        numero_granadas = 5  -- Restablecer las granadas a 5
+        numero_granadas = 5  
+-- Restablecer las granadas a 5
     end
 end
 ```
@@ -151,7 +160,8 @@ end
 -- Función para recargar la escopeta
 function recargar()
     if btnp(4) then
-        numero_cartuchos = 5  -- Restablecer los cartuchos a 5
+        numero_cartuchos = 5  
+-- Restablecer los cartuchos a 5
     end
 end
 ```
@@ -199,26 +209,34 @@ end
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Pistola
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then  -- Flecha arriba
+    if btn(0) then  
+-- Flecha arriba
         y_personaje = y_personaje - velocidad
     end
-    if btn(1) then  -- Flecha abajo
+    if btn(1) then  
+-- Flecha abajo
         y_personaje = y_personaje + velocidad
     end
-    if btn(2) then  -- Flecha izquierda
+    if btn(2) then  
+-- Flecha izquierda
         x_personaje = x_personaje - velocidad
     end
-    if btn(3) then  -- Flecha derecha
+    if btn(3) then  
+-- Flecha derecha
         x_personaje = x_personaje + velocidad
     end
 end
@@ -227,20 +245,28 @@ end
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Puño
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Katana
@@ -257,30 +283,42 @@ end
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Granada
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Escopeta
 ```
 -- Función para mover el personaje
 function mover_personaje()
-    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
-    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
-    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
-    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+    if btn(0) then y_personaje = y_personaje - velocidad end  
+-- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  
+-- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  
+-- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  
+-- Flecha derecha
 end
 ```
 ### Minigun
@@ -330,8 +368,10 @@ end
 ```
 -- Función para agregar más coches aleatorios
 function agregar_coches()
-    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
-        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    if math.random(1, 100) > 95 then  
+-- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  
+-- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -340,8 +380,10 @@ end
 ```
 -- Función para agregar coches aleatorios
 function agregar_coches()
-    if math.random(1, 100) > 98 then  -- Asegura que los coches aparezcan raramente
-        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    if math.random(1, 100) > 98 then  
+-- Asegura que los coches aparezcan raramente
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  
+-- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -350,8 +392,10 @@ end
 ```
 -- Función para agregar más coches aleatorios
 function agregar_coches()
-    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
-        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    if math.random(1, 100) > 95 then  
+-- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  
+-- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -360,8 +404,10 @@ end
 ```
 -- Función para agregar más coches aleatorios
 function agregar_coches()
-    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
-        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    if math.random(1, 100) > 95 then  
+-- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  
+-- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -370,8 +416,10 @@ end
 ```
 -- Función para agregar coches aleatorios
 function agregar_coches()
-    if math.random(1, 100) > 98 then  -- Asegura que los coches aparezcan raramente
-        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    if math.random(1, 100) > 98 then  
+-- Asegura que los coches aparezcan raramente
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  
+-- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -383,8 +431,10 @@ end
 -- Función para dibujar los coches
 function dibujar_coches()
     for i, coche in ipairs(coches) do
-        if not coche.colisionado then  -- Solo dibujar coches que no hayan colisionado
-            spr(48, coche.x, coche.y)  -- Dibujar el sprite del coche (id = 48)
+        if not coche.colisionado then  
+-- Solo dibujar coches que no hayan colisionado
+            spr(48, coche.x, coche.y)  
+-- Dibujar el sprite del coche (id = 48)
         end
     end
 end
@@ -395,7 +445,8 @@ end
 -- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
-        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+        spr(48, coche.x, coche.y)  
+-- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -405,7 +456,8 @@ end
 -- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
-        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+        spr(48, coche.x, coche.y)  
+-- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -415,7 +467,8 @@ end
 -- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
-        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+        spr(48, coche.x, coche.y)  
+-- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -425,7 +478,8 @@ end
 -- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
-        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+        spr(48, coche.x, coche.y)  
+-- Dibujar cada coche con sprite id 48
     end
 end
 ```
