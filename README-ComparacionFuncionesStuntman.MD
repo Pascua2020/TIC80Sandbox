@@ -1546,12 +1546,8 @@ end
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
-        
--- Dibujar las dos líneas azules detrás del coche, a la izquierda
         line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
--- Línea azul izquierda
         line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
--- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1562,11 +1558,8 @@ function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
         
--- Dibujar las dos líneas azules detrás del coche, a la izquierda
         line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
--- Línea azul izquierda
         line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
--- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1577,11 +1570,8 @@ function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
         
--- Dibujar las dos líneas azules detrás del coche, a la izquierda
         line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
--- Línea azul izquierda
         line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
--- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1621,30 +1611,22 @@ end
 
 ### S6
 ```
--- Dibujar la rampa
 function draw_ramp()
     spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
--- Sprite de la rampa
 end
 ```
 
 ### S8
 ```
--- Dibujar la rampa
 function draw_ramp()
-    
--- Dibuja la rampa con un sprite específico. Aquí, el sprite 5 es un ejemplo.
     spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
--- Sprite de la rampa
 end
 ```
 
 ### S9
 ```
--- Dibujar la rampa
 function draw_ramp()
     spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
--- Sprite de la rampa
 end
 ```
 
@@ -1665,7 +1647,6 @@ end
 
 ### S8
 ```
--- Comprobar colisión con la rampa (igual que antes)
 function check_ramp_collision()
     if not jumping and
        car_x + 8 >= ramp.x and car_x <= ramp.x + 16 and
@@ -1678,7 +1659,6 @@ end
 
 ### S9
 ```
--- Comprobar colisión con la rampa
 function check_ramp_collision()
     if not jumping and
        car_x + 8 >= ramp.x and car_x <= ramp.x + 16 and
@@ -1709,13 +1689,11 @@ end
 ```
 ### S4
 ```
--- Comprobar si el coche ha pasado por el checkpoint (con un círculo)
 function check_checkpoint_collision()
     local checkpoint_x = 300
     local checkpoint_y = 100
     local checkpoint_radius = 8
 
-    -- Verificar si el coche ha superado el círculo del checkpoint
     local dist = math.sqrt((car_x - checkpoint_x)^2 + (car_y - checkpoint_y)^2)
     if dist <= checkpoint_radius then
         return true
@@ -1741,11 +1719,10 @@ end
 
 ### S3
 ```
--- Dibujar cajas
 function draw_boxes()
     for _, box in ipairs(boxes) do
         if box.active then
-            spr(3, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 3)
+            spr(3, box.x - camera_x, box.y - camera_y, 0)
         end
     end
 end
@@ -1753,11 +1730,9 @@ end
 
 ### S4
 ```
--- Dibujar la caja
 function draw_box()
     if box.active then
         spr(4, box.x - camera_x, box.y - camera_y, 0) 
--- Caja (id 4)
     end
 end
 ```
