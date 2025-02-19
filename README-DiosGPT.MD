@@ -39,7 +39,8 @@ icono_tamano = 10
 colores=2
 
 10
-color_triangulo = 10  -- Inicialmente en un color
+color_triangulo = 10  
+-- Inicialmente en un color
 
 11
 mensaje_respuesta = ""
@@ -54,10 +55,12 @@ mensaje_final = "¿Algo más para ayudarte, lince de las praderas de Kursk?"
 mostrar_menu = false
 
 15
-opcion_seleccionada = 1  -- Por defecto, la opción 001 estará seleccionada
+opcion_seleccionada = 1  
+-- Por defecto, la opción 001 estará seleccionada
 
 16
-pagina_actual = 1  -- Página 1 muestra de 001 a 005, Página 2 muestra de 006 a 010
+pagina_actual = 1  
+-- Página 1 muestra de 001 a 005, Página 2 muestra de 006 a 010
 
 17
 app_abierta = false
