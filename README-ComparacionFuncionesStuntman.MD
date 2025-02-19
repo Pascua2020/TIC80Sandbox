@@ -194,58 +194,97 @@ end
 
 ### S1
 ```
-
+-- Movimiento del jugador
+function move_player()
+    if btn(0) then player_y = player_y - player_speed end -- Arriba
+    if btn(1) then player_y = player_y + player_speed end -- Abajo
+    if btn(2) then player_x = player_x - player_speed end -- Izquierda
+    if btn(3) then player_x = player_x + player_speed end -- Derecha
+end
 ```
 
 ### S10
 ```
-
+-- Movimiento del jugador
+function move_player()
+    if btn(0) then player_y = player_y - player_speed end -- Arriba
+    if btn(1) then player_y = player_y + player_speed end -- Abajo
+    if btn(2) then player_x = player_x - player_speed end -- Izquierda
+    if btn(3) then player_x = player_x + player_speed end -- Derecha
+end
 ```
 
 ## nuevaCamara
 
 ### S1
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S2
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S3
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S4
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S5
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S6
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S7
 ```
-
+-- Simulación de cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ### S8
 ```
-
+-- Actualizar cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 ### S9
 ```
-
+-- Actualizar cámara
+function nueva_camara(x, y)
+    camera_x, camera_y = x, y
+end
 ```
 
 ## updateCamera
