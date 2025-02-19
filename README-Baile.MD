@@ -39,13 +39,16 @@ Simula ser una Lluvia de Estrellas.
 - Variables principales
 
 1
-flechas = {} -- Lista de flechas
+flechas = {} 
+-- Lista de flechas
 
 2
-tiempo_generacion = 60 -- Intervalo de generación
+tiempo_generacion = 60 
+-- Intervalo de generación
 
 3
-temporizador = 0 -- Temporizador para crear flechas
+temporizador = 0 
+-- Temporizador para crear flechas
 
 4
 ancho_flecha = 16
@@ -54,7 +57,8 @@ ancho_flecha = 16
 alto_flecha = 16
 
 6
-posiciones = {40, 80, 120, 160} -- Posiciones X para las flechas (←, ↓, ↑, →)
+posiciones = {40, 80, 120, 160} 
+-- Posiciones X para las flechas (←, ↓, ↑, →)
 
 7
 puntuacion = 0
@@ -96,7 +100,8 @@ indice_frase = 1
 tiempo_frase = 0
 
 17
-cambio_frase_intervalo = 240 -- Cambia la frase cada 4 segundos (60 FPS * 4 segundos) 
+cambio_frase_intervalo = 240 
+-- Cambia la frase cada 4 segundos (60 FPS * 4 segundos) 
 
 -- Estados de las flechas estáticas
 18
