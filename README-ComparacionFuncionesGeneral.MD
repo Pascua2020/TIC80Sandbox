@@ -1,6 +1,6 @@
 ## EfectosArcoiris
 
-Teclado2
+Teclado2 - 
 PrintRainbow
 
 ```
@@ -14,7 +14,7 @@ function print_rainbow(text, x, y)
 end
 ```
 
-Wiki
+Wiki - 
 PrintRainbow
 
 ```
@@ -31,7 +31,7 @@ function print_rainbow(text, x, y)
 end
 ```
 
-MenuPausa
+MenuPausa - 
 DibujarTextoArcoiris
 ```
 -- Función para dibujar texto con efecto arcoíris
@@ -48,7 +48,7 @@ function dibujar_texto_arcoiris(texto, x, y, color_seleccionado)
 end
 ```
 
-Inicio
+Inicio - 
 DibujarTextoArcoiris
 ```
 -- Función para dibujar texto con efecto arcoíris
@@ -61,7 +61,7 @@ function dibujar_texto_arcoiris(texto, x, y)
 end
 ```
 
-Creditos
+Creditos - 
 DibujarTextoArcoiris
 ```
 -- Función para dibujar texto con efecto arcoíris
@@ -74,7 +74,7 @@ function dibujar_texto_arcoiris(texto, x, y)
 end
 ```
 
-GT
+GT - 
 DibujarRectanguloArcoiris
 ```
 -- Función para dibujar rectángulos con bordes arcoíris
