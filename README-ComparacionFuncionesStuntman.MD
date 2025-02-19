@@ -335,25 +335,40 @@ end
 
 ### S6
 ```
-
+-- Actualizar cámara
+function update_camera()
+    nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
+end
 ```
 
 ### S7
 ```
-
+function update_camera()
+    nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
+end
 ```
 
 ### S8
 ```
-
+function update_camera()
+    nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
+end
 ```
 ### S9
 ```
-
+function update_camera()
+    nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
+end
 ```
 ### S10
 ```
-
+function update_camera()
+    if in_car then
+        camera_x, camera_y = car_x - 120, car_y - 68 -- Centra la cámara en el coche
+    else
+        camera_x, camera_y = player_x - 120, player_y - 68 -- Centra la cámara en el jugador
+    end
+end
 ```
 
 ## drawTextMultilineWithBG
