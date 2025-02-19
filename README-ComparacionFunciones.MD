@@ -1190,7 +1190,8 @@ function TIC()
     mover_personaje()
     disparar_minigun()
     mover_balas()
-    mover_y_dibujar_explosion()  -- Mover y dibujar las partículas de la explosión
+    mover_y_dibujar_explosion()  
+-- Mover y dibujar las partículas de la explosión
     dibujar_personaje()
     dibujar_balas()
     dibujar_enemigos()
@@ -1217,7 +1218,8 @@ function TIC()
     dibujar_granadas()
     dibujar_coches()
     dibujar_explosiones()
-    dibujar_mira_impacto()  -- Dibujar la mira de impacto
+    dibujar_mira_impacto()  
+-- Dibujar la mira de impacto
     mostrar_controles()
 
     -- Dibujar información de las granadas
@@ -1258,11 +1260,14 @@ function verificar_impactos()
         local disparo = disparos[i]
         for j = #coches, 1, -1 do
             local coche = coches[j]
-            -- Comprobar colisión entre disparo y coche
+            
+-- Comprobar colisión entre disparo y coche
             if disparo.x + 2 > coche.x and disparo.x < coche.x + 8 and disparo.y + 2 > coche.y and disparo.y < coche.y + 8 then
-                -- Crear una explosión en el lugar del impacto
+                
+-- Crear una explosión en el lugar del impacto
                 crear_explosion(coche.x, coche.y)
-                -- Eliminar disparo y coche
+                
+-- Eliminar disparo y coche
                 table.remove(disparos, i)
                 table.remove(coches, j)
                 break
@@ -1281,11 +1286,14 @@ function verificar_impactos()
         local disparo = disparos[i]
         for j = #coches, 1, -1 do
             local coche = coches[j]
-            -- Comprobar colisión entre disparo y coche
+            
+-- Comprobar colisión entre disparo y coche
             if disparo.x + 2 > coche.x and disparo.x < coche.x + 8 and disparo.y + 2 > coche.y and disparo.y < coche.y + 8 then
-                -- Crear una explosión en el lugar del impacto
+                
+-- Crear una explosión en el lugar del impacto
                 crear_explosion(coche.x, coche.y)
-                -- Eliminar disparo y coche
+                
+-- Eliminar disparo y coche
                 table.remove(disparos, i)
                 table.remove(coches, j)
                 break
@@ -1304,11 +1312,14 @@ function verificar_impactos()
         local granada = granadas[i]
         for j = #coches, 1, -1 do
             local coche = coches[j]
-            -- Comprobar colisión entre granada y coche
+            
+-- Comprobar colisión entre granada y coche
             if granada.x + 5 > coche.x and granada.x < coche.x + 8 and granada.y + 5 > coche.y and granada.y < coche.y + 8 then
-                -- Crear una explosión en el lugar del impacto
+                
+-- Crear una explosión en el lugar del impacto
                 crear_explosion(coche.x, coche.y)
-                -- Eliminar granada y coche
+                
+-- Eliminar granada y coche
                 table.remove(granadas, i)
                 table.remove(coches, j)
                 break
