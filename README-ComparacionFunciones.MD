@@ -788,42 +788,264 @@ function dibujar_explosion()
 end
 ```
 
-##TIC
+## TIC
 
 ### Todas
 
 ```
+-- Función TIC
+function TIC()
+    t = t + 1  -- Aumenta el contador de tiempo
 
+    -- Mover el personaje
+    mover_personaje()
+
+    -- Recargar y cambiar de arma
+    recargar()
+    cambiar_arma()
+
+    -- Disparar según el arma seleccionada
+    if arma_actual == 1 then
+        disparar_pistola()
+    elseif arma_actual == 2 then
+        disparar_ak47()
+    elseif arma_actual == 3 then
+        disparar_bazooka()
+    elseif arma_actual == 4 then
+        disparar_escopeta()
+    elseif arma_actual == 5 then
+        disparar_granada()
+    end
+
+    -- Mover disparos
+    mover_disparos()
+
+    -- Mover granadas
+    mover_granadas()
+
+    -- Mover coches
+    mover_coches()
+
+    -- Mover enemigos
+    mover_enemigos()
+
+    -- Agregar nuevos enemigos y coches con probabilidad
+    agregar_enemigos()
+    agregar_coches()
+
+    -- Dibujar personajes
+    cls()
+    spr(0, x_personaje, y_personaje)  -- Sprite del jugador (suponiendo que el sprite 0 es el del jugador)
+
+    -- Dibujar disparos
+    for i, disparo in ipairs(disparos) do
+        if disparo.tipo == "pistola" then
+            -- Píxel de disparo de la pistola
+           pix(disparo.x, disparo.y, 3, 3, 7) -- Cambiar color según el tipo de disparo
+        elseif disparo.tipo == "ak47" then
+            -- Píxel de disparo del AK47
+            pix(disparo.x, disparo.y, 4, 4, 8) 
+        elseif disparo.tipo == "bazooka" then
+            -- Píxel de disparo de la bazooka
+            rect(disparo.x, disparo.y, 6, 6, 9)  --
+        elseif disparo.tipo == "escopeta" then
+            -- Píxel de disparo de la escopeta
+           rect(disparo.x, disparo.y, 2, 2, 10)
+        end
+    end
+
+    -- Dibujar granadas
+    for i, granada in ipairs(granadas) do
+        -- Dibuja un píxel para representa br la granada
+        circ(granada.x, granada.y, 4,6)
+    end
+
+    -- Dibujar enemigos
+    for i, enemigo in ipairs(enemies) do
+        if enemigo.id == 48 then
+            -- Representación del enemigo con un sprite o píxel
+            spr(48, enemigo.x, enemigo.y)  -- Usar sprite ID 48 o el que corresponde
+        end
+    end
+
+    -- Mostrar frase
+    if t - tiempo_frase < 60 then  -- Mostrar la frase durante 1 segundo
+        print(frase_actual, 10, 10, 7)
+    end
+
+    -- Mostrar controles
+    mostrar_controles()
+
+    -- Mostrar información de armas y munición
+    print("Pistola: " .. numero_cartuchos_pistola, 10, 20, 7)
+    print("AK47: " .. numero_cartuchos_ak47, 10, 30, 7)
+    print("Bazooka: " .. numero_cartuchos_bazooka, 10, 40, 7)
+    print("Escopeta: " .. numero_cartuchos_escopeta, 10, 50, 7)
+    print("Granadas: " .. numero_granadas, 10, 60, 7)
+
+    -- Mostrar el arma actual
+    if arma_actual == 1 then
+        print("Arma: Pistola", 10, 70, 7)
+    elseif arma_actual == 2 then
+        print("Arma: AK47", 10, 70, 7)
+    elseif arma_actual == 3 then
+        print("Arma: Bazooka", 10, 70, 7)
+    elseif arma_actual == 4 then
+        print("Arma: Escopeta", 10, 70, 7)
+    elseif arma_actual == 5 then
+        print("Arma: Granada", 10, 70, 7)
+    end
+end
 ```
 
 ### Pistola
 ```
-
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_balanza()
+    mover_balanza()
+    detectar_colision()
+    mostrar_explosion()
+    mostrar_poder_jugador()  -- Mostrar el poder del jugador si corresponde
+    recargar()
+    dibujar_personaje()
+    dibujar_balanza()
+    dibujar_coches()
+    dibujar_pistola()
+    mostrar_frase()
+    mostrar_controles()
+    t = t + 1
+end
 ```
 
 ### Puño
 ```
+function TIC()
+    cls(0)
+    mover_personaje()
+    golpear()  -- Ejecutar la acción de golpear
+    mover_golpes()  -- Eliminar los golpes que ya no son visibles
+    recargar()
+    generar_coches()
+    mover_coches()
+    detectar_colisiones()
+    dibujar_personaje()  -- Dibujar al personaje
+    dibujar_golpes()  -- Dibujar los golpes (puños)
+    dibujar_explosiones()  -- Dibujar las explosiones
+    mostrar_controles()
 
+    -- Dibujar información de los golpes
+    print("Golpes: " .. numero_golpes, 10, 10, 7)
+    if t - tiempo_frase < 60 then
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+    end
+
+    -- Dibujar los coches
+    for _, coche in ipairs(coches) do
+        spr(48, coche.x, coche.y,0)  -- Dibujar el coche con sprite ID 48
+    end
+
+    -- Mover y dibujar partículas de explosión
+    mover_y_dibujar_particulas()
+
+    t = t + 1
+end
 ```
 
 ### Katana
 ```
-
+function TIC()
+    cls(0)  -- Limpiar pantalla
+    mover_personaje()
+    cortar_katana()
+    dibujar_personaje()
+    actualizar_cortes()
+    dibujar_enemigos()
+    actualizar_particulas()
+    t = t + 1
+end
 ```
 
 ### Escopeta
 ```
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_escopeta()
+    mover_disparos()
+    recargar()
+    agregar_coches()
+    mover_coches()
+    verificar_impactos()
+    dibujar_personaje()
+    dibujar_disparos()
+    dibujar_coches()
+    dibujar_explosiones()
+    mostrar_controles()
 
+    -- Dibujar información de la escopeta
+    print("Cartuchos: " .. numero_cartuchos, 10, 10, 7)
+    if t - tiempo_frase < 60 then
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+    end
+
+    t = t + 1
+end
 ```
 
 ### AK47
 ```
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_ak47()
+    mover_disparos()
+    recargar()
+    agregar_coches()
+    mover_coches()
+    verificar_impactos()
+    dibujar_personaje()
+    dibujar_disparos()
+    dibujar_coches()
+    dibujar_explosiones()
+    mostrar_controles()
 
+    -- Dibujar información del AK-47
+    print("Balas: " .. numero_cartuchos, 10, 10, 7)
+    if t - tiempo_frase < 60 then
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+    end
+
+    t = t + 1
+end
 ```
 
 ### Bazooka
 ```
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_bazooka()
+    mover_disparos()
+    recargar()
+    agregar_coches()
+    mover_coches()
+    verificar_impactos()
+    dibujar_personaje()
+    dibujar_disparos()
+    dibujar_coches()
+    dibujar_explosiones()
+    mostrar_controles()
 
+    -- Dibujar información de la bazooka
+    print("Cartuchos: " .. numero_cartuchos, 10, 10, 7)
+    if t - tiempo_frase < 60 then
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+    end
+
+    t = t + 1
+end
 ```
 
 ### Rifle
