@@ -150,6 +150,21 @@ Trompo - updateRainbowPoints
 
 ## Todos los Draw
 
+Pinball - drawPaddle
+```
+
+```
+
+Pinball - drawPaddleCollision
+```
+
+```
+
+Pinball - drawSpring
+```
+
+```
+
 Trompo - drawTimer
 ```
 
