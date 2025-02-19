@@ -675,7 +675,6 @@ end
 
 ### Bazooka
 ```
- (más violenta y con más colores)
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
