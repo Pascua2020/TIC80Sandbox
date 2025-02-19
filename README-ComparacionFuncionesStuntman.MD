@@ -1185,15 +1185,201 @@ end
 
 ### S8
 ```
+-- Bucle principal TIC
+function TIC()
+    cls(0)
 
+    update_camera()
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    if game_state == "mission_intro" then
+        print(mission_description, 8, 8, 12)
+        if btnp(4) then
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        print(dialogue[dialogue_index], 8, 8, 12)
+        if btnp(4) then
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed"
+            end
+            game_state = "finished"
+        end
+
+        move_car()
+        check_ramp_collision()
+        handle_jump()
+        check_hoop_collision()
+        update_hoop()
+        update_particles()
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Misión cumplida! Saltaste correctamente.", 10, 10, 11)
+        else
+            print("¡Fallaste! Tocaste el aro en llamas.", 10, 10, 6)
+        end
+    end
+
+    spr(48, car_x - camera_x, car_y - camera_y, 0)
+    draw_ramp()
+    draw_hoop()
+    draw_nitro_effect()
+    draw_landing_circle() -- Dibuja el círculo verde de aterrizaje fijo
+end
 ```
 ### S9
 ```
+-- Bucle principal TIC
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibuja el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Mostrar misión o diálogo
+    if game_state == "mission_intro" then
+        print(mission_description, 8, 8, 12)
+        if btnp(4) then
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        print(dialogue[dialogue_index], 8, 8, 12)
+        if btnp(4) then
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            if objective_status == "incomplete" then
+                objective_status = "failed"
+            end
+            game_state = "finished"
+        end
+
+        move_car()
+        check_ramp_collision()
+        handle_jump()
+        check_hoop_collision()
+        update_hoop()
+        check_victory_collision() -- Comprobar si el jugador tocó el círculo de victoria
+        check_train_collision() -- Comprobar si el jugador toca el tren o los vagones
+        move_train() -- Mover el tren y los vagones
+    elseif game_state == "finished" then
+        if objective_status == "complete" then
+            print("¡Misión cumplida! ", 10, 10, 11)
+        else
+            print("¡Fallaste! Tocaste el tren.", 10, 10, 6)
+        end
+    end
+
+    -- Dibujar el coche, la rampa, el aro, el círculo de victoria, el tren y efectos
+    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    draw_ramp()
+    draw_hoop()
+    draw_victory_circle()
+    draw_train()
+    draw_nitro_effect()
+    print("Coche: x=" .. car_x .. ", y=" .. car_y,0,0)
+print("Vagón: x=" .. train.x .. ", y=" .. train.y,0,30)
+
+-- Dibuja el área del tren
+--rect(train.x - camera_x, train.y - camera_y, train.width, train.height, 6)
+
+-- Dibuja el área del coche
+--rect(car_x - camera_x, car_y - camera_y, 8, 8, 9)
+
+
+end
 ```
 ### S10
 ```
+-- Bucle principal TIC
+function TIC()
+    cls(0) -- Limpia la pantalla
 
+    -- Actualizar cámara
+    update_camera()
+
+    -- Dibujar el mapa
+    map(0, 0, 30, 17, -camera_x, -camera_y)
+
+    -- Estados del juego
+    if game_state == "mission_intro" then
+        print(mission_description, 8, 8, 12)
+        if btnp(4) then
+            game_state = "dialogue"
+        end
+    elseif game_state == "dialogue" then
+        print(dialogue[dialogue_index], 8, 8, 12)
+        if btnp(4) then
+            dialogue_index = dialogue_index + 1
+            if dialogue_index > #dialogue then
+                game_state = "countdown"
+            end
+        end
+    elseif game_state == "countdown" then
+        print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
+        countdown = countdown - 1 / 60
+        if countdown <= 0 then
+            countdown = 0
+        end
+
+        if in_car then
+            move_car() -- El coche puede moverse
+        else
+            move_player() -- El jugador puede moverse fuera del coche
+        end
+        
+        check_victory_collision()
+        exit_car() -- Permite salir del coche durante el countdown
+    elseif game_state == "final_prep" then
+        draw_victory_circle()
+        print("Presiona botón para preparar la bomba.", 10, 10, 12)
+        if btnp(4) then
+            bomb_prepared = true
+            game_state = "final_escape"
+        end
+    elseif game_state == "final_escape" then
+        draw_victory_circle()
+        print("¡Sal del coche y espera la explosión!", 10, 10, 12)
+        if not in_car then -- Permite salir del coche en el estado final_escape
+            move_player() -- El jugador se mueve cuando está fuera del coche
+        end
+        exit_car() -- Permite salir del coche también en este estado
+        if btnp(4) then
+            game_state = "explosion"
+        end
+    elseif game_state == "explosion" then
+        handle_explosion() -- Maneja la explosión
+    elseif game_state == "game_over" then
+        handle_game_over() -- Si el jugador está dentro de la explosión, muestra el mensaje de Game Over
+    end
+
+    -- Dibujar entidades
+    draw_entities()
+    draw_victory_circle()
+
+    -- Imprimir coordenadas y estado del jugador
+    print("Coche: (" .. car_x .. ", " .. car_y .. ")", 10, 100, 12)
+    print("Jugador: (" .. player_x .. ", " .. player_y .. ")", 10, 110, 12)
+    print("En el coche: " .. tostring(in_car), 10, 120, 12)
+end
 ```
 
 ## GenerateParticles
