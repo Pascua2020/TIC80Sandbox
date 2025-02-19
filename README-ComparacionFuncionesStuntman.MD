@@ -1575,39 +1575,76 @@ end
 
 ### S5
 ```
-
+--Dibujar la rampa
+function draw_ramp()
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+end
 ```
 
 ### S6
 ```
-
+-- Dibujar la rampa
+function draw_ramp()
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+end
 ```
 
 ### S8
 ```
-
+-- Dibujar la rampa
+function draw_ramp()
+    -- Dibuja la rampa con un sprite específico. Aquí, el sprite 5 es un ejemplo.
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+end
 ```
 
 ### S9
 ```
-
+-- Dibujar la rampa
+function draw_ramp()
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+end
 ```
 
 ## checkRampCollision
 
 ### S5
 ```
-
+-- Comprobar colisión con la rampa
+function check_ramp_collision()
+    if not jumping and
+       car_x + 8 >= ramp.x and car_x <= ramp.x + 16 and
+       car_y + 8 >= ramp.y and car_y <= ramp.y + 16 then
+        jumping = true
+        jumping_timer = 0
+    end
+end
 ```
 
 ### S8
 ```
-
+-- Comprobar colisión con la rampa (igual que antes)
+function check_ramp_collision()
+    if not jumping and
+       car_x + 8 >= ramp.x and car_x <= ramp.x + 16 and
+       car_y + 8 >= ramp.y and car_y <= ramp.y + 16 then
+        jumping = true
+        jumping_timer = 0
+    end
+end
 ```
 
 ### S9
 ```
-
+-- Comprobar colisión con la rampa
+function check_ramp_collision()
+    if not jumping and
+       car_x + 8 >= ramp.x and car_x <= ramp.x + 16 and
+       car_y + 8 >= ramp.y and car_y <= ramp.y + 16 then
+        jumping = true
+        jumping_timer = 0
+    end
+end
 ```
 
 ## checkCheckpointCollision
