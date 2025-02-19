@@ -105,7 +105,6 @@ end
 function recargar()
     if btnp(4) then
         numero_cartuchos = 30  
--- Restablecer las balas a 30
     end
 end
 ```
@@ -114,7 +113,6 @@ end
 function recargar()
     if btnp(4) then
         numero_golpes = 30  
--- Restablecer los golpes a 30
     end
 end
 ```
@@ -123,7 +121,6 @@ end
 function recargar()
     if btnp(4) then
         numero_cartuchos = 5  
--- Restablecer los cartuchos a 5
     end
 end
 ```
@@ -132,7 +129,6 @@ end
 function recargar()
     if btnp(4) then
         numero_granadas = 5  
--- Restablecer las granadas a 5
     end
 end
 ```
@@ -141,7 +137,6 @@ end
 function recargar()
     if btnp(4) then
         numero_cartuchos = 5  
--- Restablecer los cartuchos a 5
     end
 end
 ```
