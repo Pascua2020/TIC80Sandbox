@@ -458,27 +458,102 @@ end
 
 ### Pistola
 ```
+-- Función para mostrar las frases en colores arcoíris
+function mostrar_frase()
+    if disparando and (t - tiempo_frase_mostrar) < 90 then
+        local frase = frase_actual
+        local color_offset = t % 16  -- Cambiar el color con el tiempo para obtener el efecto arcoíris
 
+        for i = 1, #frase do
+            local letra = string.sub(frase, i, i)
+            local color = (color_offset + i) % 16  -- Cambiar el color de cada letra
+            print(letra, 40 + (i - 1) * 8, 100, color)
+        end
+    elseif (t - tiempo_frase_mostrar) >= 90 then
+        disparando = false
+        frase_actual = ""
+    end
+end
 ```
 
 ### Minigun
 ```
+-- Función para mostrar las frases en colores arcoíris
+function mostrar_frase()
+    if disparando and (t - tiempo_frase_mostrar) < 90 then
+        local frase = frase_actual
+        local color_offset = t % 16
 
+        for i = 1, #frase do
+            local letra = string.sub(frase, i, i)
+            local color = (color_offset + i) % 16
+            print(letra, 40 + (i - 1) * 8, 100, color)
+        end
+    elseif (t - tiempo_frase_mostrar) >= 90 then
+        disparando = false
+        frase_actual = ""
+    end
+end
 ```
 
 ### Lanzallamas
 ```
+-- Función para mostrar las frases en colores arcoíris
+function mostrar_frase()
+    if disparando and (t - tiempo_frase_mostrar) < 90 then
+        local frase = frase_actual
+        local color_offset = t % 16
 
+        for i = 1, #frase do
+            local letra = string.sub(frase, i, i)
+            local color = (color_offset + i) % 16
+            print(letra, 40 + (i - 1) * 8, 100, color)
+        end
+    elseif (t - tiempo_frase_mostrar) >= 90 then
+        disparando = false
+        frase_actual = ""
+    end
+end
 ```
 
 ### Rifle
 ```
+-- Función para mostrar las frases en colores arcoíris
+function mostrar_frase()
+    if disparando and (t - tiempo_frase_mostrar) < 90 then
+        local frase = frase_actual
+        local color_offset = t % 16
 
+        for i = 1, #frase do
+            local letra = string.sub(frase, i, i)
+            local color = (color_offset + i) % 16
+            print(letra, 40 + (i - 1) * 8, 100, color)
+        end
+    elseif (t - tiempo_frase_mostrar) >= 90 then
+        disparando = false
+        frase_actual = ""
+    end
+end
 ```
 
 ### Laser
 ```
+-- Función para mostrar frases en colores
+function mostrar_frase()
+    if disparando and (t - tiempo_frase_mostrar) < 90 then
+        local frase = frase_actual
+        local color_offset = t % 16
 
+        for i = 1, #frase do
+            local letra = string.sub(frase, i, i)
+            local color = (color_offset + i) % 16
+            print(letra, 40 + (i - 1) * 8, 100, color)
+        end
+    elseif (t - tiempo_frase_mostrar) >= 90 then
+        disparando = false
+        frase_actual = ""
+    end
+end
 ```
 
 ## detectarColision
