@@ -178,7 +178,6 @@ end
 
 ### Todas
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -192,7 +191,6 @@ end
 ```
 ### Pistola
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then  
         y_personaje = y_personaje - velocidad
@@ -330,7 +328,6 @@ function agregar_coches()
     if math.random(1, 100) > 95 then  
 -- Asegura que los coches aparezcan con mayor frecuencia
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
--- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -341,7 +338,6 @@ function agregar_coches()
     if math.random(1, 100) > 95 then  
 -- Asegura que los coches aparezcan con mayor frecuencia
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
--- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -352,7 +348,6 @@ function agregar_coches()
     if math.random(1, 100) > 98 then  
 -- Asegura que los coches aparezcan raramente
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
--- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -361,7 +356,6 @@ end
 
 ### Pistola
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for i, coche in ipairs(coches) do
         if not coche.colisionado then  
@@ -375,7 +369,6 @@ end
 
 ### AK47
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
@@ -386,7 +379,6 @@ end
 
 ### Bazooka
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
@@ -397,7 +389,6 @@ end
 
 ### Granada
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
@@ -408,7 +399,6 @@ end
 
 ### Escopeta
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
@@ -419,7 +409,6 @@ end
 
 ### Lanzallamas
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         if not coche.colisionado then
@@ -431,7 +420,6 @@ end
 
 ### Rifle
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         if not coche.colisionado then
@@ -467,7 +455,6 @@ end
 
 ### Minigun
 ```
--- Función para mostrar las frases en colores arcoíris
 function mostrar_frase()
     if disparando and (t - tiempo_frase_mostrar) < 90 then
         local frase = frase_actual
@@ -487,7 +474,6 @@ end
 
 ### Lanzallamas
 ```
--- Función para mostrar las frases en colores arcoíris
 function mostrar_frase()
     if disparando and (t - tiempo_frase_mostrar) < 90 then
         local frase = frase_actual
@@ -507,7 +493,6 @@ end
 
 ### Rifle
 ```
--- Función para mostrar las frases en colores arcoíris
 function mostrar_frase()
     if disparando and (t - tiempo_frase_mostrar) < 90 then
         local frase = frase_actual
@@ -527,7 +512,6 @@ end
 
 ### Laser
 ```
--- Función para mostrar frases en colores
 function mostrar_frase()
     if disparando and (t - tiempo_frase_mostrar) < 90 then
         local frase = frase_actual
@@ -596,7 +580,8 @@ function detectar_colisiones()
 -- Colisión detectada, eliminar coche y golpe
                 table.remove(coches, j)
                 table.remove(golpes, i)
-                -- Generar partículas de explosión
+                
+-- Generar partículas de explosión
                 generar_particulas(coche.x, coche.y)
                 break
             end
@@ -637,6 +622,7 @@ end
 ### Rifle
 ```
 -- Función para detectar colisiones con los coches
+
 function detectar_colision()
     for _, coche in ipairs(coches) do
         if not coche.colisionado then
@@ -681,7 +667,6 @@ end
 
 ### AK47
 ```
--- Función para dibujar las explosiones
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
@@ -701,7 +686,7 @@ end
 
 ### Bazooka
 ```
--- Función para dibujar las explosiones (más violenta y con más colores)
+ (más violenta y con más colores)
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
@@ -723,7 +708,7 @@ end
 
 ### Granada
 ```
--- Función para dibujar las explosiones (más violenta y con más colores)
+ (más violenta y con más colores)
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
@@ -746,7 +731,6 @@ end
 
 ### Escopeta
 ```
--- Función para dibujar las explosiones
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
@@ -765,7 +749,6 @@ end
 
 ### Lanzallamas
 ```
--- Función para dibujar la explosión
 function dibujar_explosion()
     for i, punto in ipairs(explosion_puntos) do
         if punto.vida > 0 then
@@ -780,7 +763,6 @@ end
 
 ### Rifle
 ```
--- Función para dibujar la explosión
 function dibujar_explosion()
     for i, punto in ipairs(explosion_puntos) do
         if punto.vida > 0 then
@@ -798,7 +780,6 @@ end
 ### Todas
 
 ```
--- Función TIC
 function TIC()
     t = t + 1  
 -- Aumenta el contador de tiempo
