@@ -1194,7 +1194,6 @@ end
 ### AK47
 
 ```
--- Función para verificar si un disparo ha impactado un coche
 function verificar_impactos()
     for i = #disparos, 1, -1 do
         local disparo = disparos[i]
@@ -1220,7 +1219,6 @@ end
 ### Granada
 
 ```
--- Función para verificar si una granada ha impactado un coche
 function verificar_impactos()
     for i = #granadas, 1, -1 do
         local granada = granadas[i]
