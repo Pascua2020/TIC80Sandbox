@@ -18,7 +18,6 @@ Wiki -
 PrintRainbow
 
 ```
--- Función para dibujar texto en arcoíris
 function print_rainbow(text, x, y)
     local color_index = color_offset
     for i = 1, #text do
@@ -35,7 +34,6 @@ end
 MenuPausa - 
 DibujarTextoArcoiris
 ```
--- Función para dibujar texto con efecto arcoíris
 function dibujar_texto_arcoiris(texto, x, y, color_seleccionado)
     for i = 1, #texto do
         local letra = string.sub(texto, i, i)
@@ -53,7 +51,6 @@ end
 Inicio - 
 DibujarTextoArcoiris
 ```
--- Función para dibujar texto con efecto arcoíris
 function dibujar_texto_arcoiris(texto, x, y)
     for i = 1, #texto do
         local letra = string.sub(texto, i, i)
@@ -66,7 +63,6 @@ end
 Creditos - 
 DibujarTextoArcoiris
 ```
--- Función para dibujar texto con efecto arcoíris
 function dibujar_texto_arcoiris(texto, x, y)
     for i = 1, #texto do
         local letra = string.sub(texto, i, i)
@@ -227,7 +223,6 @@ end
 
 Baile - actualizarFlechas
 ```
--- Actualizar flechas
 function actualizar_flechas()
     for i = #flechas, 1, -1 do
         local flecha = flechas[i]
@@ -265,8 +260,6 @@ end
 
 Climatologia - updateEarthquake
 ```
--- Funciones de efectos de terremoto
--- Función de terremoto
 function update_earthquake()
     -- Mueve la cámara o el "mapa" aleatoriamente dentro de los límites establecidos
     if earthquake_timer > 0 then
@@ -284,7 +277,6 @@ end
 
 Climatologia - updateLeaves
 ```
--- Actualiza las hojas
 function update_leaves()
     for i, leaf in ipairs(leaves) do
         leaf.x = leaf.x + leaf.speed_x + math.sin(leaf.sway) * 0.5
@@ -324,7 +316,6 @@ end
 
 Climatologia - updateRaindrops
 ```
--- Actualiza las gotas de lluvia
 function update_raindrops()
     for i, drop in ipairs(raindrops) do
         drop.y = drop.y + drop.speed
@@ -338,7 +329,6 @@ end
 
 Climatologia - updateSnowflakes
 ```
--- Actualiza los copos de nieve
 function update_snowflakes()
     for i, flake in ipairs(snowflakes) do
         flake.x = flake.x + flake.sway
@@ -355,7 +345,6 @@ end
 
 Climatologia - updateWind
 ```
--- Actualiza las líneas de viento
 function update_wind()
     for i, line in ipairs(wind_lines) do
         line.x = line.x - wind_speed
@@ -485,7 +474,7 @@ Baile - dibujarCancion
 function dibujar_cancion()
 				print("Artista : DiosGPT",10,100,3)
 				print("Cancion : Romance IA - Marciano \n(Album xxIAxx : 2025)",10,110,3)
-    print(frases_cancion[indice_frase], 10, 125, 7) -- Dibuja la frase en la parte inferior
+    print(frases_cancion[indice_frase], 10, 125, 7)
 end
 ```
 
@@ -508,7 +497,6 @@ end
 
 Baile - dibujarEstrellasFugaces
 ```
--- Dibujar estrellas fugaces
 function dibujar_estrellas_fugaces()
     for _, estrella in ipairs(estrella_fugaz) do
         -- Dibujar estrella fugaz
