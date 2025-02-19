@@ -406,10 +406,8 @@ end
 function update_camera()
     if in_car then
         camera_x, camera_y = car_x - 120, car_y - 68 
--- Centra la cámara en el coche
     else
         camera_x, camera_y = player_x - 120, player_y - 68 
--- Centra la cámara en el jugador
     end
 end
 ```
