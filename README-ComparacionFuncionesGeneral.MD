@@ -552,49 +552,122 @@ end
 
 Climatologia - drawLeaves
 ```
-
+-- Dibuja las hojas
+function draw_leaves()
+    for _, leaf in ipairs(leaves) do
+        spr(leaf.sprite_id, leaf.x, leaf.y) -- Dibujar cada hoja
+    end
+end
 ```
 
 Climatologia - drawLightning
 ```
-
+-- Genera un rayo zigzagueante
+function draw_lightning(x_start, y_start, segments, length)
+    local x = x_start
+    local y = y_start
+    for i = 1, segments do
+        local dx = math.random(-5, 5)
+        local dy = math.random(5, length)
+        local x_end = x + dx
+        local y_end = y + dy
+        line(x, y, x_end, y_end, 4)
+        x = x_end
+        y = y_end
+        if y > 136 then break end
+    end
+end
 ```
 
 Climatologia - drawLightningEffect
 ```
-
+-- Dibuja el efecto de relámpago
+function draw_lightning_effect()
+    if lightning_active then
+        rect(0, 0, 240, 136, 15)
+        for i = 1, math.random(1, 3) do
+            local x_start = math.random(20, 220)
+            draw_lightning(x_start, 0, math.random(5, 10), math.random(10, 20))
+        end
+    end
+end
 ```
 
 Climatologia - drawMenu
 ```
-
+-- Dibuja el menú
+function draw_menu()
+    print("Press 1: Toggle Rain", 5, 5, 12)
+    print("Press 2: Toggle Leaves", 5, 15, 12)
+    print("Press 3: Toggle Snow", 5, 25, 12)
+    print("Press 4: Toggle Wind", 5, 35, 12)
+    print("Press 5: Toggle Lightning", 5, 45, 12)
+    print("Press 6: Toggle Earthquake", 5, 55, 12)  -- Botón 6 agregado para el terremoto
+    print("Rain: " .. tostring(effects.rain), 5, 65, effects.rain and 11 or 8)
+    print("Leaves: " .. tostring(effects.leaves), 5, 75, effects.leaves and 11 or 8)
+    print("Snow: " .. tostring(effects.snow), 5, 85, effects.snow and 11 or 8)
+    print("Wind: " .. tostring(effects.wind), 5, 95, effects.wind and 11 or 8)
+    print("Lightning: " .. tostring(effects.lightning), 5, 105, effects.lightning and 11 or 8)
+    print("Earthquake: " .. tostring(effects.earthquake), 5, 115, effects.earthquake and 11 or 8)
+end
 ```
 
 Climatologia - drawRaindrops
 ```
-
+-- Dibuja las gotas de lluvia
+function draw_raindrops()
+    for _, drop in ipairs(raindrops) do
+        rect(drop.x, drop.y, 2, 6, 9) -- Dibujar cada gota
+    end
+end
 ```
 
 Climatologia - drawSnowflakes
 ```
-
+-- Dibuja los copos de nieve
+function draw_snowflakes()
+    for _, flake in ipairs(snowflakes) do
+          spr(32, flake.x, flake.y) -- Dibujar cada hoja
+    end
+end
 ```
 
 Climatologia - drawWind
 ```
-
+-- Dibuja el viento (líneas)
+function draw_wind()
+    for _, line in ipairs(wind_lines) do
+        for i = 0, line.amplitude do
+            local y = line.y + math.sin(line.phase + i * line.frequency / 240) * 5
+            pix(line.x + i, y, 7)
+        end
+    end
+end
 ```
 DiosGPT - dibujarTriangulo
 ```
-
+-- Función para dibujar el triángulo (icono de DiosGPT)
+function dibujar_triangulo(x, y, color)
+    tri(x - 5, y + 5, x + 5, y + 5, x, y - 5, color)  -- Triángulo
+end
 ```
 Inicio - dibujarEstrellas
 ```
-
+-- Función para dibujar estrellas con efecto arcoíris
+function dibujar_estrellas()
+    for _, estrella in ipairs(estrellas) do
+        local color = (t // 5 + estrella.x + estrella.y) % 16
+        pix(estrella.x, estrella.y, color)
+    end
+end
 ```
 Jetpack - drawSparks
 ```
-
+function draw_sparks()
+    for _, s in ipairs(p.sparks) do
+        pix(s.x, s.y, s.col)
+    end
+end
 ```
 MenuPausa - dibujarEstrellas
 ```
