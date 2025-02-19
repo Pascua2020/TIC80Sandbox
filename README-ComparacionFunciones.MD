@@ -516,11 +516,13 @@ end
 function mostrar_frase()
     if disparando and (t - tiempo_frase_mostrar) < 90 then
         local frase = frase_actual
-        local color_offset = t % 16  -- Cambiar el color con el tiempo para obtener el efecto arcoíris
+        local color_offset = t % 16  
+-- Cambiar el color con el tiempo para obtener el efecto arcoíris
 
         for i = 1, #frase do
             local letra = string.sub(frase, i, i)
-            local color = (color_offset + i) % 16  -- Cambiar el color de cada letra
+            local color = (color_offset + i) % 16  
+-- Cambiar el color de cada letra
             print(letra, 40 + (i - 1) * 8, 100, color)
         end
     elseif (t - tiempo_frase_mostrar) >= 90 then
@@ -617,15 +619,19 @@ end
 -- Función para detectar colisión entre la balanza y los coches
 function detectar_colision()
     for _, coche in ipairs(coches) do
-        if not coche.colisionado then  -- Si el coche no ha sido colisionado
+        if not coche.colisionado then  
+-- Si el coche no ha sido colisionado
             if pos_balanza_x + 8 >= coche.x and pos_balanza_x <= coche.x + 16 and pos_balanza_y >= coche.y and pos_balanza_y <= coche.y + 16 then
                 coche.colisionado = true  -- Marcar el coche como colisionado
 
                 -- Generar la explosión para el coche
-                explosion_tiempo = t  -- Registrar el tiempo de la explosión
+                explosion_tiempo = t  
+-- Registrar el tiempo de la explosión
                 poder_jugador = math.random(3, 5)
-                poder_tiempo = t  -- Registrar el tiempo en que se generó
-                mostrar_poder = true  -- Habilitar la visualización del poder
+                poder_tiempo = t  
+-- Registrar el tiempo en que se generó
+                mostrar_poder = true  
+-- Habilitar la visualización del poder
 
                 -- Generar puntos para la explosión
                 for i = 1, 30 do
@@ -653,7 +659,8 @@ function detectar_colisiones()
         for j, coche in ipairs(coches) do
             if golpe.x < coche.x + 8 and golpe.x + 8 > coche.x and
                golpe.y < coche.y + 8 and golpe.y + 8 > coche.y then
-                -- Colisión detectada, eliminar coche y golpe
+                
+-- Colisión detectada, eliminar coche y golpe
                 table.remove(coches, j)
                 table.remove(golpes, i)
                 -- Generar partículas de explosión
@@ -674,7 +681,8 @@ function detectar_colision()
             for _, llama in ipairs(llamas) do
                 if llama.x >= coche.x and llama.x <= coche.x + 16 and llama.y >= coche.y and llama.y <= coche.y + 16 then
                     coche.colisionado = true
-                    -- Generar puntos para explosión
+                    
+-- Generar puntos para explosión
                     for i = 1, 30 do
                         local angle = math.random() * math.pi * 2
                         local speed = math.random(2, 5)
@@ -744,11 +752,13 @@ end
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
-        -- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
+        
+-- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
         circ(explosion.x, explosion.y, explosion.tiempo, 8)
         explosion.tiempo = explosion.tiempo + 1
 
-        -- Eliminar explosiones después de un tiempo
+        
+-- Eliminar explosiones después de un tiempo
         if explosion.tiempo > 10 then
             table.remove(explosiones, i)
         end
@@ -762,9 +772,12 @@ end
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
-        local radio = explosion.tiempo * 2  -- Radio más grande a medida que pasa el tiempo
-        local colores = {8, 12, 11, 14, 7}  -- Colores para la explosión
-        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  -- Colores cambiando
+        local radio = explosion.tiempo * 2  
+-- Radio más grande a medida que pasa el tiempo
+        local colores = {8, 12, 11, 14, 7}  
+-- Colores para la explosión
+        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  
+-- Colores cambiando
         explosion.tiempo = explosion.tiempo + 1
 
         -- Eliminar explosiones después de un tiempo
@@ -781,12 +794,16 @@ end
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
-        local radio = explosion.tiempo * 2  -- Radio más grande a medida que pasa el tiempo
-        local colores = {8, 12, 11, 14, 7}  -- Colores para la explosión
-        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  -- Colores cambiando
+        local radio = explosion.tiempo * 2  
+-- Radio más grande a medida que pasa el tiempo
+        local colores = {8, 12, 11, 14, 7}  
+-- Colores para la explosión
+        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  
+-- Colores cambiando
         explosion.tiempo = explosion.tiempo + 1
 
-        -- Eliminar explosiones después de un tiempo
+        
+-- Eliminar explosiones después de un tiempo
         if explosion.tiempo > explosion.max_tiempo then
             table.remove(explosiones, i)
         end
@@ -800,7 +817,8 @@ end
 function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
-        -- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
+        
+-- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
         circ(explosion.x, explosion.y, explosion.tiempo, 8)
         explosion.tiempo = explosion.tiempo + 1
 
@@ -849,7 +867,8 @@ end
 ```
 -- Función TIC
 function TIC()
-    t = t + 1  -- Aumenta el contador de tiempo
+    t = t + 1  
+-- Aumenta el contador de tiempo
 
     -- Mover el personaje
     mover_personaje()
@@ -889,41 +908,50 @@ function TIC()
 
     -- Dibujar personajes
     cls()
-    spr(0, x_personaje, y_personaje)  -- Sprite del jugador (suponiendo que el sprite 0 es el del jugador)
+    spr(0, x_personaje, y_personaje)  
+-- Sprite del jugador (suponiendo que el sprite 0 es el del jugador)
 
     -- Dibujar disparos
     for i, disparo in ipairs(disparos) do
         if disparo.tipo == "pistola" then
-            -- Píxel de disparo de la pistola
+            
+-- Píxel de disparo de la pistola
            pix(disparo.x, disparo.y, 3, 3, 7) -- Cambiar color según el tipo de disparo
         elseif disparo.tipo == "ak47" then
-            -- Píxel de disparo del AK47
+            
+-- Píxel de disparo del AK47
             pix(disparo.x, disparo.y, 4, 4, 8) 
         elseif disparo.tipo == "bazooka" then
-            -- Píxel de disparo de la bazooka
-            rect(disparo.x, disparo.y, 6, 6, 9)  --
+            
+-- Píxel de disparo de la bazooka
+            rect(disparo.x, disparo.y, 6, 6, 9)  
+--
         elseif disparo.tipo == "escopeta" then
-            -- Píxel de disparo de la escopeta
+            
+-- Píxel de disparo de la escopeta
            rect(disparo.x, disparo.y, 2, 2, 10)
         end
     end
 
     -- Dibujar granadas
     for i, granada in ipairs(granadas) do
-        -- Dibuja un píxel para representa br la granada
+        
+-- Dibuja un píxel para representa br la granada
         circ(granada.x, granada.y, 4,6)
     end
 
     -- Dibujar enemigos
     for i, enemigo in ipairs(enemies) do
         if enemigo.id == 48 then
-            -- Representación del enemigo con un sprite o píxel
+            
+-- Representación del enemigo con un sprite o píxel
             spr(48, enemigo.x, enemigo.y)  -- Usar sprite ID 48 o el que corresponde
         end
     end
 
     -- Mostrar frase
-    if t - tiempo_frase < 60 then  -- Mostrar la frase durante 1 segundo
+    if t - tiempo_frase < 60 then  
+-- Mostrar la frase durante 1 segundo
         print(frase_actual, 10, 10, 7)
     end
 
@@ -961,7 +989,8 @@ function TIC()
     mover_balanza()
     detectar_colision()
     mostrar_explosion()
-    mostrar_poder_jugador()  -- Mostrar el poder del jugador si corresponde
+    mostrar_poder_jugador()  
+-- Mostrar el poder del jugador si corresponde
     recargar()
     dibujar_personaje()
     dibujar_balanza()
@@ -978,15 +1007,20 @@ end
 function TIC()
     cls(0)
     mover_personaje()
-    golpear()  -- Ejecutar la acción de golpear
-    mover_golpes()  -- Eliminar los golpes que ya no son visibles
+    golpear()  
+-- Ejecutar la acción de golpear
+    mover_golpes()  
+-- Eliminar los golpes que ya no son visibles
     recargar()
     generar_coches()
     mover_coches()
     detectar_colisiones()
-    dibujar_personaje()  -- Dibujar al personaje
-    dibujar_golpes()  -- Dibujar los golpes (puños)
-    dibujar_explosiones()  -- Dibujar las explosiones
+    dibujar_personaje()  
+-- Dibujar al personaje
+    dibujar_golpes()  
+-- Dibujar los golpes (puños)
+    dibujar_explosiones()  
+-- Dibujar las explosiones
     mostrar_controles()
 
     -- Dibujar información de los golpes
@@ -997,7 +1031,8 @@ function TIC()
 
     -- Dibujar los coches
     for _, coche in ipairs(coches) do
-        spr(48, coche.x, coche.y,0)  -- Dibujar el coche con sprite ID 48
+        spr(48, coche.x, coche.y,0)  
+-- Dibujar el coche con sprite ID 48
     end
 
     -- Mover y dibujar partículas de explosión
@@ -1010,7 +1045,8 @@ end
 ### Katana
 ```
 function TIC()
-    cls(0)  -- Limpiar pantalla
+    cls(0)  
+-- Limpiar pantalla
     mover_personaje()
     cortar_katana()
     dibujar_personaje()
@@ -1068,7 +1104,8 @@ function TIC()
     -- Dibujar información del AK-47
     print("Balas: " .. numero_cartuchos, 10, 10, 7)
     if t - tiempo_frase < 60 then
-        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  
+-- Mostrar frase por 1 segundo
     end
 
     t = t + 1
