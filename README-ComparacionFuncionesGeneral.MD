@@ -278,6 +278,10 @@ DiosGPT - dibujarTriangulo
 ```
 
 ```
+Inicio - dibujarEstrellas
+```
+
+```
 
 Pinball - drawPaddle
 ```
