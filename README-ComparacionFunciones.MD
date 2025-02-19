@@ -668,43 +668,124 @@ end
 ```
 
 ## dibujarExplosion
-```
-
-```
 
 ### Pistola
 ```
-
+-- Función para dibujar los puntos de la explosión
+function dibujar_explosion()
+    for i, punto in ipairs(explosion_puntos) do
+        if punto.vida > 0 then
+            pix(punto.x, punto.y, 11)
+            punto.x = punto.x + punto.dx
+            punto.y = punto.y + punto.dy
+            punto.vida = punto.vida - 1
+        end
+    end
+end
 ```
 
 ### AK47
 ```
+-- Función para dibujar las explosiones
+function dibujar_explosiones()
+    for i = #explosiones, 1, -1 do
+        local explosion = explosiones[i]
+        -- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
+        circ(explosion.x, explosion.y, explosion.tiempo, 8)
+        explosion.tiempo = explosion.tiempo + 1
 
+        -- Eliminar explosiones después de un tiempo
+        if explosion.tiempo > 10 then
+            table.remove(explosiones, i)
+        end
+    end
+end
 ```
 
 ### Bazooka
 ```
+-- Función para dibujar las explosiones (más violenta y con más colores)
+function dibujar_explosiones()
+    for i = #explosiones, 1, -1 do
+        local explosion = explosiones[i]
+        local radio = explosion.tiempo * 2  -- Radio más grande a medida que pasa el tiempo
+        local colores = {8, 12, 11, 14, 7}  -- Colores para la explosión
+        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  -- Colores cambiando
+        explosion.tiempo = explosion.tiempo + 1
 
+        -- Eliminar explosiones después de un tiempo
+        if explosion.tiempo > explosion.max_tiempo then
+            table.remove(explosiones, i)
+        end
+    end
+end
 ```
 
 ### Granada
 ```
+-- Función para dibujar las explosiones (más violenta y con más colores)
+function dibujar_explosiones()
+    for i = #explosiones, 1, -1 do
+        local explosion = explosiones[i]
+        local radio = explosion.tiempo * 2  -- Radio más grande a medida que pasa el tiempo
+        local colores = {8, 12, 11, 14, 7}  -- Colores para la explosión
+        circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  -- Colores cambiando
+        explosion.tiempo = explosion.tiempo + 1
 
+        -- Eliminar explosiones después de un tiempo
+        if explosion.tiempo > explosion.max_tiempo then
+            table.remove(explosiones, i)
+        end
+    end
+end
 ```
 
 ### Escopeta
 ```
+-- Función para dibujar las explosiones
+function dibujar_explosiones()
+    for i = #explosiones, 1, -1 do
+        local explosion = explosiones[i]
+        -- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
+        circ(explosion.x, explosion.y, explosion.tiempo, 8)
+        explosion.tiempo = explosion.tiempo + 1
 
+        -- Eliminar explosiones después de un tiempo
+        if explosion.tiempo > 10 then
+            table.remove(explosiones, i)
+        end
+    end
+end
 ```
 
 ### Lanzallamas
 ```
-
+-- Función para dibujar la explosión
+function dibujar_explosion()
+    for i, punto in ipairs(explosion_puntos) do
+        if punto.vida > 0 then
+            pix(punto.x, punto.y, 11)
+            punto.x = punto.x + punto.dx
+            punto.y = punto.y + punto.dy
+            punto.vida = punto.vida - 1
+        end
+    end
+end
 ```
 
 ### Rifle
 ```
-
+-- Función para dibujar la explosión
+function dibujar_explosion()
+    for i, punto in ipairs(explosion_puntos) do
+        if punto.vida > 0 then
+            pix(punto.x, punto.y, 11)
+            punto.x = punto.x + punto.dx
+            punto.y = punto.y + punto.dy
+            punto.vida = punto.vida - 1
+        end
+    end
+end
 ```
 
 ##TIC
