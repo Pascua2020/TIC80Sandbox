@@ -888,12 +888,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -973,12 +970,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1047,12 +1041,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1134,12 +1125,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1232,7 +1220,6 @@ end
 
 ### S8
 ```
--- Bucle principal TIC
 function TIC()
     cls(0)
 
@@ -1285,15 +1272,11 @@ end
 ```
 ### S9
 ```
--- Bucle principal TIC
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1360,15 +1343,11 @@ end
 ```
 ### S10
 ```
--- Bucle principal TIC
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibujar el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Estados del juego
@@ -1454,7 +1433,6 @@ end
 
 ### S3
 ```
--- Generar partículas de explosión
 function generate_particles(x, y)
     for i = 1, 10 do
         table.insert(particles, {
@@ -1470,7 +1448,6 @@ end
 
 ### S4
 ```
--- Generar partículas de explosión
 function generate_particles(x, y)
     for i = 1, 10 do
         table.insert(particles, {
@@ -1505,7 +1482,6 @@ end
 
 ### S3
 ```
--- Actualizar y dibujar partículas
 function update_and_draw_particles()
     if not particles then
         particles = {} -- Inicializar la lista de partículas si es nil
@@ -1527,7 +1503,6 @@ end
 
 ### S4
 ```
--- Actualizar y dibujar partículas
 function update_and_draw_particles()
     if not particles then
         particles = {} 
@@ -1568,7 +1543,6 @@ end
 
 ### S4
 ```
--- Mostrar la línea de nitro (cuando está activado)
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
@@ -1584,7 +1558,6 @@ end
 
 ### S5
 ```
--- Mostrar la línea de nitro (cuando está activado)
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
@@ -1600,7 +1573,6 @@ end
 
 ### S6
 ```
--- Mostrar la línea de nitro (cuando está activado)
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
@@ -1616,7 +1588,6 @@ end
 
 ### S8
 ```
--- Dibujar efectos de nitro
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
@@ -1628,7 +1599,6 @@ end
 
 ### S9
 ```
--- Mostrar la línea de nitro (cuando está activado)
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
