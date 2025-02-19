@@ -777,7 +777,6 @@ function TIC()
 -- Aumenta el contador de tiempo
 
     mover_personaje()
-
     recargar()
     cambiar_arma()
 
@@ -795,11 +794,8 @@ function TIC()
     end
 
     mover_disparos()
-
     mover_granadas()
-
     mover_coches()
-
     mover_enemigos()
 
     -- Agregar nuevos enemigos y coches con probabilidad
@@ -810,15 +806,14 @@ function TIC()
     cls()
     spr(0, x_personaje, y_personaje)  
 
--- Sprite del jugador (suponiendo que el sprite 0 es el del jugador)
-
     -- Dibujar disparos
     for i, disparo in ipairs(disparos) do
         if disparo.tipo == "pistola" then
             
 -- Píxel de disparo de la pistola
 
-           pix(disparo.x, disparo.y, 3, 3, 7) -- Cambiar color según el tipo de disparo
+           pix(disparo.x, disparo.y, 3, 3, 7) 
+-- Cambiar color según el tipo de disparo
         elseif disparo.tipo == "ak47" then
             
 -- Píxel de disparo del AK47
@@ -838,22 +833,20 @@ function TIC()
     -- Dibujar granadas
     for i, granada in ipairs(granadas) do
         
--- Dibuja un píxel para representa br la granada
+    -- Dibuja un píxel para representa br la granada
         circ(granada.x, granada.y, 4,6)
     end
 
     -- Dibujar enemigos
     for i, enemigo in ipairs(enemies) do
         if enemigo.id == 48 then
-            
--- Representación del enemigo con un sprite o píxel
             spr(48, enemigo.x, enemigo.y) 
         end
     end
 
     -- Mostrar frase
     if t - tiempo_frase < 60 then  
--- Mostrar la frase durante 1 segundo
+    -- Mostrar la frase durante 1 segundo
         print(frase_actual, 10, 10, 7)
     end
 
@@ -891,7 +884,7 @@ function TIC()
     detectar_colision()
     mostrar_explosion()
     mostrar_poder_jugador()  
--- Mostrar el poder del jugador si corresponde
+    -- Mostrar el poder del jugador si corresponde
 
     recargar()
     dibujar_personaje()
@@ -912,17 +905,14 @@ function TIC()
     golpear()  
 
     mover_golpes()  
--- Eliminar los golpes que ya no son visibles
+    -- Eliminar los golpes que ya no son visibles
     recargar()
     generar_coches()
     mover_coches()
     detectar_colisiones()
     dibujar_personaje()  
--- Dibujar al personaje
     dibujar_golpes()  
--- Dibujar los golpes (puños)
     dibujar_explosiones()  
--- Dibujar las explosiones
     mostrar_controles()
 
     -- Dibujar información de los golpes
@@ -934,7 +924,6 @@ function TIC()
     -- Dibujar los coches
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y,0)  
--- Dibujar el coche con sprite ID 48
     end
 
     -- Mover y dibujar partículas de explosión
@@ -1092,14 +1081,12 @@ function TIC()
     disparar_minigun()
     mover_balas()
     mover_y_dibujar_explosion()  
--- Mover y dibujar las partículas de la explosión
     dibujar_personaje()
     dibujar_balas()
     dibujar_enemigos()
     mostrar_frase()
     recargar()
     mostrar_controles()
-
     t = t + 1
 end
 ```
