@@ -13,13 +13,12 @@ end
 ```
 function dibujar_personaje()
     spr(0, x_personaje, y_personaje)  
--- Dibujar el sprite del personaje
 end
 ```
 ### Puño
 ```
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje,0)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje,0)
 end
 ```
 ### Katana
@@ -32,21 +31,18 @@ end
 ```
 function dibujar_personaje()
     spr(0, x_personaje, y_personaje)  
--- Dibujar el sprite del personaje
 end
 ```
 ### Granada
 ```
 function dibujar_personaje()
     spr(0, x_personaje, y_personaje)  
--- Dibujar el sprite del personaje
 end
 ```
 ### Escopeta
 ```
 function dibujar_personaje()
     spr(0, x_personaje, y_personaje)  
--- Dibujar el sprite del personaje
 end
 ```
 ### Minigun
