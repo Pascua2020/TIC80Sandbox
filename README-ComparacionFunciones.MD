@@ -148,24 +148,49 @@ end
 ```
 ### Escopeta
 ```
-
+-- Función para recargar la escopeta
+function recargar()
+    if btnp(4) then
+        numero_cartuchos = 5  -- Restablecer los cartuchos a 5
+    end
+end
 ```
 
 ### Minigun
 ```
-
+-- Función para recargar la minigun
+function recargar()
+    if btnp(4) then
+        energia = 100
+    end
+end
 ```
 ### Lanzallamas
 ```
-
+-- Función para recargar el lanzallamas
+function recargar()
+    if btnp(4) then
+        numero_combustible = 100
+    end
+end
 ```
 ### Rifle
 ```
-
+-- Función para recargar el rifle eléctrico
+function recargar()
+    if btnp(4) then
+        energia = 100
+    end
+end
 ```
 ### Laser
 ```
-
+-- Función para recargar el láser
+function recargar()
+    if btnp(4) then
+        energia = 100
+    end
+end
 ```
 
 ## MoverPersonaje
