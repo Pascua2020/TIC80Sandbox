@@ -84,27 +84,67 @@ end
 
 ### Todas
 ```
-
+-- Función para recargar las armas
+function recargar()
+    if btnp(4) then
+        if arma_actual == 1 then
+            numero_cartuchos_pistola = 5
+        elseif arma_actual == 2 then
+            numero_cartuchos_ak47 = 5
+        elseif arma_actual == 3 then
+            numero_cartuchos_bazooka = 5
+        elseif arma_actual == 4 then
+            numero_cartuchos_escopeta = 5
+        elseif arma_actual == 5 then
+            numero_granadas = 5
+        end
+    end
+end
 ```
 ### Pistola
 ```
-
+-- Función para recargar el arma
+function recargar()
+    if btnp(4) then
+        numero_balas = 20
+    end
+end
 ```
 ### AK47
 ```
-
+-- Función para recargar el AK-47
+function recargar()
+    if btnp(4) then
+        numero_cartuchos = 30  -- Restablecer las balas a 30
+    end
+end
 ```
 ### Puño
 ```
-
+-- Función para recargar los golpes (restablecer)
+function recargar()
+    if btnp(4) then
+        numero_golpes = 30  -- Restablecer los golpes a 30
+    end
+end
 ```
 ### Bazooka
 ```
-
+-- Función para recargar la bazooka
+function recargar()
+    if btnp(4) then
+        numero_cartuchos = 5  -- Restablecer los cartuchos a 5
+    end
+end
 ```
 ### Granada
 ```
-
+-- Función para recargar las granadas
+function recargar()
+    if btnp(4) then
+        numero_granadas = 5  -- Restablecer las granadas a 5
+    end
+end
 ```
 ### Escopeta
 ```
