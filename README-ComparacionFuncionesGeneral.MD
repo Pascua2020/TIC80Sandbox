@@ -352,6 +352,40 @@ Radio - dibujarTextoConContorno
 ```
 
 ```
+Teclado - dibujarPantallaCorrecta
+```
+
+```
+Teclado - dibujarTeclado
+```
+
+```
+Teclado - dibujarTexto
+```
+
+```
+
+Teclado2 - drawKeyboard
+```
+
+```
+
+Telescopio - drawStar
+```
+
+```
+Telescopio - drawTelescope
+```
+
+```
+Telescopio - drawVisibleShootingStar
+```
+
+```
+Telescopio - drawVisibleStars
+```
+
+```
 
 Trompo - drawTimer
 ```
