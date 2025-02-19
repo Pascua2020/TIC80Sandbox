@@ -476,27 +476,78 @@ end
 
 Baile - dibujarEstrellas
 ```
-
+-- Dibujar fondo con estrellas
+function dibujar_estrellas()
+    for _, estrella in ipairs(estrellas) do
+        -- Dibujar estrella
+        pix(estrella.x, estrella.y, 7)
+        -- Mover la estrella
+        estrella.y = estrella.y + estrella.velocidad
+        if estrella.y > 136 then
+            estrella.y = 0
+            estrella.x = math.random(0, 240)
+        end
+    end
+end
 ```
 
 Baile - dibujarEstrellasFugaces
 ```
-
+-- Dibujar estrellas fugaces
+function dibujar_estrellas_fugaces()
+    for _, estrella in ipairs(estrella_fugaz) do
+        -- Dibujar estrella fugaz
+        for i = 0, estrella.longitud - 1 do
+            pix(estrella.x - i, estrella.y + i, 7)
+        end
+        -- Mover la estrella fugaz
+        estrella.x = estrella.x + 1
+        estrella.y = estrella.y + estrella.velocidad
+        if estrella.x > 240 or estrella.y > 136 then
+            -- Generar nueva estrella fugaz si sale de la pantalla
+            estrella.x = math.random(0, 240)
+            estrella.y = 0
+            estrella.longitud = math.random(4, 10)
+            estrella.velocidad = math.random(4, 8)
+        end
+    end
+end
 ```
 
 Baile - dibujarFin
 ```
-
+-- Pantalla de fin de juego
+function dibujar_fin()
+    cls(0)
+    print("Juego Terminado", 80, 60, 12)
+    print("Puntos finales: " .. puntuacion, 60, 80, 11)
+    print("Presiona A para reiniciar", 50, 100, 7)
+end
 ```
 
 Baile - dibujarFlechas
 ```
-
+-- Dibujar flechas que suben
+function dibujar_flechas()
+    for _, flecha in ipairs(flechas) do
+        if flecha.activa then
+            spr(16 + flecha.tipo - 1, flecha.x, flecha.y, 0, 2)
+        elseif flecha.acertada then
+            -- Cambia a un sprite o color diferente durante el tiempo de acierto
+            spr(flecha.tipo + 31, flecha.x, flecha.y, 0, 2)
+        end
+    end
+end
 ```
 
 Baile - dibujarPuntuacion
 ```
-
+-- Dibujar puntuación, combo y fallos
+function dibujar_puntuacion()
+    print("Puntos: " .. puntuacion, 180, 10, 7)
+    print("Combo: " .. combo, 180, 20, 7)
+    print("Fallos: " .. fallos, 180, 30, 7)
+end
 ```
 
 Climatologia - drawLeaves
