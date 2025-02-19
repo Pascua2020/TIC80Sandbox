@@ -195,6 +195,36 @@ Trompo - updateRainbowPoints
 
 ## Todos los Draw / Dibujar
 
+Baile - dibujarBase
+```
+
+```
+
+Baile - dibujarCancion
+```
+
+```
+
+Baile - dibujarEstrellas
+```
+
+```
+
+Baile - dibujarEstrellasFugaces
+```
+
+```
+
+Baile - dibujarFin
+```
+
+```
+
+Baile - dibujarFlechas
+```
+
+```
+
 Climatologia - drawLeaves
 ```
 
