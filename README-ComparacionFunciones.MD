@@ -195,26 +195,21 @@ end
 -- Función para mover el personaje
 function mover_personaje()
     if btn(0) then  
--- Flecha arriba
         y_personaje = y_personaje - velocidad
     end
     if btn(1) then  
--- Flecha abajo
         y_personaje = y_personaje + velocidad
     end
     if btn(2) then  
--- Flecha izquierda
         x_personaje = x_personaje - velocidad
     end
     if btn(3) then  
--- Flecha derecha
         x_personaje = x_personaje + velocidad
     end
 end
 ```
 ### AK47
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -228,7 +223,6 @@ end
 ```
 ### Puño
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -242,7 +236,6 @@ end
 ```
 ### Katana
 ```
--- Función para mover al personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end
     if btn(1) then y_personaje = y_personaje + velocidad end
@@ -252,7 +245,6 @@ end
 ```
 ### Bazooka
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -266,7 +258,6 @@ end
 ```
 ### Granada
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -280,7 +271,6 @@ end
 ```
 ### Escopeta
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end  
 -- Flecha arriba
@@ -294,7 +284,6 @@ end
 ```
 ### Minigun
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end
     if btn(1) then y_personaje = y_personaje + velocidad end
@@ -304,7 +293,6 @@ end
 ```
 ### Lanzallamas
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end
     if btn(1) then y_personaje = y_personaje + velocidad end
@@ -314,7 +302,6 @@ end
 ```
 ### Rifle
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end
     if btn(1) then y_personaje = y_personaje + velocidad end
@@ -324,7 +311,6 @@ end
 ```
 ### Laser
 ```
--- Función para mover el personaje
 function mover_personaje()
     if btn(0) then y_personaje = y_personaje - velocidad end
     if btn(1) then y_personaje = y_personaje + velocidad end
