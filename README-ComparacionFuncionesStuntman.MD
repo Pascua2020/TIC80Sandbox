@@ -29,13 +29,9 @@ end
 ```
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
--- Arriba
     if btn(1) then car_y = car_y + car_speed end 
--- Abajo
     if btn(2) then car_x = car_x - car_speed end 
--- Izquierda
     if btn(3) then car_x = car_x + car_speed end 
--- Derecha
 end
 ```
 
@@ -43,13 +39,9 @@ end
 ```
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
--- Arriba
     if btn(1) then car_y = car_y + car_speed end 
--- Abajo
     if btn(2) then car_x = car_x - car_speed end 
--- Izquierda
     if btn(3) then car_x = car_x + car_speed end 
--- Derecha
 
     -- Activar nitro si el botón adecuado es presionado
     if btn(4) then
@@ -68,13 +60,9 @@ end
 ```
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
--- Arriba
     if btn(1) then car_y = car_y + car_speed end 
--- Abajo
     if btn(2) then car_x = car_x - car_speed end 
--- Izquierda
     if btn(3) then car_x = car_x + car_speed end 
--- Derecha
 
     -- Activar nitro si el botón adecuado es presionado
     if btn(4) then
@@ -94,13 +82,9 @@ end
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
--- Arriba
         if btn(1) then car_y = car_y + car_speed end 
--- Abajo
         if btn(2) then car_x = car_x - car_speed end 
--- Izquierda
         if btn(3) then car_x = car_x + car_speed end 
--- Derecha
 
         -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
@@ -121,13 +105,9 @@ end
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
--- Arriba
         if btn(1) then car_y = car_y + car_speed end 
--- Abajo
         if btn(2) then car_x = car_x - car_speed end 
--- Izquierda
         if btn(3) then car_x = car_x + car_speed end 
--- Derecha
 
         -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
