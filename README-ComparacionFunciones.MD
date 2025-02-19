@@ -380,37 +380,78 @@ end
 
 ### Pistola
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for i, coche in ipairs(coches) do
+        if not coche.colisionado then  -- Solo dibujar coches que no hayan colisionado
+            spr(48, coche.x, coche.y)  -- Dibujar el sprite del coche (id = 48)
+        end
+    end
+end
 ```
 
 ### AK47
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+    end
+end
 ```
 
 ### Bazooka
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+    end
+end
 ```
 
 ### Granada
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+    end
+end
 ```
 
 ### Escopeta
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        spr(48, coche.x, coche.y)  -- Dibujar cada coche con sprite id 48
+    end
+end
 ```
 
 ### Lanzallamas
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        if not coche.colisionado then
+            spr(48, coche.x, coche.y)
+        end
+    end
+end
 ```
 
 ### Rifle
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for _, coche in ipairs(coches) do
+        if not coche.colisionado then
+            spr(48, coche.x, coche.y)
+        end
+    end
+end
 ```
 
 ## mostrarFrase
