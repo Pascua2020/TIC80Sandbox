@@ -794,64 +794,225 @@ end
 
 Pinball - drawPaddle
 ```
-
+-- Dibujar una paleta como línea rotada
+local function draw_paddle(paddle)
+    local x1 = paddle.x
+    local y1 = paddle.y
+    local x2, y2
+    x2 = paddle.x + paddle.length * math.cos(paddle.angle)
+    y2 = paddle.y - paddle.length * math.sin(paddle.angle)
+    if paddle==paddle_right then 
+    line(x1, y1, x2, y2, colorpaletader)
+    end
+    if paddle==paddle_left then 
+    line(x1, y1, x2, y2, colorpaletaizq)
+    end
+    if paddle==paddle_top_right then 
+    line(x1, y1, x2, y2, colorpaletaarr)
+    end
+    if paddle==paddle_top_left then 
+    line(x1, y1, x2, y2, colorpaletaaba)
+    end
+end
 ```
 
 Pinball - drawPaddleCollision
 ```
+function draw_paddle_collision(paddle)
+    -- Coordenadas de los extremos de la paleta según su ángulo
+    local x1 = paddle.x
+    local y1 = paddle.y
+    local x2 = paddle.x + paddle.length * math.cos(paddle.angle)
+    local y2 = paddle.y - paddle.length * math.sin(paddle.angle)
+    
+    -- Grosor de la paleta para el área de colisión
+    local thickness = paddle.thickness or 10  -- Puedes ajustar este valor
 
+    -- Desplazamiento de los vértices por el grosor para crear un rectángulo
+    local dx = thickness * math.cos(paddle.angle) / 2
+    local dy = thickness * math.sin(paddle.angle) / 2
+
+    -- Coordenadas de los 4 vértices del rectángulo de colisión
+    local points = {
+        {x1 + dy, y1 + dx},  -- Vértice 1
+        {x2 + dy, y2 + dx},  -- Vértice 2
+        {x2 - dy, y2 - dx},  -- Vértice 3
+        {x1 - dy, y1 - dx},  -- Vértice 4
+    }
+
+    -- Dibuja líneas entre los vértices para visualizar el área de colisión
+    for i = 1, #points do
+        local next_point = points[(i % #points) + 1]
+        line(points[i][1], points[i][2], next_point[1], next_point[2], 7) -- Color 7 (blanco)
+    end
+end
 ```
 
 Pinball - drawSpring
 ```
+-- Función para dibujar el resorte debajo de la bola
+local function draw_spring()
+    -- Estiramiento o compresión del resorte dependiendo de la velocidad vertical de la bola
+    local spring_length = 10 + math.abs(ball.vy) -- Simula la compresión/expansión
+    local start_y = ball.y + ball.radius + 10  -- Posición de inicio debajo de la bola
 
+    -- Dibujar el resorte usando líneas pequeñas (simulación)
+    for i = 0, spring_length, 2 do
+        local color = (i % 4 == 0) and 11 or 8 -- Alternar colores para simular un resorte
+        line(190, start_y + i-20, 205, start_y + i-20, color)
+    end
+end
 ```
 
 Radio - dibujarTextoConContorno
 ```
-
+-- Función para dibujar texto con contorno blanco y texto naranja
+function dibujar_texto_con_contorno(texto, x, y, color_texto, color_contorno)
+    -- Dibujar contorno blanco desplazado en 8 direcciones alrededor del texto
+    for dx = -1, 1 do
+        for dy = -1, 1 do
+            if dx ~= 0 or dy ~= 0 then
+                print(texto, x + dx, y + dy, color_contorno)
+            end
+        end
+    end
+    -- Dibujar texto principal en color naranja (12 es el código del color naranja)
+    print(texto, x, y, color_texto)
+end
 ```
 Teclado - dibujarPantallaCorrecta
 ```
-
+-- Pantalla de clave correcta
+function dibujar_pantalla_correcta()
+    cls(0)
+    print("Clave correcta!", 60, 68, 11)
+end
 ```
 Teclado - dibujarTeclado
 ```
+-- Función para dibujar el teclado virtual
+function dibujar_teclado()
+    for y, fila in ipairs(teclado) do
+        for x, tecla in ipairs(fila) do
+            local pos_x = POS_X_INICIAL + (x - 1) * (TECLA_ANCHO + ESPACIO_X)
+            local pos_y = POS_Y_INICIAL + (y - 1) * (TECLA_ALTO + ESPACIO_Y)
 
+            -- Dibujar fondo de la tecla
+            rect(pos_x, pos_y, TECLA_ANCHO, TECLA_ALTO, 5)
+
+            -- Resaltar la tecla seleccionada
+            if x == cursor_x and y == cursor_y then
+                rectb(pos_x - 1, pos_y - 1, TECLA_ANCHO + 2, TECLA_ALTO + 2, 7)
+            end
+
+            -- Dibujar texto de la tecla
+            local offset_x = (#tecla == 1) and 5 or 3 -- Centrar texto
+            print(tecla, pos_x + offset_x, pos_y + 2, 7)
+        end
+    end
+end
 ```
 Teclado - dibujarTexto
 ```
-
+-- Dibujar texto en la parte superior
+function dibujar_texto()
+    print("Escribe: " .. texto_escrito, 10, 10, 7)
+end
 ```
 
 Teclado2 - drawKeyboard
 ```
-
+-- Función para mostrar el teclado numérico
+function draw_keyboard()
+    local x, y = 10, 10
+    for i, key in ipairs(keys) do
+        -- Dibujar los botones
+        rect(x, y, 30, 30, 7)
+        if i == selected_key then
+            rect(x - 2, y - 2, 34, 34, 8)  -- Resaltar la tecla seleccionada
+        end
+        print(key, x + 7, y + 7, 0)
+        x = x + 35
+        if i % 3 == 0 then
+            x = 10
+            y = y + 35
+        end
+    end
+end
 ```
 
 Telescopio - drawStar
 ```
-
+function draw_star(x, y, color)
+    -- Dibuja un punto grande que parece estrella
+    pix(x, y, color)     -- Centro de la estrella
+    pix(x - 1, y, color) -- Izquierda
+    pix(x + 1, y, color) -- Derecha
+    pix(x, y - 1, color) -- Arriba
+    pix(x, y + 1, color) -- Abajo
+end
 ```
 Telescopio - drawTelescope
 ```
-
+function draw_telescope()
+    -- Oscurecer toda la pantalla
+    rect(0, 0, 240, 136, 0)
+    -- Mostrar el círculo de la mira
+    circ(telescope.x, telescope.y, telescope.radius, 0)
+    circb(telescope.x, telescope.y, telescope.radius, 15) -- Borde de la mira
+end
 ```
 Telescopio - drawVisibleShootingStar
 ```
+function draw_visible_shooting_star()
+    -- Dibuja la estrella fugaz solo si está dentro del círculo de la mira
+    local dx = shooting_star.x - telescope.x
+    local dy = shooting_star.y - telescope.y
+    if dx * dx + dy * dy <= telescope.radius * telescope.radius then
+        local color = 10 -- Amarillo
+        draw_star(shooting_star.x, shooting_star.y, color)
 
+        -- Dibuja la cola de la estrella fugaz
+        for i, point in ipairs(shooting_star.trail) do
+            dx = point.x - telescope.x
+            dy = point.y - telescope.y
+            if dx * dx + dy * dy <= telescope.radius * telescope.radius then
+                local alpha_color = 10 - i -- Desvanece el color gradualmente
+                if alpha_color > 0 then
+                    pix(point.x, point.y, alpha_color)
+                end
+            end
+        end
+    end
+end
 ```
 Telescopio - drawVisibleStars
 ```
-
+function draw_visible_stars()
+    -- Dibuja las estrellas solo si están dentro del círculo de la mira
+    for _, star in ipairs(stars) do
+        local dx = star.x - telescope.x
+        local dy = star.y - telescope.y
+        if dx * dx + dy * dy <= telescope.radius * telescope.radius then
+            local color = star_colors[(frame // 10 % #star_colors) + 1]
+            draw_star(star.x, star.y, color)
+        end
+    end
+end
 ```
 
 Trompo - drawTimer
 ```
-
+function draw_timer()
+    print("Tiempo: " .. math.ceil(time_left), 10, 10, 7)
+end
 ```
 
 Trompo - drawWinner
 ```
-
+function draw_winner()
+    if game_over then
+        print(winner .. " gana!", 80, 120, 7)
+    end
+end
 ```
