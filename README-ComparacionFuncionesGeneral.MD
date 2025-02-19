@@ -41,7 +41,6 @@ function dibujar_texto_arcoiris(texto, x, y, color_seleccionado)
         -- Resaltar la opción seleccionada en azul
         if color_seleccionado then
             color = 12  
--- Azul
         end
         print(letra, x + (i - 1) * 6, y, color)
     end
@@ -54,7 +53,7 @@ DibujarTextoArcoiris
 function dibujar_texto_arcoiris(texto, x, y)
     for i = 1, #texto do
         local letra = string.sub(texto, i, i)
-        local color = (t // 5 + i) % 16  -- Efecto arcoíris
+        local color = (t // 5 + i) % 16  
         print(letra, x + (i - 1) * 6, y, color)
     end
 end
@@ -66,7 +65,7 @@ DibujarTextoArcoiris
 function dibujar_texto_arcoiris(texto, x, y)
     for i = 1, #texto do
         local letra = string.sub(texto, i, i)
-        local color = (t // 5 + i) % 16  -- Efecto arcoíris
+        local color = (t // 5 + i) % 16 
         print(letra, x + (i - 1) * 6, y, color)
     end
 end
@@ -110,7 +109,6 @@ end
 
 Baile - verificarInput
 ```
--- Verificar input del jugador
 function verificar_input()
     for _, flecha in ipairs(flechas) do
         if flecha.activa and flecha.y >= 16 and flecha.y <= 32 then
@@ -125,7 +123,7 @@ function verificar_input()
                 flecha.activa = false
                 flecha.acertada = true
                 flecha.tiempo_acertada = 15 
--- Duración del efecto en cuadros
+                -- Duración del efecto en cuadros
                 puntuacion = puntuacion + 10 + combo * 2
                 combo = combo + 1
             end
@@ -287,6 +285,7 @@ function update_leaves()
             leaf.y = math.random(-20, -1)
             leaf.x = math.random(0, 240)
         end
+
         if leaf.x < 0 then 
             leaf.x = math.random(0, 240)
         elseif leaf.x > 240 then
@@ -298,7 +297,6 @@ end
 
 Climatologia - updateLightning
 ```
--- Actualiza el estado del relámpago
 function update_lightning()
     if lightning_active then
         lightning_timer = lightning_timer - 1
@@ -363,9 +361,11 @@ end
 DiosGPT - actualizarColorTriangulo
 ```
 function actualizar_color_triangulo()
-    local t = time() / 40 -- Obtiene el tiempo actual en segundos
-    local colores = {0,1,2,3,4,5,6,7,8,9,10,11, 12, 13, 14, 15, 8}  -- Colores para el arcoíris (puedes ajustarlos)
-    color_triangulo = colores[math.floor(t) % #colores + 1]  -- Cambiar el color cada segundo
+    local t = time() / 40 
+-- Obtiene el tiempo actual en segundos
+    local colores = {0,1,2,3,4,5,6,7,8,9,10,11, 12, 13, 14, 15, 8}
+    color_triangulo = colores[math.floor(t) % #colores + 1]  
+-- Cambiar el color cada segundo
 end
 ```
 Jetpack - updateSparks
@@ -409,11 +409,20 @@ end
 Telescopio - updateTelescope
 ```
 function update_telescope()
-    -- Controlar el movimiento de la mira con las teclas de dirección
-    if btn(0) then telescope.y = math.max(telescope.y - 2, telescope.radius) end -- Arriba
-    if btn(1) then telescope.y = math.min(telescope.y + 2, 135 - telescope.radius) end -- Abajo
-    if btn(2) then telescope.x = math.max(telescope.x - 2, telescope.radius) end -- Izquierda
-    if btn(3) then telescope.x = math.min(telescope.x + 2, 239 - telescope.radius) end -- Derecha
+    
+-- Controlar el movimiento de la mira con las teclas de dirección
+    if btn(0) then telescope.y = math.max(telescope.y - 2, telescope.radius) end 
+-- Arriba
+
+    if btn(1) then telescope.y = math.min(telescope.y + 2, 135 - telescope.radius) end 
+-- Abajo
+
+    if btn(2) then telescope.x = math.max(telescope.x - 2, telescope.radius) end 
+-- Izquierda
+
+    if btn(3) then telescope.x = math.min(telescope.x + 2, 239 - telescope.radius) end 
+-- Derecha
+
 end
 ```
 Trompo - updateCircles
@@ -446,7 +455,8 @@ Trompo - updateRainbowPoints
 function update_rainbow_points()
     for _, point in ipairs(rainbow_points) do
         point.timer = point.timer + 1
-        point.color = (point.color + 1) % 16  -- Cambiar de color con el tiempo
+        point.color = (point.color + 1) % 16  
+-- Cambiar de color con el tiempo
     end
 end
 ```
@@ -484,8 +494,10 @@ function dibujar_estrellas()
     for _, estrella in ipairs(estrellas) do
         -- Dibujar estrella
         pix(estrella.x, estrella.y, 7)
+
         -- Mover la estrella
         estrella.y = estrella.y + estrella.velocidad
+
         if estrella.y > 136 then
             estrella.y = 0
             estrella.x = math.random(0, 240)
@@ -498,14 +510,17 @@ Baile - dibujarEstrellasFugaces
 ```
 function dibujar_estrellas_fugaces()
     for _, estrella in ipairs(estrella_fugaz) do
+
         -- Dibujar estrella fugaz
         for i = 0, estrella.longitud - 1 do
             pix(estrella.x - i, estrella.y + i, 7)
         end
+
         -- Mover la estrella fugaz
         estrella.x = estrella.x + 1
         estrella.y = estrella.y + estrella.velocidad
         if estrella.x > 240 or estrella.y > 136 then
+
             -- Generar nueva estrella fugaz si sale de la pantalla
             estrella.x = math.random(0, 240)
             estrella.y = 0
@@ -544,7 +559,6 @@ end
 
 Baile - dibujarPuntuacion
 ```
--- Dibujar puntuación, combo y fallos
 function dibujar_puntuacion()
     print("Puntos: " .. puntuacion, 180, 10, 7)
     print("Combo: " .. combo, 180, 20, 7)
@@ -554,10 +568,10 @@ end
 
 Climatologia - drawLeaves
 ```
--- Dibuja las hojas
 function draw_leaves()
     for _, leaf in ipairs(leaves) do
-        spr(leaf.sprite_id, leaf.x, leaf.y) -- Dibujar cada hoja
+        spr(leaf.sprite_id, leaf.x, leaf.y) 
+-- Dibujar cada hoja
     end
 end
 ```
@@ -583,7 +597,6 @@ end
 
 Climatologia - drawLightningEffect
 ```
--- Dibuja el efecto de relámpago
 function draw_lightning_effect()
     if lightning_active then
         rect(0, 0, 240, 136, 15)
@@ -597,14 +610,14 @@ end
 
 Climatologia - drawMenu
 ```
--- Dibuja el menú
 function draw_menu()
     print("Press 1: Toggle Rain", 5, 5, 12)
     print("Press 2: Toggle Leaves", 5, 15, 12)
     print("Press 3: Toggle Snow", 5, 25, 12)
     print("Press 4: Toggle Wind", 5, 35, 12)
     print("Press 5: Toggle Lightning", 5, 45, 12)
-    print("Press 6: Toggle Earthquake", 5, 55, 12)  -- Botón 6 agregado para el terremoto
+    print("Press 6: Toggle Earthquake", 5, 55, 12)
+
     print("Rain: " .. tostring(effects.rain), 5, 65, effects.rain and 11 or 8)
     print("Leaves: " .. tostring(effects.leaves), 5, 75, effects.leaves and 11 or 8)
     print("Snow: " .. tostring(effects.snow), 5, 85, effects.snow and 11 or 8)
@@ -616,7 +629,6 @@ end
 
 Climatologia - drawRaindrops
 ```
--- Dibuja las gotas de lluvia
 function draw_raindrops()
     for _, drop in ipairs(raindrops) do
         rect(drop.x, drop.y, 2, 6, 9) -- Dibujar cada gota
@@ -626,7 +638,6 @@ end
 
 Climatologia - drawSnowflakes
 ```
--- Dibuja los copos de nieve
 function draw_snowflakes()
     for _, flake in ipairs(snowflakes) do
           spr(32, flake.x, flake.y) -- Dibujar cada hoja
@@ -684,10 +695,12 @@ end
 MenuPausa - dibujarMenu
 ```
 function dibujar_menu()
+
     -- Dibujar las opciones del menú
     for i, opcion in ipairs(opciones_menu) do
         local y_pos = 16 + (i - 1) * 10  -- Espaciado de 10 píxeles entre opciones
-        local seleccionado = (i == seleccion)  -- Verificar si la opción está seleccionada
+        local seleccionado = (i == seleccion)  
+-- Verificar si la opción está seleccionada
         dibujar_texto_arcoiris(opcion, 20, y_pos, seleccionado)
     end
 
@@ -700,8 +713,10 @@ MenuPausa - dibujarMiniMapa
 ```
 function dibujar_minimapa()
     -- Rectángulo simulado para el minimapa (a la derecha de la pantalla)
-    rect(160, 16, 64, 64, 12)  -- Minimap area
-    rect(170, 26, 20, 20, 8)  -- Simulación de un punto en el minimapa
+    rect(160, 16, 64, 64, 12)  
+-- Minimap area
+    rect(170, 26, 20, 20, 8)  
+-- Simulación de un punto en el minimapa
     print("Mapa",160,0,3)
     print("Descripcion",10,100,14)
     print("Flechas - Moverse",120,85,14)
@@ -719,8 +734,10 @@ Moneda - dibujarBalanza
 ```
 -- Función para dibujar la balanza
 function dibujar_balanza()
-    if direccion_balanza ~= 0 then  -- Si la balanza ha sido disparada
-        spr(16, pos_balanza_x, pos_balanza_y)  -- Dibujar el sprite de la balanza (id = 16)
+    if direccion_balanza ~= 0 then  
+-- Si la balanza ha sido disparada
+        spr(16, pos_balanza_x, pos_balanza_y)  
+-- Dibujar el sprite de la balanza (id = 16)
     end
 end
 ```
@@ -739,7 +756,8 @@ Moneda - dibujarMonedas
 -- Función para dibujar las monedas normales
 function dibujar_monedas()
     for _, moneda in ipairs(monedas_pos) do
-        if not moneda.recogida then  -- Solo dibujar las monedas no recogidas
+        if not moneda.recogida then  
+-- Solo dibujar las monedas no recogidas
             spr(80 + (t % 3), moneda.x, moneda.y)  -- Dibujar el sprite animado de la moneda
         end
     end
