@@ -496,7 +496,6 @@ end
 
 ### S4
 ```
--- Dividir texto en líneas con fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
@@ -534,7 +533,6 @@ end
 
 ### S5
 ```
--- Dibujar texto con múltiples líneas y fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
@@ -572,7 +570,6 @@ end
 
 ### S6
 ```
--- Dibujar texto con múltiples líneas y fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
@@ -610,7 +607,6 @@ end
 
 ### S7
 ```
--- Dibujar texto con múltiples líneas y fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
@@ -654,7 +650,6 @@ function TIC()
     cls(0) 
 -- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
     -- Dibuja el mapa
@@ -735,12 +730,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -818,12 +810,9 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
 
-    -- Actualizar cámara
     update_camera()
 
-    -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
