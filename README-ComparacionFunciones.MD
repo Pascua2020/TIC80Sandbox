@@ -1050,27 +1050,110 @@ end
 
 ### Rifle
 ```
-
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_rifle()
+    mover_rayos()
+    detectar_colision()
+    dibujar_personaje()
+    dibujar_rayos()
+    dibujar_explosion()
+    dibujar_coches()
+    mostrar_frase()
+    recargar()
+    mostrar_controles()
+    t = t + 1
+end
 ```
 
 ### Lanzallamas
 ```
-
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_lanzallamas()
+    mover_llamas()
+    detectar_colision()
+    dibujar_personaje()
+    dibujar_llamas()
+    dibujar_explosion()
+    dibujar_coches()
+    mostrar_frase()
+    recargar()
+    mostrar_controles()
+    t = t + 1
+end
 ```
 
 ### Minigun
 ```
+function TIC()
+    cls(0)
 
+    -- Crear enemigos de manera aleatoria
+    if t % 120 == 0 then
+        crear_enemigo()
+    end
+
+    mover_personaje()
+    disparar_minigun()
+    mover_balas()
+    mover_y_dibujar_explosion()  -- Mover y dibujar las partículas de la explosión
+    dibujar_personaje()
+    dibujar_balas()
+    dibujar_enemigos()
+    mostrar_frase()
+    recargar()
+    mostrar_controles()
+
+    t = t + 1
+end
 ```
 
 ### Granada
 ```
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_granada()
+    mover_granadas()
+    recargar()
+    agregar_coches()
+    mover_coches()
+    verificar_impactos()
+    dibujar_personaje()
+    dibujar_granadas()
+    dibujar_coches()
+    dibujar_explosiones()
+    dibujar_mira_impacto()  -- Dibujar la mira de impacto
+    mostrar_controles()
 
+    -- Dibujar información de las granadas
+    print("Granadas: " .. numero_granadas, 10, 10, 7)
+    if t - tiempo_frase < 60 then
+        print(frase_actual, x_personaje, y_personaje - 10, 11)  -- Mostrar frase por 1 segundo
+    end
+
+    t = t + 1
+end
 ```
 
 ### Laser
 ```
-
+function TIC()
+    cls(0)
+    mover_personaje()
+    disparar_laser()
+    dibujar_personaje()
+    dibujar_laser()
+    dibujar_enemigos()
+    dibujar_sangre()
+    mostrar_frase()
+    recargar()
+    mostrar_controles()
+    t = t + 1
+end
 ```
 
 ## verificarImpactos
