@@ -317,7 +317,6 @@ function agregar_coches()
     if math.random(1, 100) > 98 then  
 -- Asegura que los coches aparezcan raramente
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
--- Generar un coche en posición aleatoria
     end
 end
 ```
@@ -326,7 +325,6 @@ end
 ```
 function agregar_coches()
     if math.random(1, 100) > 95 then  
--- Asegura que los coches aparezcan con mayor frecuencia
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
     end
 end
@@ -336,7 +334,6 @@ end
 ```
 function agregar_coches()
     if math.random(1, 100) > 95 then  
--- Asegura que los coches aparezcan con mayor frecuencia
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
     end
 end
@@ -346,7 +343,6 @@ end
 ```
 function agregar_coches()
     if math.random(1, 100) > 98 then  
--- Asegura que los coches aparezcan raramente
         table.insert(coches, {x = 240, y = math.random(10, 130)})  
     end
 end
@@ -372,7 +368,6 @@ end
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
--- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -382,7 +377,6 @@ end
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
--- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -392,7 +386,6 @@ end
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
--- Dibujar cada coche con sprite id 48
     end
 end
 ```
@@ -402,7 +395,6 @@ end
 function dibujar_coches()
     for _, coche in ipairs(coches) do
         spr(48, coche.x, coche.y)  
--- Dibujar cada coche con sprite id 48
     end
 end
 ```
