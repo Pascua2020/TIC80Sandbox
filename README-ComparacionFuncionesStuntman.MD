@@ -648,10 +648,8 @@ end
 ```
 function TIC()
     cls(0) 
--- Limpia la pantalla
-
+    -- Limpia la pantalla
     update_camera()
-
     -- Dibuja el mapa
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
@@ -730,9 +728,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -763,12 +759,11 @@ function TIC()
         end
 
         
--- Movimiento del coche
+        -- Movimiento del coche
         move_car()
         check_collisions()
 
-        
--- Verificar si todas las cajas han sido chocadas
+        -- Verificar si todas las cajas han sido chocadas
         local all_boxes_hit = true
         for _, box in ipairs(boxes) do
             if box.active then
@@ -798,9 +793,9 @@ function TIC()
     end
 
     -- Dibuja los sprites
-    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    spr(48, car_x - camera_x, car_y - camera_y, 0) 
+-- Coche
 
-    -- Dibujar cajas y partículas
     draw_boxes()
     update_and_draw_particles()
 end
@@ -810,9 +805,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -871,15 +864,12 @@ function TIC()
         draw_text_multiline_with_bg("Objetivo 1-3: misión fallida.", 0, 80, 6, 2, 150)
     end
 
-    -- Dibuja los sprites
     spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
 
-    -- Dibujar cajas, partículas y checkpoint
     draw_boxes()
     update_and_draw_particles()
     draw_checkpoint() -- Dibuja el checkpoint en la pantalla
 
-    -- Dibujar el efecto del nitro
     draw_nitro_effect()
 end
 ```
@@ -888,9 +878,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -920,14 +908,11 @@ function TIC()
             game_state = "finished"
         end
 
-        -- Movimiento del coche
         move_car()
         shoot_bullet() 
--- Disparar balas
         check_bullet_collisions() 
 -- Comprobar colisiones con la caja
         update_bullets() 
--- Actualizar balas
 
         -- Verificar si la caja ha sido destruida
         if box.health <= 0 then
@@ -952,16 +937,11 @@ function TIC()
         draw_text_multiline_with_bg("Objetivo 1-4: misión fallida.", 0, 80, 6, 2, 150)
     end
 
-    -- Dibuja los sprites
     spr(48, car_x - camera_x, car_y - camera_y, 0) 
--- Coche
-
-    -- Dibujar la caja, balas, partículas y checkpoint
     draw_box()
     draw_bullets()
     update_and_draw_particles()
 
-    -- Dibujar el efecto del nitro
     draw_nitro_effect()
 end
 ```
@@ -970,9 +950,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1001,8 +979,7 @@ function TIC()
             game_state = "finished"
         end
 
-        
--- Movimiento del coche y comprobaciones
+        -- Movimiento del coche y comprobaciones
         move_car()
         check_ramp_collision()
         handle_jump()
@@ -1030,7 +1007,6 @@ function TIC()
         draw_text_multiline_with_bg("Objetivo 1-5: misión fallida.", 0, 80, 6, 2, 150)
     end
 
-    -- Dibujar el coche, la rampa y efectos
     spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
     draw_ramp()
     draw_nitro_effect()
@@ -1041,9 +1017,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1074,10 +1048,8 @@ function TIC()
             game_state = "finished"
         end
 
-        
 -- Movimiento del coche y comprobaciones
         move_car()
-
         
 -- Verificar si el coche ha esquivado coches por 5 segundos
         if not check_car_collision() then
@@ -1092,7 +1064,6 @@ function TIC()
 
         handle_jump()
 
-        
 -- Crear y mover los coches enemigos
         spawn_car()
         draw_cars()
@@ -1114,7 +1085,6 @@ function TIC()
         draw_text_multiline_with_bg("Objetivo 1-6: misión fallida.", 0, 80, 6, 2, 150)
     end
 
-    -- Dibujar el coche, la rampa y efectos
     spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
     draw_ramp()
     draw_nitro_effect()
@@ -1125,9 +1095,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1172,11 +1140,9 @@ function TIC()
             game_state = "finished"
         end
 
-        
 -- Dibujar el rango de persecución alrededor del coche objetivo
         draw_follow_range()
 
-        
 -- Comprobar si el coche del jugador está tocando el círculo de persecución
         local distance_to_target = math.sqrt((car_x - target_car.x)^2 + (car_y - target_car.y)^2)
         if distance_to_target <= follow_range then
@@ -1187,7 +1153,6 @@ function TIC()
 -- Misión completada
             end
         end
-
         
 -- Dibujar el coche a perseguir
         draw_target_car()
@@ -1210,7 +1175,6 @@ function TIC()
     elseif objective_status == "failed" then
         draw_text_multiline_with_bg("Objetivo 1-7: misión fallida.", 0, 80, 6, 2, 150)
     end
-
     
 -- Dibujar el coche, la rampa y efectos
     spr(48, car_x - camera_x, car_y - camera_y, 0) 
@@ -1222,7 +1186,6 @@ end
 ```
 function TIC()
     cls(0)
-
     update_camera()
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
@@ -1274,9 +1237,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Mostrar misión o diálogo
@@ -1309,11 +1270,8 @@ function TIC()
         check_hoop_collision()
         update_hoop()
         check_victory_collision() 
--- Comprobar si el jugador tocó el círculo de victoria
         check_train_collision() 
--- Comprobar si el jugador toca el tren o los vagones
         move_train() 
--- Mover el tren y los vagones
     elseif game_state == "finished" then
         if objective_status == "complete" then
             print("¡Misión cumplida! ", 10, 10, 11)
@@ -1322,7 +1280,6 @@ function TIC()
         end
     end
 
-    -- Dibujar el coche, la rampa, el aro, el círculo de victoria, el tren y efectos
     spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
     draw_ramp()
     draw_hoop()
@@ -1345,9 +1302,7 @@ end
 ```
 function TIC()
     cls(0) 
-
     update_camera()
-
     map(0, 0, 30, 17, -camera_x, -camera_y)
 
     -- Estados del juego
@@ -1402,7 +1357,6 @@ function TIC()
         handle_game_over() -- Si el jugador está dentro de la explosión, muestra el mensaje de Game Over
     end
 
-    -- Dibujar entidades
     draw_entities()
     draw_victory_circle()
 
