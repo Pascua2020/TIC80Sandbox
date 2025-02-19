@@ -4,19 +4,31 @@
 
 ### Pistola
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+end
 ```
 ### AK47
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+end
 ```
 ### Puño
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(0, x_personaje, y_personaje,0)  -- Dibujar el sprite del personaje
+end
 ```
 ### Katana
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(257, x_personaje, y_personaje)
+end
 ```
 ### Bazooka
 ```
