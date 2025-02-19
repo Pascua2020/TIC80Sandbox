@@ -282,6 +282,20 @@ Inicio - dibujarEstrellas
 ```
 
 ```
+Parada - dibujarParada
+```
+
+```
+
+Parada - dibujarPersonaje
+```
+
+```
+
+Parada - dibujarTarjetaSuba
+```
+
+```
 
 Pinball - drawPaddle
 ```
