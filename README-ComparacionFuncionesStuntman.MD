@@ -1386,34 +1386,111 @@ end
 
 ### S2
 ```
-
+-- Generar partículas de explosión
+function generate_particles(x, y)
+    for i = 1, 10 do
+        table.insert(particles, {
+            x = x,
+            y = y,
+            dx = math.random(-2, 2),
+            dy = math.random(-2, 2),
+            timer = 30
+        })
+    end
+end
 ```
 
 ### S3
 ```
-
+-- Generar partículas de explosión
+function generate_particles(x, y)
+    for i = 1, 10 do
+        table.insert(particles, {
+            x = x,
+            y = y,
+            dx = math.random(-2, 2),
+            dy = math.random(-2, 2),
+            timer = 30
+        })
+    end
+end
 ```
 
 ### S4
 ```
-
+-- Generar partículas de explosión
+function generate_particles(x, y)
+    for i = 1, 10 do
+        table.insert(particles, {
+            x = x,
+            y = y,
+            dx = math.random(-2, 2),
+            dy = math.random(-2, 2),
+            timer = 30
+        })
+    end
+end
 ```
 
 ## updateAndDrawParticles
 
 ### S2
 ```
-
+-- Actualizar y dibujar partículas
+function update_and_draw_particles()
+    for i = #particles, 1, -1 do
+        local p = particles[i]
+        p.x = p.x + p.dx
+        p.y = p.y + p.dy
+        p.timer = p.timer - 1
+        pix(p.x - camera_x, p.y - camera_y, 12) -- Color amarillo
+        if p.timer <= 0 then
+            table.remove(particles, i)
+        end
+    end
+end
 ```
 
 ### S3
 ```
+-- Actualizar y dibujar partículas
+function update_and_draw_particles()
+    if not particles then
+        particles = {} -- Inicializar la lista de partículas si es nil
+    end
 
+    for i = #particles, 1, -1 do
+        local p = particles[i]
+        p.x = p.x + p.dx
+        p.y = p.y + p.dy
+        p.timer = p.timer - 1
+        pix(p.x - camera_x, p.y - camera_y, 12) -- Color amarillo
+        if p.timer <= 0 then
+            table.remove(particles, i)
+        end
+    end
+end
 ```
 
 ### S4
 ```
+-- Actualizar y dibujar partículas
+function update_and_draw_particles()
+    if not particles then
+        particles = {} -- Inicializar la lista de partículas si es nil
+    end
 
+    for i = #particles, 1, -1 do
+        local p = particles[i]
+        p.x = p.x + p.dx
+        p.y = p.y + p.dy
+        p.timer = p.timer - 1
+        pix(p.x - camera_x, p.y - camera_y, 12) -- Color amarillo
+        if p.timer <= 0 then
+            table.remove(particles, i)
+        end
+    end
+end
 ```
 
 ## drawNitroEffect
