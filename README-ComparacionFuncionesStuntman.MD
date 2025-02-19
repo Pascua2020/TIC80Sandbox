@@ -375,37 +375,268 @@ end
 
 ### S1
 ```
+-- Dividir texto en líneas con fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S2
 ```
+-- Dividir texto en líneas con fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S3
 ```
+-- Dividir texto en líneas con fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S4
 ```
+-- Dividir texto en líneas con fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S5
 ```
+-- Dibujar texto con múltiples líneas y fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S6
 ```
+-- Dibujar texto con múltiples líneas y fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ### S7
 ```
+-- Dibujar texto con múltiples líneas y fondo negro
+function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
+    local words = {}
+    for word in text:gmatch("%S+") do
+        table.insert(words, word)
+    end
 
+    local line = ""
+    local line_height = 6
+    local original_y = y
+    local lines = {}
+
+    for _, word in ipairs(words) do
+        local test_line = line .. (line == "" and "" or " ") .. word
+        if print(test_line, 0, -10, 0, false, 1, false) > max_width then
+            table.insert(lines, line)
+            line = word
+        else
+            line = test_line
+        end
+    end
+    if line ~= "" then
+        table.insert(lines, line)
+    end
+
+    -- Dibuja el fondo negro
+    rect(x - 2, y - 2, max_width + 4, #lines * line_height + 4, bg_color)
+
+    -- Dibuja el texto línea por línea
+    for _, line in ipairs(lines) do
+        print(line, x, y, color)
+        y = y + line_height
+    end
+end
 ```
 
 ## TIC
