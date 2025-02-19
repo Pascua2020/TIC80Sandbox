@@ -671,49 +671,125 @@ end
 ```
 MenuPausa - dibujarEstrellas
 ```
-
+-- Función para dibujar estrellas con efecto arcoíris
+function dibujar_estrellas()
+    for _, estrella in ipairs(estrellas) do
+        local color = (t // 5 + estrella.x + estrella.y) % 16
+        pix(estrella.x, estrella.y, color)
+    end
+end
 ```
 MenuPausa - dibujarMenu
 ```
+-- Función para dibujar el menú
+function dibujar_menu()
+    -- Dibujar las opciones del menú
+    for i, opcion in ipairs(opciones_menu) do
+        local y_pos = 16 + (i - 1) * 10  -- Espaciado de 10 píxeles entre opciones
+        local seleccionado = (i == seleccion)  -- Verificar si la opción está seleccionada
+        dibujar_texto_arcoiris(opcion, 20, y_pos, seleccionado)
+    end
 
+    -- Dibujar la descripción de la opción seleccionada
+    local descripcion_y_pos = 16 + #opciones_menu * 10 + 5  -- Posición debajo de las opciones
+    dibujar_texto_arcoiris(descripciones_menu[seleccion], 20, descripcion_y_pos+20, false)
+end
 ```
 MenuPausa - dibujarMiniMapa
 ```
+-- Función para dibujar el minimapa simulado
+function dibujar_minimapa()
+    -- Rectángulo simulado para el minimapa (a la derecha de la pantalla)
+    rect(160, 16, 64, 64, 12)  -- Minimap area
+    -- Aquí puedes agregar detalles como un punto o líneas que simulen un mapa
+    rect(170, 26, 20, 20, 8)  -- Simulación de un punto en el minimapa
+    print("Mapa",160,0,3)
+    print("Descripcion",10,100,14)
+    print("Flechas - Moverse",120,85,14)
+    print("Boton A - Seleccionar",120,95,3)
+				spr(0,115,10)
+				print("(P)NV1",125,12,3)
+				spr(16,115,20)
+				print("(V)NV1",125,22,3)
+				spr(32,115,30)
+				print("(A)NV1",125,32,3)
 
+end
 ```
 Moneda - dibujarBalanza
 ```
-
+-- Función para dibujar la balanza
+function dibujar_balanza()
+    if direccion_balanza ~= 0 then  -- Si la balanza ha sido disparada
+        spr(16, pos_balanza_x, pos_balanza_y)  -- Dibujar el sprite de la balanza (id = 16)
+    end
+end
 ```
 Moneda - dibujarCoches
 ```
-
+-- Función para dibujar los coches
+function dibujar_coches()
+    for i, coche in ipairs(coches) do
+        if not coche.colisionado then  -- Solo dibujar coches que no hayan colisionado
+            spr(48, coche.x, coche.y)  -- Dibujar el sprite del coche (id = 48)
+        end
+    end
+end
 ```
 Moneda - dibujarMonedas
 ```
-
+-- Función para dibujar las monedas normales
+function dibujar_monedas()
+    for _, moneda in ipairs(monedas_pos) do
+        if not moneda.recogida then  -- Solo dibujar las monedas no recogidas
+            spr(80 + (t % 3), moneda.x, moneda.y)  -- Dibujar el sprite animado de la moneda
+        end
+    end
+end
 ```
 Moneda - dibujarMonedasEspeciales
 ```
-
+-- Función para dibujar las monedas especiales
+function dibujar_monedas_especiales()
+    for _, moneda in ipairs(monedas_especiales_pos) do
+        if not moneda.recogida then  -- Solo dibujar monedas no recogidas
+            spr(83 + (t % 3), moneda.x, moneda.y)  -- Animar usando los sprites 83, 84, 85
+        end
+    end
+end
 ```
 Moneda - dibujarPersonaje
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+end
 ```
 Parada - dibujarParada
 ```
-
+-- Función para dibujar la parada
+function dibujar_parada()
+    -- Dibujar el sprite de la parada en la posición (5, 3)
+    spr(128, 5 * 8, 3 * 8, 0)  -- Asegúrate de que este sprite sea adecuado
+end
 ```
 
 Parada - dibujarPersonaje
 ```
-
+-- Función para dibujar el personaje
+function dibujar_personaje()
+    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+end
 ```
 
 Parada - dibujarTarjetaSuba
 ```
-
+-- Función para dibujar la tarjeta SUBA
+function dibujar_tarjeta_suba()
+    if not tarjeta_suba.recogida then  -- Solo dibujar si no ha sido recogida
+        spr(96, tarjeta_suba.x, tarjeta_suba.y)  -- Sprite animado con ID 96
+    end
+end
 ```
 
 Pinball - drawPaddle
