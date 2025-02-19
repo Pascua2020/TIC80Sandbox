@@ -225,6 +225,11 @@ Baile - dibujarFlechas
 
 ```
 
+Baile - dibujarPuntuacion
+```
+
+```
+
 Climatologia - drawLeaves
 ```
 
