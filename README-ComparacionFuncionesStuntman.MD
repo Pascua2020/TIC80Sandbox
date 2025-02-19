@@ -1651,26 +1651,69 @@ end
 
 ### S3
 ```
+-- Comprobar si el coche ha pasado por el checkpoint (con un círculo)
+function check_checkpoint_collision()
+    local checkpoint_x = 300
+    local checkpoint_y = 100
+    local checkpoint_radius = 8
 
+    -- Verificar si el coche ha superado el círculo del checkpoint
+    local dist = math.sqrt((car_x - checkpoint_x)^2 + (car_y - checkpoint_y)^2)
+    if dist <= checkpoint_radius then
+        return true
+    end
+    return false
+end
 ```
 ### S4
 ```
+-- Comprobar si el coche ha pasado por el checkpoint (con un círculo)
+function check_checkpoint_collision()
+    local checkpoint_x = 300
+    local checkpoint_y = 100
+    local checkpoint_radius = 8
 
+    -- Verificar si el coche ha superado el círculo del checkpoint
+    local dist = math.sqrt((car_x - checkpoint_x)^2 + (car_y - checkpoint_y)^2)
+    if dist <= checkpoint_radius then
+        return true
+    end
+    return false
+end
 ```
 
 ## drawBox / Boxes
 
 ### S2
 ```
-
+-- Dibujar cajas
+function draw_boxes()
+    for _, box in ipairs(boxes) do
+        if box.active then
+            spr(3, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 3)
+        end
+    end
+end
 ```
 
 ### S3
 ```
-
+-- Dibujar cajas
+function draw_boxes()
+    for _, box in ipairs(boxes) do
+        if box.active then
+            spr(3, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 3)
+        end
+    end
+end
 ```
 
 ### S4
 ```
-
+-- Dibujar la caja
+function draw_box()
+    if box.active then
+        spr(4, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 4)
+    end
+end
 ```
