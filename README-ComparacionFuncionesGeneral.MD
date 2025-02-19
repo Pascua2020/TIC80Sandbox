@@ -187,6 +187,10 @@ DiosGPT - actualizarColorTriangulo
 ```
 
 ```
+Jetpack - updateSparks
+```
+
+```
 Telescopio - updateShootingStar
 ```
 
