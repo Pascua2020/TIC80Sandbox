@@ -97,19 +97,29 @@ end
 ## Todos los Check
 
 RC - checkEraseButton
+
 RC - checkModeButton
+
 RC - checkSpriteSelector
+
 RC - checkTwoModeButton
 
 Trompo - checkCircleCollision
+
 Trompo - checkCollision
+
 Trompos - checkGameOver
 
 ## Todos los Update
 
 Trompo - updateCircles
+
 Trompo - updateParticles
+
 Trompo - updateRainbowPoints
 
 ## Todos los Draw
 
+Trompo - drawTimer
+
+Trompo - drawWinner
