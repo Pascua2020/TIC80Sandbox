@@ -131,7 +131,17 @@ Trompos - checkGameOver
 
 ```
 
-## Todos los Update
+## Todos los Update / Actualizar
+
+Baile - actualizarFlechas
+```
+
+```
+
+Baile - ActualizarFlechasEstaticas
+```
+
+```
 
 Climatologia - updateEarthquake
 ```
@@ -163,6 +173,11 @@ Climatologia - updateWind
 
 ```
 
+DiosGPT - actualizarColorTriangulo
+```
+
+```
+
 Trompo - updateCircles
 ```
 
@@ -178,7 +193,7 @@ Trompo - updateRainbowPoints
 
 ```
 
-## Todos los Draw
+## Todos los Draw / Dibujar
 
 Climatologia - drawLeaves
 ```
@@ -214,7 +229,10 @@ Climatologia - drawWind
 ```
 
 ```
+DiosGPT - dibujarTriangulo
+```
 
+```
 
 Pinball - drawPaddle
 ```
