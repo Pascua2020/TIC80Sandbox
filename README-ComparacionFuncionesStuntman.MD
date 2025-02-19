@@ -872,7 +872,8 @@ end
 ### S3
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -883,24 +884,28 @@ function TIC()
     -- Mostrar misión o diálogo
     if game_state == "mission_intro" then
         draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para comenzar el diálogo
+        if btnp(4) then 
+-- Botón A para comenzar el diálogo
             game_state = "dialogue"
         end
     elseif game_state == "dialogue" then
         draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para avanzar diálogo
+        if btnp(4) then 
+-- Botón A para avanzar diálogo
             dialogue_index = dialogue_index + 1
             if dialogue_index > #dialogue then
                 game_state = "countdown"
             end
         end
     elseif game_state == "countdown" then
-        -- Mostrar el contador en la parte superior derecha
+        
+-- Mostrar el contador en la parte superior derecha
         print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if objective_status == "incomplete" then
-                objective_status = "failed" -- Cambiar a misión fallida si no llegaste al checkpoint
+                objective_status = "failed" 
+-- Cambiar a misión fallida si no llegaste al checkpoint
             end
             game_state = "finished"
         end
@@ -909,7 +914,8 @@ function TIC()
         move_car()
         check_collisions()
 
-        -- Verificar si el coche llegó al checkpoint
+        
+-- Verificar si el coche llegó al checkpoint
         if check_checkpoint_collision() and objective_status == "incomplete" then
             objective_status = "complete"
             game_state = "finished"
@@ -947,7 +953,8 @@ end
 ### S4
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -958,7 +965,8 @@ function TIC()
     -- Mostrar misión o diálogo
     if game_state == "mission_intro" then
         draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para comenzar el diálogo
+        if btnp(4) then 
+-- Botón A para comenzar el diálogo
             game_state = "dialogue"
         end
     elseif game_state == "dialogue" then
@@ -975,16 +983,20 @@ function TIC()
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if objective_status == "incomplete" then
-                objective_status = "failed" -- Cambiar a misión fallida si no destruíste la caja
+                objective_status = "failed" 
+-- Cambiar a misión fallida si no destruíste la caja
             end
             game_state = "finished"
         end
 
         -- Movimiento del coche
         move_car()
-        shoot_bullet() -- Disparar balas
-        check_bullet_collisions() -- Comprobar colisiones con la caja
-        update_bullets() -- Actualizar balas
+        shoot_bullet() 
+-- Disparar balas
+        check_bullet_collisions() 
+-- Comprobar colisiones con la caja
+        update_bullets() 
+-- Actualizar balas
 
         -- Verificar si la caja ha sido destruida
         if box.health <= 0 then
@@ -1010,7 +1022,8 @@ function TIC()
     end
 
     -- Dibuja los sprites
-    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    spr(48, car_x - camera_x, car_y - camera_y, 0) 
+-- Coche
 
     -- Dibujar la caja, balas, partículas y checkpoint
     draw_box()
@@ -1025,7 +1038,8 @@ end
 ### S5
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -1053,17 +1067,20 @@ function TIC()
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if objective_status == "incomplete" then
-                objective_status = "failed" -- Cambiar a misión fallida si no se salta
+                objective_status = "failed" 
+-- Cambiar a misión fallida si no se salta
             end
             game_state = "finished"
         end
 
-        -- Movimiento del coche y comprobaciones
+        
+-- Movimiento del coche y comprobaciones
         move_car()
         check_ramp_collision()
         handle_jump()
 
-        -- Verificar si el coche ha saltado sobre la rampa
+        
+-- Verificar si el coche ha saltado sobre la rampa
         if car_x > ramp.x + 32 and jumping then
             objective_status = "complete"
             game_state = "finished"
@@ -1095,7 +1112,8 @@ end
 ### S6
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -1106,12 +1124,14 @@ function TIC()
     -- Mostrar misión o diálogo
     if game_state == "mission_intro" then
         draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para comenzar el diálogo
+        if btnp(4) then 
+-- Botón A para comenzar el diálogo
             game_state = "dialogue"
         end
     elseif game_state == "dialogue" then
         draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para avanzar diálogo
+        if btnp(4) then 
+-- Botón A para avanzar diálogo
             dialogue_index = dialogue_index + 1
             if dialogue_index > #dialogue then
                 game_state = "countdown"
@@ -1123,17 +1143,21 @@ function TIC()
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if objective_status == "incomplete" then
-                objective_status = "failed" -- Cambiar a misión fallida si no esquiva coches
+                objective_status = "failed" 
+-- Cambiar a misión fallida si no esquiva coches
             end
             game_state = "finished"
         end
 
-        -- Movimiento del coche y comprobaciones
+        
+-- Movimiento del coche y comprobaciones
         move_car()
 
-        -- Verificar si el coche ha esquivado coches por 5 segundos
+        
+-- Verificar si el coche ha esquivado coches por 5 segundos
         if not check_car_collision() then
-            time_avoided = time_avoided + 1 / 60 -- Aumenta el tiempo de esquive
+            time_avoided = time_avoided + 1 / 60 
+-- Aumenta el tiempo de esquive
             if time_avoided >= 5 then
                 objective_status = "complete"
             end
@@ -1143,7 +1167,8 @@ function TIC()
 
         handle_jump()
 
-        -- Crear y mover los coches enemigos
+        
+-- Crear y mover los coches enemigos
         spawn_car()
         draw_cars()
 
@@ -1174,7 +1199,8 @@ end
 ### S7
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -1185,27 +1211,33 @@ function TIC()
     -- Mostrar misión o diálogo
     if game_state == "mission_intro" then
         draw_text_multiline_with_bg(mission_description, 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para comenzar el diálogo
+        if btnp(4) then 
+-- Botón A para comenzar el diálogo
             game_state = "dialogue"
         end
     elseif game_state == "dialogue" then
         draw_text_multiline_with_bg(dialogue[dialogue_index], 8, 8, 12, 0, 200)
-        if btnp(4) then -- Botón A para avanzar diálogo
+        if btnp(4) then 
+-- Botón A para avanzar diálogo
             dialogue_index = dialogue_index + 1
             if dialogue_index > #dialogue then
                 game_state = "countdown"
             end
         end
     elseif game_state == "countdown" then
-        -- Mostrar el contador en la parte superior derecha
+        
+-- Mostrar el contador en la parte superior derecha
         print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
         countdown = countdown - 1 / 60
         if countdown <= 0 then
-            -- Solo verificar la condición de victoria si el tiempo se agotó
+            
+-- Solo verificar la condición de victoria si el tiempo se agotó
             if objective_status == "complete" then
-                game_state = "finished" -- Misión completada
+                game_state = "finished" 
+-- Misión completada
             else
-                game_state = "finished" -- Misión fallida si el objetivo no se completó
+                game_state = "finished" 
+-- Misión fallida si el objetivo no se completó
             end
         end
 
@@ -1218,23 +1250,29 @@ function TIC()
             game_state = "finished"
         end
 
-        -- Dibujar el rango de persecución alrededor del coche objetivo
+        
+-- Dibujar el rango de persecución alrededor del coche objetivo
         draw_follow_range()
 
-        -- Comprobar si el coche del jugador está tocando el círculo de persecución
+        
+-- Comprobar si el coche del jugador está tocando el círculo de persecución
         local distance_to_target = math.sqrt((car_x - target_car.x)^2 + (car_y - target_car.y)^2)
         if distance_to_target <= follow_range then
-            -- Si el coche está tocando el círculo, marcar como completado **solo si el tiempo ya ha pasado**
+            
+-- Si el coche está tocando el círculo, marcar como completado **solo si el tiempo ya ha pasado**
             if countdown <= 0 then
-                objective_status = "complete" -- Misión completada
+                objective_status = "complete" 
+-- Misión completada
             end
         end
 
-        -- Dibujar el coche a perseguir
+        
+-- Dibujar el coche a perseguir
         draw_target_car()
 
     elseif game_state == "finished" then
-        -- Verificar el estado de la misión al final
+        
+-- Verificar el estado de la misión al final
         if objective_status == "complete" then
             print("¡Misión completada!", 10 - camera_x, 10 - camera_y, 11)
         else
@@ -1251,8 +1289,10 @@ function TIC()
         draw_text_multiline_with_bg("Objetivo 1-7: misión fallida.", 0, 80, 6, 2, 150)
     end
 
-    -- Dibujar el coche, la rampa y efectos
-    spr(48, car_x - camera_x, car_y - camera_y, 0) -- Coche
+    
+-- Dibujar el coche, la rampa y efectos
+    spr(48, car_x - camera_x, car_y - camera_y, 0) 
+-- Coche
 end
 ```
 
@@ -1313,7 +1353,8 @@ end
 ```
 -- Bucle principal TIC
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -1350,9 +1391,12 @@ function TIC()
         handle_jump()
         check_hoop_collision()
         update_hoop()
-        check_victory_collision() -- Comprobar si el jugador tocó el círculo de victoria
-        check_train_collision() -- Comprobar si el jugador toca el tren o los vagones
-        move_train() -- Mover el tren y los vagones
+        check_victory_collision() 
+-- Comprobar si el jugador tocó el círculo de victoria
+        check_train_collision() 
+-- Comprobar si el jugador toca el tren o los vagones
+        move_train() 
+-- Mover el tren y los vagones
     elseif game_state == "finished" then
         if objective_status == "complete" then
             print("¡Misión cumplida! ", 10, 10, 11)
@@ -1372,10 +1416,10 @@ function TIC()
 print("Vagón: x=" .. train.x .. ", y=" .. train.y,0,30)
 
 -- Dibuja el área del tren
---rect(train.x - camera_x, train.y - camera_y, train.width, train.height, 6)
+-- rect(train.x - camera_x, train.y - camera_y, train.width, train.height, 6)
 
 -- Dibuja el área del coche
---rect(car_x - camera_x, car_y - camera_y, 8, 8, 9)
+-- rect(car_x - camera_x, car_y - camera_y, 8, 8, 9)
 
 
 end
@@ -1384,7 +1428,8 @@ end
 ```
 -- Bucle principal TIC
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -1537,7 +1582,8 @@ function update_and_draw_particles()
         p.x = p.x + p.dx
         p.y = p.y + p.dy
         p.timer = p.timer - 1
-        pix(p.x - camera_x, p.y - camera_y, 12) -- Color amarillo
+        pix(p.x - camera_x, p.y - camera_y, 12) 
+-- Color amarillo
         if p.timer <= 0 then
             table.remove(particles, i)
         end
@@ -1550,7 +1596,8 @@ end
 -- Actualizar y dibujar partículas
 function update_and_draw_particles()
     if not particles then
-        particles = {} -- Inicializar la lista de partículas si es nil
+        particles = {} 
+-- Inicializar la lista de partículas si es nil
     end
 
     for i = #particles, 1, -1 do
@@ -1558,7 +1605,8 @@ function update_and_draw_particles()
         p.x = p.x + p.dx
         p.y = p.y + p.dy
         p.timer = p.timer - 1
-        pix(p.x - camera_x, p.y - camera_y, 12) -- Color amarillo
+        pix(p.x - camera_x, p.y - camera_y, 12) 
+-- Color amarillo
         if p.timer <= 0 then
             table.remove(particles, i)
         end
@@ -1574,9 +1622,12 @@ end
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
-        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
-        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
-        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+        
+-- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
+-- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
+-- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1587,9 +1638,12 @@ end
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
-        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
-        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
-        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+        
+-- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
+-- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
+-- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1600,9 +1654,12 @@ end
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
-        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
-        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
-        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+        
+-- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
+-- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
+-- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1613,9 +1670,12 @@ end
 function draw_nitro_effect()
     if nitro_active then
         local effect_length = 15
-        -- Dibujar las dos líneas azules detrás del coche, a la izquierda
-        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) -- Línea azul izquierda
-        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) -- Línea azul izquierda (abajo)
+        
+-- Dibujar las dos líneas azules detrás del coche, a la izquierda
+        line(car_x - camera_x, car_y - camera_y + 4, car_x - camera_x  - effect_length, car_y - camera_y + 4, 12) 
+-- Línea azul izquierda
+        line(car_x - camera_x , car_y - camera_y + 2, car_x - camera_x  - effect_length, car_y - camera_y + 2, 12) 
+-- Línea azul izquierda (abajo)
     end
 end
 ```
@@ -1650,7 +1710,8 @@ end
 ```
 --Dibujar la rampa
 function draw_ramp()
-    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
+-- Sprite de la rampa
 end
 ```
 
@@ -1658,7 +1719,8 @@ end
 ```
 -- Dibujar la rampa
 function draw_ramp()
-    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
+-- Sprite de la rampa
 end
 ```
 
@@ -1666,8 +1728,10 @@ end
 ```
 -- Dibujar la rampa
 function draw_ramp()
-    -- Dibuja la rampa con un sprite específico. Aquí, el sprite 5 es un ejemplo.
-    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+    
+-- Dibuja la rampa con un sprite específico. Aquí, el sprite 5 es un ejemplo.
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
+-- Sprite de la rampa
 end
 ```
 
@@ -1675,7 +1739,8 @@ end
 ```
 -- Dibujar la rampa
 function draw_ramp()
-    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) -- Sprite de la rampa
+    spr(5, ramp.x - camera_x, ramp.y - camera_y, 0) 
+-- Sprite de la rampa
 end
 ```
 
@@ -1763,7 +1828,8 @@ end
 function draw_boxes()
     for _, box in ipairs(boxes) do
         if box.active then
-            spr(3, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 3)
+            spr(3, box.x - camera_x, box.y - camera_y, 0) 
+-- Caja (id 3)
         end
     end
 end
@@ -1786,7 +1852,8 @@ end
 -- Dibujar la caja
 function draw_box()
     if box.active then
-        spr(4, box.x - camera_x, box.y - camera_y, 0) -- Caja (id 4)
+        spr(4, box.x - camera_x, box.y - camera_y, 0) 
+-- Caja (id 4)
     end
 end
 ```
