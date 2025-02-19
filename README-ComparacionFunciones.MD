@@ -102,7 +102,6 @@ end
 ```
 ### AK47
 ```
--- Función para recargar el AK-47
 function recargar()
     if btnp(4) then
         numero_cartuchos = 30  
@@ -112,7 +111,6 @@ end
 ```
 ### Puño
 ```
--- Función para recargar los golpes (restablecer)
 function recargar()
     if btnp(4) then
         numero_golpes = 30  
@@ -122,7 +120,6 @@ end
 ```
 ### Bazooka
 ```
--- Función para recargar la bazooka
 function recargar()
     if btnp(4) then
         numero_cartuchos = 5  
@@ -132,7 +129,6 @@ end
 ```
 ### Granada
 ```
--- Función para recargar las granadas
 function recargar()
     if btnp(4) then
         numero_granadas = 5  
@@ -142,7 +138,6 @@ end
 ```
 ### Escopeta
 ```
--- Función para recargar la escopeta
 function recargar()
     if btnp(4) then
         numero_cartuchos = 5  
@@ -153,7 +148,6 @@ end
 
 ### Minigun
 ```
--- Función para recargar la minigun
 function recargar()
     if btnp(4) then
         energia = 100
@@ -162,7 +156,6 @@ end
 ```
 ### Lanzallamas
 ```
--- Función para recargar el lanzallamas
 function recargar()
     if btnp(4) then
         numero_combustible = 100
@@ -171,7 +164,6 @@ end
 ```
 ### Rifle
 ```
--- Función para recargar el rifle eléctrico
 function recargar()
     if btnp(4) then
         energia = 100
@@ -180,7 +172,6 @@ end
 ```
 ### Laser
 ```
--- Función para recargar el láser
 function recargar()
     if btnp(4) then
         energia = 100
