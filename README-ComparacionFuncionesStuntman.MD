@@ -27,7 +27,6 @@ end
 
 ### S2
 ```
--- Movimiento del coche
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
 -- Arriba
@@ -42,7 +41,6 @@ end
 
 ### S3
 ```
--- Movimiento del coche
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
 -- Arriba
@@ -68,7 +66,6 @@ end
 
 ### S4
 ```
--- Movimiento del coche
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
 -- Arriba
@@ -94,7 +91,6 @@ end
 
 ### S5
 ```
--- Movimiento del coche
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
@@ -122,7 +118,6 @@ end
 
 ### S6
 ```
--- Movimiento del coche
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
@@ -150,7 +145,6 @@ end
 
 ### S7
 ```
--- Movimiento del coche
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
@@ -178,7 +172,6 @@ end
 
 ### S8
 ```
--- Movimiento del coche (igual que antes)
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end
@@ -198,7 +191,6 @@ end
 ```
 ### S9
 ```
--- Movimiento del coche
 function move_car()
     if not jumping then
         if btn(0) then car_y = car_y - car_speed end 
@@ -225,7 +217,6 @@ end
 
 ### S10
 ```
--- Movimiento del coche
 function move_car()
     if btn(0) then car_y = car_y - car_speed end 
 -- Arriba
@@ -267,16 +258,11 @@ end
 
 ### S10
 ```
--- Movimiento del jugador
 function move_player()
     if btn(0) then player_y = player_y - player_speed end 
--- Arriba
     if btn(1) then player_y = player_y + player_speed end 
--- Abajo
     if btn(2) then player_x = player_x - player_speed end 
--- Izquierda
     if btn(3) then player_x = player_x + player_speed end 
--- Derecha
 end
 ```
 
@@ -292,7 +278,6 @@ end
 
 ### S2
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -300,7 +285,6 @@ end
 
 ### S3
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -308,7 +292,6 @@ end
 
 ### S4
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -316,7 +299,6 @@ end
 
 ### S5
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -324,7 +306,6 @@ end
 
 ### S6
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -332,7 +313,6 @@ end
 
 ### S7
 ```
--- Simulación de cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -340,14 +320,12 @@ end
 
 ### S8
 ```
--- Actualizar cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
 ```
 ### S9
 ```
--- Actualizar cámara
 function nueva_camara(x, y)
     camera_x, camera_y = x, y
 end
@@ -371,7 +349,6 @@ end
 
 ### S2
 ```
--- Actualizar cámara
 function update_camera()
     nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
 end
@@ -379,7 +356,6 @@ end
 
 ### S3
 ```
--- Actualizar cámara
 function update_camera()
     nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
 end
@@ -387,7 +363,6 @@ end
 
 ### S4
 ```
--- Actualizar cámara
 function update_camera()
     nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
 end
@@ -395,7 +370,6 @@ end
 
 ### S5
 ```
--- Actualizar cámara
 function update_camera()
     nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
 end
@@ -403,7 +377,6 @@ end
 
 ### S6
 ```
--- Actualizar cámara
 function update_camera()
     nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
 end
@@ -483,7 +456,6 @@ end
 
 ### S2
 ```
--- Dividir texto en líneas con fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
@@ -521,7 +493,6 @@ end
 
 ### S3
 ```
--- Dividir texto en líneas con fondo negro
 function draw_text_multiline_with_bg(text, x, y, color, bg_color, max_width)
     local words = {}
     for word in text:gmatch("%S+") do
