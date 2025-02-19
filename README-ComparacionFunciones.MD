@@ -265,27 +265,63 @@ end
 ```
 ### Granada
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+end
 ```
 ### Escopeta
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end  -- Flecha arriba
+    if btn(1) then y_personaje = y_personaje + velocidad end  -- Flecha abajo
+    if btn(2) then x_personaje = x_personaje - velocidad end  -- Flecha izquierda
+    if btn(3) then x_personaje = x_personaje + velocidad end  -- Flecha derecha
+end
 ```
 ### Minigun
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end
+    if btn(1) then y_personaje = y_personaje + velocidad end
+    if btn(2) then x_personaje = x_personaje - velocidad end
+    if btn(3) then x_personaje = x_personaje + velocidad end
+end
 ```
 ### Lanzallamas
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end
+    if btn(1) then y_personaje = y_personaje + velocidad end
+    if btn(2) then x_personaje = x_personaje - velocidad end
+    if btn(3) then x_personaje = x_personaje + velocidad end
+end
 ```
 ### Rifle
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end
+    if btn(1) then y_personaje = y_personaje + velocidad end
+    if btn(2) then x_personaje = x_personaje - velocidad end
+    if btn(3) then x_personaje = x_personaje + velocidad end
+end
 ```
 ### Laser
 ```
-
+-- Función para mover el personaje
+function mover_personaje()
+    if btn(0) then y_personaje = y_personaje - velocidad end
+    if btn(1) then y_personaje = y_personaje + velocidad end
+    if btn(2) then x_personaje = x_personaje - velocidad end
+    if btn(3) then x_personaje = x_personaje + velocidad end
+end
 ```
 
 ## agregarCoches
