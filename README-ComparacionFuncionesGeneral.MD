@@ -133,6 +133,36 @@ Trompos - checkGameOver
 
 ## Todos los Update
 
+Climatologia - updateEarthquake
+```
+
+```
+
+Climatologia - updateLeaves
+```
+
+```
+
+Climatologia - updateLightning
+```
+
+```
+
+Climatologia - updateRaindrops
+```
+
+```
+
+Climatologia - updateSnowflakes
+```
+
+```
+
+Climatologia - updateWind
+```
+
+```
+
 Trompo - updateCircles
 ```
 
