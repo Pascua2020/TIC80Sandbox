@@ -532,8 +532,8 @@ function detectar_colision()
 -- Si el coche no ha sido colisionado
             if pos_balanza_x + 8 >= coche.x and pos_balanza_x <= coche.x + 16 and pos_balanza_y >= coche.y and pos_balanza_y <= coche.y + 16 then
                 coche.colisionado = true  -- Marcar el coche como colisionado
-
-                -- Generar la explosión para el coche
+                
+-- Generar la explosión para el coche
                 explosion_tiempo = t  
 -- Registrar el tiempo de la explosión
                 poder_jugador = math.random(3, 5)
@@ -584,7 +584,6 @@ end
 
 ### Lanzallamas
 ```
--- Función para detectar colisiones con los coches
 function detectar_colision()
     for _, coche in ipairs(coches) do
         if not coche.colisionado then
@@ -613,8 +612,6 @@ end
 
 ### Rifle
 ```
--- Función para detectar colisiones con los coches
-
 function detectar_colision()
     for _, coche in ipairs(coches) do
         if not coche.colisionado then
@@ -683,10 +680,13 @@ function dibujar_explosiones()
     for i = #explosiones, 1, -1 do
         local explosion = explosiones[i]
         local radio = explosion.tiempo * 2  
+
 -- Radio más grande a medida que pasa el tiempo
         local colores = {8, 12, 11, 14, 7}  
+
 -- Colores para la explosión
         circ(explosion.x, explosion.y, radio, colores[(explosion.tiempo % #colores) + 1])  
+
 -- Colores cambiando
         explosion.tiempo = explosion.tiempo + 1
 
@@ -728,6 +728,7 @@ function dibujar_explosiones()
         local explosion = explosiones[i]
         
 -- Dibujar la explosión como círculos de colores (creciendo con el tiempo)
+
         circ(explosion.x, explosion.y, explosion.tiempo, 8)
         explosion.tiempo = explosion.tiempo + 1
 
@@ -776,10 +777,8 @@ function TIC()
     t = t + 1  
 -- Aumenta el contador de tiempo
 
-    -- Mover el personaje
     mover_personaje()
 
-    -- Recargar y cambiar de arma
     recargar()
     cambiar_arma()
 
@@ -796,16 +795,12 @@ function TIC()
         disparar_granada()
     end
 
-    -- Mover disparos
     mover_disparos()
 
-    -- Mover granadas
     mover_granadas()
 
-    -- Mover coches
     mover_coches()
 
-    -- Mover enemigos
     mover_enemigos()
 
     -- Agregar nuevos enemigos y coches con probabilidad
@@ -815,6 +810,7 @@ function TIC()
     -- Dibujar personajes
     cls()
     spr(0, x_personaje, y_personaje)  
+
 -- Sprite del jugador (suponiendo que el sprite 0 es el del jugador)
 
     -- Dibujar disparos
@@ -822,6 +818,7 @@ function TIC()
         if disparo.tipo == "pistola" then
             
 -- Píxel de disparo de la pistola
+
            pix(disparo.x, disparo.y, 3, 3, 7) -- Cambiar color según el tipo de disparo
         elseif disparo.tipo == "ak47" then
             
@@ -851,7 +848,7 @@ function TIC()
         if enemigo.id == 48 then
             
 -- Representación del enemigo con un sprite o píxel
-            spr(48, enemigo.x, enemigo.y)  -- Usar sprite ID 48 o el que corresponde
+            spr(48, enemigo.x, enemigo.y) 
         end
     end
 
@@ -861,7 +858,6 @@ function TIC()
         print(frase_actual, 10, 10, 7)
     end
 
-    -- Mostrar controles
     mostrar_controles()
 
     -- Mostrar información de armas y munición
@@ -897,6 +893,7 @@ function TIC()
     mostrar_explosion()
     mostrar_poder_jugador()  
 -- Mostrar el poder del jugador si corresponde
+
     recargar()
     dibujar_personaje()
     dibujar_balanza()
@@ -914,7 +911,7 @@ function TIC()
     cls(0)
     mover_personaje()
     golpear()  
--- Ejecutar la acción de golpear
+
     mover_golpes()  
 -- Eliminar los golpes que ya no son visibles
     recargar()
@@ -952,7 +949,6 @@ end
 ```
 function TIC()
     cls(0)  
--- Limpiar pantalla
     mover_personaje()
     cortar_katana()
     dibujar_personaje()
@@ -1125,7 +1121,6 @@ function TIC()
     dibujar_coches()
     dibujar_explosiones()
     dibujar_mira_impacto()  
--- Dibujar la mira de impacto
     mostrar_controles()
 
     -- Dibujar información de las granadas
