@@ -282,6 +282,42 @@ Inicio - dibujarEstrellas
 ```
 
 ```
+Jetpack - drawSparks
+```
+
+```
+MenuPausa - dibujarEstrellas
+```
+
+```
+MenuPausa - dibujarMenu
+```
+
+```
+MenuPausa - dibujarMiniMapa
+```
+
+```
+Moneda - dibujarBalanza
+```
+
+```
+Moneda - dibujarCoches
+```
+
+```
+Moneda - dibujarMonedas
+```
+
+```
+Moneda - dibujarMonedasEspeciales
+```
+
+```
+Moneda - dibujarPersonaje
+```
+
+```
 Parada - dibujarParada
 ```
 
