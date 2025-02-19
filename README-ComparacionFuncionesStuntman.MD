@@ -6,10 +6,14 @@
 ```
 -- Movimiento del coche
 function move_car()
-    if btn(0) then car_y = car_y - car_speed end -- Arriba
-    if btn(1) then car_y = car_y + car_speed end -- Abajo
-    if btn(2) then car_x = car_x - car_speed end -- Izquierda
-    if btn(3) then car_x = car_x + car_speed end -- Derecha
+    if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+    if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+    if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+    if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 end
 ```
 
@@ -17,10 +21,14 @@ end
 ```
 -- Movimiento del coche
 function move_car()
-    if btn(0) then car_y = car_y - car_speed end -- Arriba
-    if btn(1) then car_y = car_y + car_speed end -- Abajo
-    if btn(2) then car_x = car_x - car_speed end -- Izquierda
-    if btn(3) then car_x = car_x + car_speed end -- Derecha
+    if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+    if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+    if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+    if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 end
 ```
 
@@ -28,18 +36,24 @@ end
 ```
 -- Movimiento del coche
 function move_car()
-    if btn(0) then car_y = car_y - car_speed end -- Arriba
-    if btn(1) then car_y = car_y + car_speed end -- Abajo
-    if btn(2) then car_x = car_x - car_speed end -- Izquierda
-    if btn(3) then car_x = car_x + car_speed end -- Derecha
+    if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+    if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+    if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+    if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
     -- Activar nitro si el botón adecuado es presionado
     if btn(4) then
         nitro_active = true
-        car_speed = 6 -- Aumenta la velocidad del coche cuando se activa el nitro
+        car_speed = 6 
+-- Aumenta la velocidad del coche cuando se activa el nitro
     else
         nitro_active = false
-        car_speed = 3 -- Restablece la velocidad normal
+        car_speed = 3 
+-- Restablece la velocidad normal
     end
 end
 ```
@@ -48,18 +62,24 @@ end
 ```
 -- Movimiento del coche
 function move_car()
-    if btn(0) then car_y = car_y - car_speed end -- Arriba
-    if btn(1) then car_y = car_y + car_speed end -- Abajo
-    if btn(2) then car_x = car_x - car_speed end -- Izquierda
-    if btn(3) then car_x = car_x + car_speed end -- Derecha
+    if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+    if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+    if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+    if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
     -- Activar nitro si el botón adecuado es presionado
     if btn(4) then
         nitro_active = true
-        car_speed = 6 -- Aumenta la velocidad del coche cuando se activa el nitro
+        car_speed = 6 
+-- Aumenta la velocidad del coche cuando se activa el nitro
     else
         nitro_active = false
-        car_speed = 3 -- Restablece la velocidad normal
+        car_speed = 3 
+-- Restablece la velocidad normal
     end
 end
 ```
@@ -69,18 +89,24 @@ end
 -- Movimiento del coche
 function move_car()
     if not jumping then
-        if btn(0) then car_y = car_y - car_speed end -- Arriba
-        if btn(1) then car_y = car_y + car_speed end -- Abajo
-        if btn(2) then car_x = car_x - car_speed end -- Izquierda
-        if btn(3) then car_x = car_x + car_speed end -- Derecha
+        if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+        if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+        if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+        if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
         -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
-            car_speed = 6 -- Aumenta la velocidad del coche cuando se activa el nitro
+            car_speed = 6 
+-- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
-            car_speed = 3 -- Restablece la velocidad normal
+            car_speed = 3 
+-- Restablece la velocidad normal
         end
     end
 end
@@ -91,18 +117,24 @@ end
 -- Movimiento del coche
 function move_car()
     if not jumping then
-        if btn(0) then car_y = car_y - car_speed end -- Arriba
-        if btn(1) then car_y = car_y + car_speed end -- Abajo
-        if btn(2) then car_x = car_x - car_speed end -- Izquierda
-        if btn(3) then car_x = car_x + car_speed end -- Derecha
+        if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+        if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+        if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+        if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
         -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
-            car_speed = 6 -- Aumenta la velocidad del coche cuando se activa el nitro
+            car_speed = 6 
+-- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
-            car_speed = 3 -- Restablece la velocidad normal
+            car_speed = 3 
+-- Restablece la velocidad normal
         end
     end
 end
@@ -113,18 +145,24 @@ end
 -- Movimiento del coche
 function move_car()
     if not jumping then
-        if btn(0) then car_y = car_y - car_speed end -- Arriba
-        if btn(1) then car_y = car_y + car_speed end -- Abajo
-        if btn(2) then car_x = car_x - car_speed end -- Izquierda
-        if btn(3) then car_x = car_x + car_speed end -- Derecha
+        if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+        if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+        if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+        if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
         -- Activar nitro si el botón adecuado es presionado
         if btn(4) then
             nitro_active = true
-            car_speed = 6 -- Aumenta la velocidad del coche cuando se activa el nitro
+            car_speed = 6 
+-- Aumenta la velocidad del coche cuando se activa el nitro
         else
             nitro_active = false
-            car_speed = 3 -- Restablece la velocidad normal
+            car_speed = 3 
+-- Restablece la velocidad normal
         end
     end
 end
@@ -155,17 +193,23 @@ end
 -- Movimiento del coche
 function move_car()
     if not jumping then
-        if btn(0) then car_y = car_y - car_speed end -- Arriba
-        if btn(1) then car_y = car_y + car_speed end -- Abajo
-        if btn(2) then car_x = car_x - car_speed end -- Izquierda
-        if btn(3) then car_x = car_x + car_speed end -- Derecha
+        if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+        if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+        if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+        if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
         if btn(4) then
             nitro_active = true
-            car_speed = 6 -- Velocidad aumentada con nitro
+            car_speed = 6 
+-- Velocidad aumentada con nitro
         else
             nitro_active = false
-            car_speed = 3 -- Velocidad normal
+            car_speed = 3 
+-- Velocidad normal
         end
     end
 end
@@ -175,17 +219,23 @@ end
 ```
 -- Movimiento del coche
 function move_car()
-    if btn(0) then car_y = car_y - car_speed end -- Arriba
-    if btn(1) then car_y = car_y + car_speed end -- Abajo
-    if btn(2) then car_x = car_x - car_speed end -- Izquierda
-    if btn(3) then car_x = car_x + car_speed end -- Derecha
+    if btn(0) then car_y = car_y - car_speed end 
+-- Arriba
+    if btn(1) then car_y = car_y + car_speed end 
+-- Abajo
+    if btn(2) then car_x = car_x - car_speed end 
+-- Izquierda
+    if btn(3) then car_x = car_x + car_speed end 
+-- Derecha
 
     if btn(4) then
         nitro_active = true
-        car_speed = 6 -- Velocidad aumentada con nitro
+        car_speed = 6 
+-- Velocidad aumentada con nitro
     else
         nitro_active = false
-        car_speed = 3 -- Velocidad normal
+        car_speed = 3 
+-- Velocidad normal
     end
 end
 ```
@@ -196,10 +246,14 @@ end
 ```
 -- Movimiento del jugador
 function move_player()
-    if btn(0) then player_y = player_y - player_speed end -- Arriba
-    if btn(1) then player_y = player_y + player_speed end -- Abajo
-    if btn(2) then player_x = player_x - player_speed end -- Izquierda
-    if btn(3) then player_x = player_x + player_speed end -- Derecha
+    if btn(0) then player_y = player_y - player_speed end 
+-- Arriba
+    if btn(1) then player_y = player_y + player_speed end 
+-- Abajo
+    if btn(2) then player_x = player_x - player_speed end 
+-- Izquierda
+    if btn(3) then player_x = player_x + player_speed end 
+-- Derecha
 end
 ```
 
@@ -207,10 +261,14 @@ end
 ```
 -- Movimiento del jugador
 function move_player()
-    if btn(0) then player_y = player_y - player_speed end -- Arriba
-    if btn(1) then player_y = player_y + player_speed end -- Abajo
-    if btn(2) then player_x = player_x - player_speed end -- Izquierda
-    if btn(3) then player_x = player_x + player_speed end -- Derecha
+    if btn(0) then player_y = player_y - player_speed end 
+-- Arriba
+    if btn(1) then player_y = player_y + player_speed end 
+-- Abajo
+    if btn(2) then player_x = player_x - player_speed end 
+-- Izquierda
+    if btn(3) then player_x = player_x + player_speed end 
+-- Derecha
 end
 ```
 
@@ -294,9 +352,11 @@ end
 -- Actualizar cámara
 function update_camera()
     if player_in_car then
-        nueva_camara(car_x - 120, car_y - 68) -- Centra la cámara en el coche
+        nueva_camara(car_x - 120, car_y - 68) 
+-- Centra la cámara en el coche
     else
-        nueva_camara(player_x - 120, player_y - 68) -- Centra la cámara en el jugador
+        nueva_camara(player_x - 120, player_y - 68) 
+-- Centra la cámara en el jugador
     end
 end
 ```
@@ -364,9 +424,11 @@ end
 ```
 function update_camera()
     if in_car then
-        camera_x, camera_y = car_x - 120, car_y - 68 -- Centra la cámara en el coche
+        camera_x, camera_y = car_x - 120, car_y - 68 
+-- Centra la cámara en el coche
     else
-        camera_x, camera_y = player_x - 120, player_y - 68 -- Centra la cámara en el jugador
+        camera_x, camera_y = player_x - 120, player_y - 68 
+-- Centra la cámara en el jugador
     end
 end
 ```
@@ -644,7 +706,8 @@ end
 ### S1
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -667,12 +730,14 @@ function TIC()
             end
         end
     elseif game_state == "countdown" then
-        -- Mostrar el contador en la parte superior derecha
+        
+-- Mostrar el contador en la parte superior derecha
         print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if not player_in_car then
-                objective_status = "failed" -- Cambiar a misión fallida si el jugador no está en el coche
+                objective_status = "failed" 
+-- Cambiar a misión fallida si el jugador no está en el coche
             end
             game_state = "finished"
         end
@@ -680,12 +745,14 @@ function TIC()
         -- Movimiento del jugador
         move_player()
 
-        -- Detecta si el jugador llega al coche
+        
+-- Detecta si el jugador llega al coche
         if player_x >= car_x - 8 and player_x <= car_x + 8 and
            player_y >= car_y - 8 and player_y <= car_y + 8 then
             if btnp(5) then -- Botón B para subirse
                 player_in_car = true
-                objective_status = "complete" -- Objetivo 1-1 cumplido
+                objective_status = "complete" 
+-- Objetivo 1-1 cumplido
                 game_state = "in_car"
             end
         end
@@ -714,14 +781,16 @@ function TIC()
         spr(2, player_x - camera_x, player_y - camera_y,0) -- Jugador (id 2)
     end
     spr(1, stacchotta_x - camera_x, stacchotta_y - camera_y,0) -- Silvestre Stacchotta
-    spr(48, car_x - camera_x, car_y - camera_y,0) -- Coche
+    spr(48, car_x - camera_x, car_y - camera_y,0) 
+-- Coche
 end
 ```
 
 ### S2
 ```
 function TIC()
-    cls(0) -- Limpia la pantalla
+    cls(0) 
+-- Limpia la pantalla
 
     -- Actualizar cámara
     update_camera()
@@ -744,21 +813,25 @@ function TIC()
             end
         end
     elseif game_state == "countdown" then
-        -- Mostrar el contador en la parte superior derecha
+        
+-- Mostrar el contador en la parte superior derecha
         print("Tiempo restante: " .. math.ceil(countdown), 8, 8, 12)
         countdown = countdown - 1 / 60
         if countdown <= 0 then
             if objective_status == "incomplete" then
-                objective_status = "failed" -- Cambiar a misión fallida si no chocaste las cajas
+                objective_status = "failed" 
+-- Cambiar a misión fallida si no chocaste las cajas
             end
             game_state = "finished"
         end
 
-        -- Movimiento del coche
+        
+-- Movimiento del coche
         move_car()
         check_collisions()
 
-        -- Verificar si todas las cajas han sido chocadas
+        
+-- Verificar si todas las cajas han sido chocadas
         local all_boxes_hit = true
         for _, box in ipairs(boxes) do
             if box.active then
