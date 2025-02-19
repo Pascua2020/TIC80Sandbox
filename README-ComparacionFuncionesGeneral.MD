@@ -94,7 +94,17 @@ function dibujar_rectangulo_arcoiris(x, y, w, h)
 end
 ```
 
-## Todos los Check
+## Todos los Check / Verificar
+
+Baile - verificarFin
+```
+
+```
+
+Baile - verificarInput
+```
+
+```
 
 RC - checkEraseButton
 ```
