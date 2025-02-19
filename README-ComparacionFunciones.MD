@@ -328,27 +328,52 @@ end
 
 ### Todas
 ```
-
+-- Función para agregar más coches aleatorios
+function agregar_coches()
+    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    end
+end
 ```
 
 ### AK47
 ```
-
+-- Función para agregar coches aleatorios
+function agregar_coches()
+    if math.random(1, 100) > 98 then  -- Asegura que los coches aparezcan raramente
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    end
+end
 ```
 
 ### Bazooka
 ```
-
+-- Función para agregar más coches aleatorios
+function agregar_coches()
+    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    end
+end
 ```
 
 ### Granada
 ```
-
+-- Función para agregar más coches aleatorios
+function agregar_coches()
+    if math.random(1, 100) > 95 then  -- Asegura que los coches aparezcan con mayor frecuencia
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    end
+end
 ```
 
 ### Escopeta
 ```
-
+-- Función para agregar coches aleatorios
+function agregar_coches()
+    if math.random(1, 100) > 98 then  -- Asegura que los coches aparezcan raramente
+        table.insert(coches, {x = 240, y = math.random(10, 130)})  -- Generar un coche en posición aleatoria
+    end
+end
 ```
 
 ## dibujarCoches
