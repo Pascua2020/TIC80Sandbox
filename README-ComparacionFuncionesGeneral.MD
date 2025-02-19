@@ -249,6 +249,11 @@ Pinball - drawSpring
 
 ```
 
+Radio - dibujarTextoConContorno
+```
+
+```
+
 Trompo - drawTimer
 ```
 
