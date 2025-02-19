@@ -362,7 +362,6 @@ end
 
 DiosGPT - actualizarColorTriangulo
 ```
--- Función para actualizar el color del triángulo a cada segundo (arcoíris)
 function actualizar_color_triangulo()
     local t = time() / 40 -- Obtiene el tiempo actual en segundos
     local colores = {0,1,2,3,4,5,6,7,8,9,10,11, 12, 13, 14, 15, 8}  -- Colores para el arcoíris (puedes ajustarlos)
@@ -651,7 +650,7 @@ DiosGPT - dibujarTriangulo
 ```
 -- Función para dibujar el triángulo (icono de DiosGPT)
 function dibujar_triangulo(x, y, color)
-    tri(x - 5, y + 5, x + 5, y + 5, x, y - 5, color)  -- Triángulo
+    tri(x - 5, y + 5, x + 5, y + 5, x, y - 5, color)
 end
 ```
 Inicio - dibujarEstrellas
@@ -684,7 +683,6 @@ end
 ```
 MenuPausa - dibujarMenu
 ```
--- Función para dibujar el menú
 function dibujar_menu()
     -- Dibujar las opciones del menú
     for i, opcion in ipairs(opciones_menu) do
@@ -700,11 +698,9 @@ end
 ```
 MenuPausa - dibujarMiniMapa
 ```
--- Función para dibujar el minimapa simulado
 function dibujar_minimapa()
     -- Rectángulo simulado para el minimapa (a la derecha de la pantalla)
     rect(160, 16, 64, 64, 12)  -- Minimap area
-    -- Aquí puedes agregar detalles como un punto o líneas que simulen un mapa
     rect(170, 26, 20, 20, 8)  -- Simulación de un punto en el minimapa
     print("Mapa",160,0,3)
     print("Descripcion",10,100,14)
@@ -730,11 +726,10 @@ end
 ```
 Moneda - dibujarCoches
 ```
--- Función para dibujar los coches
 function dibujar_coches()
     for i, coche in ipairs(coches) do
         if not coche.colisionado then  -- Solo dibujar coches que no hayan colisionado
-            spr(48, coche.x, coche.y)  -- Dibujar el sprite del coche (id = 48)
+            spr(48, coche.x, coche.y)
         end
     end
 end
@@ -779,15 +774,13 @@ end
 
 Parada - dibujarPersonaje
 ```
--- Función para dibujar el personaje
 function dibujar_personaje()
-    spr(0, x_personaje, y_personaje)  -- Dibujar el sprite del personaje
+    spr(0, x_personaje, y_personaje)
 end
 ```
 
 Parada - dibujarTarjetaSuba
 ```
--- Función para dibujar la tarjeta SUBA
 function dibujar_tarjeta_suba()
     if not tarjeta_suba.recogida then  -- Solo dibujar si no ha sido recogida
         spr(96, tarjeta_suba.x, tarjeta_suba.y)  -- Sprite animado con ID 96
@@ -829,7 +822,7 @@ function draw_paddle_collision(paddle)
     local y2 = paddle.y - paddle.length * math.sin(paddle.angle)
     
     -- Grosor de la paleta para el área de colisión
-    local thickness = paddle.thickness or 10  -- Puedes ajustar este valor
+    local thickness = paddle.thickness or 10
 
     -- Desplazamiento de los vértices por el grosor para crear un rectángulo
     local dx = thickness * math.cos(paddle.angle) / 2
@@ -869,7 +862,6 @@ end
 
 Radio - dibujarTextoConContorno
 ```
--- Función para dibujar texto con contorno blanco y texto naranja
 function dibujar_texto_con_contorno(texto, x, y, color_texto, color_contorno)
     -- Dibujar contorno blanco desplazado en 8 direcciones alrededor del texto
     for dx = -1, 1 do
@@ -893,7 +885,6 @@ end
 ```
 Teclado - dibujarTeclado
 ```
--- Función para dibujar el teclado virtual
 function dibujar_teclado()
     for y, fila in ipairs(teclado) do
         for x, tecla in ipairs(fila) do
