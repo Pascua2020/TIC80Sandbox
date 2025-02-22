@@ -70,8 +70,6 @@ Hay una o varias dentro de cada sección.
 ## ✨️Variables / Atributos
 
 ```
-- Variables de estado
-
 1
 section = 1
 
@@ -200,7 +198,6 @@ rainbow_timer = 3
 9
 rainbow_colors = 
 {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1, 0}
-
 ```
 
 ## 🎭 Funciones:
