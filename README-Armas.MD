@@ -248,7 +248,6 @@ particulas = {}
 
 ### ⭐️ 3 Katana
 ```
-Variables principales
 1
 t = 0
 
@@ -532,7 +531,6 @@ explosiones = {}
 
 ### ⭐️ 8 Rifle Electrico
 ```
--- Variables
 1
 t = 0
 
@@ -591,7 +589,6 @@ explosion_puntos = {}
 
 ### ⭐️ 9 Lanzallamas
 ```
--- Variables
 1
 t = 0
 
@@ -650,7 +647,6 @@ explosion_puntos = {}
 ```
 ### ⭐️ 10 Rayo Laser
 ```
--- Variables
 1
 t = 0
 
@@ -751,7 +747,6 @@ explosiones = {}
 
 ### ⭐️ 12 MiniGun
 ```
--- Variables
 1
 t = 0
 
