@@ -9,8 +9,6 @@ Tutorial Interactivo.
 ## 🎭 Variables / Atributos
 
 ```
--- Variables para controlar la app y las opciones
-
 1
 mostrar_celular = false
 
