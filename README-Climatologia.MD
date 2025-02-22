@@ -35,7 +35,6 @@ Distintos tipos de climas.
 ## 🎭 Variables / Atributos
 
 ```
--- Parámetros generales
 1
 raindrops = {}
 
