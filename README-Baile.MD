@@ -36,8 +36,6 @@ Simula ser una Lluvia de Estrellas.
 ## ✨️Variables / Atributos
 
 ```
-- Variables principales
-
 1
 flechas = {} 
 -- Lista de flechas
@@ -106,7 +104,6 @@ cambio_frase_intervalo = 240
 -- Estados de las flechas estáticas
 18
 flechas_estaticas = {false, false, false, false}
-
 ```
 
 ## 🎭 Funciones:
