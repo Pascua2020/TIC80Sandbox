@@ -188,7 +188,6 @@ arma_actual = 1
 18
 enemies = {}  
 -- Lista de enemigos
-
 ```
 ### ⭐️ 2 Puño
 ```
@@ -526,7 +525,6 @@ coches = {}
 11
 explosiones = {}  
 -- Lista de explosiones
-
 ```
 
 ### ⭐️ 8 Rifle Electrico
@@ -643,7 +641,6 @@ coches = {
 13
 explosion_puntos = {}  
 -- Lista de puntos para explosiones
-
 ```
 ### ⭐️ 10 Rayo Laser
 ```
