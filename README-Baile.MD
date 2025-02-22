@@ -70,7 +70,6 @@ fallos = 0
 10
 juego_activo = true
 
--- Estrellas
 11
 estrellas = {}
 
