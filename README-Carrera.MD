@@ -64,7 +64,6 @@
 
 ```
 1
--- Configuración inicial
 menu_actual = 1 
 -- Menú principal
 
@@ -116,7 +115,6 @@ direcciones = {"Normal", "Inversa"}
 11
 indice_colores = {1, 1} 
 -- Cada coche tiene su propio índice de color
-
 ```
 
 ## 🎭 Funciones:
