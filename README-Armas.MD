@@ -507,7 +507,8 @@ numero_cartuchos = 5
 -- Número inicial de cartuchos
 
 6
-disparos = {}  -- Lista de disparos activos
+disparos = {}  
+-- Lista de disparos activos
 
 7
 frases = {"BOOM!", "Comete esta", "Te reventé", "BANG", "Demasiado tarde", "Hasta nunca", "¿Te dolió?"}
