@@ -147,7 +147,6 @@ Salir del coche para hacerlo detonar,pero a distancia.
 
 ⭐️1
 ```
--- Configuración inicial
 1
 player_x, player_y = 30, 50
 
@@ -211,7 +210,6 @@ objective_status = "incomplete"
 
 ⭐️2
 ```
--- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -319,12 +317,10 @@ particles = {}
 -- Objetivo 1-3
 13
 objective_status = "incomplete"
-
 ```
 
 ⭐️4
 ```
--- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -379,8 +375,6 @@ countdown = 10
 game_state = "mission_intro" 
 -- Estados: mission_intro, dialogue, countdown, finished
 
--- Configuración de la caja
-
 14
 box = {x = 200, y = 100, active = true, health = 3} -- Caja con 3 de vida
 
@@ -391,13 +385,10 @@ particles = {}
 -- Objetivo 1-4
 16
 objective_status = "incomplete"
-
 ```
 
 ⭐️5
 ```
--- Configuración inicial
-
 1
 car_x, car_y = 30, 50
 
@@ -467,7 +458,6 @@ objective_status = "incomplete"
 
 ⭐️6
 ```
--- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -543,12 +533,10 @@ car_spawn_timer = 0
 19
 time_avoided = 0 
 -- Tiempo en segundos que el coche ha estado esquivando coches sin colisiones
-
 ```
 
 ⭐️7
 ```
-- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -634,13 +622,10 @@ follow_range = 24
 
 20
 objective_status = "incomplete"
-
 ```
 
 ⭐️8
 ```
--- Configuración inicial (igual que antes)
-
 1
 car_x, car_y = 30, 50
 
@@ -705,7 +690,6 @@ particles = {}
 
 ⭐️9
 ```
- -- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -803,13 +787,10 @@ train_wagons = {
 -- Configuración del círculo de victoria
 20
 victory_circle = { sx = 250, y = 40, radius = 10} 
--- Círculo para ganar
-
 ```
 
 ⭐️10
 ```
--- Configuración inicial
 1
 car_x, car_y = 30, 50
 
@@ -879,7 +860,6 @@ explosion_radius = 40
 17
 explosion_complete = false 
 -- Si la explosión se completó
-
 ```
 
 ## 🎭 Funciones:
