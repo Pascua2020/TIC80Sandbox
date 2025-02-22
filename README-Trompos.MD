@@ -29,8 +29,6 @@ Rap del Trompo.
 ## ✨️Variables / Atributos
 
 ```
--- Configuración inicial
-
 1
 player1 = 
 {x = 40, y = 68, sprite_base = 0, 
@@ -62,7 +60,6 @@ circles = {}
 9
 rainbow_points = {}  
 -- Nueva tabla para los puntos de arcoíris
-
 ```
 
 ## 🎭 Funciones:
