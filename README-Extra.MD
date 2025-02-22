@@ -5,8 +5,6 @@
 ### ✨️ Variables / Atributos
 
 ```
--- Variables
-
 1
 t = 0
 
@@ -106,7 +104,6 @@ Función para dibujar estrellas con efecto arcoíris.
 
 Bucle principal.
 
-
 ## ⭐️ Nafta
 
 ![gifnafta](./Imagenes/gifnafta.gif)
@@ -114,7 +111,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Configuración inicial
 1
 local car_x = 120  
 -- Posición inicial en X
@@ -175,7 +171,6 @@ local refill_cost = 100
 
 Bucle principal.
 
-
 ## ⭐️ Moneda
 
 ![gifmoneda](./Imagenes/moneda.gif)
@@ -183,7 +178,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Variables
 1
 t = 0
 
@@ -377,7 +371,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Variables
 1
 t = 0
 
@@ -439,7 +432,6 @@ colectivo = {
     moviendo = false  
 -- Estado del colectivo (si está en movimiento)
 }
-
 ```
 
 ### 🎃 Funciones
@@ -504,12 +496,9 @@ Bucle principal.
 
 ![gifpausa](./Imagenes/pausa.gif)
 
-
 ### ✨️ Variables / Atributos
 
 ```
--- Variables
-
 1
 t = 0
 
@@ -556,7 +545,6 @@ for i = 1, 50 do
 {x = math.random(0, 239), 
 y = math.random(0, 135)})
 end
-
 ```
 
 ### 🎃 Funciones
@@ -581,7 +569,6 @@ Función para dibujar el menú.
 
 Bucle principal.
 
-
 ## ⭐️ Lector de Diarios
 
 ![gifdiario](./Imagenes/gifdiario.gif)
@@ -589,14 +576,12 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Variables de desplazamiento
 1
 scroll = 0
 
 2
 scroll_max = 480 
 -- Máximo desplazamiento ajustado para el contenido visible
-
 ```
 
 ### 🎃 Funciones
@@ -616,7 +601,6 @@ Función para actualizar la posición del scroll.
 #### 🔑-4  TIC()
 
 Bucle principal.
-
 
 ## ⭐️ Skate
 
@@ -655,7 +639,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Configuración inicial
 1
 p = {x=120, y=68, spd=2, sparks={}}
 ```
@@ -677,7 +660,6 @@ Dibuja las particulas del jetpack en pantalla.
 #### 🔑-4  TIC()
 
 Bucle principal.
-
 
 ## ⭐️ Telescopio
 
@@ -722,7 +704,6 @@ Oscurece toda la pantalla y muestra el circulo de la mira.
 #### 🔑-8  TIC()
 
 Bucle principal.
-
 
 ## ⭐️ Mensajes Moviles
 
@@ -780,8 +761,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
-- Variables para el teclado
-
 1
 teclado = {
     {"Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"},
@@ -852,7 +831,6 @@ Pantalla de clave correcta.
 
 Bucle principal.
 
-
 ## ⭐️ Teclado 2
 
 ![giftecladonum](./Imagenes/tecladonum.gif)
@@ -860,8 +838,6 @@ Bucle principal.
 ### ✨️ Variables / Atributos
 
 ```
--- Configuración de variables
-
 1
 local correct_password = "1234"  
 -- La contraseña correcta
@@ -913,7 +889,6 @@ Función para mostrar texto con colores arcoíris animados.
 #### 🔑-4  TIC()
 
 Bucle principal.
-
 
 ## ⭐️ Terremoto
 
