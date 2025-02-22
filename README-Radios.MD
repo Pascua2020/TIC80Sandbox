@@ -582,7 +582,6 @@
 ## ✨️Variables / Atributos
 
 ```
-
 1
 t = 0
 
@@ -676,8 +675,6 @@ linea_actual = 1
 28
 radio_actual = 1  
 -- 1 para Radio 1, 2 para Radio 2, 3 para Radio 3, 4 para Radio 4
-
-
 ```
 
 ## 🎭 Funciones:
