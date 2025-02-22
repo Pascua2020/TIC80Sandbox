@@ -32,8 +32,6 @@ Tiene un patrón de movimiento automático.
 ## ✨️Variables / Atributos
 
 ```
--- Configuración inicial
-
 1
 selected_sprite = 2
 
