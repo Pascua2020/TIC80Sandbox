@@ -278,8 +278,6 @@ Descripción:
 ## 🎭 Variables / Atributos
 
 ```
--- Variables globales
-
 1
 modo_tactica = false 
 -- Si el Modo Táctica está activado
