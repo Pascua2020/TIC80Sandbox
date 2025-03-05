@@ -1,5 +1,7 @@
 # 🎭 Pinball
 
+![cartucho](./Imagenes/CartuchoPinball.png)
+
 ![pinball](./Imagenes/pinball.gif)
 
 ## 🎭 Elementos:
