@@ -912,6 +912,15 @@ Toda la música del juego es Open Source,acá están los nombres de los temas y 
 ```
 *Versión 1.0
 *Ideas Descartadas : Ciclo Día / Noche
+*Ruta de TIC80 en Windows:
+C/Usuario/AppData/Roaming/com.nesbox.tic/TIC-80
+
+*Hacer capturas de pantalla del cartucho de TIC80 : 
+1-abrir .TIC, pulsar F7.
+2-Luego en el código poner
+-- title: Nombre del juego
+3-Guardar .TIC
+4-Guardar nombredeljuego.png
 ```
 
 ## 🎮 Links Utiles
