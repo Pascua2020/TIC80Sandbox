@@ -1,5 +1,7 @@
 # 🎭 Nerdpedia / Wiki
 
+![cartucho](./Imagenes/CartuchoWiki.png)
+
 ![gifwiki](./Imagenes/gifwiki.gif)
 
 ## 🎭 Elementos
