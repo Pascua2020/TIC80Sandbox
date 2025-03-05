@@ -1,5 +1,7 @@
 # 🎭 Baile
 
+![cartucho](./Imagenes/CartuchoBaile.png)
+
 ![gifbaile](./Imagenes/gifbaile.gif)
 
 ## 🎭 Elementos
