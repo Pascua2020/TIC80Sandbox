@@ -209,23 +209,23 @@ Como Jugar :
 ```
 Botones del jugador (0-7) y sus equivalentes:
 
-1. **Botón 0**:
+1. Botón 0:
    - Pantalla: Flecha arriba
    - Teclado PC: Flecha arriba
 
-2. **Botón 1**:
+2. Botón 1:
    - Pantalla: Flecha abajo
    - Teclado PC: Flecha abajo
 
-3. **Botón 2**:
+3. Botón 2:
    - Pantalla: Flecha izquierda
    - Teclado PC: Flecha izquierda
 
-4. **Botón 3**:
+4. Botón 3:
    - Pantalla: Flecha derecha
    - Teclado PC: Flecha derecha
 
-5. **Botón 4**:
+5. Botón 4:
    - Pantalla: A
    - Teclado PC: Z
 
