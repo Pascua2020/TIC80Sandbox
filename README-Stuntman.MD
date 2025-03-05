@@ -1,5 +1,7 @@
 # 🎭 Stuntman
 
+![cartucho](./Imagenes/CartuchoStuntman.png)
+
 ![gifcoche](./Imagenes/subircoche.gif)
 
 ### 🎭 Ambientación
