@@ -1,5 +1,7 @@
 # 🎭 RC ( Remote Control = Coches a Control Remoto )
 
+![cartucho](./Imagenes/CartuchoRC.png)
+
 ![rc](./Imagenes/2.gif)
 
 ## 🎭 Elementos
