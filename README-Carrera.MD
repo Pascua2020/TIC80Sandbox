@@ -1,5 +1,7 @@
 # 🎭 Modo Carrera Arcade
 
+![cartucho](./Imagenes/CartuchoGT.png)
+
 ![gifgt](./Imagenes/modocarrera.gif)
 
 ## 🎭 Elementos
