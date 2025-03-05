@@ -1,5 +1,7 @@
 # 🎭 Trompos
 
+![cartucho](./Imagenes/CartuchoTrompos.png)
+
 ![giftrompo](./Imagenes/giftrompo.gif)
 
 ## 🎭 Elementos
