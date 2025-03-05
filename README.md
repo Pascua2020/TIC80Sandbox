@@ -132,7 +132,7 @@ Y hay una fuerte hiperinflacion económica : El importantisimo empresario Japone
 
 Esto y mucho más en...Crimen y Chori!
 
-![todomapa](./Imagenes/MapaEntero.jpg)
+![todomapa](./Imagenes/MapaCompleto.png)
 
 Aunque también tiene pequeñas ambientaciones en:
 
