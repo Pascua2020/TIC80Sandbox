@@ -55,7 +55,7 @@ READMEs de SubSecciones / Opcionales :
 
 ![modotvtubo](./Imagenes/crt.png)
 
-****Modo TV de Tubo en TIC80 ( F6 ).
+****Modo TV de Tubo en TIC80 ( F6 ).****
 
 🎲 ***Nombre del juego :*** 
 
