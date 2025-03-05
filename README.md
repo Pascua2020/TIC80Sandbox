@@ -1047,6 +1047,28 @@ Luego, detén la captura y exporta el video:
 video stop myvideo.webm
 ```
 
+### Atajos generales:
+- **F1**: Abre el menú de ayuda, donde puedes ver una lista de todos los atajos disponibles.
+- **F2**: Guarda el proyecto actual.
+- **F3**: Carga un proyecto guardado.
+- **F4**: Reinicia la consola TIC-80.
+- **F5**: Ejecuta el código actual (juego o programa).
+- **F6**: Detiene la ejecución del código.
+- **F7**: Pausa/Reanuda la ejecución del código.
+- **F8**: Toma un screenshot (captura de pantalla) del programa en ejecución. La captura se guarda en la carpeta de capturas de TIC-80.
+- **F9**: Graba un GIF animado de la ejecución del programa. Presiona F9 nuevamente para detener la grabación.
+- **F10**: Muestra/oculta el contador de FPS (fotogramas por segundo) en la esquina superior izquierda de la pantalla.
+
+### Atajos en el editor de código:
+- **Ctrl + Z**: Deshacer.
+- **Ctrl + Y**: Rehacer.
+- **Ctrl + C**: Copiar.
+- **Ctrl + X**: Cortar.
+- **Ctrl + V**: Pegar.
+- **Ctrl + S**: Guardar el archivo actual.
+- **Ctrl + F**: Buscar texto en el código.
+- **Ctrl + G**: Ir a una línea específica en el código.
+
 ## 🎮 Links Utiles
 
 -Itch.io ( Descarga del Juego )
