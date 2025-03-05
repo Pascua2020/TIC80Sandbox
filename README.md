@@ -210,49 +210,36 @@ Como Jugar :
 Botones del jugador (0-7) y sus equivalentes:
 
 1. **Botón 0**:
-   - **Pantalla**: Flecha arriba
-   - **Teclado PC**: Flecha arriba
+   - Pantalla: Flecha arriba
+   - Teclado PC: Flecha arriba
 
 2. **Botón 1**:
-   - **Pantalla**: Flecha abajo
-   - **Teclado PC**: Flecha abajo
+   - Pantalla: Flecha abajo
+   - Teclado PC: Flecha abajo
 
 3. **Botón 2**:
-   - **Pantalla**: Flecha izquierda
-   - **Teclado PC**: Flecha izquierda
+   - Pantalla: Flecha izquierda
+   - Teclado PC: Flecha izquierda
 
 4. **Botón 3**:
-   - **Pantalla**: Flecha derecha
-   - **Teclado PC**: Flecha derecha
+   - Pantalla: Flecha derecha
+   - Teclado PC: Flecha derecha
 
 5. **Botón 4**:
-   - **Pantalla**: A
-   - **Teclado PC**: Z
+   - Pantalla: A
+   - Teclado PC: Z
 
-6. **Botón 5**:
-   - **Pantalla**: B
-   - **Teclado PC**: X
+6. Botón 5:
+   - Pantalla: B
+   - Teclado PC: X
 
-7. **Botón 6**:
-   - **Pantalla**: X
-   - **Teclado PC**: A
+7. Botón 6:
+   - Pantalla: X
+   - Teclado PC: A
 
-8. **Botón 7**:
-   - **Pantalla**: Y
-   - **Teclado PC**: S
-```
-
-General
-```
-0-Flecha Arriba
-1-Flecha Abajo
-2-Flecha Izquierda
-3-Flecha Derecha
-
-4-A
-5-B
-6-X
-7-Y
+8. Botón 7:
+   - Pantalla: Y
+   - Teclado PC: S
 ```
 
 ### Modo 1 Jugador ( Todo el Juego excepto RC y Trompos ):
