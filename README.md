@@ -947,6 +947,105 @@ C/Usuario/AppData/Roaming/com.nesbox.tic/TIC-80
 
 Guardar .png del mapa del juego :
 Escribir en la consola "export mapimg nombre.png
+
+Todos los export:
+
+### 1. **Exportar el cartucho completo**
+Exporta todo el contenido del cartucho (sprites, mapas, código, música, etc.) en un archivo PNG.
+
+```lua
+export cart.png
+```
+
+### 2. **Exportar solo los sprites**
+Exporta la tabla de sprites (sprite sheet) como un archivo PNG.
+
+```lua
+export spr.png
+```
+
+### 3. **Exportar solo los tiles**
+Exporta la tabla de tiles (tile sheet) como un archivo PNG.
+
+```lua
+export tiles.png
+```
+
+### 4. **Exportar el mapa**
+Exporta el mapa completo como un archivo PNG.
+
+```lua
+export map.png
+```
+
+### 5. **Exportar la pantalla (screen)**
+Exporta la pantalla actual (lo que se muestra en la ventana de TIC-80) como un archivo PNG.
+
+```lua
+export screen.png
+```
+
+### 6. **Exportar la música**
+Exporta la música del cartucho como un archivo WAV.
+
+```lua
+export music.wav
+```
+
+### 7. **Exportar efectos de sonido (SFX)**
+Exporta los efectos de sonido como un archivo WAV.
+
+```lua
+export sfx.wav
+```
+
+### 8. **Exportar el código fuente**
+Exporta el código Lua del cartucho como un archivo de texto.
+
+```lua
+export code.lua
+```
+
+### 9. **Exportar la paleta de colores**
+Exporta la paleta de colores actual como un archivo PNG.
+
+```lua
+export palette.png
+```
+
+### 10. **Exportar el cartucho como un archivo .tic**
+Si quieres guardar el cartucho en formato `.tic`, usa:
+
+```lua
+save mygame.tic
+```
+
+### 11. **Exportar un GIF animado**
+Puedes capturar una animación y exportarla como un archivo GIF. Primero, inicia la captura:
+
+```lua
+gif record
+```
+
+Luego, detén la captura y exporta el GIF:
+
+```lua
+gif stop myanimation.gif
+```
+
+### 12. **Exportar un video**
+Puedes capturar un video y exportarlo como un archivo `.webm`. Primero, inicia la captura:
+
+```lua
+video record
+```
+
+Luego, detén la captura y exporta el video:
+
+```lua
+video stop myvideo.webm
+```
+
 ```
 
 ## 🎮 Links Utiles
