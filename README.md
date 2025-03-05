@@ -921,6 +921,9 @@ C/Usuario/AppData/Roaming/com.nesbox.tic/TIC-80
 -- title: Nombre del juego
 3-Guardar .TIC
 4-Guardar nombredeljuego.png
+
+Guardar .png del mapa del juego :
+Escribir en la consola "export mapimg nombre.png
 ```
 
 ## 🎮 Links Utiles
