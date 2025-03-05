@@ -53,6 +53,10 @@ READMEs de SubSecciones / Opcionales :
 ✨️11
 ![README Interfaz](./README-Interfaz.MD)
 
+![modotvtubo](./Imagenes/crt.png)
+
+****Modo TV de Tubo en TIC80 ( F6 ).
+
 🎲 ***Nombre del juego :*** 
 
 ![gifinicio](./Imagenes/inicio.gif)
