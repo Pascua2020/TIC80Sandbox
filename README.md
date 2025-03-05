@@ -947,6 +947,7 @@ C/Usuario/AppData/Roaming/com.nesbox.tic/TIC-80
 
 Guardar .png del mapa del juego :
 Escribir en la consola "export mapimg nombre.png
+```
 
 Todos los export:
 
@@ -1044,8 +1045,6 @@ Luego, detén la captura y exporta el video:
 
 ```lua
 video stop myvideo.webm
-```
-
 ```
 
 ## 🎮 Links Utiles
