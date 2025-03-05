@@ -59,7 +59,7 @@ READMEs de SubSecciones / Opcionales :
 
 *Crimen y Chori*
 
-![cartucho](./Imagenes/Cartucho.png)
+![cartucho](./Imagenes/CartuchoCrimenYChori.png)
 
 🎲 ***Año :*** 
 
