@@ -1073,6 +1073,9 @@ video stop myvideo.webm
 - **Ctrl + F**: Buscar texto en el código.
 - **Ctrl + G**: Ir a una línea específica en el código.
 
+*En TIC80 no parece funcionar ni la letra "Ñ" ni las Tildes ( ej : "á" ),por eso es que algunas palabras están escritas con errores de ortografía 
+( ej : "próxima" en vez de "próxima"
+
 ## 🎮 Links Utiles
 
 -Itch.io ( Descarga del Juego )
