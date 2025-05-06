@@ -94,6 +94,11 @@ READMEs de SubSecciones / Opcionales :
 ( Consola de Fantasía Open Source :
 Funciona en PC,Raspberry Pi y Smartphones. )
 
+IMPORTANTE : TIC-80 funciona en Retroarch y este último funciona en un montón más de plataformas ( PS2,PS3,PS4,PSP,PSV,
+Gamecube,Wii,WiiU,Switch,
+Xbox(2001),Xbox One,Xbox Series X/S,tvOS)
+así que en teoría también debería poder funcionar en todas esas plataformas ( pero no lo puedo confirmar - lo dice Wikipedia ).
+
 Especificaciones ( de TIC-80 ):
 ```
 -Resolución: 
