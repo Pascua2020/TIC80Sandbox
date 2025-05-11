@@ -61,7 +61,7 @@ READMEs de SubSecciones / Opcionales :
 
 ![gifinicio](./Imagenes/inicio.gif)
 
-*Crimen y Chori*
+*Crimen y Pixel*
 
 ![cartucho](./Imagenes/CartuchoCrimenYChori.png)
 
@@ -118,7 +118,7 @@ Especificaciones ( de TIC-80 ):
 
 *Lua*
 
-Juego hecho en su mayoria desde el Celular,SIN PC 
+Juego hecho ( en sus primeros 2 meses ) en su mayoria desde el Celular,SIN PC 
 ( eso si,con ayuda de ChatGPT / DeepSeek ).
 
 Archivos .gif hechos con la herramienta integrada en TIC-80.
@@ -131,7 +131,7 @@ Eso incluye dibujar los Gráficos con el dedo táctil y tocar el Código desde e
 
 ## 🎮 Sinopsis : 
 
-Crimen y Chori es un Videojuego Sandbox 2D ambientado en una ciudad de Argentina Pseudo-ficticia llamada Ciudad Rapera de Buenos Aires.
+Crimen y Pixel es un Videojuego Sandbox 2D ambientado en una ciudad de Argentina Pseudo-ficticia llamada Ciudad Rapera de Buenos Aires.
 
 En esta Ciudad hay una fuerte presencia de las Emisoras de Radio y la Cultura Underground.Ademas ocurren todo tipo de cosas bizarras y en el medio hay un cambio de Gobierno.
 
@@ -139,9 +139,7 @@ El famoso actor Silvestre Stacchotta viene de Los Guapos County de Los Angeles a
 
 Y hay una fuerte hiperinflacion económica : El importantisimo empresario Japones-Argentino Juan Garcamaru enfrenta serias dificultades económicas con sus historicas Galletitas Marca CULO.
 
-Esto y mucho más en...Crimen y Chori!
-
-![todomapa](./Imagenes/MapaCompleto.png)
+Esto y mucho más en...Crimen y Pixel!
 
 Aunque también tiene pequeñas ambientaciones en:
 
