@@ -1,3 +1,7 @@
+# Actualizacion Agosto 2025 :
+Ultima version del juego es 4.0 .
+Si bien este readme es super detallado,quedo algo desfasado con respecto a la ultima version.Mas adelante lo actualizare a su version actual.
+
 ##### Hashtags #️⃣ : #gamedev #TIC80 #lua #sandbox #2D #Retro #Argentina #####
 
 ##### README en Español.To read the English versión,go to README-English.md
