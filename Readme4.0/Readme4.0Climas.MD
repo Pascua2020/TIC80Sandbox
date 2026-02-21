@@ -199,4 +199,5 @@ Viento
 
 ![gifsclima-viento](./GIFS4.0/Climas/Viento.gif)]
 
+
 ![pngclima-viento](./Screenshots4.0/Climas/Viento.png)]
