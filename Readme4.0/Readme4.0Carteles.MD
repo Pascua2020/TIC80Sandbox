@@ -847,3 +847,4 @@ L6
 
 ![pngscartelesL6](./Screenshots4.0/Carteles/Carteles_L/CartelL6.png)]
 ![gifscartelesL6](./GIFS4.0/Carteles/Carteles_L/CartelL-6.gif)]
+
