@@ -196,3 +196,4 @@ Rebote
 Ruleta 
 
 ![gifpinballruleta](./GIFS4.0/Pinball/Ruleta.gif)]
+
