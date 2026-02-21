@@ -22,4 +22,5 @@ NOTICIA 4
 NOTICIA 5
 
 ![pngdiario08](./Screenshots4.0/Diario/Diario08.png)]
+
 ![pngdiario09](./Screenshots4.0/Diario/Diario09.png)]
