@@ -194,4 +194,5 @@ Moneda 12
 
 ![gifscoleccionablesmonedas12](./GIFS4.0/Coleccionables/Monedas/.gif)]
 
+
 ![pngcoleccionablesmonedas12](./Screenshots4.0/Coleccionables/Monedas/Moneda12.png)]
