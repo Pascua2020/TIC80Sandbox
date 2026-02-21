@@ -81,4 +81,5 @@ TecladoPC
 TecladoNumerico
 ![gifinterruptortecladonumerico](./GIFS4.0/Mapa/Interruptores/MapaTecladoNumerico.gif)]
 Telescopio
+
 ![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)]
