@@ -4916,4 +4916,5 @@ if ( estados.juegoBaile == false and estados.pinball == false and estados.Diario
  estados.intro == false and estados.demo == false and estados.tecladoNum == false and estados.tecladoPC == false and estados.diosGPT == false ) then game:showDebug() end
 if estados.juegoPrincipal == true then game:showDebug() end
  config.temporizadorGeneral = config.temporizadorGeneral + 1  -- Ejecución principal
+
 end
