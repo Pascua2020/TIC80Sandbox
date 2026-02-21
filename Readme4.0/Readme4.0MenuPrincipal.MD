@@ -73,4 +73,5 @@ INICIOS
 ![gifMenuPrincipalInicio6](./GIFS4.0/MenuPrincipal/Inicios/Inicio6.gif)]
 ![gifMenuPrincipalInicio7](./GIFS4.0/MenuPrincipal/Inicios/Inicio7.gif)]
 ![gifMenuPrincipalInicio8](./GIFS4.0/MenuPrincipal/Inicios/Inicio8.gif)]
+
 ![gifMenuPrincipalInicio9](./GIFS4.0/MenuPrincipal/Inicios/Inicio9.gif)]
