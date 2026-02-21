@@ -61,4 +61,5 @@ Timmy Trabalenguas
 ![gifnpc9](./GIFS4.0/Personajes/TimmyTrabalenguas.gif)]
 
 ![pngnpc9A](./Screenshots4.0/Personajes/TimmyTrabalenguas.png)]
+
 ![pngnpc9B](./Screenshots4.0/Personajes/TimmyTrabalenguas2.png)]
