@@ -38,4 +38,5 @@ Explicacion :
 
 ![gifbugvehiculosoffset](./GIFS4.0/Bugs/BugVehiculosOffset.gif)]
 
+
 Explicacion :
