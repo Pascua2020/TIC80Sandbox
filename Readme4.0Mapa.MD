@@ -83,3 +83,4 @@ TecladoNumerico
 Telescopio
 
 ![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)]
+
