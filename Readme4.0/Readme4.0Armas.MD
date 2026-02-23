@@ -3,7 +3,7 @@ Readme4.0Armas
 1
 AK47
 
-![gifsarmasak47](./GIFS4.0/Armas/AK47.gif)]
+![gifsarmasak47](./GIFS4.0/GIFS_Armas/AK47.gif)]
 ![gifsarmastesteoak47](./GIFS4.0/Armas/TesteoAK47.gif)]
 
 Frases
@@ -151,6 +151,7 @@ Pistola
 ![pngfrasesPistola-3](./Screenshots4.0/Armas/PistolaFrase3.png)]
 ![pngfrasesPistola-4](./Screenshots4.0/Armas/PistolaFrase4.png)]
 ![pngfrasesPistola-5](./Screenshots4.0/Armas/PistolaFrase5.png)]
+
 
 
 
