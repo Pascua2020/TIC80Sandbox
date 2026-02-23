@@ -8,7 +8,7 @@ AK47
 
 Frases
 
-![pngfrasesAK47-1](./Screenshots4.0/ArmasAK47Frase1.png)]
+![pngfrasesAK47-1](./Screenshots4.0/Armas/AK47Frase1.png)]
 ![pngfrasesAK47-2](./Screenshots4.0/Armas/AK47Frase2.png)]
 ![pngfrasesAK47-3](./Screenshots4.0/Armas/AK47Frase3.png)]
 ![pngfrasesAK47-4](./Screenshots4.0/Armas/AK47Frase4.png)]
@@ -151,5 +151,6 @@ Pistola
 ![pngfrasesPistola-3](./Screenshots4.0/Armas/PistolaFrase3.png)]
 ![pngfrasesPistola-4](./Screenshots4.0/Armas/PistolaFrase4.png)]
 ![pngfrasesPistola-5](./Screenshots4.0/Armas/PistolaFrase5.png)]
+
 
 
