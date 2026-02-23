@@ -174,3 +174,4 @@ RADIOS : Que al terminar una Radio,cambie automaticamente al inicio de la siguie
 
 
 AMBULANCIA : Hay una que aparece en el mapa y antes de subirse NO TIENE LA ANIMACION ( deberia tenerla ).
+
