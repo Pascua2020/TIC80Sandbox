@@ -978,3 +978,4 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
