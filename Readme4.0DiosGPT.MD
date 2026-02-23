@@ -18,3 +18,4 @@ Readme4.0DiosGPT
 
 
 ![pngDiosGPTMenuC6](./Screenshots4.0/DiosGPT/MenuC6.png)]
+
