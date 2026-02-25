@@ -27,7 +27,7 @@ Trafico en el mapa
 ![pngcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/anaconda.png)]
 ![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/anaconda.gif)]
 
-![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/anaconda-HUD.png)]
+![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.png)]
 ![gifcalleanacondahud](./Screenshots4.0/Calles(HUD)/anaconda-HUD.gif)]
 
 03-Bubs
