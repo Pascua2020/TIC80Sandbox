@@ -781,7 +781,7 @@ https://en.wikipedia.org/wiki/Chad
 
 130
 
-![pngEasterEggEstacionEspacialInternacional](./Screenshots4.0/EasterEggs/EasterEggEstacionEspacalInternacional.png)]
+![pngEasterEggEstacionEspacialInternacional](./Screenshots4.0/EasterEggs/EasterEggEstacionEspacialInternacional.png)]
 
 https://en.wikipedia.org/wiki/International_Space_Station
 
@@ -977,5 +977,6 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
 
