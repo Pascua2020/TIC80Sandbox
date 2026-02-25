@@ -4,7 +4,7 @@ Readme4.0Barrios
 Barrio Chetisimo
 
 ![gifsbarrios-barriochetisimo](./GIFS4.0/Barrios/BarrioChetisimo.gif)
-![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/Barrio_Chetisimo.png)
+![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
 
 Recorrido Calles Barrio Chetisimo :
 
@@ -144,6 +144,7 @@ Vivan los Osos
 Recorrido Calles Vivan los Osos :
 
 ![gifsbarrios-recorridobarriovivanlososos](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVivanLosOsos.gif)
+
 
 
 
