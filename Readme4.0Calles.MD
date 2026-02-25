@@ -312,115 +312,115 @@ Trafico en el mapa
 
 38-NiHao
 
-![pngcallenihaonohud](./GIFS4.0/Calles(NOHUD)/nihao.png)]
-![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/nihao.gif)]
+![pngcallenihaonohud](./GIFS4.0/Calles(NOHUD)/Nihao.png)]
+![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/Nihao.gif)]
 
-![pngcallenihaohud](./Screenshots4.0/Calles(HUD)/nihao-HUD.png)]
-![gifcallenihaohud](./Screenshots4.0/Calles(HUD)/nihao-HUD.gif)]
+![pngcallenihaohud](./Screenshots4.0/Calles(HUD)/Nihao-HUD.png)]
+![gifcallenihaohud](./Screenshots4.0/Calles(HUD)/Nihao-HUD.gif)]
 
 39-No jodas
 
-![pngcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/nojodas.png)]
-![gifcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/nojodas.gif)]
+![pngcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/Nojodas.png)]
+![gifcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/Nojodas.gif)]
 
-![pngcallenojodashud](./Screenshots4.0/Calles(HUD)/nojodas-HUD.png)]
-![gifcallenojodashud](./Screenshots4.0/Calles(HUD)/nojodas-HUD.gif)]
+![pngcallenojodashud](./Screenshots4.0/Calles(HUD)/Nojodas-HUD.png)]
+![gifcallenojodashud](./Screenshots4.0/Calles(HUD)/Nojodas-HUD.gif)]
 
 40-No te creo
 
-![pngcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/notecreo.png)]
-![gifcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/notecreo.gif)]
+![pngcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/Notecreo.png)]
+![gifcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/Notecreo.gif)]
 
-![pngcallenotecreohud](./Screenshots4.0/Calles(HUD)/notecreo-HUD.png)]
-![gifcallenotecreohud](./Screenshots4.0/Calles(HUD)/notecreo-HUD.gif)]
+![pngcallenotecreohud](./Screenshots4.0/Calles(HUD)/Notecreo-HUD.png)]
+![gifcallenotecreohud](./Screenshots4.0/Calles(HUD)/Notecreo-HUD.gif)]
 
 41-NOOOO
 
-![pngcallenoooonohud](./GIFS4.0/Calles(NOHUD)/noooo.png)]
-![gifcallenoooonohud](./GIFS4.0/Calles(NOHUD)/noooo.gif)]
+![pngcallenoooonohud](./GIFS4.0/Calles(NOHUD)/Noooo.png)]
+![gifcallenoooonohud](./GIFS4.0/Calles(NOHUD)/Noooo.gif)]
 
-![pngcallenoooohud](./Screenshots4.0/Calles(HUD)/noooo-HUD.png)]
-![gifcallenoooohud](./Screenshots4.0/Calles(HUD)/noooo-HUD.gif)]
+![pngcallenoooohud](./Screenshots4.0/Calles(HUD)/Noooo-HUD.png)]
+![gifcallenoooohud](./Screenshots4.0/Calles(HUD)/Noooo-HUD.gif)]
 
 42-Orco
 
-![pngcalleorconohud](./GIFS4.0/Calles(NOHUD)/orco.png)]
-![gifcalleorconohud](./GIFS4.0/Calles(NOHUD)/orco.gif)]
+![pngcalleorconohud](./GIFS4.0/Calles(NOHUD)/Orco.png)]
+![gifcalleorconohud](./GIFS4.0/Calles(NOHUD)/Orco.gif)]
 
-![pngcalleorcohud](./Screenshots4.0/Calles(HUD)/orco-HUD.png)]
-![gifcalleorcohud](./Screenshots4.0/Calles(HUD)/orco-HUD.gif)]
+![pngcalleorcohud](./Screenshots4.0/Calles(HUD)/Orco-HUD.png)]
+![gifcalleorcohud](./Screenshots4.0/Calles(HUD)/Orco-HUD.gif)]
 
 43-Ouch
 
-![pngcalleouchnohud](./GIFS4.0/Calles(NOHUD)/ouch.png)]
-![gifcalleouchnohud](./GIFS4.0/Calles(NOHUD)/ouch.gif)]
+![pngcalleouchnohud](./GIFS4.0/Calles(NOHUD)/Ouch.png)]
+![gifcalleouchnohud](./GIFS4.0/Calles(NOHUD)/Ouch.gif)]
 
-![pngcalleouchhud](./Screenshots4.0/Calles(HUD)/ouch-HUD.png)]
-![gifcalleouchhud](./Screenshots4.0/Calles(HUD)/ouch-HUD.gif)]
+![pngcalleouchhud](./Screenshots4.0/Calles(HUD)/Ouch-HUD.png)]
+![gifcalleouchhud](./Screenshots4.0/Calles(HUD)/Ouch-HUD.gif)]
 
 44-Party Hard
 
-![pngcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/partyhard.png)]
-![gifcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/partyhard.gif)]
+![pngcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/Partyhard.png)]
+![gifcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/Partyhard.gif)]
 
-![pngcallepartyhardhud](./Screenshots4.0/Calles(HUD)/partyhard-HUD.png)]
-![gifcallepartyhardhud](./Screenshots4.0/Calles(HUD)/partyhard-HUD.gif)]
+![pngcallepartyhardhud](./Screenshots4.0/Calles(HUD)/Partyhard-HUD.png)]
+![gifcallepartyhardhud](./Screenshots4.0/Calles(HUD)/Partyhard-HUD.gif)]
 
 45-Pelado
 
-![pngcallepeladonohud](./GIFS4.0/Calles(NOHUD)/pelado.png)]
-![gifcallepeladonohud](./GIFS4.0/Calles(NOHUD)/pelado.gif)]
+![pngcallepeladonohud](./GIFS4.0/Calles(NOHUD)/Pelado.png)]
+![gifcallepeladonohud](./GIFS4.0/Calles(NOHUD)/Pelado.gif)]
 
-![pngcallepeladohud](./Screenshots4.0/Calles(HUD)/pelado-HUD.png)]
-![gifcallepeladohud](./Screenshots4.0/Calles(HUD)/pelado-HUD.gif)]
+![pngcallepeladohud](./Screenshots4.0/Calles(HUD)/Pelado-HUD.png)]
+![gifcallepeladohud](./Screenshots4.0/Calles(HUD)/Pelado-HUD.gif)]
 
 46-Peluca
 
-![pngcallepelucanohud](./GIFS4.0/Calles(NOHUD)/peluca.png)]
-![gifcallepelucanohud](./GIFS4.0/Calles(NOHUD)/peluca.gif)]
+![pngcallepelucanohud](./GIFS4.0/Calles(NOHUD)/Peluca.png)]
+![gifcallepelucanohud](./GIFS4.0/Calles(NOHUD)/Peluca.gif)]
 
-![pngcallepelucahud](./Screenshots4.0/Calles(HUD)/peluca-HUD.png)]
-![gifcallepelucahud](./Screenshots4.0/Calles(HUD)/peluca-HUD.gif)]
+![pngcallepelucahud](./Screenshots4.0/Calles(HUD)/Peluca-HUD.png)]
+![gifcallepelucahud](./Screenshots4.0/Calles(HUD)/Peluca-HUD.gif)]
 
 47-Pff
 
-![pngcallepffnohud](./GIFS4.0/Calles(NOHUD)/pff.png)]
-![gifcallepffnohud](./GIFS4.0/Calles(NOHUD)/pff.gif)]
+![pngcallepffnohud](./GIFS4.0/Calles(NOHUD)/Pff.png)]
+![gifcallepffnohud](./GIFS4.0/Calles(NOHUD)/Pff.gif)]
 
-![pngcallepffhud](./Screenshots4.0/Calles(HUD)/pff-HUD.png)]
-![gifcallepffhud](./Screenshots4.0/Calles(HUD)/pff-HUD.gif)]
+![pngcallepffhud](./Screenshots4.0/Calles(HUD)/Pff-HUD.png)]
+![gifcallepffhud](./Screenshots4.0/Calles(HUD)/Pff-HUD.gif)]
 
 48-Pio pio
 
-![pngcallepiopionohud](./GIFS4.0/Calles(NOHUD)/piopio.png)]
-![gifcallepiopionohud](./GIFS4.0/Calles(NOHUD)/piopio.gif)]
+![pngcallepiopionohud](./GIFS4.0/Calles(NOHUD)/Piopio.png)]
+![gifcallepiopionohud](./GIFS4.0/Calles(NOHUD)/Piopio.gif)]
 
-![pngcallepiopiohud](./Screenshots4.0/Calles(HUD)/piopio-HUD.png)]
-![gifcallepiopiohud](./Screenshots4.0/Calles(HUD)/piopio-HUD.gif)]
+![pngcallepiopiohud](./Screenshots4.0/Calles(HUD)/Piopio-HUD.png)]
+![gifcallepiopiohud](./Screenshots4.0/Calles(HUD)/Piopio-HUD.gif)]
 
 49-Pixeles
 
-![pngcallepixelesnohud](./GIFS4.0/Calles(NOHUD)/pixeles.png)]
-![gifcallepixelesnohud](./GIFS4.0/Calles(NOHUD)/pixeles.gif)]
+![pngcallepixelesnohud](./GIFS4.0/Calles(NOHUD)/Pixeles.png)]
+![gifcallepixelesnohud](./GIFS4.0/Calles(NOHUD)/Pixeles.gif)]
 
-![pngcallepixeleshud](./Screenshots4.0/Calles(HUD)/pixeles-HUD.png)]
-![gifcallepixeleshud](./Screenshots4.0/Calles(HUD)/pixeles-HUD.gif)]
+![pngcallepixeleshud](./Screenshots4.0/Calles(HUD)/Pixeles-HUD.png)]
+![gifcallepixeleshud](./Screenshots4.0/Calles(HUD)/Pixeles-HUD.gif)]
 
 50-Poker
 
-![pngcallepokernohud](./GIFS4.0/Calles(NOHUD)/poker.png)]
-![gifcallepokernohud](./GIFS4.0/Calles(NOHUD)/poker.gif)]
+![pngcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.png)]
+![gifcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.gif)]
 
-![pngcallepokerhud](./Screenshots4.0/Calles(HUD)/poker-HUD.png)]
-![gifcallepokerhud](./Screenshots4.0/Calles(HUD)/poker-HUD.gif)]
+![pngcallepokerhud](./Screenshots4.0/Calles(HUD)/Poker-HUD.png)]
+![gifcallepokerhud](./Screenshots4.0/Calles(HUD)/Poker-HUD.gif)]
 
 51-Pollo
 
-![pngcallepollonohud](./GIFS4.0/Calles(NOHUD)/pollo.png)]
-![gifcallepollonohud](./GIFS4.0/Calles(NOHUD)/pollo.gif)]
+![pngcallepollonohud](./GIFS4.0/Calles(NOHUD)/Pollo.png)]
+![gifcallepollonohud](./GIFS4.0/Calles(NOHUD)/Pollo.gif)]
 
-![pngcallepollohud](./Screenshots4.0/Calles(HUD)/pollo-HUD.png)]
-![gifcallepollohud](./Screenshots4.0/Calles(HUD)/pollo-HUD.gif)]
+![pngcallepollohud](./Screenshots4.0/Calles(HUD)/Pollo-HUD.png)]
+![gifcallepollohud](./Screenshots4.0/Calles(HUD)/Pollo-HUD.gif)]
 
 52-Ponemela
 
@@ -543,6 +543,7 @@ Trafico en el mapa
 69-
 
 70-
+
 
 
 
