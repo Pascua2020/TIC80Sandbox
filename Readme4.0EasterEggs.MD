@@ -48,187 +48,187 @@ https://en.wikipedia.org/wiki/ChatGPT
 
 4
 
-![pngEasterEggCoreaDelNorte](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte.png)]
+![pngEasterEggCoreaDelNorte](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte.png)
 
 https://en.wikipedia.org/wiki/North_Korea
 
 5
 
-![pngEasterEggDDR](./Screenshots4.0/EasterEggs/EasterEggDDR.png)]
+![pngEasterEggDDR](./Screenshots4.0/EasterEggs/EasterEggDDR.png)
 
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution
 
 6
 
-![pngEasterEggEbola](./Screenshots4.0/EasterEggs/EasterEggEbola.png)]
+![pngEasterEggEbola](./Screenshots4.0/EasterEggs/EasterEggEbola.png)
 
 https://en.wikipedia.org/wiki/Ebola
 
 7
 
-![pngEasterEggEbola2](./Screenshots4.0/EasterEggs/EasterEggEbola2.png)]
+![pngEasterEggEbola2](./Screenshots4.0/EasterEggs/EasterEggEbola2.png)
 
 https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic
 
 8
 
-![pngEasterEggEspaña](./Screenshots4.0/EasterEggs/EasterEggEspaña.png)]
+![pngEasterEggEspaña](./Screenshots4.0/EasterEggs/EasterEggEspaña.png)
 
 https://en.wikipedia.org/wiki/Spain
 
 9
 
-![pngEasterEggEspaña2](./Screenshots4.0/EasterEggs/EasterEggEspaña2.png)]
+![pngEasterEggEspaña2](./Screenshots4.0/EasterEggs/EasterEggEspaña2.png)
 
 https://en.wikipedia.org/wiki/Madrid
 
 10
 
-![pngEasterEggGeorgeWBush](./Screenshots4.0/EasterEggs/EasterEggGeorgeWBush.png)]
+![pngEasterEggGeorgeWBush](./Screenshots4.0/EasterEggs/EasterEggGeorgeWBush.png)
 
 https://en.wikipedia.org/wiki/Internets
 
 11
 
-![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)]
+![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto_2
 
 12
 
-![pngEasterEggGTAViceCity](./Screenshots4.0/EasterEggs/EasterEggGTAViceCity.png)]
+![pngEasterEggGTAViceCity](./Screenshots4.0/EasterEggs/EasterEggGTAViceCity.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City
 
 13
 
-![pngEasterEggHarvard](./Screenshots4.0/EasterEggs/EasterEggHarvard.png)]
+![pngEasterEggHarvard](./Screenshots4.0/EasterEggs/EasterEggHarvard.png)
 
 https://en.wikipedia.org/wiki/Harvard_University
 
 14
 
-![pngEasterEggIdiomaChino](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino.png)]
+![pngEasterEggIdiomaChino](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
 15
 
-![pngEasterEggIdiomaChino2](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino2.png)]
+![pngEasterEggIdiomaChino2](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino2.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
 16
 
-![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)]
+![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)
 
 https://en.wikipedia.org/wiki/Patagonian_Welsh
 
 17
 
-![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)]
+![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)
 
 https://en.wikipedia.org/wiki/Welsh_language
 
 18
 
-![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)]
+![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)
 
 https://en.wikipedia.org/wiki/Romansh_language
 
 19
 
-![pngEasterEggIdiomaTenis](./Screenshots4.0/EasterEggs/EasterEggIdiomaTenis.png)]
+![pngEasterEggIdiomaTenis](./Screenshots4.0/EasterEggs/EasterEggIdiomaTenis.png)
 
 https://en.wikipedia.org/wiki/Tenis_language
 
 20
 
-![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)]
+![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)
 
 https://en.wikipedia.org/wiki/Tigrinya_language
 
 21
 
-![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)]
+![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
 https://en.wikipedia.org/wiki/Wolof_language
 
 22
 
-![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)]
+![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)
 
 https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war
 
 23
 
-![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)]
+![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)
 
 https://en.wikipedia.org/wiki/Lut_Desert
 
 24
 
-![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)]
+![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)
 
 https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 
 25
 
-![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)]
+![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)
 
 https://en.wikipedia.org/wiki/La_Naci%C3%B3n
 
 26
 
-![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)]
+![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)
 
 https://es.wikipedia.org/wiki/Carlos_Pagni
 
 27
 
-![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)]
+![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)
 
 https://en.wikipedia.org/wiki/Los_Angeles
 
 28
 
-![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)]
+![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)
 
 https://en.wikipedia.org/wiki/Bart_on_the_Road
 
 29
 
-![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)]
+![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)
 
 https://en.wikipedia.org/wiki/Bart_the_Genius
 
 30
 
-![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)]
+![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
 https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
 31
 
-![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)]
+![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)
 
 https://en.wikipedia.org/wiki/Lunfardo
 
 32
 
-![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)]
+![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
 
 https://en.wikipedia.org/wiki/Presidency_of_Mauricio_Macri
 
 33
 
-![pngEasterEggMarioAlonsoPuig](./Screenshots4.0/EasterEggs/EasterEggMarioAlonsoPuig.png)]
+![pngEasterEggMarioAlonsoPuig](./Screenshots4.0/EasterEggs/EasterEggMarioAlonsoPuig.png)
 
 https://marioalonsopuig.com/biografia/
 
 34
 
-![pngEasterEggMaslaton](./Screenshots4.0/EasterEggs/EasterEggMaslaton.png)]
+![pngEasterEggMaslaton](./Screenshots4.0/EasterEggs/EasterEggMaslaton.png)
 
 https://en.wikipedia.org/wiki/Carlos_Maslat%C3%B3n
 
@@ -977,6 +977,7 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
 
 
