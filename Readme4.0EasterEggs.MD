@@ -1,32 +1,5 @@
 Readme4.0EasterEggs
 
--Guerra Israel-Iran ( 2025 )
--Corea del Norte
--Iran
--Idioma Wolof
--Idioma Tigriña
--Idioma Romanche
--Idioma Forro Criollo
-
--Los Simpsons
---Kwyjibo
-
--Bob Esponja
---Millonesimo Dolar
-
--GTA2
---ElectroRifle
-
--Silvester Stallone y Scharzzeneger
-
--Todo Noticias
---A 2 Voces
---Marcelo Bonelli
-
--Jorge Lanata
--Javier Milei
--Sergio Massa
-
 1
 
 ![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
@@ -234,150 +207,150 @@ https://en.wikipedia.org/wiki/Carlos_Maslat%C3%B3n
 
 35
 
-![pngEasterEggMilei1](./Screenshots4.0/EasterEggs/EasterEggMilei1.png)]
+![pngEasterEggMilei1](./Screenshots4.0/EasterEggs/EasterEggMilei1.png)
 
 https://en.wikipedia.org/wiki/Javier_Milei
 
 36
 
-![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)]
+![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)
 
 37
 
-![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)]
+![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)
 
 38
 
-![pngEasterEggPulp](./Screenshots4.0/EasterEggs/EasterEggPulp.png)]
+![pngEasterEggPulp](./Screenshots4.0/EasterEggs/EasterEggPulp.png)
 
 https://en.wikipedia.org/wiki/Party_Hard_(Pulp_song)
 
 39
 
-![pngEasterEggRusia1](./Screenshots4.0/EasterEggs/EasterEggRusia1.png)]
+![pngEasterEggRusia1](./Screenshots4.0/EasterEggs/EasterEggRusia1.png)
 
 https://en.wikipedia.org/wiki/Vladivostok
 
 40
 
-![pngEasterEggRusia2](./Screenshots4.0/EasterEggs/EasterEggRusia2.png)]
+![pngEasterEggRusia2](./Screenshots4.0/EasterEggs/EasterEggRusia2.png)
 
 https://en.wikipedia.org/wiki/Mikhail_Gorbachev
 https://en.wikipedia.org/wiki/Gopnik
 
 41
 
-![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)]
+![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)
 
 https://en.wikipedia.org/wiki/Women_in_Russia
 
 42
 
-![pngEasterEggRusia4](./Screenshots4.0/EasterEggs/EasterEggRusia4.png)]
+![pngEasterEggRusia4](./Screenshots4.0/EasterEggs/EasterEggRusia4.png)
 
 43
 
-![pngEasterEggSeineldin](./Screenshots4.0/EasterEggs/EasterEggSeineldin.png)]
+![pngEasterEggSeineldin](./Screenshots4.0/EasterEggs/EasterEggSeineldin.png)
 
 https://en.wikipedia.org/wiki/Mohamed_Al%C3%AD_Seineld%C3%ADn
 
 44
 
-![pngEasterEggShenzhen](./Screenshots4.0/EasterEggs/EasterEggShenzhen.png)]
+![pngEasterEggShenzhen](./Screenshots4.0/EasterEggs/EasterEggShenzhen.png)
 
 https://en.wikipedia.org/wiki/Shenzhen
 
 45
 
-![pngEasterEggStallone](./Screenshots4.0/EasterEggs/EasterEggStallone.png)]
+![pngEasterEggStallone](./Screenshots4.0/EasterEggs/EasterEggStallone.png)
 
 https://en.wikipedia.org/wiki/Sylvester_Stallone
 https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 
 46
 
-![pngEasterEggStuntmanPS2](./Screenshots4.0/EasterEggs/EasterEggStuntmanPS2.png)]
+![pngEasterEggStuntmanPS2](./Screenshots4.0/EasterEggs/EasterEggStuntmanPS2.png)
 
 https://en.wikipedia.org/wiki/Stuntman_(video_game)
 
 47
 
-![pngEasterEggSudan](./Screenshots4.0/EasterEggs/EasterEggSudan.png)]
+![pngEasterEggSudan](./Screenshots4.0/EasterEggs/EasterEggSudan.png)
 
 https://en.wikipedia.org/wiki/Khartoum
 
 48
 
-![pngEasterEggSuede1](./Screenshots4.0/EasterEggs/EasterEggSuede1.png)]
+![pngEasterEggSuede1](./Screenshots4.0/EasterEggs/EasterEggSuede1.png)
 
 https://en.wikipedia.org/wiki/Suede_(band)
 
 49
 
-![pngEasterEggSuede2](./Screenshots4.0/EasterEggs/EasterEggSuede2.png)]
+![pngEasterEggSuede2](./Screenshots4.0/EasterEggs/EasterEggSuede2.png)
 
 https://en.wikipedia.org/wiki/The_Drowners
 
 50
 
-![pngEasterEggTinder](./Screenshots4.0/EasterEggs/EasterEggTinder.png)]
+![pngEasterEggTinder](./Screenshots4.0/EasterEggs/EasterEggTinder.png)
 
 https://en.wikipedia.org/wiki/Tinder_(app)
 
 51
 
-![pngEasterEggTN1](./Screenshots4.0/EasterEggs/EasterEggTN1.png)]
+![pngEasterEggTN1](./Screenshots4.0/EasterEggs/EasterEggTN1.png)
 
 https://en.wikipedia.org/wiki/Todo_Noticias
 
 52
 
-![pngEasterEggTN2](./Screenshots4.0/EasterEggs/EasterEggTN2.png)]
+![pngEasterEggTN2](./Screenshots4.0/EasterEggs/EasterEggTN2.png)
 
 https://en.wikipedia.org/wiki/Nelson_Castro_(journalist)
 
 53
 
-![pngEasterEggTN3](./Screenshots4.0/EasterEggs/EasterEggTN3.png)]
+![pngEasterEggTN3](./Screenshots4.0/EasterEggs/EasterEggTN3.png)
 
 https://es.wikipedia.org/wiki/A_dos_voces
 
 54
 
-![pngEasterEggTN4](./Screenshots4.0/EasterEggs/EasterEggTN4.png)]
+![pngEasterEggTN4](./Screenshots4.0/EasterEggs/EasterEggTN4.png)
 
 https://es.wikipedia.org/wiki/Marcelo_Bonelli
 
 55
 
-![pngEasterEggTN5](./Screenshots4.0/EasterEggs/EasterEggTN5.png)]
+![pngEasterEggTN5](./Screenshots4.0/EasterEggs/EasterEggTN5.png)
 
 https://en.wikipedia.org/wiki/Jorge_Lanata
 
 56
 
-![pngEasterEggTN6](./Screenshots4.0/EasterEggs/EasterEggTN6.png)]
+![pngEasterEggTN6](./Screenshots4.0/EasterEggs/EasterEggTN6.png)
 
 57
 
-![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)]
+![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)
 
 58
 
-![pngEasterEggTOC](./Screenshots4.0/EasterEggs/EasterEggTOC.png)]
+![pngEasterEggTOC](./Screenshots4.0/EasterEggs/EasterEggTOC.png)
 
 https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 https://en.wikipedia.org/wiki/Exposure_therapy#Exposure_and_response_prevention_(ERP)
 
 59
 
-![pngEasterEggToyota](./Screenshots4.0/EasterEggs/EasterEggToyota.png)]
+![pngEasterEggToyota](./Screenshots4.0/EasterEggs/EasterEggToyota.png)
 
 https://en.wikipedia.org/wiki/Toyota
 
 60
 
-![pngEasterEggUruguay](./Screenshots4.0/EasterEggs/EasterEggUruguay.png)]
+![pngEasterEggUruguay](./Screenshots4.0/EasterEggs/EasterEggUruguay.png)
 
 https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
@@ -387,51 +360,51 @@ https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
 62
 
-![pngEasterEggAfganistan](./Screenshots4.0/EasterEggs/EasterEggAfganistan.png)]
+![pngEasterEggAfganistan](./Screenshots4.0/EasterEggs/EasterEggAfganistan.png)
 
 https://en.wikipedia.org/wiki/Afghanistan
 
 63
 
-![pngEasterEggCoreaDelNorte2](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte2.png)]
+![pngEasterEggCoreaDelNorte2](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte2.png)
 
 https://en.wikipedia.org/wiki/Pyongyang
 
 64
 
-![pngEasterEggCoreaDelNorte3](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte3.png)]
+![pngEasterEggCoreaDelNorte3](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte3.png)
 
 https://en.wikipedia.org/wiki/Lionel_Messi
 
 65
 
-![pngEasterEggGoticas1](./Screenshots4.0/EasterEggs/EasterEggGoticas1.png)]
+![pngEasterEggGoticas1](./Screenshots4.0/EasterEggs/EasterEggGoticas1.png)
 
 https://en.wikipedia.org/wiki/Goth_subculture
 
 66
 
-![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)]
+![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)
 
 67
 
-![pngEasterEggGuidoSuller1](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller1.png)]
+![pngEasterEggGuidoSuller1](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller1.png)
 
 https://es.wikipedia.org/wiki/Guido_S%C3%BCller
 
 68
 
-![pngEasterEggGuidoSuller2](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller2.png)]
+![pngEasterEggGuidoSuller2](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller2.png)
 
 69
 
-![pngEasterEggGuineaEcuatorial](./Screenshots4.0/EasterEggs/EasterEggGuineaEcuatorial.png)]
+![pngEasterEggGuineaEcuatorial](./Screenshots4.0/EasterEggs/EasterEggGuineaEcuatorial.png)
 
 https://en.wikipedia.org/wiki/Equatorial_Guinea
 
 70
 
-![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)]
+![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
 https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
@@ -977,6 +950,7 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
 
 
