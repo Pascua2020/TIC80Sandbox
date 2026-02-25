@@ -29,20 +29,20 @@ Readme4.0EasterEggs
 
 1
 
-![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)]
+![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
 
 https://en.wikipedia.org/wiki/(29075)_1950_DA
 
 2
 
-![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)]
+![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)
 
 https://en.wikipedia.org/wiki/SpongeBob_SquarePants_season_3
 ( Capitulo 53 - "Clams" )
 
 3
 
-![pngEasterEggChatGPT](./Screenshots4.0/EasterEggs/EasterEggChatGPT.png)]
+![pngEasterEggChatGPT](./Screenshots4.0/EasterEggs/EasterEggChatGPT.png)
 
 https://en.wikipedia.org/wiki/ChatGPT
 
@@ -977,6 +977,7 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
 
 
