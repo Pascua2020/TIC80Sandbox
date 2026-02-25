@@ -383,7 +383,7 @@ https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
 61
 
-![pngEasterEgg](./Screenshots4.0/EasterEggs/EasterEgg.png)]
+![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)
 
 62
 
@@ -447,7 +447,6 @@ https://en.wikipedia.org/wiki/Random-access_memory
 
 73
 
-![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)]
 ![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)]
 
 https://en.wikipedia.org/wiki/Mirtha_Legrand
@@ -978,4 +977,5 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
