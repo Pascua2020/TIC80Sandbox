@@ -35,7 +35,7 @@ Trafico en el mapa
 ![pngcallebubsnohud](./GIFS4.0/Calles(NOHUD)/bubs.png)]
 ![gifcallebubsnohud](./GIFS4.0/Calles(NOHUD)/bubs.gif)]
 
-![pngcallebubshud](./Screenshots4.0/Calles(HUD)/bubs-HUD.png)]
+![pngcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.png)]
 ![gifcallebubshud](./Screenshots4.0/Calles(HUD)/bubs-HUD.gif)]
 
 04-Callate
@@ -43,7 +43,7 @@ Trafico en el mapa
 ![pngcallecallatenohud](./GIFS4.0/Calles(NOHUD)/callate.png)]
 ![gifcallecallatenohud](./GIFS4.0/Calles(NOHUD)/callate.gif)]
 
-![pngcallecallatehud](./Screenshots4.0/Calles(HUD)/callate-HUD.png)]
+![pngcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.png)]
 ![gifcallecallatehud](./Screenshots4.0/Calles(HUD)/callate-HUD.gif)]
 
 05-Caos
@@ -51,7 +51,7 @@ Trafico en el mapa
 ![pngcallecaosnohud](./GIFS4.0/Calles(NOHUD)/caos.png)]
 ![gifcallecaosnohud](./GIFS4.0/Calles(NOHUD)/caos.gif)]
 
-![pngcallecaoshud](./Screenshots4.0/Calles(HUD)/caos-HUD.png)]
+![pngcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.png)]
 ![gifcallecaoshud](./Screenshots4.0/Calles(HUD)/caos-HUD.gif)]
 
 06-Cepo
@@ -59,7 +59,7 @@ Trafico en el mapa
 ![pngcalleceponohud](./GIFS4.0/Calles(NOHUD)/cepo.png)]
 ![gifcalleceponohud](./GIFS4.0/Calles(NOHUD)/cepo.gif)]
 
-![pngcallecepohud](./Screenshots4.0/Calles(HUD)/cepo-HUD.png)]
+![pngcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.png)]
 ![gifcallecepohud](./Screenshots4.0/Calles(HUD)/cepo-HUD.gif)]
 
 07-Chad
