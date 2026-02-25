@@ -9,106 +9,106 @@ Formato:
 
 Trafico en el mapa
 
-![giftrafico1](./GIFS4.0/Trafico/siguiendoLimusina.gif)]
-![giftrafico2](./GIFS4.0/Trafico/siguiendoStacchotta69.gif)]
-![giftrafico3](./GIFS4.0/Trafico/siguiendoTochotaMohtoh.gif)]
-![giftrafico4](./GIFS4.0/Trafico/siguiendoZhoZhoEgoEgo.gif)]
+![giftrafico1](./GIFS4.0/Trafico/siguiendoLimusina.gif)
+![giftrafico2](./GIFS4.0/Trafico/siguiendoStacchotta69.gif)
+![giftrafico3](./GIFS4.0/Trafico/siguiendoTochotaMohtoh.gif)
+![giftrafico4](./GIFS4.0/Trafico/siguiendoZhoZhoEgoEgo.gif)
 
 01-Ameo
 
-![pngcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.png)]
-![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.gif)]
+![pngcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.png)
+![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.gif)
 
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
-![gifcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.gif)]
+![gifcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.gif)
 
 02-Anaconda
 
-![pngcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.png)]
-![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.gif)]
+![pngcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.png)
+![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.gif)
 
-![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.png)]
-![gifcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.gif)]
+![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.png)
+![gifcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.gif)
 
 03-Bubs
 
-![pngcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.png)]
-![gifcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.gif)]
+![pngcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.png)
+![gifcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.gif)
 
-![pngcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.png)]
-![gifcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.gif)]
+![pngcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.png)
+![gifcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.gif)
 
 04-Callate
 
-![pngcallecallatenohud](./GIFS4.0/Calles(NOHUD)/Callate.png)]
-![gifcallecallatenohud](./GIFS4.0/Calles(NOHUD)/Callate.gif)]
+![pngcallecallatenohud](./GIFS4.0/Calles(NOHUD)/Callate.png)
+![gifcallecallatenohud](./GIFS4.0/Calles(NOHUD)/Callate.gif)
 
-![pngcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.png)]
-![gifcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.gif)]
+![pngcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.png)
+![gifcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.gif)
 
 05-Caos
 
-![pngcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.png)]
-![gifcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.gif)]
+![pngcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.png)
+![gifcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.gif)
 
-![pngcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.png)]
-![gifcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.gif)]
+![pngcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.png)
+![gifcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.gif)
 
 06-Cepo
 
-![pngcalleceponohud](./GIFS4.0/Calles(NOHUD)/Cepo.png)]
-![gifcalleceponohud](./GIFS4.0/Calles(NOHUD)/Cepo.gif)]
+![pngcalleceponohud](./GIFS4.0/Calles(NOHUD)/Cepo.png)
+![gifcalleceponohud](./GIFS4.0/Calles(NOHUD)/Cepo.gif)
 
-![pngcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.png)]
-![gifcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.gif)]
+![pngcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.png)
+![gifcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.gif)
 
 07-Chad
 
-![pngcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.png)]
-![gifcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.gif)]
+![pngcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.png)
+![gifcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.gif)
 
-![pngcallechadhud](./Screenshots4.0/Calles(HUD)/Chad-HUD.png)]
-![gifcallechadhud](./Screenshots4.0/Calles(HUD)/Chad-HUD.gif)]
+![pngcallechadhud](./Screenshots4.0/Calles(HUD)/Chad-HUD.png)
+![gifcallechadhud](./Screenshots4.0/Calles(HUD)/Chad-HUD.gif)
 
 08-Chechona
 
-![pngcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.png)]
-![gifcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.gif)]
+![pngcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.png)
+![gifcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.gif)
 
-![pngcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.png)]
-![gifcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.gif)]
+![pngcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.png)
+![gifcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.gif)
 
 09-Chocolate
 
-![pngcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.png)]
-![gifcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.gif)]
+![pngcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.png)
+![gifcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.gif)
 
-![pngcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.png)]
-![gifcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.gif)]
+![pngcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.png)
+![gifcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.gif)
 
 10-Cocaina
 
-![pngcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.png)]
-![gifcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.gif)]
+![pngcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.png)
+![gifcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.gif)
 
-![pngcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.png)]
-![gifcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.gif)]
+![pngcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.png)
+![gifcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.gif)
 
 11-Conspiracion
 
-![pngcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.png)]
-![gifcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.gif)]
+![pngcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.png)
+![gifcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.gif)
 
-![pngcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.png)]
-![gifcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.gif)]
+![pngcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.png)
+![gifcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.gif)
 
 12-Corrupcion
 
-![pngcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.png)]
-![gifcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.gif)]
+![pngcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.png)
+![gifcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.gif)
 
-![pngcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.png)]
-![gifcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.gif)]
+![pngcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.png)
+![gifcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.gif)
 
 13-Dark
 
@@ -543,6 +543,7 @@ Trafico en el mapa
 69-
 
 70-
+
 
 
 
