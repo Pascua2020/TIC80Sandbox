@@ -126,74 +126,74 @@ Rap Gales
 
 03
 
-![gifpinballrapgales03](./GIFS4.0/Pinball/Rap_Gales/FraseRap03.gif)]
+![gifpinballrapgales03](./GIFS4.0/Pinball/Rap_Gales/FraseRap03.gif)
 
 04
 
-![gifpinballrapgales04](./GIFS4.0/Pinball/Rap_Gales/FraseRap04.gif)]
+![gifpinballrapgales04](./GIFS4.0/Pinball/Rap_Gales/FraseRap04.gif)
 
 05
 
-![gifpinballrapgales05](./GIFS4.0/Pinball/Rap_Gales/FraseRap05.gif)]
+![gifpinballrapgales05](./GIFS4.0/Pinball/Rap_Gales/FraseRap05.gif)
 
 06
 
-![gifpinballrapgales06](./GIFS4.0/Pinball/Rap_Gales/FraseRap06.gif)]
+![gifpinballrapgales06](./GIFS4.0/Pinball/Rap_Gales/FraseRap06.gif)
 
 07
 
-![gifpinballrapgales07](./GIFS4.0/Pinball/Rap_Gales/FraseRap07.gif)]
+![gifpinballrapgales07](./GIFS4.0/Pinball/Rap_Gales/FraseRap07.gif)
 
 08
 
-![gifpinballrapgales08](./GIFS4.0/Pinball/Rap_Gales/FraseRap08.gif)]
+![gifpinballrapgales08](./GIFS4.0/Pinball/Rap_Gales/FraseRap08.gif)
 
 09
 
-![gifpinballrapgales09](./GIFS4.0/Pinball/Rap_Gales/FraseRap09.gif)]
+![gifpinballrapgales09](./GIFS4.0/Pinball/Rap_Gales/FraseRap09.gif)
 
 10
 
-![gifpinballrapgales10](./GIFS4.0/Pinball/Rap_Gales/FraseRap10.gif)]
+![gifpinballrapgales10](./GIFS4.0/Pinball/Rap_Gales/FraseRap10.gif)
 
 11
 
-![gifpinballrapgales11](./GIFS4.0/Pinball/Rap_Gales/FraseRap11.gif)]
+![gifpinballrapgales11](./GIFS4.0/Pinball/Rap_Gales/FraseRap11.gif)
 
 12
 
-![gifpinballrapgales12](./GIFS4.0/Pinball/Rap_Gales/FraseRap12.gif)]
+![gifpinballrapgales12](./GIFS4.0/Pinball/Rap_Gales/FraseRap12.gif)
 
 13
 
-![gifpinballrapgales13](./GIFS4.0/Pinball/Rap_Gales/FraseRap13.gif)]
+![gifpinballrapgales13](./GIFS4.0/Pinball/Rap_Gales/FraseRap13.gif)
 
 14
 
-![gifpinballrapgales14](./GIFS4.0/Pinball/Rap_Gales/FraseRap14.gif)]
+![gifpinballrapgales14](./GIFS4.0/Pinball/Rap_Gales/FraseRap14.gif)
 
 15
 
-![gifpinballrapgales15](./GIFS4.0/Pinball/Rap_Gales/FraseRap15.gif)]
+![gifpinballrapgales15](./GIFS4.0/Pinball/Rap_Gales/FraseRap15.gif)
 
 Agujero
 
-![gifpinballagujero](./GIFS4.0/Pinball/AgujeroPinball.gif)]
+![gifpinballagujero](./GIFS4.0/Pinball/AgujeroPinball.gif)
 
 Diamantes
 
-![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)]
+![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)
 
 Modo MultiBola
 
---![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)]
+--![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)
 
 Rebote
 
-![gifpinballrebotepaleta1](./GIFS4.0/Pinball/RebotePaleta1.gif)]
-![gifpinballrebotepaleta2](./GIFS4.0/Pinball/RebotePaleta2.gif)]
+![gifpinballrebotepaleta1](./GIFS4.0/Pinball/RebotePaleta1.gif)
+![gifpinballrebotepaleta2](./GIFS4.0/Pinball/RebotePaleta2.gif)
 
 Ruleta 
 
-![gifpinballruleta](./GIFS4.0/Pinball/Ruleta.gif)]
+![gifpinballruleta](./GIFS4.0/Pinball/Ruleta.gif)
 
