@@ -16,11 +16,11 @@ Trafico en el mapa
 
 01-Ameo
 
-![pngcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.png)
+![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
 ![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.gif)
 
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
-![gifcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.gif)
+![gifcalleameohud](./GIFS4.0/Calles(HUD)/Ameo-HUD.gif)
 
 02-Anaconda
 
