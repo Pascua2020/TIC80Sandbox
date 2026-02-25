@@ -98,7 +98,7 @@ Obelisco
 
 Recorrido Calles Barrio Obelisco :
 
-![gifsbarrios-recorridobarrioobelisco(./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioObelisco.gif)
+![gifsbarrios-recorridobarrioobelisco](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioObelisco.gif)
 
 12
 Tigerlandia
