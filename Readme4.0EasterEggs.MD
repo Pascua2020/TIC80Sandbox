@@ -836,7 +836,7 @@ https://en.wikipedia.org/wiki/Bangladesh
 
 139
 
-![pngEasterEggIATakeover](./Screenshots4.0/EasterEggs/EasterEggIATakeover.png)]
+![pngEasterEggIATakeover](./Screenshots4.0/EasterEggs/EasterEggAITakeover.png)]
 
 https://en.wikipedia.org/wiki/AI_takeover
 
@@ -914,7 +914,7 @@ https://en.wikipedia.org/wiki/PlayStation_2
 
 151
 
-![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggYugoslavia.png)]
+![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)]
 
 https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
 
@@ -977,6 +977,7 @@ https://en.wikipedia.org/wiki/First_Blood
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
+
 
 
 
