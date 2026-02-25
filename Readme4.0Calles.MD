@@ -19,7 +19,7 @@ Trafico en el mapa
 ![pngcalleameonohud](./GIFS4.0/Calles(NOHUD)/ameo.png)]
 ![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/ameo.gif)]
 
-![pngcalleameohud](./Screenshots4.0/Calles(HUD)/ameo-HUD.png)]
+![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
 ![gifcalleameohud](./Screenshots4.0/Calles(HUD)/ameo-HUD.gif)]
 
 02-Anaconda
@@ -543,3 +543,4 @@ Trafico en el mapa
 69-
 
 70-
+
