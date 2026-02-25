@@ -1,86 +1,94 @@
 Readme4.0Mapa
 
---![gifstuntmanv1mensajelimitepantalla](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)]
+--![gifstuntmanv1mensajelimitepantalla](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)
 
 Fondo
 
 Avion1
 
-![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)]
+![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
 Avion2
 
-![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)]
+![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
 
 Luces Aeropuerto
 
-![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)]
+![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
 
 Peces
 
-![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)]
+![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)
 
 Palomas
 
-![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)]
+![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
 
 GloboNPC
 
-![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)]
+![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
 
 LanchaNPC
 
-![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)]
+![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
 
 Semaforos
 
-![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)]
+![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
 
 Tren
 
-![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)]
+![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
 
 Ubicaciones
 
 Cajas
 
-![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)]
+![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)
 
 Condones
 
-![gifubicacionescoleccionables](./GIFS4.0/Mapa/Ubicaciones/UbicacionesColeccionables.gif)]
+![gifubicacionescoleccionables](./GIFS4.0/Mapa/Ubicaciones/UbicacionesColeccionables.gif)
 
 Monedas
 
-![gifubicacionesmonedas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesMonedas.gif)]
+![gifubicacionesmonedas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesMonedas.gif)
 
 Urgentes
 
-![gifubicacionesurgentes](./GIFS4.0/Mapa/Ubicaciones/UbicacionesUrgentes.gif)]
+![gifubicacionesurgentes](./GIFS4.0/Mapa/Ubicaciones/UbicacionesUrgentes.gif)
 
 RadioTeatro
 
-![gifubicacionesRT](./GIFS4.0/Mapa/Ubicaciones/UbicacionesRadioteatro.gif)]
+![gifubicacionesRT](./GIFS4.0/Mapa/Ubicaciones/UbicacionesRadioteatro.gif)
 
 Interruptores
 
 Calles
-![gifinterruptorcalles](./GIFS4.0/Mapa/Interruptores/InterruptorCalles.gif)]
+![gifinterruptorcalles](./GIFS4.0/Mapa/Interruptores/InterruptorCalles.gif)
+
 Baile
-![gifinterruptorbaile](./GIFS4.0/Mapa/Interruptores/MapaBaile.gif)]
+![gifinterruptorbaile](./GIFS4.0/Mapa/Interruptores/MapaBaile.gif)
+
 Diario
-![gifinterruptordiario](./GIFS4.0/Mapa/Interruptores/MapaDiario.gif)]
+![gifinterruptordiario](./GIFS4.0/Mapa/Interruptores/MapaDiario.gif)
+
 DiosGPT
-![gifinterruptordiosgpt](./GIFS4.0/Mapa/Interruptores/MapaDiosGPT.gif)]
+![gifinterruptordiosgpt](./GIFS4.0/Mapa/Interruptores/MapaDiosGPT.gif)
+
 Pinball
-![gifinterruptorpinball](./GIFS4.0/Mapa/Interruptores/MapaPinball.gif)]
+![gifinterruptorpinball](./GIFS4.0/Mapa/Interruptores/MapaPinball.gif)
+
 Stuntman
-![gifinterruptorstuntman](./GIFS4.0/Mapa/Interruptores/MapaStuntman.gif)]
+![gifinterruptorstuntman](./GIFS4.0/Mapa/Interruptores/MapaStuntman.gif)
+
 TecladoPC
-![gifinterruptortecladopc](./GIFS4.0/Mapa/Interruptores/MapaTecladoPC.gif)]
+![gifinterruptortecladopc](./GIFS4.0/Mapa/Interruptores/MapaTecladoPC.gif)
+
 TecladoNumerico
-![gifinterruptortecladonumerico](./GIFS4.0/Mapa/Interruptores/MapaTecladoNumerico.gif)]
+![gifinterruptortecladonumerico](./GIFS4.0/Mapa/Interruptores/MapaTecladoNumerico.gif)
+
 Telescopio
 
-![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)]
+![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)
 
