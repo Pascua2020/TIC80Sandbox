@@ -43,9 +43,9 @@ INTRO
 ![gifMenuPrincipalIntro](./GIFS4.0/MenuPrincipal/Intro.gif)
 
 ![pngMenuPrincipalIntro1](./Screenshots4.0/Intro/Intro1.png)
-![pngMenuPrincipalIntro2](./Screenshots4.0/MenuPrincipal/Intro2.png)
-![pngMenuPrincipalIntro3](./Screenshots4.0/MenuPrincipal/Intro3.png)
-![pngMenuPrincipalIntro4](./Screenshots4.0/MenuPrincipal/Intro4.png)
+![pngMenuPrincipalIntro2](./Screenshots4.0/Intro/Intro2.png)
+![pngMenuPrincipalIntro3](./Screenshots4.0/Intro/Intro3.png)
+![pngMenuPrincipalIntro4](./Screenshots4.0/Intro/Intro4.png)
 
 CREDITOS
 
