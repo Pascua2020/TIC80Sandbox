@@ -120,67 +120,67 @@ Trafico en el mapa
 
 14-Default
 
-![pngcalledefaultnohud](./GIFS4.0/Calles(NOHUD)/Default.png)
+![pngcalledefaultnohud](./Screenshots4.0/Calles(NOHUD)/Default.png)
 ![gifcalledefaultnohud](./GIFS4.0/Calles(NOHUD)/Default.gif)
 
 ![pngcalledefaulthud](./Screenshots4.0/Calles(HUD)/Default-HUD.png)
-![gifcalledefaulthud](./Screenshots4.0/Calles(HUD)/Default-HUD.gif)
+![gifcalledefaulthud](./GIFS4.0/Calles(HUD)/Default-HUD.gif)
 
 15-Diablo
 
-![pngcallediablonohud](./GIFS4.0/Calles(NOHUD)/Diablo.png)
+![pngcallediablonohud](./Screenshots4.0/Calles(NOHUD)/Diablo.png)
 ![gifcallediablonohud](./GIFS4.0/Calles(NOHUD)/Diablo.gif)
 
 ![pngcallediablohud](./Screenshots4.0/Calles(HUD)/Diablo-HUD.png)
-![gifcallediablohud](./Screenshots4.0/Calles(HUD)/Diablo-HUD.gif)
+![gifcallediablohud](./GIFS4.0/Calles(HUD)/Diablo-HUD.gif)
 
 16-Diamante
 
-![pngcallediamantenohud](./GIFS4.0/Calles(NOHUD)/Diamante.png)
+![pngcallediamantenohud](./Screenshots4.0/Calles(NOHUD)/Diamante.png)
 ![gifcallediamantenohud](./GIFS4.0/Calles(NOHUD)/Diamante.gif)
 
 ![pngcallediamantehud](./Screenshots4.0/Calles(HUD)/Diamante-HUD.png)
-![gifcallediamantehud](./Screenshots4.0/Calles(HUD)/Diamante-HUD.gif)
+![gifcallediamantehud](./GIFS4.0/Calles(HUD)/Diamante-HUD.gif)
 
 17-Eureka
 
-![pngcalleeurekanohud](./GIFS4.0/Calles(NOHUD)/Eureka.png)
+![pngcalleeurekanohud](./Screenshots4.0/Calles(NOHUD)/Eureka.png)
 ![gifcalleeurekanohud](./GIFS4.0/Calles(NOHUD)/Eureka.gif)
 
 ![pngcalleeurekahud](./Screenshots4.0/Calles(HUD)/Eureka-HUD.png)
-![gifcalleeurekahud](./Screenshots4.0/Calles(HUD)/Eureka-HUD.gif)
+![gifcalleeurekahud](./GIFS4.0/Calles(HUD)/Eureka-HUD.gif)
 
 18-Extasis
 
-![pngcalleextasisnohud](./GIFS4.0/Calles(NOHUD)/Extasis.png)
+![pngcalleextasisnohud](./Screenshots4.0/Calles(NOHUD)/Extasis.png)
 ![gifcalleextasisnohud](./GIFS4.0/Calles(NOHUD)/Extasis.gif)
 
 ![pngcalleextasishud](./Screenshots4.0/Calles(HUD)/Extasis-HUD.png)
-![gifcalleextasishud](./Screenshots4.0/Calles(HUD)/Extasis-HUD.gif)
+![gifcalleextasishud](./GIFS4.0/Calles(HUD)/Extasis-HUD.gif)
 
 19-Fentanilo
 
-![pngcallefentanilonohud](./GIFS4.0/Calles(NOHUD)/Fentanilo.png)
+![pngcallefentanilonohud](./Screenshots4.0/Calles(NOHUD)/Fentanilo.png)
 ![gifcallefentanilonohud](./GIFS4.0/Calles(NOHUD)/Fentanilo.gif)
 
 ![pngcallefentanilohud](./Screenshots4.0/Calles(HUD)/Fentanilo-HUD.png)
-![gifcallefentanilohud](./Screenshots4.0/Calles(HUD)/Fentanilo-HUD.gif)
+![gifcallefentanilohud](./GIFS4.0/Calles(HUD)/Fentanilo-HUD.gif)
 
 20-Gilipollas
 
-![pngcallegilipollasnohud](./GIFS4.0/Calles(NOHUD)/Gilipollas.png)
+![pngcallegilipollasnohud](./Screenshots4.0/Calles(NOHUD)/Gilipollas.png)
 ![gifcallegilipollasnohud](./GIFS4.0/Calles(NOHUD)/Gilipollas.gif)
 
 ![pngcallegilipollashud](./Screenshots4.0/Calles(HUD)/Gilipollas-HUD.png)
-![gifcallegilipollashud](./Screenshots4.0/Calles(HUD)/Gilipollas-HUD.gif)
+![gifcallegilipollashud](./GIFS4.0/Calles(HUD)/Gilipollas-HUD.gif)
 
 21-Hardcore
 
-![pngcallehardcorenohud](./GIFS4.0/Calles(NOHUD)/Hardcore.png)
+![pngcallehardcorenohud](./Screenshots4.0/Calles(NOHUD)/Hardcore.png)
 ![gifcallehardcorenohud](./GIFS4.0/Calles(NOHUD)/Hardcore.gif)
 
 ![pngcallehardcorehud](./Screenshots4.0/Calles(HUD)/Hardcore-HUD.png)
-![gifcallehardcorehud](./Screenshots4.0/Calles(HUD)/Hardcore-HUD.gif)
+![gifcallehardcorehud](./GIFS4.0/Calles(HUD)/Hardcore-HUD.gif)
 
 22-Inflacion
 
