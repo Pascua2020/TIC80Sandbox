@@ -16,7 +16,7 @@ Luces Aeropuerto
 
 ![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
 
-![pnganimacionaeropuerto](./Screenshots4.0/Mapa/Animaciones/Luces_Aeropuerto-1.png)
+![pnganimacionaeropuerto](./Screenshots4.0/Mapa/Animaciones/LucesAeropuerto-1.png)
 
 Peces
 
