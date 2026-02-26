@@ -3,7 +3,7 @@ Readme4.0RadioTeatro
 Obra de RadioTeatro 1
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
-![pngradioteatro1-01](<./GIFS4.0/RadioTeatro/RT 1/RadioTeatro1-01.png>)
+![pngradioteatro1-01](<./GIFS4.0/Radioteatro/rt 1/RadioTeatro1-01.png>)
 ![pngradioteatro1-02](./GIFS4.0/RadioTeatro/RT_1/RadioTeatro1-02.png)
 ![pngradioteatro1-03](./GIFS4.0/RadioTeatro/RT_1/RadioTeatro1-03.png)
 ![pngradioteatro1-04](./GIFS4.0/RadioTeatro/RT_1/RadioTeatro1-04.png)
