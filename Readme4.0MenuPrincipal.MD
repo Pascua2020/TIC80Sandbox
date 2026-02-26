@@ -49,9 +49,9 @@ INTRO
 
 CREDITOS
 
-![gifMenuPrincipalCreditos](./GIFS4.0/MenuPrincipal/Creditos.gif)
+![gifMenuPrincipalCreditos](<./GIFS4.0/Menu Principal/Creditos.gif>)
 
-![pngMenuPrincipalCreditos1](./Screenshots4.0/MenuPrincipal/Creditos1.png)
+![pngMenuPrincipalCreditos1](<./Screenshots4.0/Menu Principal/Creditos1.png>)
 ![pngMenuPrincipalCreditos2](./Screenshots4.0/MenuPrincipal/Creditos2.png)
 ![pngMenuPrincipalCreditos3](./Screenshots4.0/MenuPrincipal/Creditos3.png)
 
