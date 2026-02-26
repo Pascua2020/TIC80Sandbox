@@ -606,85 +606,85 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador07](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador07.gif)]
+![gifstuntmanv4.0mensajesdesarrollador07](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador07.gif)
 
-![pngstuntmanv4.0mensajedesarrollador07](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador07.png)]
+![pngstuntmanv4.0mensajedesarrollador07](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador07.png)
 
 
 08
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador08](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador08.gif)]
+![gifstuntmanv4.0mensajesdesarrollador08](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador08.gif)
 
-![pngstuntmanv4.0mensajedesarrollador08](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador08.png)]
+![pngstuntmanv4.0mensajedesarrollador08](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador08.png)
 
 
 09
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador09](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador09.gif)]
+![gifstuntmanv4.0mensajesdesarrollador09](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador09.gif)
 
-![pngstuntmanv4.0mensajedesarrollador09](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador09.png)]
+![pngstuntmanv4.0mensajedesarrollador09](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador09.png)
 
 
 10
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador10](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador10.gif)]
+![gifstuntmanv4.0mensajesdesarrollador10](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador10.gif)
 
-![pngstuntmanv4.0mensajedesarrollador10](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador10.png)]
+![pngstuntmanv4.0mensajedesarrollador10](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador10.png)
 
 
 11
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador11](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador11.gif)]
+![gifstuntmanv4.0mensajesdesarrollador11](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador11.gif)
 
-![pngstuntmanv4.0mensajedesarrollador11](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador11.png)]
+![pngstuntmanv4.0mensajedesarrollador11](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador11.png)
 
 12
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador12](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador12.gif)]
+![gifstuntmanv4.0mensajesdesarrollador12](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador12.gif)
 
-![pngstuntmanv4.0mensajedesarrollador12](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador12.png)]
+![pngstuntmanv4.0mensajedesarrollador12](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador12.png)
 
 13
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador13](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador13.gif)]
+![gifstuntmanv4.0mensajesdesarrollador13](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador13.gif)
 
-![pngstuntmanv4.0mensajedesarrollador13](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador13.png)]
+![pngstuntmanv4.0mensajedesarrollador13](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador13.png)
 
 14
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador14](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador14.gif)]
+![gifstuntmanv4.0mensajesdesarrollador14](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador14.gif)
 
-![pngstuntmanv4.0mensajedesarrollador14](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador14.png)]
+![pngstuntmanv4.0mensajedesarrollador14](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador14.png)
 
 
 15
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador15.gif)]
+![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador15.gif)
 
-![pngstuntmanv4.0mensajedesarrollador15](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador15.png)]
+![pngstuntmanv4.0mensajedesarrollador15](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador15.png)
 
 
 Quick Time Event
 
-![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/IconoDialogosDesarrollador.png)]
-![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogosDesarrolladorActivados.png)]
-![pngstuntmanv4.0qte3](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogoDesarrolladorFallado.png)]
+![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/IconoDialogosDesarrollador.png)
+![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogosDesarrolladorActivados.png)
+![pngstuntmanv4.0qte3](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogoDesarrolladorFallado.png)
 
 Elementos
 
@@ -694,77 +694,77 @@ Aro con y sin Fuego
 
 V1.0
 
-![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/AroConYSinFuego.gif)]
+![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/AroConYSinFuego.gif)
 
 V4.0
 
-![gifstuntmanv4.0aroconysinfuego](./GIFS4.0/Stuntman/AroConYSinFuego.gif)]
+![gifstuntmanv4.0aroconysinfuego](./GIFS4.0/Stuntman/AroConYSinFuego.gif)
 
 Charco de Agua con Reflejos
 
 V1.0
 
-![gifstuntmanV1Reflejos1](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua.gif)]
-![gifstuntmanV1Reflejos2](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua2.gif)]
+![gifstuntmanV1Reflejos1](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua.gif)
+![gifstuntmanV1Reflejos2](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua2.gif)
 
 V4.0
 
-![pngstuntmanv4.0reflejos1](./Screenshots4.0/Stuntman/Reflejos/ReflejoAgua.png)]
-![pngstuntmanv4.0reflejos2](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche.png)]
-![pngstuntmanv4.0reflejos3](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche2.png)]
+![pngstuntmanv4.0reflejos1](./Screenshots4.0/Stuntman/Reflejos/ReflejoAgua.png)
+![pngstuntmanv4.0reflejos2](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche.png)
+![pngstuntmanv4.0reflejos3](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche2.png)
 
 Caja Normal
 
-![gifstuntmanv4.0cajanormal](./GIFS4.0/Stuntman/ColisionesCaja.gif)]
+![gifstuntmanv4.0cajanormal](./GIFS4.0/Stuntman/ColisionesCaja.gif)
 
-![pngstuntmanv4.0cajanormal](./Screenshots4.0/Stuntman/Destructibles/CajaNormalDestruida.png)]
+![pngstuntmanv4.0cajanormal](./Screenshots4.0/Stuntman/Destructibles/CajaNormalDestruida.png)
 
 Caja Metalica
 
-![gifstuntmanv4.0cajametalica](./GIFS4.0/Stuntman/CajaMetalica.gif)]
+![gifstuntmanv4.0cajametalica](./GIFS4.0/Stuntman/CajaMetalica.gif)
 
 Muñeco Galeria de Tiro
 
-![gifstuntmanv4.0galeriadetiro](./GIFS4.0/Stuntman/DisparoGaleriaDeTiro.gif)]
+![gifstuntmanv4.0galeriadetiro](./GIFS4.0/Stuntman/DisparoGaleriaDeTiro.gif)
 
-![pngstuntmanv4.0galeriadetiro](./Screenshots4.0/Stuntman/Destructibles/GaleriaDeTiro.png)]
+![pngstuntmanv4.0galeriadetiro](./Screenshots4.0/Stuntman/Destructibles/GaleriaDeTiro.png)
 
 Checkpoint
 
-![pngstuntmanv4.0checkpoint1](./Screenshots4.0/Stuntman/Checkpoint/CheckpointAlcanzado.png)]
-![pngstuntmanv4.0checkpoint2](./Screenshots4.0/Stuntman/Checkpoint/CheckpointSinAlcanzar.png)]
+![pngstuntmanv4.0checkpoint1](./Screenshots4.0/Stuntman/Checkpoint/CheckpointAlcanzado.png)
+![pngstuntmanv4.0checkpoint2](./Screenshots4.0/Stuntman/Checkpoint/CheckpointSinAlcanzar.png)
 
 Botellas de Vidrio
 
 V1
 
-![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/BotellasVidrio.gif)]
+![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/BotellasVidrio.gif)
 
 V4.0
 
-![pngstuntmanv4.0vidrio](./Screenshots4.0/Stuntman/Destructibles/VidrioDestruido.png)]
+![pngstuntmanv4.0vidrio](./Screenshots4.0/Stuntman/Destructibles/VidrioDestruido.png)
 
 Conos
 
 V1
 
-![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/Conos.gif)]
+![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/Conos.gif)
 
 V4.0
 
-----![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)]
+----![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
 
 Coches en Llamas
 
-![gifstuntmanv4.0cochesenllamas](./GIFS4.0/Stuntman/CochesEnLlamas.gif)]
+![gifstuntmanv4.0cochesenllamas](./GIFS4.0/Stuntman/CochesEnLlamas.gif)
 
-![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheEnLlamas.png)]
+![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheEnLlamas.png)
 
 Coche a Perseguir
 
-![gifstuntmanv4.0cocheaperseguir](./GIFS4.0/Stuntman/CocheAPerseguir.gif)]
+![gifstuntmanv4.0cocheaperseguir](./GIFS4.0/Stuntman/CocheAPerseguir.gif)
 
-![pngstuntmanv4.0cocheaperseguir](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheAPerseguir.png)]
+![pngstuntmanv4.0cocheaperseguir](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheAPerseguir.png)
 
 Cronometros
 
@@ -774,18 +774,18 @@ Mensaje Limite Pantalla
 
 Version 1
 
-![gifstuntmanv1mensajelimitepantalla1](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)]
-![gifstuntmanv1mensajelimitepantalla2](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla2.gif)]
+![gifstuntmanv1mensajelimitepantalla1](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)
+![gifstuntmanv1mensajelimitepantalla2](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla2.gif)
 
 Explosiones ( Fase 2 )
 
 V1.0
 
-![gifstuntmanv1ExplosionF2](./GIFS4.0/CutContent/Stuntman/V1/ExplosionFase2.gif)]
+![gifstuntmanv1ExplosionF2](./GIFS4.0/CutContent/Stuntman/V1/ExplosionFase2.gif)
 
 V4.0
 
-![gifstuntmanv4.0explosionF2](./GIFS4.0/Stuntman/ExplosionFase2.gif)]
+![gifstuntmanv4.0explosionF2](./GIFS4.0/Stuntman/ExplosionFase2.gif)
 
 Mega Explosion Fase 10
 
@@ -795,55 +795,55 @@ V1.0
 
 V4.0
 
-![gifstuntmanv4.0explosionF10](./GIFS4.0/Stuntman/ExplosionFase10.gif)]
+![gifstuntmanv4.0explosionF10](./GIFS4.0/Stuntman/ExplosionFase10.gif)
 
 Pistola con Frases de Disparo
 
 V1.0
 
-![gifstuntmanV1frasesdisparosstuntman](./GIFS4.0/CutContent/Stuntman/V1/FrasesDisparosStuntman.gif)]
+![gifstuntmanV1frasesdisparosstuntman](./GIFS4.0/CutContent/Stuntman/V1/FrasesDisparosStuntman.gif)
 
 V4.0
 
-![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman1.png)]
-![pngstuntmanv4.0frasesdisparostuntman2](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman2.png)]
-![pngstuntmanv4.0frasesdisparostuntman3](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman3.png)]
-![pngstuntmanv4.0frasesdisparostuntman4](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman4.png)]
-![pngstuntmanv4.0frasesdisparostuntman5](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman5.png)]
-![pngstuntmanv4.0frasesdisparostuntman6](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman6.png)]
+![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman1.png)
+![pngstuntmanv4.0frasesdisparostuntman2](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman2.png)
+![pngstuntmanv4.0frasesdisparostuntman3](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman3.png)
+![pngstuntmanv4.0frasesdisparostuntman4](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman4.png)
+![pngstuntmanv4.0frasesdisparostuntman5](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman5.png)
+![pngstuntmanv4.0frasesdisparostuntman6](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman6.png)
 
 Nitro
 
-![gifstuntmanv4.0nitro](./GIFS4.0/Stuntman/Nitro.gif)]
+![gifstuntmanv4.0nitro](./GIFS4.0/Stuntman/Nitro.gif)
 
-![pngstuntmanv4.0nitro](./Screenshots4.0/Stuntman/NitroConFrase.png)]
+![pngstuntmanv4.0nitro](./Screenshots4.0/Stuntman/NitroConFrase.png)
 
 Rampa
 
-![gifstuntmanv4.0rampa](./GIFS4.0/Stuntman/Rampa.gif)]
+![gifstuntmanv4.0rampa](./GIFS4.0/Stuntman/Rampa.gif)
 
-![pngstuntmanv4.0rampa1](./Screenshots4.0/Stuntman/Rampa/RampaSinSubirse.png)]
-![pngstuntmanv4.0rampa2](./Screenshots4.0/Stuntman/Rampa/RampaSaltandoConFrase.png)]
+![pngstuntmanv4.0rampa1](./Screenshots4.0/Stuntman/Rampa/RampaSinSubirse.png)
+![pngstuntmanv4.0rampa2](./Screenshots4.0/Stuntman/Rampa/RampaSaltandoConFrase.png)
 
 Trenes
 
-![gifstuntmanv4.0Tren](./GIFS4.0/Stuntman/Tren.gif)]
+![gifstuntmanv4.0Tren](./GIFS4.0/Stuntman/Tren.gif)
 
-![pngstuntmanv4.0Tren](./Screenshots4.0/Stuntman/TrenesFase9.png)]
+![pngstuntmanv4.0Tren](./Screenshots4.0/Stuntman/TrenesFase9.png)
 
 Mensaje Mision Completada
 
-![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)]
+![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
 
 Efectos de Luces y Humo de Escape en Coche
 
 Version 4.0
 
 SIN LUCES :
-![pngstuntmanv4.0cochesinluces](./Screenshots4.0/Stuntman/CocheStuntmanSinLuces.png)]
+![pngstuntmanv4.0cochesinluces](./Screenshots4.0/Stuntman/CocheStuntmanSinLuces.png)
 
 CON LUCES :
-![pngstuntmanv4.0cocheconluces](./Screenshots4.0/Stuntman/CocheStuntmanConLuces.png)]
+![pngstuntmanv4.0cocheconluces](./Screenshots4.0/Stuntman/CocheStuntmanConLuces.png)
 
 Efectos Climaticos
 
@@ -855,14 +855,14 @@ Descartado:
 
 -Grabar Fase
 
-![gifstuntmangrabarfase](./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman.gif)]
+![gifstuntmangrabarfase](./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman.gif)
 
 -Medidor Sobrecarga de RAM
 
-![gifstuntmanmedidorram](./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM.gif)]
+![gifstuntmanmedidorram](./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM.gif)
 
 -Sistema de Logros
 
 
-![gifstuntmansistemalogros](./GIFS4.0/CutContent/Stuntman/SistemaLogros.gif)]
+![gifstuntmansistemalogros](./GIFS4.0/CutContent/Stuntman/SistemaLogros.gif)
 
