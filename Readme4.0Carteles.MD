@@ -216,42 +216,42 @@ A30
 
 A31
 
-![pngscartelesA31](./Screenshots4.0/Carteles/Carteles_A/CartelA-31.png)
+![pngscartelesA31](./Screenshots4.0/Carteles/A/CartelA-31.png)
 ![gifscartelesA31](./GIFS4.0/Carteles/Carteles_A/CartelA-31.gif)
 
 32
 
 A32
 
-![pngscartelesA32](./Screenshots4.0/Carteles/Carteles_A/CartelA-32.png)
+![pngscartelesA32](./Screenshots4.0/Carteles/A/CartelA-32.png)
 ![gifscartelesA32](./GIFS4.0/Carteles/Carteles_A/CartelA-32.gif)
 
 33
 
 A33
 
-![pngscartelesA33](./Screenshots4.0/Carteles/Carteles_A/CartelA-33.png)
+![pngscartelesA33](./Screenshots4.0/Carteles/A/CartelA-33.png)
 ![gifscartelesA33](./GIFS4.0/Carteles/Carteles_A/CartelA-33.gif)
 
 34
 
 A34
 
-![pngscartelesA34](./Screenshots4.0/Carteles/Carteles_A/CartelA-34.png)
+![pngscartelesA34](./Screenshots4.0/Carteles/A/CartelA-34.png)
 ![gifscartelesA34](./GIFS4.0/Carteles/Carteles_A/CartelA-34.gif)
 
 35
 
 A35
 
-![pngscartelesA35](./Screenshots4.0/Carteles/Carteles_A/CartelA-35.png)
+![pngscartelesA35](./Screenshots4.0/Carteles/A/CartelA-35.png)
 ![gifscartelesA35](./GIFS4.0/Carteles/Carteles_A/CartelA-35.gif)
 
 36
 
 A36
 
-![pngscartelesA36](./Screenshots4.0/Carteles/Carteles_A/CartelA-36.png)
+![pngscartelesA36](./Screenshots4.0/Carteles/A/CartelA-36.png)
 ![gifscartelesA36](./GIFS4.0/Carteles/Carteles_A/CartelA-36.gif)
 
 Carteles B
