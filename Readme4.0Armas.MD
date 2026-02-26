@@ -31,7 +31,7 @@ Frases
 3
 ElectroRifle
 
-![gifsarmaselectrorifle](./GIFS4.0/Armas/ElectroRifle.gif)
+![gifsarmaselectrorifle](./GIFS4.0/GIFS-Armas/ElectroRifle.gif)
 ![gifsarmastesteoelectrorifle](./GIFS4.0/Armas/TesteoElectroRifle.gif)
 
 Frases
@@ -45,7 +45,7 @@ Frases
 4
 Escopeta
 
-![gifsarmasescopeta](./GIFS4.0/Armas/Escopeta.gif)
+![gifsarmasescopeta](./GIFS4.0/GIFS-Armas/Escopeta.gif)
 ![gifsarmastesteoescopeta](./GIFS4.0/Armas/TesteoEscopeta.gif)
 
 Frases
