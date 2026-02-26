@@ -97,119 +97,119 @@ A13
 
 A14
 
-![pngscartelesA14](./Screenshots4.0/Carteles/Carteles_A/CartelA-14.png)
+![pngscartelesA14](./Screenshots4.0/Carteles/A/CartelA-14.png)
 ![gifscartelesA14](./GIFS4.0/Carteles/Carteles_A/CartelA-14.gif)
 
 15
 
 A15
 
-![pngscartelesA15](./Screenshots4.0/Carteles/Carteles_A/CartelA-15.png)
+![pngscartelesA15](./Screenshots4.0/Carteles/A/CartelA-15.png)
 ![gifscartelesA15](./GIFS4.0/Carteles/Carteles_A/CartelA-15.gif)
 
 16
 
 A16
 
-![pngscartelesA16](./Screenshots4.0/Carteles/Carteles_A/CartelA-16.png)
+![pngscartelesA16](./Screenshots4.0/Carteles/A/CartelA-16.png)
 ![gifscartelesA16](./GIFS4.0/Carteles/Carteles_A/CartelA-16.gif)
 
 17
 
 A17
 
-![pngscartelesA17](./Screenshots4.0/Carteles/Carteles_A/CartelA-17.png)
+![pngscartelesA17](./Screenshots4.0/Carteles/A/CartelA-17.png)
 ![gifscartelesA17](./GIFS4.0/Carteles/Carteles_A/CartelA-17.gif)
 
 18
 
 A18
 
-![pngscartelesA18](./Screenshots4.0/Carteles/Carteles_A/CartelA-18.png)
+![pngscartelesA18](./Screenshots4.0/Carteles/A/CartelA-18.png)
 ![gifscartelesA18](./GIFS4.0/Carteles/Carteles_A/CartelA-18.gif)
 
 19
 
 A19
 
-![pngscartelesA19](./Screenshots4.0/Carteles/Carteles_A/CartelA-19.png)
+![pngscartelesA19](./Screenshots4.0/Carteles/A/CartelA-19.png)
 ![gifscartelesA19](./GIFS4.0/Carteles/Carteles_A/CartelA-19.gif)
 
 20
 
 A20
 
-![pngscartelesA20](./Screenshots4.0/Carteles/Carteles_A/CartelA-20.png)
+![pngscartelesA20](./Screenshots4.0/Carteles/A/CartelA-20.png)
 ![gifscartelesA20](./GIFS4.0/Carteles/Carteles_A/CartelA-20.gif)
 
 21
 
 A21
 
-![pngscartelesA21](./Screenshots4.0/Carteles/Carteles_A/CartelA-21.png)
+![pngscartelesA21](./Screenshots4.0/Carteles/A/CartelA-21.png)
 ![gifscartelesA21](./GIFS4.0/Carteles/Carteles_A/CartelA-21.gif)
 
 22
 
 A22
 
-![pngscartelesA22](./Screenshots4.0/Carteles/Carteles_A/CartelA-22.png)
+![pngscartelesA22](./Screenshots4.0/Carteles/A/CartelA-22.png)
 ![gifscartelesA22](./GIFS4.0/Carteles/Carteles_A/CartelA-22.gif)
 
 23
 
 A23
 
-![pngscartelesA23](./Screenshots4.0/Carteles/Carteles_A/CartelA-23.png)
+![pngscartelesA23](./Screenshots4.0/Carteles/A/CartelA-23.png)
 ![gifscartelesA23](./GIFS4.0/Carteles/Carteles_A/CartelA-23.gif)
 
 24
 
 A24
 
-![pngscartelesA24](./Screenshots4.0/Carteles/Carteles_A/CartelA-24.png)
+![pngscartelesA24](./Screenshots4.0/Carteles/A/CartelA-24.png)
 ![gifscartelesA24](./GIFS4.0/Carteles/Carteles_A/CartelA-24.gif)
 
 25
 
 A25
 
-![pngscartelesA25](./Screenshots4.0/Carteles/Carteles_A/CartelA-25.png)
+![pngscartelesA25](./Screenshots4.0/Carteles/A/CartelA-25.png)
 ![gifscartelesA25](./GIFS4.0/Carteles/Carteles_A/CartelA-25.gif)
 
 26
 
 A26
 
-![pngscartelesA26](./Screenshots4.0/Carteles/Carteles_A/CartelA-26.png)
+![pngscartelesA26](./Screenshots4.0/Carteles/A/CartelA-26.png)
 ![gifscartelesA26](./GIFS4.0/Carteles/Carteles_A/CartelA-26.gif)
 
 27
 
 A27
 
-![pngscartelesA27](./Screenshots4.0/Carteles/Carteles_A/CartelA-27.png)
+![pngscartelesA27](./Screenshots4.0/Carteles/A/CartelA-27.png)
 ![gifscartelesA27](./GIFS4.0/Carteles/Carteles_A/CartelA-27.gif)
 
 28
 
 A28
 
-![pngscartelesA28](./Screenshots4.0/Carteles/Carteles_A/CartelA-28.png)
+![pngscartelesA28](./Screenshots4.0/Carteles/A/CartelA-28.png)
 ![gifscartelesA28](./GIFS4.0/Carteles/Carteles_A/CartelA-28.gif)
 
 29
 
 A29
 
-![pngscartelesA29](./Screenshots4.0/Carteles/Carteles_A/CartelA-29.png)
+![pngscartelesA29](./Screenshots4.0/Carteles/A/CartelA-29.png)
 ![gifscartelesA29](./GIFS4.0/Carteles/Carteles_A/CartelA-29.gif)
 
 30
 
 A30
 
-![pngscartelesA30](./Screenshots4.0/Carteles/Carteles_A/CartelA-30.png)
+![pngscartelesA30](./Screenshots4.0/Carteles/A/CartelA-30.png)
 ![gifscartelesA30](./GIFS4.0/Carteles/Carteles_A/CartelA-30.gif)
 
 31
