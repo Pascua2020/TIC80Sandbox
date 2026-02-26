@@ -13,7 +13,7 @@ A01
 
 A02
 
-![pngscartelesA02](./Screenshots4.0/Carteles/Carteles_A/CartelA-02.png)
+![pngscartelesA02](./Screenshots4.0/Carteles/A/CartelA-02.png)
 ![gifscartelesA02](./GIFS4.0/Carteles/Carteles_A/CartelA-02.gif)
 
 3
