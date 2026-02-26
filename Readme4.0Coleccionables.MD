@@ -4,195 +4,194 @@ Condones
 
 Condon 01
 
-![gifscoleccionablescondones1](./GIFS4.0/Coleccionables/Condones/Casi_casi.gif)]
+![gifscoleccionablescondones1](./GIFS4.0/Coleccionables/Condones/Casi_casi.gif)
 
-![pngcoleccionablescondones1](./Screenshots4.0/Coleccionables/Condones/Casi_Casi.png)]
+![pngcoleccionablescondones1](./Screenshots4.0/Coleccionables/Condones/Casi_Casi.png)
 
 Condon 02
 
-![gifscoleccionablescondones2](./GIFS4.0/Coleccionables/Condones/Currolandia.gif)]
+![gifscoleccionablescondones2](./GIFS4.0/Coleccionables/Condones/Currolandia.gif)
 
-![pngcoleccionablescondones2](./Screenshots4.0/Coleccionables/Condones/Currolandia.png)]
+![pngcoleccionablescondones2](./Screenshots4.0/Coleccionables/Condones/Currolandia.png)
 
 Condon 03
 
-![gifscoleccionablescondones3](./GIFS4.0/Coleccionables/Condones/No_no_no_no.gif)]
+![gifscoleccionablescondones3](./GIFS4.0/Coleccionables/Condones/No_no_no_no.gif)
 
-![pngcoleccionablescondones3](./Screenshots4.0/Coleccionables/Condones/No_no_no_no.png)]
+![pngcoleccionablescondones3](./Screenshots4.0/Coleccionables/Condones/No_no_no_no.png)
 
 Condon 04
 
-![gifscoleccionablescondones4](./GIFS4.0/Coleccionables/Condones/No_no_no_no2.gif)]
+![gifscoleccionablescondones4](./GIFS4.0/Coleccionables/Condones/No_no_no_no2.gif)
 
-![pngcoleccionablescondones4](./Screenshots4.0/Coleccionables/Condones/No_no_no_no2.png)]
+![pngcoleccionablescondones4](./Screenshots4.0/Coleccionables/Condones/No_no_no_no2.png)
 
 Condon 05
 
-![gifscoleccionablescondones5](./GIFS4.0/Coleccionables/Condones/No_se_queje.gif)]
+![gifscoleccionablescondones5](./GIFS4.0/Coleccionables/Condones/No_se_queje.gif)
 
-![pngcoleccionablescondones5](./Screenshots4.0/Coleccionables/Condones/No_se_queje.png)]
+![pngcoleccionablescondones5](./Screenshots4.0/Coleccionables/Condones/No_se_queje.png)
 
 Condon 06
 
-![gifscoleccionablescondones6](./GIFS4.0/Coleccionables/Condones/Obelisco.gif)]
+![gifscoleccionablescondones6](./GIFS4.0/Coleccionables/Condones/Obelisco.gif)
 
-![pngcoleccionablescondones6](./Screenshots4.0/Coleccionables/Condones/Obelisco.png)]
+![pngcoleccionablescondones6](./Screenshots4.0/Coleccionables/Condones/Obelisco.png)
 
 Condon 07
 
-![gifscoleccionablescondones7](./GIFS4.0/Coleccionables/Condones/Tigerlandia.gif)]
+![gifscoleccionablescondones7](./GIFS4.0/Coleccionables/Condones/Tigerlandia.gif)
 
-![pngcoleccionablescondones7](./Screenshots4.0/Coleccionables/Condones/Tigerlandia.png)]
+![pngcoleccionablescondones7](./Screenshots4.0/Coleccionables/Condones/Tigerlandia.png)
 
 Condon 08
 
-![gifscoleccionablescondones8](./GIFS4.0/Coleccionables/Condones/Villa_castores.gif)]
+![gifscoleccionablescondones8](./GIFS4.0/Coleccionables/Condones/Villa_castores.gif)
 
-![pngcoleccionablescondones8](./Screenshots4.0/Coleccionables/Condones/Villa_castores.png)]
+![pngcoleccionablescondones8](./Screenshots4.0/Coleccionables/Condones/Villa_castores.png)
 
 Condon 09
 
-![gifscoleccionablescondones9](./GIFS4.0/Coleccionables/Condones/Villa_pinball.gif)]
+![gifscoleccionablescondones9](./GIFS4.0/Coleccionables/Condones/Villa_pinball.gif)
 
-![pngcoleccionablescondones9](./Screenshots4.0/Coleccionables/Condones/Villa_pinball.png)]
+![pngcoleccionablescondones9](./Screenshots4.0/Coleccionables/Condones/Villa_pinball.png)
 
 Condon 10
 
-![gifscoleccionablescondones10](./GIFS4.0/Coleccionables/Condones/Villa_pinball2.gif)]
+![gifscoleccionablescondones10](./GIFS4.0/Coleccionables/Condones/Villa_pinball2.gif)
 
-![pngcoleccionablescondones10](./Screenshots4.0/Coleccionables/Condones/Villa_pinball2.png)]
+![pngcoleccionablescondones10](./Screenshots4.0/Coleccionables/Condones/Villa_pinball2.png)
 
 Condon 11
 
-![gifscoleccionablescondones11](./GIFS4.0/Coleccionables/Condones/Vivan_los_osos.gif)]
+![gifscoleccionablescondones11](./GIFS4.0/Coleccionables/Condones/Vivan_los_osos.gif)
 
-![pngcoleccionablescondones11](./Screenshots4.0/Coleccionables/Condones/Vivan_los_osos.png)]
+![pngcoleccionablescondones11](./Screenshots4.0/Coleccionables/Condones/Vivan_los_osos.png)
 
 Condon 12
 
-![gifscoleccionablescondones12](./GIFS4.0/Coleccionables/Condones/.gif)]
+![gifscoleccionablescondones12](./GIFS4.0/Coleccionables/Condones/.gif)
 
-![pngcoleccionablescondones12](./Screenshots4.0/Coleccionables/Condones/.png)]
+![pngcoleccionablescondones12](./Screenshots4.0/Coleccionables/Condones/.png)
 
 Condon 13
 
-![gifscoleccionablescondones13](./GIFS4.0/Coleccionables/Condones/.gif)]
+![gifscoleccionablescondones13](./GIFS4.0/Coleccionables/Condones/.gif)
 
-![pngcoleccionablescondones13](./Screenshots4.0/Coleccionables/Condones/.png)]
+![pngcoleccionablescondones13](./Screenshots4.0/Coleccionables/Condones/.png)
 
 Condon 14
 
-![gifscoleccionablescondones14](./GIFS4.0/Coleccionables/Condones/.gif)]
+![gifscoleccionablescondones14](./GIFS4.0/Coleccionables/Condones/.gif)
 
-![pngcoleccionablescondones14](./Screenshots4.0/Coleccionables/Condones/.png)]
+![pngcoleccionablescondones14](./Screenshots4.0/Coleccionables/Condones/.png)
 
 Condon 15
 
-![gifscoleccionablescondones15](./GIFS4.0/Coleccionables/Condones/.gif)]
+![gifscoleccionablescondones15](./GIFS4.0/Coleccionables/Condones/.gif)
 
-![pngcoleccionablescondones15](./Screenshots4.0/Coleccionables/Condones/.png)]
+![pngcoleccionablescondones15](./Screenshots4.0/Coleccionables/Condones/.png)
 
 Condon 16
 
-![gifscoleccionablescondones16](./GIFS4.0/Coleccionables/Condones/.gif)]
+![gifscoleccionablescondones16](./GIFS4.0/Coleccionables/Condones/.gif)
 
-![pngcoleccionablescondones16](./Screenshots4.0/Coleccionables/Condones/.png)]
+![pngcoleccionablescondones16](./Screenshots4.0/Coleccionables/Condones/.png)
 
 Condon 17
 
-![gifscoleccionablescondones17](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar1.gif)]
+![gifscoleccionablescondones17](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar1.gif)
 
-![pngcoleccionablescondones17](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar1.png)]
+![pngcoleccionablescondones17](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar1.png)
 
 Condon 18
 
-![gifscoleccionablescondones18](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar2.gif)]
+![gifscoleccionablescondones18](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar2.gif)
 
-![pngcoleccionablescondones18](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar2.png)]
+![pngcoleccionablescondones18](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar2.png)
 
 Condon 19
 
-![gifscoleccionablescondones19](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar3.gif)]
+![gifscoleccionablescondones19](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar3.gif)
 
-![pngcoleccionablescondones19](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar3.png)]
+![pngcoleccionablescondones19](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar3.png)
 
 Condon 20
 
-![gifscoleccionablescondones20](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar4.gif)]
+![gifscoleccionablescondones20](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar4.gif)
 
-![pngcoleccionablescondones20](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar4.png)]
+![pngcoleccionablescondones20](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar4.png)
 
 Monedas
 
 Moneda 01
 
-![gifscoleccionablesmonedas1](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas1](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas1](./Screenshots4.0/Coleccionables/Monedas/Moneda01.png)]
+![pngcoleccionablesmonedas1](./Screenshots4.0/Coleccionables/Monedas/Moneda01.png)
 
 Moneda 02
 
-![gifscoleccionablesmonedas2](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas2](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas2](./Screenshots4.0/Coleccionables/Monedas/Moneda02.png)]
+![pngcoleccionablesmonedas2](./Screenshots4.0/Coleccionables/Monedas/Moneda02.png)
 
 Moneda 03
 
-![gifscoleccionablesmonedas3](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas3](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas3](./Screenshots4.0/Coleccionables/Monedas/Moneda03.png)]
+![pngcoleccionablesmonedas3](./Screenshots4.0/Coleccionables/Monedas/Moneda03.png)
 
 Moneda 04
 
-![gifscoleccionablesmonedas4](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas4](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas4](./Screenshots4.0/Coleccionables/Monedas/Moneda04.png)]
+![pngcoleccionablesmonedas4](./Screenshots4.0/Coleccionables/Monedas/Moneda04.png)
 
 Moneda 05
 
-![gifscoleccionablesmonedas5](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas5](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas5](./Screenshots4.0/Coleccionables/Monedas/Moneda05.png)]
+![pngcoleccionablesmonedas5](./Screenshots4.0/Coleccionables/Monedas/Moneda05.png)
 
 Moneda 06
 
-![gifscoleccionablesmonedas6](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas6](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas6](./Screenshots4.0/Coleccionables/Monedas/Moneda06.png)]
+![pngcoleccionablesmonedas6](./Screenshots4.0/Coleccionables/Monedas/Moneda06.png)
 
 Moneda 07
 
-![gifscoleccionablesmonedas7](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas7](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas7](./Screenshots4.0/Coleccionables/Monedas/Moneda07.png)]
+![pngcoleccionablesmonedas7](./Screenshots4.0/Coleccionables/Monedas/Moneda07.png)
 
 Moneda 08
 
-![gifscoleccionablesmonedas8](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas8](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas8](./Screenshots4.0/Coleccionables/Monedas/Moneda08.png)]
+![pngcoleccionablesmonedas8](./Screenshots4.0/Coleccionables/Monedas/Moneda08.png)
 
 Moneda 09
 
-![gifscoleccionablesmonedas9](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas9](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas9](./Screenshots4.0/Coleccionables/Monedas/Moneda09.png)]
+![pngcoleccionablesmonedas9](./Screenshots4.0/Coleccionables/Monedas/Moneda09.png)
 
 Moneda 10
 
-![gifscoleccionablesmonedas10](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas10](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas10](./Screenshots4.0/Coleccionables/Monedas/Moneda10.png)]
+![pngcoleccionablesmonedas10](./Screenshots4.0/Coleccionables/Monedas/Moneda10.png)
 
 Moneda 11
 
-![gifscoleccionablesmonedas11](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas11](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-![pngcoleccionablesmonedas11](./Screenshots4.0/Coleccionables/Monedas/Moneda11.png)]
+![pngcoleccionablesmonedas11](./Screenshots4.0/Coleccionables/Monedas/Moneda11.png)
 
 Moneda 12
 
-![gifscoleccionablesmonedas12](./GIFS4.0/Coleccionables/Monedas/.gif)]
+![gifscoleccionablesmonedas12](./GIFS4.0/Coleccionables/Monedas/.gif)
 
-
-![pngcoleccionablesmonedas12](./Screenshots4.0/Coleccionables/Monedas/Moneda12.png)]
+![pngcoleccionablesmonedas12](./Screenshots4.0/Coleccionables/Monedas/Moneda12.png)
