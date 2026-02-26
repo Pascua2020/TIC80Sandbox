@@ -24,11 +24,11 @@ Trafico en el mapa
 
 02-Anaconda
 
-![pngcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.png)
+![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
 ![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.gif)
 
 ![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.png)
-![gifcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.gif)
+![gifcalleanacondahud](./GIFS4.0/Calles(HUD)/Anaconda-HUD.gif)
 
 03-Bubs
 
