@@ -12,7 +12,7 @@ Personajes
 
 1
 
-![pngMenuPrincipalPersonaje1](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje1.png)
+![pngMenuPrincipalPersonaje1](<./Screenshots4.0/Menu Principal/MenuPrincipal-Personaje1.png>)
 
 2
 
