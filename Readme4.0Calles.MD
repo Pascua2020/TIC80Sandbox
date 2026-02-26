@@ -184,83 +184,83 @@ Trafico en el mapa
 
 22-Inflacion
 
-![pngcalleinflacionnohud](./GIFS4.0/Calles(NOHUD)/Inflacion.png)
+![pngcalleinflacionnohud](./Screenshots4.0/Calles(NOHUD)/Inflacion.png)
 ![gifcalleinflacionnohud](./GIFS4.0/Calles(NOHUD)/Inflacion.gif)
 
 ![pngcalleinflacionhud](./Screenshots4.0/Calles(HUD)/Inflacion-HUD.png)
-![gifcalleinflacionhud](./Screenshots4.0/Calles(HUD)/Inflacion-HUD.gif)
+![gifcalleinflacionhud](./GIFS4.0/Calles(HUD)/Inflacion-HUD.gif)
 
 23-Informeishon
 
-![pngcalleinformeishonnohud](./GIFS4.0/Calles(NOHUD)/Informeishon.png)
+![pngcalleinformeishonnohud](./Screenshots4.0/Calles(NOHUD)/Informeishon.png)
 ![gifcalleinformeishonnohud](./GIFS4.0/Calles(NOHUD)/Informeishon.gif)
 
 ![pngcalleinformeishonhud](./Screenshots4.0/Calles(HUD)/Informeishon-HUD.png)
-![gifcalleinformeishonhud](./Screenshots4.0/Calles(HUD)/Informeishon-HUD.gif)
+![gifcalleinformeishonhud](./GIFS4.0/Calles(HUD)/Informeishon-HUD.gif)
 
 24-Jarbard
 
-![pngcallejarbardnohud](./GIFS4.0/Calles(NOHUD)/Jarbard.png)
+![pngcallejarbardnohud](./Screenshots4.0/Calles(NOHUD)/Jarbard.png)
 ![gifcallejarbardnohud](./GIFS4.0/Calles(NOHUD)/Jarbard.gif)
 
 ![pngcallejarbardhud](./Screenshots4.0/Calles(HUD)/Jarbard-HUD.png)
-![gifcallejarbardhud](./Screenshots4.0/Calles(HUD)/Jarbard-HUD.gif)
+![gifcallejarbardhud](./GIFS4.0/Calles(HUD)/Jarbard-HUD.gif)
 
 25-Kamasutra
 
-![pngcallekamasutranohud](./GIFS4.0/Calles(NOHUD)/Kamasutra.png)
+![pngcallekamasutranohud](./Screenshots4.0/Calles(NOHUD)/Kamasutra.png)
 ![gifcallekamasutranohud](./GIFS4.0/Calles(NOHUD)/Kamasutra.gif)
 
 ![pngcallekamasutrahud](./Screenshots4.0/Calles(HUD)/Kamasutra-HUD.png)
-![gifcallekamasutrahud](./Screenshots4.0/Calles(HUD)/Kamasutra-HUD.gif)
+![gifcallekamasutrahud](./GIFS4.0/Calles(HUD)/Kamasutra-HUD.gif)
 
 26-Khe
 
-![pngcallekhenohud](./GIFS4.0/Calles(NOHUD)/Khe.png)
+![pngcallekhenohud](./Screenshots4.0/Calles(NOHUD)/Khe.png)
 ![gifcallekhenohud](./GIFS4.0/Calles(NOHUD)/Khe.gif)
 
 ![pngcallekhehud](./Screenshots4.0/Calles(HUD)/Khe-HUD.png)
-![gifcallekhehud](./Screenshots4.0/Calles(HUD)/Khe-HUD.gif)
+![gifcallekhehud](./GIFS4.0/Calles(HUD)/Khe-HUD.gif)
 
 27-Kinga
 
-![pngcallekinganohud](./GIFS4.0/Calles(NOHUD)/Kinga.png)
+![pngcallekinganohud](./Screenshots4.0/Calles(NOHUD)/Kinga.png)
 ![gifcallekinganohud](./GIFS4.0/Calles(NOHUD)/Kinga.gif)
 
 ![pngcallekingahud](./Screenshots4.0/Calles(HUD)/Kinga-HUD.png)
-![gifcallekingahud](./Screenshots4.0/Calles(HUD)/Kinga-HUD.gif)
+![gifcallekingahud](./GIFS4.0/Calles(HUD)/Kinga-HUD.gif)
 
 28-Konga
 
-![pngcallekonganohud](./GIFS4.0/Calles(NOHUD)/Konga.png)
+![pngcallekonganohud](./Screenshots4.0/Calles(NOHUD)/Konga.png)
 ![gifcallekonganohud](./GIFS4.0/Calles(NOHUD)/Konga.gif)
 
 ![pngcallekongahud](./Screenshots4.0/Calles(HUD)/Konga-HUD.png)
-![gifcallekongahud](./Screenshots4.0/Calles(HUD)/Konga-HUD.gif)
+![gifcallekongahud](./GIFS4.0/Calles(HUD)/Konga-HUD.gif)
 
 29-Kwyjibo
 
-![pngcallekwyijbonohud](./GIFS4.0/Calles(NOHUD)/Kwyjibo.png)
+![pngcallekwyijbonohud](./Screenshots4.0/Calles(NOHUD)/Kwyjibo.png)
 ![gifcallekwyijbonohud](./GIFS4.0/Calles(NOHUD)/Kwyjibo.gif)
 
 ![pngcallekwyjibohud](./Screenshots4.0/Calles(HUD)/Kwyjibo-HUD.png)
-![gifcallekwyjibohud](./Screenshots4.0/Calles(HUD)/Kwyjibo-HUD.gif)
+![gifcallekwyjibohud](./GIFS4.0/Calles(HUD)/Kwyjibo-HUD.gif)
 
 30-Laberinto
 
-![pngcallelaberintonohud](./GIFS4.0/Calles(NOHUD)/Laberinto.png)
+![pngcallelaberintonohud](./Screenshots4.0/Calles(NOHUD)/Laberinto.png)
 ![gifcallelaberintonohud](./GIFS4.0/Calles(NOHUD)/Laberinto.gif)
 
 ![pngcallelaberintohud](./Screenshots4.0/Calles(HUD)/Laberinto-HUD.png)
-![gifcallelaberintohud](./Screenshots4.0/Calles(HUD)/Laberinto-HUD.gif)
+![gifcallelaberintohud](./GIFS4.0/Calles(HUD)/Laberinto-HUD.gif)
 
 31-Lalala
 
-![pngcallelalalanohud](./GIFS4.0/Calles(NOHUD)/Lalala.png)
+![pngcallelalalanohud](./Screenshots4.0/Calles(NOHUD)/Lalala.png)
 ![gifcallelalalanohud](./GIFS4.0/Calles(NOHUD)/Lalala.gif)
 
 ![pngcallelalalahud](./Screenshots4.0/Calles(HUD)/Lalala-HUD.png)
-![gifcallelalalahud](./Screenshots4.0/Calles(HUD)/Lalala-HUD.gif)
+![gifcallelalalahud](./GIFS4.0/Calles(HUD)/Lalala-HUD.gif)
 
 32-Libre
 
