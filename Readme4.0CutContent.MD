@@ -224,134 +224,134 @@ Armas
 TODAS
 
 AK47
-![gifarmabetaak47](./GIFS4.0/CutContent/Armas/AK47_(_armaak2_)_4-3-2025.gif)]
+![gifarmabetaak47](./GIFS4.0/CutContent/Armas/AK47_(_armaak2_)_4-3-2025.gif)
 
 ElectroRifle
-![gifarmabetaelectrorifle1](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_4-3-2025.gif)]
-![gifarmabetaelectrorifle2](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_24-1-2025.gif)]
+![gifarmabetaelectrorifle1](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_4-3-2025.gif)
+![gifarmabetaelectrorifle2](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_24-1-2025.gif)
 
 Escopeta
-![gifarmabetaescopeta](./GIFS4.0/CutContent/Armas/Escopeta_(_armaes3_)_4-3-2025.gif)]
+![gifarmabetaescopeta](./GIFS4.0/CutContent/Armas/Escopeta_(_armaes3_)_4-3-2025.gif)
 
 Golpe
-![gifarmabetagolpe1](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_13-2-2025.gif)]
-![gifarmabetagolpe2](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_4-3-2025.gif)]
+![gifarmabetagolpe1](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_13-2-2025.gif)
+![gifarmabetagolpe2](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_4-3-2025.gif)
 
 Granada
-![gifarmabetagranada](./GIFS4.0/CutContent/Armas/Granada_(_armagra2_)_4-3-2025.gif)]
+![gifarmabetagranada](./GIFS4.0/CutContent/Armas/Granada_(_armagra2_)_4-3-2025.gif)
 
 Katana
-![gifarmabetakatana1](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_24-1-2025.gif)]
-![gifarmabetakatana2](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_4-3-2025.gif)]
+![gifarmabetakatana1](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_24-1-2025.gif)
+![gifarmabetakatana2](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_4-3-2025.gif)
 
 Lanzallamas
-![gifarmabetalanzallamas1](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_24-1-2025.gif)]
-![gifarmabetalanzallamas2](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_4-3-2025.gif)]
+![gifarmabetalanzallamas1](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_24-1-2025.gif)
+![gifarmabetalanzallamas2](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_4-3-2025.gif)
 
 Laser
-![gifarmabetalaser1](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_24-1-2025.gif)]
-![gifarmabetalaser2](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_4-3-2025.gif)]
+![gifarmabetalaser1](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_24-1-2025.gif)
+![gifarmabetalaser2](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_4-3-2025.gif)
 
 Minigun
-![gifarmabetaminigun1](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_24-1-2025.gif)]
-![gifarmabetaminigun2](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_4-3-2025.gif)]
+![gifarmabetaminigun1](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_24-1-2025.gif)
+![gifarmabetaminigun2](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_4-3-2025.gif)
 
 Pistola
-![gifarmabetapistola](./GIFS4.0/CutContent/Armas/Pistola_(_pistola_)_4-3-2025.gif)]
+![gifarmabetapistola](./GIFS4.0/CutContent/Armas/Pistola_(_pistola_)_4-3-2025.gif)
 
 RIFLE DE FRANCOTIRADOR
-![gifarmabetariflefrancotirador](./GIFS4.0/CutContent/Armas/RifleFrancotirador_(_armar_)_4-3-2025.gif)]
+![gifarmabetariflefrancotirador](./GIFS4.0/CutContent/Armas/RifleFrancotirador_(_armar_)_4-3-2025.gif)
 
 DiosGPT
 
-![gifbetadiosgpt1](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_diosgpt7_)_4-3-2025.gif)]
-![gifbetadiosgpt2](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_gptv2.10_)_20-1-2025.gif)]
+![gifbetadiosgpt1](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_diosgpt7_)_4-3-2025.gif)
+![gifbetadiosgpt2](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_gptv2.10_)_20-1-2025.gif)
 
 Jetpack
 
-![gifbetajetpack1](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_4-3-2025.gif)]
-![gifbetajetpack2](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_24-1-2025.gif)]
+![gifbetajetpack1](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_4-3-2025.gif)
+![gifbetajetpack2](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_24-1-2025.gif)
 
 Nerdpedia
 V1
 
-![gifnerdpediav1](./GIFS4.0/CutContent/Nerdpedia/Nerdpedia_(_wiki24_)_4-3-2025.gif)]
+![gifnerdpediav1](./GIFS4.0/CutContent/Nerdpedia/Nerdpedia_(_wiki24_)_4-3-2025.gif)
 
 V2
 
-![gifnerdpediav2A](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_crimenYPixel_)_7-4-2025.gif)]
-![gifnerdpediav2B](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_w2.10_)_12-2-2025.gif)]
+![gifnerdpediav2A](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_crimenYPixel_)_7-4-2025.gif)
+![gifnerdpediav2B](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_w2.10_)_12-2-2025.gif)
 
 Skate
 
-![gifbetaskateA](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_20-1-2025.gif)]
-![gifbetaskateB](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_4-3-2025.gif)]
+![gifbetaskateA](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_20-1-2025.gif)
+![gifbetaskateB](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_4-3-2025.gif)
 
 STUNTMAN
 
 F1
 
-![gifbetastuntmanF1A](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_21-1-2025.gif)]
-![gifbetastuntmanF1B](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_4-3-2025.gif)]
-![gifbetastuntmanF1C](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_ZS1_)_12-3-2025.gif)]
+![gifbetastuntmanF1A](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_21-1-2025.gif)
+![gifbetastuntmanF1B](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_4-3-2025.gif)
+![gifbetastuntmanF1C](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_ZS1_)_12-3-2025.gif)
 
 F2
 
-![gifbetastuntmanF2A](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_stuntmanv2.1_)_21-1-2025.gif)]
-![gifbetastuntmanF2B](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_stuntmanv2.1_)_4-3-2025.gif)]
-![gifbetastuntmanF2C](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_ZS2_)_12-3-2025.gif)]
+![gifbetastuntmanF2A](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_stuntmanv2.1_)_21-1-2025.gif)
+![gifbetastuntmanF2B](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_stuntmanv2.1_)_4-3-2025.gif)
+![gifbetastuntmanF2C](./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2_(_ZS2_)_12-3-2025.gif)
 
 F3
 
-![gifbetastuntmanF3A](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_stuntmanv3.4_)_21-1-2025.gif)]
-![gifbetastuntmanF3B](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_stuntmanv3.4_)_4-3-2025.gif)]
-![gifbetastuntmanF3C](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_ZS3_)_12-3-2025.gif)]
+![gifbetastuntmanF3A](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_stuntmanv3.4_)_21-1-2025.gif)
+![gifbetastuntmanF3B](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_stuntmanv3.4_)_4-3-2025.gif)
+![gifbetastuntmanF3C](./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3_(_ZS3_)_12-3-2025.gif)
 
 F4
 
-![gifbetastuntmanF4A](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_stuntmanv4.3_)_21-1-2025.gif)]
-![gifbetastuntmanF4B](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_stuntmanv4.3_)_4-3-2025.gif)]
-![gifbetastuntmanF4C](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_ZS4_)_12-3-2025.gif)]
+![gifbetastuntmanF4A](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_stuntmanv4.3_)_21-1-2025.gif)
+![gifbetastuntmanF4B](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_stuntmanv4.3_)_4-3-2025.gif)
+![gifbetastuntmanF4C](./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4_(_ZS4_)_12-3-2025.gif)
 
 F5
 
-![gifbetastuntmanF5A](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_stuntmanv5.1_)_21-1-2025.gif)]
-![gifbetastuntmanF5B](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_stuntmanv5.1_)_4-3-2025.gif)]
-![gifbetastuntmanF5C](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_ZS5_)_12-3-2025.gif)]
+![gifbetastuntmanF5A](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_stuntmanv5.1_)_21-1-2025.gif)
+![gifbetastuntmanF5B](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_stuntmanv5.1_)_4-3-2025.gif)
+![gifbetastuntmanF5C](./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5_(_ZS5_)_12-3-2025.gif)
 
 F6
 
-![gifbetastuntmanF6A](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_stuntmanv6.2_)_21-1-2025.gif)]
-![gifbetastuntmanF6B](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_stuntmanv6.2_)_4-3-2025.gif)]
-![gifbetastuntmanF6C](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_ZS6_)_12-3-2025.gif)]
+![gifbetastuntmanF6A](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_stuntmanv6.2_)_21-1-2025.gif)
+![gifbetastuntmanF6B](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_stuntmanv6.2_)_4-3-2025.gif)
+![gifbetastuntmanF6C](./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6_(_ZS6_)_12-3-2025.gif)
 
 F7
 
-![gifbetastuntmanF7A](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_stuntmanv7.3_)_21-1-2025.gif)]
-![gifbetastuntmanF7B](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_stuntmanv7.3_)_4-3-2025.gif)]
-![gifbetastuntmanF7C](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_ZS7_)_12-3-2025.gif)]
+![gifbetastuntmanF7A](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_stuntmanv7.3_)_21-1-2025.gif)
+![gifbetastuntmanF7B](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_stuntmanv7.3_)_4-3-2025.gif)
+![gifbetastuntmanF7C](./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7_(_ZS7_)_12-3-2025.gif)
 
 F8
 
-![gifbetastuntmanF8A](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_stuntmanv8.2_)_21-1-2025.gif)]
-![gifbetastuntmanF8B](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_stuntmanv8.2_)_4-3-2025.gif)]
-![gifbetastuntmanF8C](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_ZS8_)_12-3-2025.gif)]
+![gifbetastuntmanF8A](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_stuntmanv8.2_)_21-1-2025.gif)
+![gifbetastuntmanF8B](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_stuntmanv8.2_)_4-3-2025.gif)
+![gifbetastuntmanF8C](./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8_(_ZS8_)_12-3-2025.gif)
 
 F9
 
-![gifbetastuntmanF9A](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_stuntmanv9.5_)_21-1-2025.gif)]
-![gifbetastuntmanF9B](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_stuntmanv9.4_)_4-3-2025.gif)]
-![gifbetastuntmanF9C](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_ZS9_)_12-3-2025.gif)]
+![gifbetastuntmanF9A](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_stuntmanv9.5_)_21-1-2025.gif)
+![gifbetastuntmanF9B](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_stuntmanv9.4_)_4-3-2025.gif)
+![gifbetastuntmanF9C](./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9_(_ZS9_)_12-3-2025.gif)
 
 F10
 
-![gifbetastuntmanF10A](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_stuntmanv10.4_)_21-1-2025.gif)]
-![gifbetastuntmanF10B](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_stuntmanv10.4_)_4-3-2025.gif)]
-![gifbetastuntmanF10C](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_ZS10_)_12-3-2025.gif)]
+![gifbetastuntmanF10A](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_stuntmanv10.4_)_21-1-2025.gif)
+![gifbetastuntmanF10B](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_stuntmanv10.4_)_4-3-2025.gif)
+![gifbetastuntmanF10C](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_ZS10_)_12-3-2025.gif)
 
 Stuntman F1 a 10 ( Bugeado )
-![gifbetastuntmanF1A10A](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug10_)_30-3-2025.gif)]
-![gifbetastuntmanF1A10B](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug11_)_31-3-2025.gif)]
+![gifbetastuntmanF1A10A](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug10_)_30-3-2025.gif)
+![gifbetastuntmanF1A10B](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug11_)_31-3-2025.gif)
 
 Radio
 
