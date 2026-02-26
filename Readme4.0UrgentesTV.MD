@@ -4,7 +4,7 @@ Urgente 1
 
 ![gifurgente1](./GIFS4.0/Urgentes/Urgente1.gif)
 
-![pngurgente1-01](./Screenshots4.0/Urgentes/Urgente_1/UrgenteTV1-01.png)
+![pngurgente1-01](./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-01.png)
 ![pngurgente1-02](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-02.png)
 ![pngurgente1-03](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-03.png)
 ![pngurgente1-04](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-04.png)
