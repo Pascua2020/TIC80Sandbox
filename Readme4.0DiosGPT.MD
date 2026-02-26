@@ -14,8 +14,7 @@ Readme4.0DiosGPT
 
 ![pngDiosGPTMenuC4](./Screenshots4.0/DiosGPT/MenuC4.png)
 
-![pngDiosGPTMenuC5](./Screenshots4.0/DiosGPT/MenuC5.png)]
+![pngDiosGPTMenuC5](./Screenshots4.0/DiosGPT/MenuC5.png)
 
-
-![pngDiosGPTMenuC6](./Screenshots4.0/DiosGPT/MenuC6.png)]
+![pngDiosGPTMenuC6](./Screenshots4.0/DiosGPT/MenuC6.png)
 
