@@ -178,7 +178,7 @@ Readme4.0CutContent
 
 ![gifansiedad](./GIFS4.0/CutContent/Ansiedadyestres_(_ansiedad_)_4-3-2025.gif)
 
-![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)
+![pngcutcontentAnsiedadYEstres](<./Screenshots4.0/_Cut Content/AnsiedadYEstres.png>)
 
 -Boton
 
