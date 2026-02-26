@@ -355,73 +355,72 @@ Stuntman F1 a 10 ( Bugeado )
 
 Radio
 
-![gifbetaradiosA](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_4-3-2025.gif)]
-![gifbetaradiosB](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_12-2-2025.gif)]
-![gifbetaradioaprendechino](./GIFS4.0/CutContent/Radios/RadioAprendeChino_(_dialogo4_)_4-3-2025.gif)]
+![gifbetaradiosA](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_4-3-2025.gif)
+![gifbetaradiosB](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_12-2-2025.gif)
+![gifbetaradioaprendechino](./GIFS4.0/CutContent/Radios/RadioAprendeChino_(_dialogo4_)_4-3-2025.gif)
 
 MENU DEBUG
 
-![gifmenudebug](./GIFS4.0/CutContent/MenuDebug_(_hiperdebug5_)_19-3-2025.gif)]
+![gifmenudebug](./GIFS4.0/CutContent/MenuDebug_(_hiperdebug5_)_19-3-2025.gif)
 
-![pngcutcontentDebug](./Screenshots4.0/CutContent/Debug.png)]
+![pngcutcontentDebug](./Screenshots4.0/CutContent/Debug.png)
 
 --DIARIO
 
---![gifbetadiario](./GIFS4.0/CutContent/Diario_(_diario4_)_20-1-2025.gif)]
+--![gifbetadiario](./GIFS4.0/CutContent/Diario_(_diario4_)_20-1-2025.gif)
 
 PINBALL
 
-![gifbetapinball](./GIFS4.0/CutContent/Pinball_(_pinballv6.4_)_20-1-2025.gif)]
+![gifbetapinball](./GIFS4.0/CutContent/Pinball_(_pinballv6.4_)_20-1-2025.gif)
 
-![pngcutcontentPinball](./Screenshots4.0/CutContent/Pinball.png)]
+![pngcutcontentPinball](./Screenshots4.0/CutContent/Pinball.png)
 
 TECLADO PC
 
-![gifbetatecladopc](./GIFS4.0/CutContent/TecladoPC_(_teclado_)_22-1-2025.gif)]
+![gifbetatecladopc](./GIFS4.0/CutContent/TecladoPC_(_teclado_)_22-1-2025.gif)
 
-![pngcutcontentTecladoPC](./Screenshots4.0/CutContent/TecladoPC.png)]
+![pngcutcontentTecladoPC](./Screenshots4.0/CutContent/TecladoPC.png)
 
 TECLADO NUMERICO
 
-![gifbetatecladonum](./GIFS4.0/CutContent/TecladoNum_(_pass2_)_22-1-2025.gif)]
+![gifbetatecladonum](./GIFS4.0/CutContent/TecladoNum_(_pass2_)_22-1-2025.gif)
 
-![pngcutcontentTecladoNum1](./Screenshots4.0/CutContent/TecladoNum1.png)]
-![pngcutcontentTecladoNum2](./Screenshots4.0/CutContent/TecladoNum2.png)]
-![pngcutcontentTecladoNum3](./Screenshots4.0/CutContent/TecladoNum3.png)]
+![pngcutcontentTecladoNum1](./Screenshots4.0/CutContent/TecladoNum1.png)
+![pngcutcontentTecladoNum2](./Screenshots4.0/CutContent/TecladoNum2.png)
+![pngcutcontentTecladoNum3](./Screenshots4.0/CutContent/TecladoNum3.png)
 
 COORDENADAS
 
-![gifcoordenadas](./GIFS4.0/CutContent/Coordenadas_(_coor4_)_1-2-2025.gif)]
+![gifcoordenadas](./GIFS4.0/CutContent/Coordenadas_(_coor4_)_1-2-2025.gif)
 
-![pngcutcontentCoordenadas](./Screenshots4.0/CutContent/Coordenadas.png)]
+![pngcutcontentCoordenadas](./Screenshots4.0/CutContent/Coordenadas.png)
 
 GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )
 
 Caballo
 
-![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficosSinUsarCaballo.png)]
+![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficosSinUsarCaballo.png)
 
 Coche
 
-![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficosSinUsarCoche.png)]
+![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficosSinUsarCoche.png)
 
 OVNI
 
-![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficosSinUsarOVNI.png)]
+![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficosSinUsarOVNI.png)
 
 Jet de Combate Alternativo
 
-![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficosSinUsarJetDeCombateB.png)]
+![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficosSinUsarJetDeCombateB.png)
 
 Cabina de Peaje
 
-![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficosSinUsarPeaje.png)]
+![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficosSinUsarPeaje.png)
 
 Escalera
 
-![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficosSinUsarEscalera.png)]
+![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficosSinUsarEscalera.png)
 
-Tiburon
+Tiburon
 
-
-![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficosSinUsarTiburon.png)]
+![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficosSinUsarTiburon.png)
