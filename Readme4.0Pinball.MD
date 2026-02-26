@@ -178,7 +178,7 @@ Rap Gales
 
 Agujero
 
-![gifpinballagujero](<./GIFS4.0/Pinball/AgujeroPinball.gif>)
+![gifpinballagujero](<./GIFS4.0/GIFS Pinball/AgujeroPinball.gif>)
 
 Diamantes
 
