@@ -2,100 +2,100 @@ Readme4.0CutContent
 
 -Chat
 
-![gifchat1](./GIFS4.0/CutContent/Chat/Chat_(_wpp2_)_-_21-1-2025.gif)]
-![gifchat2](./GIFS4.0/CutContent/Chat/Chat_(wpp2)_-_4-3-2025.gif)]
-![gifchat3](./GIFS4.0/CutContent/Chat/Chat_(_ZMensajesMoviles_)_-_12-3-2025.gif)]
+![gifchat1](./GIFS4.0/CutContent/Chat/Chat_(_wpp2_)_-_21-1-2025.gif)
+![gifchat2](./GIFS4.0/CutContent/Chat/Chat_(wpp2)_-_4-3-2025.gif)
+![gifchat3](./GIFS4.0/CutContent/Chat/Chat_(_ZMensajesMoviles_)_-_12-3-2025.gif)
 
-![pngcutcontentChat1A](./Screenshots4.0/CutContent/Chat1A.png)]
-![pngcutcontentChat1B](./Screenshots4.0/CutContent/Chat1B.png)]
-![pngcutcontentChat1C](./Screenshots4.0/CutContent/Chat1C.png)]
+![pngcutcontentChat1A](./Screenshots4.0/CutContent/Chat1A.png)
+![pngcutcontentChat1B](./Screenshots4.0/CutContent/Chat1B.png)
+![pngcutcontentChat1C](./Screenshots4.0/CutContent/Chat1C.png)
 
-![pngcutcontentChat2A](./Screenshots4.0/CutContent/Chat2A.png)]
-![pngcutcontentChat2B](./Screenshots4.0/CutContent/Chat2B.png)]
-![pngcutcontentChat2C](./Screenshots4.0/CutContent/Chat2C.png)]
+![pngcutcontentChat2A](./Screenshots4.0/CutContent/Chat2A.png)
+![pngcutcontentChat2B](./Screenshots4.0/CutContent/Chat2B.png)
+![pngcutcontentChat2C](./Screenshots4.0/CutContent/Chat2C.png)
 
-![pngcutcontentChat3A](./Screenshots4.0/CutContent/Chat3A.png)]
-![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat3B.png)]
-![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat3C.png)]
+![pngcutcontentChat3A](./Screenshots4.0/CutContent/Chat3A.png)
+![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat3B.png)
+![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat3C.png)
 
 -Ciclo Dia Noche
 
-![gifciclodianoche1](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_22-1-2025.gif)]
-![gifciclodianoche2](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_4-3-2025.gif)]
+![gifciclodianoche1](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_22-1-2025.gif)
+![gifciclodianoche2](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_4-3-2025.gif)
 
-![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche1A.png)]
-![pngcutcontentCicloDiaNoche1B](./Screenshots4.0/CutContent/CicloDiaNoche1B.png)]
-![pngcutcontentCicloDiaNoche1C](./Screenshots4.0/CutContent/CicloDiaNoche1C.png)]
-![pngcutcontentCicloDiaNoche1D](./Screenshots4.0/CutContent/CicloDiaNoche1D.png)]
+![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche1A.png)
+![pngcutcontentCicloDiaNoche1B](./Screenshots4.0/CutContent/CicloDiaNoche1B.png)
+![pngcutcontentCicloDiaNoche1C](./Screenshots4.0/CutContent/CicloDiaNoche1C.png)
+![pngcutcontentCicloDiaNoche1D](./Screenshots4.0/CutContent/CicloDiaNoche1D.png)
 
-![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche2A.png)]
-![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche2B.png)]
+![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche2A.png)
+![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche2B.png)
 
 -Climas
 
-![gifbetaclimas1](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_20-1-2025.gif)]
-![gifbetaclimas2](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_4-3-2025.gif)]
+![gifbetaclimas1](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_20-1-2025.gif)
+![gifbetaclimas2](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_4-3-2025.gif)
 
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 --Arcoiris
 
-![gifarcoiris](./GIFS4.0/CutContent/Climas/Arcoiris_(_arcoiris_)_4-3-2025.gif)]
+![gifarcoiris](./GIFS4.0/CutContent/Climas/Arcoiris_(_arcoiris_)_4-3-2025.gif)
 
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 --Niebla
 
-![gifniebla](./GIFS4.0/CutContent/Climas/Niebla_(_niebla_)_4-3-2025.gif)]
+![gifniebla](./GIFS4.0/CutContent/Climas/Niebla_(_niebla_)_4-3-2025.gif)
 
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 --Terremoto
 
-![gifterremoto1](./GIFS4.0/CutContent/Climas/Terremoto_terremoto_22-1-2025.gif)]
-![gifterremoto2](./GIFS4.0/CutContent/Climas/Terremoto_(_terremoto_)_4-3-2025.gif)]
+![gifterremoto1](./GIFS4.0/CutContent/Climas/Terremoto_terremoto_22-1-2025.gif)
+![gifterremoto2](./GIFS4.0/CutContent/Climas/Terremoto_(_terremoto_)_4-3-2025.gif)
 
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 -Tomar Colectivo
 
-![giftomarcolectivo1](./GIFS4.0/CutContent/Colectivo/Colectivo_(_suba9_)_22-1-2025.gif)]
-![giftomarcolectivo2](./GIFS4.0/CutContent/Colectivo/Colectivo_(_ZColectivo_)_12-3-2025.gif)]
+![giftomarcolectivo1](./GIFS4.0/CutContent/Colectivo/Colectivo_(_suba9_)_22-1-2025.gif)
+![giftomarcolectivo2](./GIFS4.0/CutContent/Colectivo/Colectivo_(_ZColectivo_)_12-3-2025.gif)
 
-![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/TomarColectivo1A.png)]
-![pngcutcontentTomarColectivo1B](./Screenshots4.0/CutContent/TomarColectivo1B.png)]
-![pngcutcontentTomarColectivo1C](./Screenshots4.0/CutContent/TomarColectivo1C.png)]
+![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/TomarColectivo1A.png)
+![pngcutcontentTomarColectivo1B](./Screenshots4.0/CutContent/TomarColectivo1B.png)
+![pngcutcontentTomarColectivo1C](./Screenshots4.0/CutContent/TomarColectivo1C.png)
 
-![pngcutcontentTomarColectivo2A](./Screenshots4.0/CutContent/TomarColectivo2A.png)]
-![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/TomarColectivo2B.png)]
-![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/TomarColectivo2C.png)]
+![pngcutcontentTomarColectivo2A](./Screenshots4.0/CutContent/TomarColectivo2A.png)
+![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/TomarColectivo2B.png)
+![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/TomarColectivo2C.png)
 
 -Modo GT + MiniMapa
 
-![gifgt+minimapa1](./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa_(_minimapa5_)_22-1-2025.gif)]
-![gifgt+minimapa2](./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa_(_minimapa5_)_4-3-2025.gif)]
+![gifgt+minimapa1](./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa_(_minimapa5_)_22-1-2025.gif)
+![gifgt+minimapa2](./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa_(_minimapa5_)_4-3-2025.gif)
 
-![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)]
-![gifgt+minimapa-GT2](./GIFS4.0/CutContent/GT+MiniMapa/GT2.gif)]
-![gifgt+minimapa-GT3](./GIFS4.0/CutContent/GT+MiniMapa/GT3.gif)]
-![gifgt+minimapa-GT4](./GIFS4.0/CutContent/GT+MiniMapa/GT4.gif)]
-![gifgt+minimapa-GT5](./GIFS4.0/CutContent/GT+MiniMapa/GT5.gif)]
-![gifgt+minimapa-GT6](./GIFS4.0/CutContent/GT+MiniMapa/GT6.gif)]
-![gifgt+minimapa-GT7](./GIFS4.0/CutContent/GT+MiniMapa/GT7.gif)]
-![gifgt+minimapa-simple](./GIFS4.0/CutContent/GT+MiniMapa/Minimapa.gif)]
+![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)
+![gifgt+minimapa-GT2](./GIFS4.0/CutContent/GT+MiniMapa/GT2.gif)
+![gifgt+minimapa-GT3](./GIFS4.0/CutContent/GT+MiniMapa/GT3.gif)
+![gifgt+minimapa-GT4](./GIFS4.0/CutContent/GT+MiniMapa/GT4.gif)
+![gifgt+minimapa-GT5](./GIFS4.0/CutContent/GT+MiniMapa/GT5.gif)
+![gifgt+minimapa-GT6](./GIFS4.0/CutContent/GT+MiniMapa/GT6.gif)
+![gifgt+minimapa-GT7](./GIFS4.0/CutContent/GT+MiniMapa/GT7.gif)
+![gifgt+minimapa-simple](./GIFS4.0/CutContent/GT+MiniMapa/Minimapa.gif)
 
-![pngcutcontentGT1A](./Screenshots4.0/CutContent/GT1A.png)]
-![pngcutcontentGT1B](./Screenshots4.0/CutContent/GT1B.png)]
-![pngcutcontentGT2](./Screenshots4.0/CutContent/GT2.png)]
-![pngcutcontentGT3A](./Screenshots4.0/CutContent/GT3A.png)]
-![pngcutcontentGT3B](./Screenshots4.0/CutContent/GT3B.png)]
-![pngcutcontentGT4A](./Screenshots4.0/CutContent/GT4A.png)]
-![pngcutcontentGT4B](./Screenshots4.0/CutContent/GT4B.png)]
-![pngcutcontentGT5A](./Screenshots4.0/CutContent/GT5A.png)]
-![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT5B.png)]
-![pngcutcontentGT6](./Screenshots4.0/CutContent/GT6.png)]
+![pngcutcontentGT1A](./Screenshots4.0/CutContent/GT1A.png)
+![pngcutcontentGT1B](./Screenshots4.0/CutContent/GT1B.png)
+![pngcutcontentGT2](./Screenshots4.0/CutContent/GT2.png)
+![pngcutcontentGT3A](./Screenshots4.0/CutContent/GT3A.png)
+![pngcutcontentGT3B](./Screenshots4.0/CutContent/GT3B.png)
+![pngcutcontentGT4A](./Screenshots4.0/CutContent/GT4A.png)
+![pngcutcontentGT4B](./Screenshots4.0/CutContent/GT4B.png)
+![pngcutcontentGT5A](./Screenshots4.0/CutContent/GT5A.png)
+![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT5B.png)
+![pngcutcontentGT6](./Screenshots4.0/CutContent/GT6.png)
 
 ![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/Minimapa1A.png)]
 ![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/Minimapa1B.png)]
