@@ -72,51 +72,51 @@ Trafico en el mapa
 
 08-Chechona
 
-![pngcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.png)
+![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 ![gifcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.gif)
 
 ![pngcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.png)
-![gifcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.gif)
+![gifcallechechonahud](./GIFS4.0/Calles(HUD)/Chechona-HUD.gif)
 
 09-Chocolate
 
-![pngcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.png)
+![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 ![gifcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.gif)
 
 ![pngcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.png)
-![gifcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.gif)
+![gifcallechocolatehud](./GIFS4.0/Calles(HUD)/Chocolate-HUD.gif)
 
 10-Cocaina
 
-![pngcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.png)
+![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
 ![gifcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.gif)
 
 ![pngcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.png)
-![gifcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.gif)
+![gifcallecocainahud](./GIFS4.0/Calles(HUD)/Cocaina-HUD.gif)
 
 11-Conspiracion
 
-![pngcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.png)
+![pngcalleconspiracionnohud](./Screenshots4.0/Calles(NOHUD)/Conspiracion.png)
 ![gifcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.gif)
 
 ![pngcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.png)
-![gifcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.gif)
+![gifcalleconspiracionhud](./GIFS4.0/Calles(HUD)/Conspiracion-HUD.gif)
 
 12-Corrupcion
 
-![pngcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.png)
+![pngcallecorrupcionnohud](./Screenshots4.0/Calles(NOHUD)/Corrupcion.png)
 ![gifcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.gif)
 
 ![pngcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.png)
-![gifcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.gif)
+![gifcallecorrupcionhud](./GIFS4.0/Calles(HUD)/Corrupcion-HUD.gif)
 
 13-Dark
 
-![pngcalledarknohud](./GIFS4.0/Calles(NOHUD)/Dark.png)
+![pngcalledarknohud](./Screenshots4.0/Calles(NOHUD)/Dark.png)
 ![gifcalledarknohud](./GIFS4.0/Calles(NOHUD)/Dark.gif)
 
 ![pngcalledarkhud](./Screenshots4.0/Calles(HUD)/Dark-HUD.png)
-![gifcalledarkhud](./Screenshots4.0/Calles(HUD)/Dark-HUD.gif)
+![gifcalledarkhud](./GIFS4.0/Calles(HUD)/Dark-HUD.gif)
 
 14-Default
 
