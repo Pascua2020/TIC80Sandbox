@@ -4,47 +4,47 @@ Readme4.0CodigoFuente
 
 MegaTabla - Baile
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-baile.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-baile.gif)
 
 MegaTabla - Clima
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-clima.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-clima.gif)
 
 MegaTabla - datosRaw-Calles
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-datosRaw-Calles.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-datosRaw-Calles.gif)
 
 MegaTabla - DialogosStuntman
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-dialogosStuntman.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-dialogosStuntman.gif)
 
 MegaTabla - EfectosVisuales
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-efectosVisuales.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-efectosVisuales.gif)
 
 MegaTabla - estadoCelular-appDiosGPT
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoCelular-appDiosGPT.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoCelular-appDiosGPT.gif)
 
 MegaTabla - estadoCreditos
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoCreditos.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoCreditos.gif)
 
 MegaTabla - estadoIntro
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoIntro.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoIntro.gif)
 
 MegaTabla - estadoTelescopio
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoTelescopio.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoTelescopio.gif)
 
 MegaTabla - estadoTelescopio-estrellaFugaz
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoTelescopio-estrellaFugaz.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-estadoTelescopio-estrellaFugaz.gif)
 
 MegaTabla - gestionArmas
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionArmas.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionArmas.gif)
 
 MegaTabla - gestionMisionStuntman-crearObjetos
 
