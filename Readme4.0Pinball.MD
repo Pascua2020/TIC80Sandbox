@@ -68,9 +68,9 @@ Frases Rebote
 
 1
 
-![gifpinballfrasesrebote1](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball1.gif)
+![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/Frases Rebote/FrasePinball1.gif>)
 
-![pngpinballfraserebote1](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote1.png)
+![pngpinballfraserebote1](<./Screenshots4.0/Pinball/Frases Rebote/FraseRebote1.png>)
 
 2
 
