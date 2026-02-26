@@ -42,7 +42,7 @@ INTRO
 
 ![gifMenuPrincipalIntro](./GIFS4.0/MenuPrincipal/Intro.gif)
 
-![pngMenuPrincipalIntro1](./Screenshots4.0/MenuPrincipal/Intro1.png)
+![pngMenuPrincipalIntro1](./Screenshots4.0/Intro/Intro1.png)
 ![pngMenuPrincipalIntro2](./Screenshots4.0/MenuPrincipal/Intro2.png)
 ![pngMenuPrincipalIntro3](./Screenshots4.0/MenuPrincipal/Intro3.png)
 ![pngMenuPrincipalIntro4](./Screenshots4.0/MenuPrincipal/Intro4.png)
