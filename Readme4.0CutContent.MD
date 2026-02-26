@@ -97,125 +97,125 @@ Readme4.0CutContent
 ![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT5B.png)
 ![pngcutcontentGT6](./Screenshots4.0/CutContent/GT6.png)
 
-![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/Minimapa1A.png)]
-![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/Minimapa1B.png)]
-![pngcutcontentMinimapa1C](./Screenshots4.0/CutContent/Minimapa1C.png)]
-![pngcutcontentMinimapa1D](./Screenshots4.0/CutContent/Minimapa1D.png)]
+![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/Minimapa1A.png)
+![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/Minimapa1B.png)
+![pngcutcontentMinimapa1C](./Screenshots4.0/CutContent/Minimapa1C.png)
+![pngcutcontentMinimapa1D](./Screenshots4.0/CutContent/Minimapa1D.png)
 
-![pngcutcontentMinimapa2A](./Screenshots4.0/CutContent/Minimapa2A.png)]
-![pngcutcontentMinimapa2B](./Screenshots4.0/CutContent/Minimapa2B.png)]
-![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/Minimapa2C.png)]
-![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/Minimapa2D.png)]
+![pngcutcontentMinimapa2A](./Screenshots4.0/CutContent/Minimapa2A.png)
+![pngcutcontentMinimapa2B](./Screenshots4.0/CutContent/Minimapa2B.png)
+![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/Minimapa2C.png)
+![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/Minimapa2D.png)
 
 -Interfaz
 
-![gifinterfaz1](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_22-1-2025.gif)]
-![gifinterfaz2](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_4-3-2025.gif)]
+![gifinterfaz1](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_22-1-2025.gif)
+![gifinterfaz2](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_4-3-2025.gif)
 
-![pngcutcontentInterfaz1](./Screenshots4.0/CutContent/Interfaz1.png)]
-![pngcutcontentInterfaz2A](./Screenshots4.0/CutContent/Interfaz2A.png)]
-![pngcutcontentInterfaz2B](./Screenshots4.0/CutContent/Interfaz2B.png)]
+![pngcutcontentInterfaz1](./Screenshots4.0/CutContent/Interfaz1.png)
+![pngcutcontentInterfaz2A](./Screenshots4.0/CutContent/Interfaz2A.png)
+![pngcutcontentInterfaz2B](./Screenshots4.0/CutContent/Interfaz2B.png)
 
 -Internet
 
-![gifinternet1](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_22-1-2025.gif)]
-![gifinternet2](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_4-3-2025.gif)]
+![gifinternet1](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_22-1-2025.gif)
+![gifinternet2](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_4-3-2025.gif)
 
-![pngcutcontentInternetA](./Screenshots4.0/CutContent/InternetA.png)]
-![pngcutcontentInternetB](./Screenshots4.0/CutContent/InternetB.png)]
+![pngcutcontentInternetA](./Screenshots4.0/CutContent/InternetA.png)
+![pngcutcontentInternetB](./Screenshots4.0/CutContent/InternetB.png)
 
 -Menu de Pausa
 
-![gifmenupausa](./GIFS4.0/CutContent/Menu_Pausa/MenuPausa_(_menupausa3_)_4-3-2025.gif)]
+![gifmenupausa](./GIFS4.0/CutContent/Menu_Pausa/MenuPausa_(_menupausa3_)_4-3-2025.gif)
 
-![pngcutcontentMenuPausa](./Screenshots4.0/CutContent/MenuPausa.png)]
+![pngcutcontentMenuPausa](./Screenshots4.0/CutContent/MenuPausa.png)
 
 -Nafta
 
-![gifnafta1](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_22-1-2025.gif)]
-![gifnafta2](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_4-3-2025.gif)]
-![gifnafta3](./GIFS4.0/CutContent/Nafta/Nafta_(_zcombustible_)_12-3-2025.gif)]
+![gifnafta1](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_22-1-2025.gif)
+![gifnafta2](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_4-3-2025.gif)
+![gifnafta3](./GIFS4.0/CutContent/Nafta/Nafta_(_zcombustible_)_12-3-2025.gif)
 
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
-![pngcutcontent](./Screenshots4.0/CutContent/.png)]
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
+![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 -RC
 
-![gifrc2](./GIFS4.0/CutContent/RC/RC_(_rc10_)_21-1-2025.gif)]
-![gifrc1](./GIFS4.0/CutContent/RC/RC_(_rc7_)_4-3-2025.gif)]
-![gifrc3](./GIFS4.0/CutContent/RC/RC_(_rc12_)_4-3-2025.gif)]
-![gifrc4](./GIFS4.0/CutContent/RC/RC_(_ZRC_)_22-7-2025.gif)]
+![gifrc2](./GIFS4.0/CutContent/RC/RC_(_rc10_)_21-1-2025.gif)
+![gifrc1](./GIFS4.0/CutContent/RC/RC_(_rc7_)_4-3-2025.gif)
+![gifrc3](./GIFS4.0/CutContent/RC/RC_(_rc12_)_4-3-2025.gif)
+![gifrc4](./GIFS4.0/CutContent/RC/RC_(_ZRC_)_22-7-2025.gif)
 
-![pngcutcontentRC1A](./Screenshots4.0/CutContent/RC/RC1A.png)]
-![pngcutcontentRC1B](./Screenshots4.0/CutContent/RC/RC1B.png)]
-![pngcutcontentRC2A](./Screenshots4.0/CutContent/RC/RC2A.png)]
-![pngcutcontentRC2B](./Screenshots4.0/CutContent/RC/RC2B.png)]
-![pngcutcontentRC3A](./Screenshots4.0/CutContent/RC/RC3A.png)]
-![pngcutcontentRC3B](./Screenshots4.0/CutContent/RC/RC3B.png)]
-![pngcutcontentRC4A](./Screenshots4.0/CutContent/RC/RC4A.png)]
-![pngcutcontentRC4B](./Screenshots4.0/CutContent/RC/RC4B.png)]
+![pngcutcontentRC1A](./Screenshots4.0/CutContent/RC/RC1A.png)
+![pngcutcontentRC1B](./Screenshots4.0/CutContent/RC/RC1B.png)
+![pngcutcontentRC2A](./Screenshots4.0/CutContent/RC/RC2A.png)
+![pngcutcontentRC2B](./Screenshots4.0/CutContent/RC/RC2B.png)
+![pngcutcontentRC3A](./Screenshots4.0/CutContent/RC/RC3A.png)
+![pngcutcontentRC3B](./Screenshots4.0/CutContent/RC/RC3B.png)
+![pngcutcontentRC4A](./Screenshots4.0/CutContent/RC/RC4A.png)
+![pngcutcontentRC4B](./Screenshots4.0/CutContent/RC/RC4B.png)
 
 -Trompos
 
-![giftrompos1](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_20-1-2025.gif)]
-![giftrompos2](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_4-3-2025.gif)]
-![giftrompos3](./GIFS4.0/CutContent/Trompos/Trompos_(_crimenypixel_)_7-4-2025.gif)]
+![giftrompos1](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_20-1-2025.gif)
+![giftrompos2](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_4-3-2025.gif)
+![giftrompos3](./GIFS4.0/CutContent/Trompos/Trompos_(_crimenypixel_)_7-4-2025.gif)
 
-![pngcutcontentTrompos1A](./Screenshots4.0/CutContent/Trompos1A.png)]
-![pngcutcontentTrompos1B](./Screenshots4.0/CutContent/Trompos1B.png)]
-![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos2.png)]
-![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos3.png)]
+![pngcutcontentTrompos1A](./Screenshots4.0/CutContent/Trompos1A.png)
+![pngcutcontentTrompos1B](./Screenshots4.0/CutContent/Trompos1B.png)
+![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos2.png)
+![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos3.png)
 
 -Piedra Papel o MotoSierra
 
-![gifpiedrapapelmotosierra](./GIFS4.0/CutContent/PiedraPapelOMotosierra_(_piedra_)_4-3-2025.gif)]
+![gifpiedrapapelmotosierra](./GIFS4.0/CutContent/PiedraPapelOMotosierra_(_piedra_)_4-3-2025.gif)
 
-![pngcutcontentPiedraPapelOMotosierra1](./Screenshots4.0/CutContent/PiedraPapelOMotosierra1.png)]
-![pngcutcontentPiedraPapelOMotosierra2](./Screenshots4.0/CutContent/PiedraPapelOMotosierra2.png)]
+![pngcutcontentPiedraPapelOMotosierra1](./Screenshots4.0/CutContent/PiedraPapelOMotosierra1.png)
+![pngcutcontentPiedraPapelOMotosierra2](./Screenshots4.0/CutContent/PiedraPapelOMotosierra2.png)
 
 -Medidor de Ansiedad y Estres
 
-![gifansiedad](./GIFS4.0/CutContent/Ansiedadyestres_(_ansiedad_)_4-3-2025.gif)]
+![gifansiedad](./GIFS4.0/CutContent/Ansiedadyestres_(_ansiedad_)_4-3-2025.gif)
 
-![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)]
+![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)
 
 -Boton
 
-![gifboton](./GIFS4.0/CutContent/Boton_(_boton_)_4-3-2025.gif)]
+![gifboton](./GIFS4.0/CutContent/Boton_(_boton_)_4-3-2025.gif)
 
-![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)]
-![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)]
+![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)
+![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)
 
 -Dibujar
 
-![gifdibujar](./GIFS4.0/CutContent/Dibujar_(_dibujar3_)_20-1-2025.gif)]
+![gifdibujar](./GIFS4.0/CutContent/Dibujar_(_dibujar3_)_20-1-2025.gif)
 
-![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)]
+![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)
 
 -Hora
 
-![gifhora](./GIFS4.0/CutContent/Hora_(_hora_)_4-3-2025.gif)]
+![gifhora](./GIFS4.0/CutContent/Hora_(_hora_)_4-3-2025.gif)
 
-![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)]
+![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)
 
 -TV
 
-![giftv](./GIFS4.0/CutContent/TV_(_tele_)_4-3-2025.gif)]
+![giftv](./GIFS4.0/CutContent/TV_(_tele_)_4-3-2025.gif)
 
-![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)]
+![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)
 
 -Velocidad
 
-![gifvelocidad](./GIFS4.0/CutContent/VelocidadVehiculo_(_vel2_)_4-3-2025.gif)]
+![gifvelocidad](./GIFS4.0/CutContent/VelocidadVehiculo_(_vel2_)_4-3-2025.gif)
 
-![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)]
+![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
 
 -Votar
 
-![gifvotar](./GIFS4.0/CutContent/Votar_(_votar_)_4-3-2025.gif)]
+![gifvotar](./GIFS4.0/CutContent/Votar_(_votar_)_4-3-2025.gif)
 
-![pngcutcontentVotar](./Screenshots4.0/CutContent/Votar.png)]
+![pngcutcontentVotar](./Screenshots4.0/CutContent/Votar.png)
 
 BETA
 
