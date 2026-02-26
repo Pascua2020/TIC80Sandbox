@@ -264,75 +264,75 @@ Trafico en el mapa
 
 32-Libre
 
-![pngcallelibrenohud](./GIFS4.0/Calles(NOHUD)/Libre.png)
+![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 ![gifcallelibrenohud](./GIFS4.0/Calles(NOHUD)/Libre.gif)
 
 ![pngcallelibrehud](./Screenshots4.0/Calles(HUD)/Libre-HUD.png)
-![gifcallelibrehud](./Screenshots4.0/Calles(HUD)/Libre-HUD.gif)
+![gifcallelibrehud](./GIFS4.0/Calles(HUD)/Libre-HUD.gif)
 
 33-Mas placer
 
-![pngcallemasplacernohud](./GIFS4.0/Calles(NOHUD)/Mas_placer.png)
+![pngcallemasplacernohud](./Screenshots4.0/Calles(NOHUD)/Mas_placer.png)
 ![gifcallemasplacernohud](./GIFS4.0/Calles(NOHUD)/Mas_placer.gif)
 
 ![pngcallemasplacerhud](./Screenshots4.0/Calles(HUD)/Mas_placer-HUD.png)
-![gifcallemasplacerhud](./Screenshots4.0/Calles(HUD)/Mas_placer-HUD.gif)
+![gifcallemasplacerhud](./GIFS4.0/Calles(HUD)/Mas_placer-HUD.gif)
 
 34-Meteorito
 
-![pngcallemeteoritonohud](./GIFS4.0/Calles(NOHUD)/Meteorito.png)
+![pngcallemeteoritonohud](./Screenshots4.0/Calles(NOHUD)/Meteorito.png)
 ![gifcallemeteoritonohud](./GIFS4.0/Calles(NOHUD)/Meteorito.gif)
 
 ![pngcallemeteoritohud](./Screenshots4.0/Calles(HUD)/Meteorito-HUD.png)
-![gifcallemeteoritohud](./Screenshots4.0/Calles(HUD)/Meteorito-HUD.gif)
+![gifcallemeteoritohud](./GIFS4.0/Calles(HUD)/Meteorito-HUD.gif)
 
 35-Miau
 
-![pngcallemiaunohud](./GIFS4.0/Calles(NOHUD)/Miau.png)
+![pngcallemiaunohud](./Screenshots4.0/Calles(NOHUD)/Miau.png)
 ![gifcallemiaunohud](./GIFS4.0/Calles(NOHUD)/Miau.gif)
 
 ![pngcallemiauhud](./Screenshots4.0/Calles(HUD)/Miau-HUD.png)
-![gifcallemiauhud](./Screenshots4.0/Calles(HUD)/Miau-HUD.gif)
+![gifcallemiauhud](./GIFS4.0/Calles(HUD)/Miau-HUD.gif)
 
 36-Mister
 
-![pngcallemisternohud](./GIFS4.0/Calles(NOHUD)/Mister.png)
+![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 ![gifcallemisternohud](./GIFS4.0/Calles(NOHUD)/Mister.gif)
 
 ![pngcallemisterhud](./Screenshots4.0/Calles(HUD)/Mister-HUD.png)
-![gifcallemisterhud](./Screenshots4.0/Calles(HUD)/Mister-HUD.gif)
+![gifcallemisterhud](./GIFS4.0/Calles(HUD)/Mister-HUD.gif)
 
 37-Nickelodeon
 
-![pngcallenickelodeonnohud](./GIFS4.0/Calles(NOHUD)/Nickelodeon.png)
+![pngcallenickelodeonnohud](./Screenshots4.0/Calles(NOHUD)/Nickelodeon.png)
 ![gifcallenickelodeonnohud](./GIFS4.0/Calles(NOHUD)/Nickelodeon.gif)
 
 ![pngcallenickelodeonhud](./Screenshots4.0/Calles(HUD)/Nickelodeon-HUD.png)
-![gifcallenickelodeonhud](./Screenshots4.0/Calles(HUD)/Nickelodeon-HUD.gif)
+![gifcallenickelodeonhud](./GIFS4.0/Calles(HUD)/Nickelodeon-HUD.gif)
 
 38-NiHao
 
-![pngcallenihaonohud](./GIFS4.0/Calles(NOHUD)/Nihao.png)
+![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/Nihao.png)
 ![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/Nihao.gif)
 
 ![pngcallenihaohud](./Screenshots4.0/Calles(HUD)/Nihao-HUD.png)
-![gifcallenihaohud](./Screenshots4.0/Calles(HUD)/Nihao-HUD.gif)
+![gifcallenihaohud](./GIFS4.0/Calles(HUD)/Nihao-HUD.gif)
 
 39-No jodas
 
-![pngcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/Nojodas.png)
+![pngcallenojodasnohud](./Screenshots4.0/Calles(NOHUD)/Nojodas.png)
 ![gifcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/Nojodas.gif)
 
 ![pngcallenojodashud](./Screenshots4.0/Calles(HUD)/Nojodas-HUD.png)
-![gifcallenojodashud](./Screenshots4.0/Calles(HUD)/Nojodas-HUD.gif)
+![gifcallenojodashud](./GIFS4.0/Calles(HUD)/Nojodas-HUD.gif)
 
 40-No te creo
 
-![pngcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/Notecreo.png)
+![pngcallenotecreonohud](./Screenshots4.0/Calles(NOHUD)/Notecreo.png)
 ![gifcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/Notecreo.gif)
 
 ![pngcallenotecreohud](./Screenshots4.0/Calles(HUD)/Notecreo-HUD.png)
-![gifcallenotecreohud](./Screenshots4.0/Calles(HUD)/Notecreo-HUD.gif)
+![gifcallenotecreohud](./GIFS4.0/Calles(HUD)/Notecreo-HUD.gif)
 
 41-NOOOO
 
