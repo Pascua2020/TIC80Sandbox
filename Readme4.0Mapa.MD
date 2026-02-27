@@ -21,6 +21,15 @@ Avion2
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
 
+![pnganimacionavion2a](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-1.png)
+
+![pnganimacionavion2b](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-2.png)
+
+![pnganimacionavion2c](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-3.png)
+
+![pnganimacionavion2d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-4.png)
+
+
 Luces Aeropuerto
 
 ![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
