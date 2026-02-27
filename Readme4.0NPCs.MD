@@ -4,8 +4,8 @@ Capitan Inflacion
 
 ![gifnpc1](./GIFS4.0/Personajes/CapitanInflacion.gif)
 
-![pngnpc1A](./Screenshots4.0/Personajes/CapitanInflacion.png)
-![pngnpc1B](./Screenshots4.0/Personajes/CapitanInflacion2.png)
+![pngnpc1A](<./Screenshots4.0/Personajes/Capitan Inflacion.png>)
+![pngnpc1B](<./Screenshots4.0/Personajes/Capitan Inflacion-2.png>)
 
 Cerebrito Y Wachin
 
