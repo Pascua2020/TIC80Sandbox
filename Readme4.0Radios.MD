@@ -88,38 +88,38 @@ Radio 04
 
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
 
-![pngraadio04-01](./Screenshots4.0/Radios/Radio_04/R04-01.png)
-![pngraadio04-02](./Screenshots4.0/Radios/Radio_04/R04-02.png)
-![pngraadio04-03](./Screenshots4.0/Radios/Radio_04/R04-03.png)
-![pngraadio04-04](./Screenshots4.0/Radios/Radio_04/R04-04.png)
-![pngraadio04-05](./Screenshots4.0/Radios/Radio_04/R04-05.png)
-![pngraadio04-06](./Screenshots4.0/Radios/Radio_04/R04-06.png)
-![pngraadio04-07](./Screenshots4.0/Radios/Radio_04/R04-07.png)
-![pngraadio04-08](./Screenshots4.0/Radios/Radio_04/R04-08.png)
-![pngraadio04-09](./Screenshots4.0/Radios/Radio_04/R04-09.png)
+![pngraadio04-01](./Screenshots4.0/Radios/Radio04/R04-01.png)
+![pngraadio04-02](./Screenshots4.0/Radios/Radio04/R04-02.png)
+![pngraadio04-03](./Screenshots4.0/Radios/Radio04/R04-03.png)
+![pngraadio04-04](./Screenshots4.0/Radios/Radio04/R04-04.png)
+![pngraadio04-05](./Screenshots4.0/Radios/Radio04/R04-05.png)
+![pngraadio04-06](./Screenshots4.0/Radios/Radio04/R04-06.png)
+![pngraadio04-07](./Screenshots4.0/Radios/Radio04/R04-07.png)
+![pngraadio04-08](./Screenshots4.0/Radios/Radio04/R04-08.png)
+![pngraadio04-09](./Screenshots4.0/Radios/Radio04/R04-09.png)
 
-![pngraadio04-10](./Screenshots4.0/Radios/Radio_04/R04-10.png)
-![pngraadio04-11](./Screenshots4.0/Radios/Radio_04/R04-11.png)
-![pngraadio04-12](./Screenshots4.0/Radios/Radio_04/R04-12.png)
-![pngraadio04-13](./Screenshots4.0/Radios/Radio_04/R04-13.png)
+![pngraadio04-10](./Screenshots4.0/Radios/Radio04/R04-10.png)
+![pngraadio04-11](./Screenshots4.0/Radios/Radio04/R04-11.png)
+![pngraadio04-12](./Screenshots4.0/Radios/Radio04/R04-12.png)
+![pngraadio04-13](./Screenshots4.0/Radios/Radio04/R04-13.png)
 
 Radio 05
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
 
-![pngraadio05-01](./Screenshots4.0/Radios/Radio_05/R05-01.png)
-![pngraadio05-02](./Screenshots4.0/Radios/Radio_05/R05-02.png)
-![pngraadio05-03](./Screenshots4.0/Radios/Radio_05/R05-03.png)
-![pngraadio05-04](./Screenshots4.0/Radios/Radio_05/R05-04.png)
-![pngraadio05-05](./Screenshots4.0/Radios/Radio_05/R05-05.png)
-![pngraadio05-06](./Screenshots4.0/Radios/Radio_05/R05-06.png)
-![pngraadio05-07](./Screenshots4.0/Radios/Radio_05/R05-07.png)
-![pngraadio05-08](./Screenshots4.0/Radios/Radio_05/R05-08.png)
-![pngraadio05-09](./Screenshots4.0/Radios/Radio_05/R05-09.png)
+![pngraadio05-01](./Screenshots4.0/Radios/Radio05/R05-01.png)
+![pngraadio05-02](./Screenshots4.0/Radios/Radio05/R05-02.png)
+![pngraadio05-03](./Screenshots4.0/Radios/Radio05/R05-03.png)
+![pngraadio05-04](./Screenshots4.0/Radios/Radio05/R05-04.png)
+![pngraadio05-05](./Screenshots4.0/Radios/Radio05/R05-05.png)
+![pngraadio05-06](./Screenshots4.0/Radios/Radio05/R05-06.png)
+![pngraadio05-07](./Screenshots4.0/Radios/Radio05/R05-07.png)
+![pngraadio05-08](./Screenshots4.0/Radios/Radio05/R05-08.png)
+![pngraadio05-09](./Screenshots4.0/Radios/Radio05/R05-09.png)
 
-![pngraadio05-10](./Screenshots4.0/Radios/Radio_05/R05-10.png)
-![pngraadio05-11](./Screenshots4.0/Radios/Radio_05/R05-11.png)
-![pngraadio05-12](./Screenshots4.0/Radios/Radio_05/R05-12.png)
+![pngraadio05-10](./Screenshots4.0/Radios/Radio05/R05-10.png)
+![pngraadio05-11](./Screenshots4.0/Radios/Radio05/R05-11.png)
+![pngraadio05-12](./Screenshots4.0/Radios/Radio05/R05-12.png)
 
 Radio 06
 
