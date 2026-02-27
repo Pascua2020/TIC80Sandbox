@@ -37,6 +37,11 @@ Palomas
 
 ![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
 
+![pnganimacionpajaros](./Screenshots4.0/Mapa/Animaciones/Pajaros-1.png)
+
+![pnganimacionpajaros2](./Screenshots4.0/Mapa/Animaciones/Pajaros-2.png)
+
+
 GloboNPC
 
 ![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
