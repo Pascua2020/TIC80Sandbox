@@ -18,8 +18,8 @@ El Payaso Curro Curro
 
 ![gifnpc3](./GIFS4.0/Personajes/El_Payaso_Curro_Curro.gif)
 
-![pngnpc3A](./Screenshots4.0/Personajes/ElPayasoCurroCurro.png)
-![pngnpc3B](./Screenshots4.0/Personajes/ElPayasoCurroCurro2.png)
+![pngnpc3A](<./Screenshots4.0/Personajes/El Payaso Curro Curro.png>)
+![pngnpc3B](<./Screenshots4.0/Personajes/El Payaso Curro Curro-2.png>)
 
 Gatito
 
