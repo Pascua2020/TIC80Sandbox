@@ -46,21 +46,21 @@ Silvestre Stacchotta
 
 ![gifnpc7](./GIFS4.0/Personajes/SilvestreStacchotta.gif)
 
-![pngnpc7A](./Screenshots4.0/Personajes/SilvestreStacchotta.png)
-![pngnpc7B](./Screenshots4.0/Personajes/SilvestreStacchotta2.png)
+![pngnpc7A](<./Screenshots4.0/Personajes/Silvestre  Stacchotta.png>)
+![pngnpc7B](<./Screenshots4.0/Personajes/Silvestre  Stacchotta-2.png>)
 
 Suizo Romanche
 
 ![gifnpc8](./GIFS4.0/Personajes/SuizoRomanche.gif)
 
-![pngnpc8A](./Screenshots4.0/Personajes/SuizoRomanche.png)
-![pngnpc8B](./Screenshots4.0/Personajes/SuizoRomanche2.png)
+![pngnpc8A](<./Screenshots4.0/Personajes/Suizo Romanche.png>)
+![pngnpc8B](<./Screenshots4.0/Personajes/Suizo Romanche-2.png>)
 
 Timmy Trabalenguas
 
 ![gifnpc9](./GIFS4.0/Personajes/TimmyTrabalenguas.gif)
 
-![pngnpc9A](./Screenshots4.0/Personajes/TimmyTrabalenguas.png)
+![pngnpc9A](<./Screenshots4.0/Personajes/Timmy Trabalenguas.png>)
 
-![pngnpc9B](./Screenshots4.0/Personajes/TimmyTrabalenguas2.png)
+![pngnpc9B](<./Screenshots4.0/Personajes/Timmy Trabalenguas-2.png>)
 
