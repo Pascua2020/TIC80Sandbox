@@ -32,7 +32,7 @@ Avion
 
 Bomberos
 
-![pngvehiculobomberos](./Screenshots4.0/Vehiculos/bomberos.png)
+![pngvehiculobomberos](./Screenshots4.0/Vehiculos/Bomberos.png)
 ![gifvehiculobomberos](./GIFS4.0/Vehiculos/bomberos.gif)
 
 6
@@ -95,7 +95,7 @@ Lancha Kurro
 
 Limusina Diamante
 
-![pngvehiculolimusinadiamante](./Screenshots4.0/Vehiculos/limusinadiamante.png)
+![pngvehiculolimusinadiamante](./Screenshots4.0/Vehiculos/LimusinaDiamante.png)
 ![gifvehiculolimusinadiamante](./GIFS4.0/Vehiculos/limusinadiamante.gif)
 
 15
@@ -130,7 +130,7 @@ RC
 
 Skate Stilo
 
-![pngvehiculoskatestilo](./Screenshots4.0/Vehiculos/skatestilo.png)
+![pngvehiculoskatestilo](./Screenshots4.0/Vehiculos/SkateStilo.png)
 ![gifvehiculoskatestilo](./GIFS4.0/Vehiculos/skatestilo.gif)
 
 20
@@ -158,7 +158,7 @@ Tochota Fulero
 
 Tren
 
-![pngvehiculotren](./Screenshots4.0/Vehiculos/tren.png)
+![pngvehiculotren](./Screenshots4.0/Vehiculos/Tren.png)
 ![gifvehiculotren](./GIFS4.0/Vehiculos/tren.gif)
 
 24
