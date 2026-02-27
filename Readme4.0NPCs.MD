@@ -11,8 +11,8 @@ Cerebrito Y Wachin
 
 ![gifnpc2](./GIFS4.0/Personajes/CerebritoYWachin.gif)
 
-![pngnpc2A](./Screenshots4.0/Personajes/CerebritoYWachin.png)
-![pngnpc2B](./Screenshots4.0/Personajes/CerebritoYWachin2.png)
+![pngnpc2A](<./Screenshots4.0/Personajes/Cerebrito Y Wachin.png>)
+![pngnpc2B](<./Screenshots4.0/Personajes/Cerebrito Y Wachin-2.png>)
 
 El Payaso Curro Curro
 
