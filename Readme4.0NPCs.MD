@@ -26,7 +26,7 @@ Gatito
 ![gifnpc4](./GIFS4.0/Personajes/Gatito.gif)
 
 ![pngnpc4A](./Screenshots4.0/Personajes/Gatito.png)
-![pngnpc4B](./Screenshots4.0/Personajes/Gatito2.png)
+![pngnpc4B](./Screenshots4.0/Personajes/Gatito-2.png)
 
 Obsesivo Y Compulsivo
 
