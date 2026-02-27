@@ -32,15 +32,15 @@ Obsesivo Y Compulsivo
 
 ![gifnpc5](./GIFS4.0/Personajes/ObsesivoYCompulsivo.gif)
 
-![pngnpc5A](./Screenshots4.0/Personajes/ObsesivoYCompulsivo.png)
-![pngnpc5B](./Screenshots4.0/Personajes/ObsesivoYCompulsivo2.png)
+![pngnpc5A](<./Screenshots4.0/Personajes/Obsesivo Y Compulsivo.png>)
+![pngnpc5B](<./Screenshots4.0/Personajes/Obsesivo Y Compulsivo-2.png>)
 
 Rapi el Rapero
 
 ![gifnpc6](./GIFS4.0/Personajes/RapiElRapero.gif)
 
-![pngnpc6A](./Screenshots4.0/Personajes/RapiElRapero.png)
-![pngnpc6B](./Screenshots4.0/Personajes/RapiElRapero2.png)
+![pngnpc6A](<./Screenshots4.0/Personajes/Rapi El Rapero.png>)
+![pngnpc6B](<./Screenshots4.0/Personajes/Rapi El Rapero2.png>)
 
 Silvestre Stacchotta
 
