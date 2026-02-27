@@ -8,6 +8,15 @@ Avion1
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
+![pnganimacionavion1a](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-1.png)
+
+![pnganimacionavion1b](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-2.png)
+
+![pnganimacionavion1c](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-3.png)
+
+![pnganimacionavion1d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-4.png)
+
+
 Avion2
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
