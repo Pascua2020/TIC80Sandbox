@@ -67,7 +67,7 @@ Globo
 
 Jet de Combate
 
-![pngvehiculojetdecombate](./Screenshots4.0/Vehiculos/jetdecombate.png)
+![pngvehiculojetdecombate](./Screenshots4.0/Vehiculos/JetDeCombate.png)
 ![gifvehiculojetdecombate](./GIFS4.0/Vehiculos/jetdecombate.gif)
 
 11
