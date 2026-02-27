@@ -46,8 +46,8 @@ Silvestre Stacchotta
 
 ![gifnpc7](./GIFS4.0/Personajes/SilvestreStacchotta.gif)
 
-![pngnpc7A](<./Screenshots4.0/Personajes/Silvestre  Stacchotta.png>)
-![pngnpc7B](<./Screenshots4.0/Personajes/Silvestre  Stacchotta-2.png>)
+![pngnpc7A](<./Screenshots4.0/Personajes/Silvestre Stacchotta.png>)
+![pngnpc7B](<./Screenshots4.0/Personajes/Silvestre Stacchotta-2.png>)
 
 Suizo Romanche
 
