@@ -32,8 +32,8 @@ Obsesivo Y Compulsivo
 
 ![gifnpc5](./GIFS4.0/Personajes/ObsesivoYCompulsivo.gif)
 
-![pngnpc5A](<./Screenshots4.0/Personajes/Obsesivo Y Compulsivo.png>)
-![pngnpc5B](<./Screenshots4.0/Personajes/Obsesivo Y Compulsivo-2.png>)
+![pngnpc5A](<./Screenshots4.0/Personajes/Obsesivo y Compulsivo.png>)
+![pngnpc5B](<./Screenshots4.0/Personajes/Obsesivo y Compulsivo-2.png>)
 
 Rapi el Rapero
 
