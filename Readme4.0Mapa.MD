@@ -45,6 +45,11 @@ LanchaNPC
 
 ![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
 
+![pnganimacionlancha](./Screenshots4.0/Mapa/Animaciones/LanchaNPC-1.png)
+
+![pnganimacionlancha2](./Screenshots4.0/Mapa/Animaciones/LanchaNPC-2.png)
+
+
 Semaforos
 
 ![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
