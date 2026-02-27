@@ -39,8 +39,8 @@ Rapi el Rapero
 
 ![gifnpc6](./GIFS4.0/Personajes/RapiElRapero.gif)
 
-![pngnpc6A](<./Screenshots4.0/Personajes/Rapi El Rapero.png>)
-![pngnpc6B](<./Screenshots4.0/Personajes/Rapi El Rapero2.png>)
+![pngnpc6A](<./Screenshots4.0/Personajes/Rapi el Rapero.png>)
+![pngnpc6B](<./Screenshots4.0/Personajes/Rapi el Rapero2.png>)
 
 Silvestre Stacchotta
 
