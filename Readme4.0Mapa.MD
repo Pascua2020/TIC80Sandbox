@@ -46,6 +46,11 @@ GloboNPC
 
 ![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
 
+![pnganimacionglobo](./Screenshots4.0/Mapa/Animaciones/GloboNPC-1.png)
+
+![pnganimacionglobo2](./Screenshots4.0/Mapa/Animaciones/GloboNPC-2.png)
+
+
 LanchaNPC
 
 ![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
