@@ -59,6 +59,11 @@ Semaforos
 
 ![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
 
+![pnganimacionpeces](./Screenshots4.0/Mapa/Animaciones/Semaforo-1.png)
+
+![pnganimacionpeces2](./Screenshots4.0/Mapa/Animaciones/Semaforo-2.png)
+
+
 Tren
 
 ![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
