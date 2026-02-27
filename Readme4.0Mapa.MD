@@ -25,6 +25,11 @@ Peces
 
 ![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)
 
+![pnganimacionpeces](./Screenshots4.0/Mapa/Animaciones/Peces-1.png)
+
+![pnganimacionpeces2](./Screenshots4.0/Mapa/Animaciones/Peces-2.png)
+
+
 Palomas
 
 ![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
