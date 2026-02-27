@@ -73,6 +73,11 @@ Tren
 
 ![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
 
+![pnganimaciontren](./Screenshots4.0/Mapa/Animaciones/Tren-1.png)
+
+![pnganimaciontren2](./Screenshots4.0/Mapa/Animaciones/Tren-2.png)
+
+
 Ubicaciones
 
 Cajas
