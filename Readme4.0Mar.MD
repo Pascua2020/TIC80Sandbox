@@ -4,17 +4,26 @@ Dibujo Mar 01
 
 ![gifmardibujo01](./GIFS4.0/Mar/DibujoMar01.gif)
 
+![pngmardibujo01](./Screenshots4.0/Mar/DibujoMar01.png)
+
+
 "Vivan las Goticas"
 
 Dibujo Mar 02
 
 ![gifmardibujo02](./GIFS4.0/Mar/DibujoMar02.gif)
 
+![pngmardibujo02](./Screenshots4.0/Mar/DibujoMar02.png)
+
+
 Una Estrella.
 
 Dibujo Mar 03
 
 ![gifmardibujo03](./GIFS4.0/Mar/DibujoMar03.gif)
+
+![pngmardibujo04](./Screenshots4.0/Mar/DibujoMar04.png)
+
 
 Un Pinball.
 
