@@ -133,7 +133,7 @@ Dibujo Mar 16
 Dibujo Mar 17
 
 ![gifmardibujo17](./GIFS4.0/Mar/DibujoMar17.gif)
-![pngmardibujo17](./Screenshots4.0/Mar/DibujoMar01.png)
+![pngmardibujo17](./Screenshots4.0/Mar/DibujoMar17.png)
 
 Un Angel.
 
@@ -141,17 +141,24 @@ Dibujo Mar 18
 
 ![gifmardibujo18](./GIFS4.0/Mar/DibujoMar18.gif)
 
+![pngmardibujo18](./Screenshots4.0/Mar/DibujoMar18.png)
+
+
 "JAJA".
 
 Dibujo Mar 19
 
 ![gifmardibujo19](./GIFS4.0/Mar/DibujoMar19.gif)
 
+![pngmardibujo19](./Screenshots4.0/Mar/DibujoMar19.png)
+
 Un Avion.
 
 Dibujo Mar 20
 
 ![gifmardibujo20](./GIFS4.0/Mar/DibujoMar20.gif)
+
+![pngmardibujo20](./Screenshots4.0/Mar/DibujoMar20.png)
 
 "JEJE".
 
