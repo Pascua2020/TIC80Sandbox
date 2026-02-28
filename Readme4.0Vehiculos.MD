@@ -12,6 +12,7 @@ Readme4.0Vehiculos
 Ambulancia
 
 ![pngvehiculoambulancia](./Screenshots4.0/Vehiculos/Ambulancia.png)
+![pngvehiculoambulanciapreview](./Screenshots4.0/Vehiculos/Ambulancia-HUD.png)
 ![gifvehiculoambulancia](./GIFS4.0/Vehiculos/ambulancia.gif)
 
 3
