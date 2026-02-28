@@ -102,7 +102,7 @@ Cajas
 
 ![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)
 
-![pngubicacionescajas01](./Screenshots4.0/Mapa/Ubicaciones/Cajas/Caja01.png)
+![pngubicacionescajas01](./Screenshots4.0/Mapa/Ubicaciones/Cajas/Caja1.png)
 
 
 Condones
