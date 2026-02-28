@@ -554,7 +554,7 @@ Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador01](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador01.gif)
 
-![pngstuntmanv4.0mensajedesarrollador01](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador01.png)
+![pngstuntmanv4.0mensajedesarrollador01](./Screenshots4.0/Stuntman/MensajeDesarrollador/MensajeDesarrollador01.png)
 
 
 02
@@ -563,7 +563,7 @@ Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador02](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador02.gif)
 
-![pngstuntmanv4.0mensajedesarrollador02](./Screenshots4.0/Stuntman/Mensaje_Desarrollador/MensajeDesarrollador02.png)
+![pngstuntmanv4.0mensajedesarrollador02](./Screenshots4.0/Stuntman/MensajeDesarrollador/MensajeDesarrollador02.png)
 
 
 03
