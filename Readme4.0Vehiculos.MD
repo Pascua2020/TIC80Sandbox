@@ -173,7 +173,7 @@ Tochota MohToh
 Tochota Fulero
 
 ![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/tochotafulero.png)
-![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
+![pngvehiculoTochotaFuleropreview](./Screenshots4.0/Vehiculos/Preview/TochotaFulero-HUD.png)
 ![gifvehiculotochotafulero](./GIFS4.0/Vehiculos/tochotafulero.gif)
 
 23
@@ -189,7 +189,7 @@ Tren
 Turbo Diarrea
 
 ![pngvehiculoturbodiarrea](./Screenshots4.0/Vehiculos/turbodiarrea.png)
-![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
+![pngvehiculoTurboDiarreapreview](./Screenshots4.0/Vehiculos/Preview/TurboDiarrea-HUD.png)
 ![gifvehiculoturbodiarrea](./GIFS4.0/Vehiculos/turbodiarrea.gif)
 
 25
@@ -197,7 +197,7 @@ Turbo Diarrea
 ZhoZho Bilinkis
 
 ![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/zhozhobilinkis.png)
-![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
+![pngvehiculoZhozhoBilinkispreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoBilinkis-HUD.png)
 ![gifvehiculozhozhobilinkis](./GIFS4.0/Vehiculos/zhozhobilinkis.gif)
 
 26
@@ -205,7 +205,7 @@ ZhoZho Bilinkis
 ZhoZho EgoEgo
 
 ![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/zhozhoegoego.png)
-![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
+![pngvehiculoZhozhoEgoegopreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoEgoego-HUD.png)
 ![gifvehiculozhozhoegoego](./GIFS4.0/Vehiculos/zhozhoegoego.gif)
 
 27
@@ -213,6 +213,6 @@ ZhoZho EgoEgo
 ZhoZho Jade
 
 ![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/zhozhojade.png)
-![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
+![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoJade-HUD.png)
 ![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/zhozhojade.gif)
 
