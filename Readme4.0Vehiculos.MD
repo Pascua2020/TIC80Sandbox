@@ -36,6 +36,7 @@ Avion
 Bomberos
 
 ![pngvehiculobomberos](./Screenshots4.0/Vehiculos/Bomberos.png)
+![pngvehiculobomberospreview](./Screenshots4.0/Vehiculos/Preview/Bomberos-HUD.png)
 ![gifvehiculobomberos](./GIFS4.0/Vehiculos/bomberos.gif)
 
 6
@@ -43,6 +44,7 @@ Bomberos
 Bondi
 
 ![pngvehiculobondi](./Screenshots4.0/Vehiculos/Bondi.png)
+![pngvehiculobondipreview](./Screenshots4.0/Vehiculos/Preview/Bondi-HUD.png)
 ![gifvehiculobondi](./GIFS4.0/Vehiculos/bondi.gif)
 
 7
@@ -64,6 +66,7 @@ Formula Negativo
 Globo
 
 ![pngvehiculoglobo](./Screenshots4.0/Vehiculos/Globo.png)
+![pngvehiculoglobopreview](./Screenshots4.0/Vehiculos/Preview/Globo-HUD.png)
 ![gifvehiculoglobo](./GIFS4.0/Vehiculos/globo.gif)
 
 10
@@ -78,6 +81,7 @@ Jet de Combate
 Jetpack
 
 ![pngvehiculojetpack](./Screenshots4.0/Vehiculos/Jetpack.png)
+![pngvehiculojetpackpreview](./Screenshots4.0/Vehiculos/Preview/Jetpack-HUD.png)
 ![gifvehiculojetpack](./GIFS4.0/Vehiculos/jetpack.gif)
 
 12
@@ -85,6 +89,7 @@ Jetpack
 Kart
 
 ![pngvehiculokart](./Screenshots4.0/Vehiculos/Kart.png)
+![pngvehiculokartpreview](./Screenshots4.0/Vehiculos/Preview/Kart-HUD.png)
 ![gifvehiculokart](./GIFS4.0/Vehiculos/kart.gif)
 
 13
@@ -113,6 +118,7 @@ Monster Casta
 Policia
 
 ![pngvehiculopolicia](./Screenshots4.0/Vehiculos/Policia.png)
+![pngvehiculopoliciapreview](./Screenshots4.0/Vehiculos/Preview/Policia-HUD.png)
 ![gifvehiculopolicia](./GIFS4.0/Vehiculos/policia.gif)
 
 17
