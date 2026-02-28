@@ -164,7 +164,7 @@ Stacchotta 69
 
 Tochota MohToh
 
-![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/tochotamohtoh.png)
+![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/TochotaMohtoh.png)
 ![pngvehiculoTochotaMohtohpreview](./Screenshots4.0/Vehiculos/Preview/TochotaMohtoh-HUD.png)
 ![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/tochotamohtoh.gif)
 
@@ -172,7 +172,7 @@ Tochota MohToh
 
 Tochota Fulero
 
-![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/tochotafulero.png)
+![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/TochotaFuleroA.png)
 ![pngvehiculoTochotaFuleropreview](./Screenshots4.0/Vehiculos/Preview/TochotaFulero-HUD.png)
 ![gifvehiculotochotafulero](./GIFS4.0/Vehiculos/tochotafulero.gif)
 
@@ -188,7 +188,7 @@ Tren
 
 Turbo Diarrea
 
-![pngvehiculoturbodiarrea](./Screenshots4.0/Vehiculos/turbodiarrea.png)
+![pngvehiculoturbodiarrea](./Screenshots4.0/Vehiculos/TurboDiarrea.png)
 ![pngvehiculoTurboDiarreapreview](./Screenshots4.0/Vehiculos/Preview/TurboDiarrea-HUD.png)
 ![gifvehiculoturbodiarrea](./GIFS4.0/Vehiculos/turbodiarrea.gif)
 
@@ -196,7 +196,7 @@ Turbo Diarrea
 
 ZhoZho Bilinkis
 
-![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/zhozhobilinkis.png)
+![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/ZhoZhoBilinkisB.png)
 ![pngvehiculoZhozhoBilinkispreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoBilinkis-HUD.png)
 ![gifvehiculozhozhobilinkis](./GIFS4.0/Vehiculos/zhozhobilinkis.gif)
 
@@ -204,7 +204,7 @@ ZhoZho Bilinkis
 
 ZhoZho EgoEgo
 
-![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/zhozhoegoego.png)
+![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/ZhoZhoEgoEgoB.png)
 ![pngvehiculoZhozhoEgoegopreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoEgoego-HUD.png)
 ![gifvehiculozhozhoegoego](./GIFS4.0/Vehiculos/zhozhoegoego.gif)
 
@@ -212,7 +212,7 @@ ZhoZho EgoEgo
 
 ZhoZho Jade
 
-![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/zhozhojade.png)
+![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/ZhoZhoJadeA.png)
 ![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoJade-HUD.png)
 ![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/zhozhojade.gif)
 
