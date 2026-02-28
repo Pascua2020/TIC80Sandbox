@@ -758,13 +758,13 @@ Coches en Llamas
 
 ![gifstuntmanv4.0cochesenllamas](./GIFS4.0/Stuntman/CochesEnLlamas.gif)
 
-![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheEnLlamas.png)
+![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/MensajesEnemigos/MensajeCocheEnLlamas.png)
 
 Coche a Perseguir
 
 ![gifstuntmanv4.0cocheaperseguir](./GIFS4.0/Stuntman/CocheAPerseguir.gif)
 
-![pngstuntmanv4.0cocheaperseguir](./Screenshots4.0/Stuntman/Mensajes_Enemigos/MensajeCocheAPerseguir.png)
+![pngstuntmanv4.0cocheaperseguir](./Screenshots4.0/Stuntman/MensajesEnemigos/MensajeCocheAPerseguir.png)
 
 Cronometros
 
