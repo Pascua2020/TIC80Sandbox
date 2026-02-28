@@ -52,7 +52,7 @@ Recorrido Calles El Wiki Barrio :
 
 6
 Internets
-![pngsbarrios-barriointernets](./Screenshots4.0/Barrios/BarrioInternets.png)
+![pngsbarrios-barriointernets](./Screenshots4.0/Barrios/Internets.png)
 
 ![gifsbarrios-internets](./GIFS4.0/Barrios/Internets.gif)
 
@@ -104,7 +104,7 @@ Recorrido Calles Barrio Nueva Pyongyang:
 Obelisco
 
 ![gifsbarrios-obelisco](./GIFS4.0/Barrios/Obelisco.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barrioobelisco](./Screenshots4.0/Barrios/Obelisco.png)
 
 Recorrido Calles Barrio Obelisco :
 
@@ -114,7 +114,7 @@ Recorrido Calles Barrio Obelisco :
 Tigerlandia
 
 ![gifsbarrios-tigerlandia](./GIFS4.0/Barrios/Tigerlandia.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriotigerlandia](./Screenshots4.0/Barrios/Tigerlandia.png)
 
 Recorrido Calles Tigerlandia :
 
@@ -124,7 +124,7 @@ Recorrido Calles Tigerlandia :
 Villa Casta
 
 ![gifsbarrios-villacasta](./GIFS4.0/Barrios/VillaCasta.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriovillacasta](./Screenshots4.0/Barrios/VillaCasta.png)
 
 Recorrido Calles Villa Casta :
 
@@ -134,7 +134,7 @@ Recorrido Calles Villa Casta :
 Villa Castores
 
 ![gifsbarrios-villacastores](./GIFS4.0/Barrios/VillaCastores.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-villacastores](./Screenshots4.0/Barrios/VillaCastores.png)
 
 Recorrido Calles Villa Castores :
 
@@ -144,7 +144,7 @@ Recorrido Calles Villa Castores :
 Villa Pinball
 
 ![gifsbarrios-villapinball](./GIFS4.0/Barrios/VillaPinball.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriovillapinball](./Screenshots4.0/Barrios/VillaPinball.png)
 
 Recorrido Calles Villa Pinball :
 
@@ -154,11 +154,12 @@ Recorrido Calles Villa Pinball :
 Vivan los Osos
 
 ![gifsbarrios-vivanlososos](./GIFS4.0/Barrios/Vivanlososos.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-vivanlososos](./Screenshots4.0/Barrios/VivanLosOsos.png)
 
 Recorrido Calles Vivan los Osos :
 
 ![gifsbarrios-recorridobarriovivanlososos](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVivanLosOsos.gif)
+
 
 
 
