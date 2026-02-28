@@ -21,15 +21,15 @@ Readme4.0CutContent
 -Ciclo Dia Noche
 
 ![gifciclodianoche1](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_22-1-2025.gif)
-![gifciclodianoche2](./GIFS4.0/CutContent/Ciclo_Dia_Noche/Ciclo_Dia_Noche_(_ciclo_)_4-3-2025.gif)
+![gifciclodianoche2](./GIFS4.0/CutContent/CicloDiaNoche/Ciclo_Dia_Noche_(_ciclo_)_4-3-2025.gif)
 
-![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche1A.png)
-![pngcutcontentCicloDiaNoche1B](./Screenshots4.0/CutContent/CicloDiaNoche1B.png)
-![pngcutcontentCicloDiaNoche1C](./Screenshots4.0/CutContent/CicloDiaNoche1C.png)
-![pngcutcontentCicloDiaNoche1D](./Screenshots4.0/CutContent/CicloDiaNoche1D.png)
+![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1A.png)
+![pngcutcontentCicloDiaNoche1B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1B.png)
+![pngcutcontentCicloDiaNoche1C](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1C.png)
+![pngcutcontentCicloDiaNoche1D](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1D.png)
 
-![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche2A.png)
-![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche2B.png)
+![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2A.png)
+![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2B.png)
 
 -Climas
 
