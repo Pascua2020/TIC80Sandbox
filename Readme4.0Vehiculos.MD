@@ -4,7 +4,7 @@ Readme4.0Vehiculos
 
 4X4 420
 
-![pngvehiculo4x4420](./Screenshots4.0/Vehiculos/4x4420.png)
+![pngvehiculo4x4420](./Screenshots4.0/Vehiculos/4X4420.png)
 ![gifvehiculo4x4420](./GIFS4.0/Vehiculos/4x4420.gif)
 ![pngvehiculo4X4420preview](./Screenshots4.0/Vehiculos/Preview/4X4420-HUD.png)
 
