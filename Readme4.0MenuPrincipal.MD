@@ -59,9 +59,9 @@ DEMO
 
 ![gifMenuPrincipalDemo](./GIFS4.0/MenuPrincipal/Demo.gif)
 
-![pngMenuPrincipalDemo1](./Screenshots4.0/MenuPrincipal/Demo1.png)
-![pngMenuPrincipalDemo2](./Screenshots4.0/MenuPrincipal/Demo2.png)
-![pngMenuPrincipalDemo3](./Screenshots4.0/MenuPrincipal/Demo3.png)
+![pngMenuPrincipalDemo1](./Screenshots4.0/Demo/Demo1.png)
+![pngMenuPrincipalDemo2](./Screenshots4.0/Demo/Demo2.png)
+![pngMenuPrincipalDemo3](./Screenshots4.0/Demo/Demo3.png)
 
 INICIOS
 
