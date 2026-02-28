@@ -399,28 +399,28 @@ GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )
 
 Caballo
 
-![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficosSinUsarCaballo.png)
+![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficoSinUsarCaballo.png)
 
 Coche
 
-![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficosSinUsarCoche.png)
+![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficoSinUsarCoche.png)
 
 OVNI
 
-![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficosSinUsarOVNI.png)
+![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficoSinUsarOVNI.png)
 
 Jet de Combate Alternativo
 
-![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficosSinUsarJetDeCombateB.png)
+![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficoSinUsarJetDeCombateB.png)
 
 Cabina de Peaje
 
-![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficosSinUsarPeaje.png)
+![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficoSinUsarPeaje.png)
 
 Escalera
 
-![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficosSinUsarEscalera.png)
+![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficoSinUsarEscalera.png)
 
 Tiburon
 
-![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficosSinUsarTiburon.png)
+![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficoSinUsarTiburon.png)
