@@ -243,18 +243,18 @@ Radio 11
 
 11
 
-![pngraadio11-01](./Screenshots4.0/Radios/Radio_11/R11-01.png)
-![pngraadio11-02](./Screenshots4.0/Radios/Radio_11/R11-02.png)
-![pngraadio11-03](./Screenshots4.0/Radios/Radio_11/R11-03.png)
-![pngraadio11-04](./Screenshots4.0/Radios/Radio_11/R11-04.png)
-![pngraadio11-05](./Screenshots4.0/Radios/Radio_11/R11-05.png)
-![pngraadio11-06](./Screenshots4.0/Radios/Radio_11/R11-06.png)
-![pngraadio11-07](./Screenshots4.0/Radios/Radio_11/R11-07.png)
-![pngraadio11-08](./Screenshots4.0/Radios/Radio_11/R11-08.png)
-![pngraadio11-09](./Screenshots4.0/Radios/Radio_11/R11-09.png)
+![pngraadio11-01](./Screenshots4.0/Radios/Radio11/R11-01.png)
+![pngraadio11-02](./Screenshots4.0/Radios/Radio11/R11-02.png)
+![pngraadio11-03](./Screenshots4.0/Radios/Radio11/R11-03.png)
+![pngraadio11-04](./Screenshots4.0/Radios/Radio11/R11-04.png)
+![pngraadio11-05](./Screenshots4.0/Radios/Radio11/R11-05.png)
+![pngraadio11-06](./Screenshots4.0/Radios/Radio11/R11-06.png)
+![pngraadio11-07](./Screenshots4.0/Radios/Radio11/R11-07.png)
+![pngraadio11-08](./Screenshots4.0/Radios/Radio11/R11-08.png)
+![pngraadio11-09](./Screenshots4.0/Radios/Radio11/R11-09.png)
 
-![pngraadio11-10](./Screenshots4.0/Radios/Radio_11/R11-10.png)
-![pngraadio11-11](./Screenshots4.0/Radios/Radio_11/R11-11.png)
+![pngraadio11-10](./Screenshots4.0/Radios/Radio11/R11-10.png)
+![pngraadio11-11](./Screenshots4.0/Radios/Radio11/R11-11.png)
 
 Radio 12
 
@@ -262,19 +262,19 @@ Radio 12
 
 10
 
-![pngraadio12-01](./Screenshots4.0/Radios/Radio_12/R12-01.png)
-![pngraadio12-02](./Screenshots4.0/Radios/Radio_12/R12-02.png)
-![pngraadio12-03](./Screenshots4.0/Radios/Radio_12/R12-03.png)
-![pngraadio12-04](./Screenshots4.0/Radios/Radio_12/R12-04.png)
-![pngraadio12-05](./Screenshots4.0/Radios/Radio_12/R12-05.png)
-![pngraadio12-06](./Screenshots4.0/Radios/Radio_12/R12-06.png)
-![pngraadio12-07](./Screenshots4.0/Radios/Radio_12/R12-07.png)
-![pngraadio12-08](./Screenshots4.0/Radios/Radio_12/R12-08.png)
-![pngraadio12-09](./Screenshots4.0/Radios/Radio_12/R12-09.png)
+![pngraadio12-01](./Screenshots4.0/Radios/Radio12/R12-01.png)
+![pngraadio12-02](./Screenshots4.0/Radios/Radio12/R12-02.png)
+![pngraadio12-03](./Screenshots4.0/Radios/Radio12/R12-03.png)
+![pngraadio12-04](./Screenshots4.0/Radios/Radio12/R12-04.png)
+![pngraadio12-05](./Screenshots4.0/Radios/Radio12/R12-05.png)
+![pngraadio12-06](./Screenshots4.0/Radios/Radio12/R12-06.png)
+![pngraadio12-07](./Screenshots4.0/Radios/Radio12/R12-07.png)
+![pngraadio12-08](./Screenshots4.0/Radios/Radio12/R12-08.png)
+![pngraadio12-09](./Screenshots4.0/Radios/Radio12/R12-09.png)
 
-![pngraadio12-10](./Screenshots4.0/Radios/Radio_12/R12-10.png)
-![pngraadio12-11](./Screenshots4.0/Radios/Radio_12/R12-11.png)
-![pngraadio12-12](./Screenshots4.0/Radios/Radio_12/R12-12.png)
+![pngraadio12-10](./Screenshots4.0/Radios/Radio12/R12-10.png)
+![pngraadio12-11](./Screenshots4.0/Radios/Radio12/R12-11.png)
+![pngraadio12-12](./Screenshots4.0/Radios/Radio12/R12-12.png)
 
 Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
