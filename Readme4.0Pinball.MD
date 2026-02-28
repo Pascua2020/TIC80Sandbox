@@ -70,49 +70,49 @@ Frases Rebote
 
 ![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/Frases Rebote/FrasePinball1.gif>)
 
-![pngpinballfraserebote1](<./Screenshots4.0/Pinball/Frases Rebote/FraseRebote1.png>)
+![pngpinballfraserebote1](<./Screenshots4.0/Pinball/FrasesRebote/FraseRebote1.png>)
 
 2
 
 ![gifpinballfrasesrebote2](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball2.gif)
 
-![pngpinballfraserebote2](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote2.png)
+![pngpinballfraserebote2](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote2.png)
 
 3
 
 ![gifpinballfrasesrebote3](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball3.gif)
 
-![pngpinballfraserebote3](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote3.png)
+![pngpinballfraserebote3](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote3.png)
 
 4
 
 ![gifpinballfrasesrebote4](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball4.gif)
 
-![pngpinballfraserebote4](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote4.png)
+![pngpinballfraserebote4](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote4.png)
 
 5
 
 ![gifpinballfrasesrebote5](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball5.gif)
 
-![pngpinballfraserebote5](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote5.png)
+![pngpinballfraserebote5](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote5.png)
 
 6
 
 ![gifpinballfrasesrebote6](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball6.gif)
 
-![pngpinballfraserebote6](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote6.png)
+![pngpinballfraserebote6](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote6.png)
 
 7
 
 ![gifpinballfrasesrebote7](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball7.gif)
 
-![pngpinballfraserebote7](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote7.png)
+![pngpinballfraserebote7](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote7.png)
 
 8
 
 ![gifpinballfrasesrebote8](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball8.gif)
 
-![pngpinballfraserebote8](./Screenshots4.0/Pinball/Frases_Rebote/FraseRebote8.png)
+![pngpinballfraserebote8](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote8.png)
 
 Rap Gales
 
