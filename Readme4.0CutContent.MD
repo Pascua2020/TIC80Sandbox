@@ -6,17 +6,17 @@ Readme4.0CutContent
 ![gifchat2](./GIFS4.0/CutContent/Chat/Chat_(wpp2)_-_4-3-2025.gif)
 ![gifchat3](./GIFS4.0/CutContent/Chat/Chat_(_ZMensajesMoviles_)_-_12-3-2025.gif)
 
-![pngcutcontentChat1A](./Screenshots4.0/CutContent/Chat1A.png)
-![pngcutcontentChat1B](./Screenshots4.0/CutContent/Chat1B.png)
-![pngcutcontentChat1C](./Screenshots4.0/CutContent/Chat1C.png)
+![pngcutcontentChat1A](./Screenshots4.0/CutContent/Chat/Chat1A.png)
+![pngcutcontentChat1B](./Screenshots4.0/CutContent/Chat/Chat1B.png)
+![pngcutcontentChat1C](./Screenshots4.0/CutContent/Chat/Chat1C.png)
 
-![pngcutcontentChat2A](./Screenshots4.0/CutContent/Chat2A.png)
-![pngcutcontentChat2B](./Screenshots4.0/CutContent/Chat2B.png)
-![pngcutcontentChat2C](./Screenshots4.0/CutContent/Chat2C.png)
+![pngcutcontentChat2A](./Screenshots4.0/CutContent/Chat/Chat2A.png)
+![pngcutcontentChat2B](./Screenshots4.0/CutContent/Chat/Chat2B.png)
+![pngcutcontentChat2C](./Screenshots4.0/CutContent/Chat/Chat2C.png)
 
-![pngcutcontentChat3A](./Screenshots4.0/CutContent/Chat3A.png)
-![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat3B.png)
-![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat3C.png)
+![pngcutcontentChat3A](./Screenshots4.0/CutContent/Chat/Chat3A.png)
+![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat/Chat3B.png)
+![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat/Chat3C.png)
 
 -Ciclo Dia Noche
 
