@@ -8,31 +8,31 @@ Animacion Fondo
 
 ![gifpinballanimacionfondo1](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo1.gif)
 
-![pngpinballanimacionfondo1A](./Screenshots4.0/Pinball/Animacion_Fondo/1A.png)
-![pngpinballanimacionfondo1B](./Screenshots4.0/Pinball/Animacion_Fondo/1B.png)
-![pngpinballanimacionfondo1C](./Screenshots4.0/Pinball/Animacion_Fondo/1C.png)
-![pngpinballanimacionfondo1D](./Screenshots4.0/Pinball/Animacion_Fondo/1D.png)
-![pngpinballanimacionfondo1E](./Screenshots4.0/Pinball/Animacion_Fondo/1E.png)
+![pngpinballanimacionfondo1A](./Screenshots4.0/Pinball/AnimacionFondo/1A.png)
+![pngpinballanimacionfondo1B](./Screenshots4.0/Pinball/AnimacionFondo/1B.png)
+![pngpinballanimacionfondo1C](./Screenshots4.0/Pinball/AnimacionFondo/1C.png)
+![pngpinballanimacionfondo1D](./Screenshots4.0/Pinball/AnimacionFondo/1D.png)
+![pngpinballanimacionfondo1E](./Screenshots4.0/Pinball/AnimacionFondo/1E.png)
 
 2
 
 ![gifpinballanimacionfondo2](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo2.gif)
 
-![pngpinballanimacionfondo2A](./Screenshots4.0/Pinball/Animacion_Fondo/2A.png)
-![pngpinballanimacionfondo2B](./Screenshots4.0/Pinball/Animacion_Fondo/2B.png)
-![pngpinballanimacionfondo2C](./Screenshots4.0/Pinball/Animacion_Fondo/2C.png)
-![pngpinballanimacionfondo2D](./Screenshots4.0/Pinball/Animacion_Fondo/2D.png)
-![pngpinballanimacionfondo2E](./Screenshots4.0/Pinball/Animacion_Fondo/2E.png)
+![pngpinballanimacionfondo2A](./Screenshots4.0/Pinball/AnimacionFondo/2A.png)
+![pngpinballanimacionfondo2B](./Screenshots4.0/Pinball/AnimacionFondo/2B.png)
+![pngpinballanimacionfondo2C](./Screenshots4.0/Pinball/AnimacionFondo/2C.png)
+![pngpinballanimacionfondo2D](./Screenshots4.0/Pinball/AnimacionFondo/2D.png)
+![pngpinballanimacionfondo2E](./Screenshots4.0/Pinball/AnimacionFondo/2E.png)
 
 3
 
 ![gifpinballanimacionfondo3](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo3.gif)
 
-![pngpinballanimacionfondo3A](./Screenshots4.0/Pinball/Animacion_Fondo/3A.png)
-![pngpinballanimacionfondo3B](./Screenshots4.0/Pinball/Animacion_Fondo/3B.png)
-![pngpinballanimacionfondo3C](./Screenshots4.0/Pinball/Animacion_Fondo/3C.png)
-![pngpinballanimacionfondo3D](./Screenshots4.0/Pinball/Animacion_Fondo/3D.png)
-![pngpinballanimacionfondo3E](./Screenshots4.0/Pinball/Animacion_Fondo/3E.png)
+![pngpinballanimacionfondo3A](./Screenshots4.0/Pinball/AnimacionFondo/3A.png)
+![pngpinballanimacionfondo3B](./Screenshots4.0/Pinball/AnimacionFondo/3B.png)
+![pngpinballanimacionfondo3C](./Screenshots4.0/Pinball/AnimacionFondo/3C.png)
+![pngpinballanimacionfondo3D](./Screenshots4.0/Pinball/AnimacionFondo/3D.png)
+![pngpinballanimacionfondo3E](./Screenshots4.0/Pinball/AnimacionFondo/3E.png)
 
 Frases a Completar
 
