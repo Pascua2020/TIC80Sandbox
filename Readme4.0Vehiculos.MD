@@ -20,6 +20,7 @@ Ambulancia
 Antimoto
 
 ![pngvehiculoantimoto](./Screenshots4.0/Vehiculos/AntiMoto.png)
+![pngvehiculoantimotopreview](./Screenshots4.0/Vehiculos/Preview/AntiMoto-HUD.png)
 ![gifvehiculoantimoto](./GIFS4.0/Vehiculos/antimoto.gif)
 
 4
@@ -27,6 +28,7 @@ Antimoto
 Avion
 
 ![pngvehiculoavion](./Screenshots4.0/Vehiculos/Avion.png)
+![pngvehiculoavionpreview](./Screenshots4.0/Vehiculos/Preview/Avion-HUD.png)
 ![gifvehiculoavion](./GIFS4.0/Vehiculos/avion.gif)
 
 5
