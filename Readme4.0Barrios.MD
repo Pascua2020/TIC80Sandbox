@@ -14,7 +14,7 @@ Recorrido Calles Barrio Chetisimo :
 Barrio Turrisimo
 
 ![gifsbarrios-barrioturrisimo](./GIFS4.0/Barrios/BarrioTurrisimo.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barrioturrisimo](./Screenshots4.0/Barrios/BarrioTurrisimo.png)
 
 Recorrido Calles Barrio Turrisimo :
 
@@ -24,7 +24,7 @@ Recorrido Calles Barrio Turrisimo :
 Casi Casi
 
 ![gifsbarrios-casicasi](./GIFS4.0/Barrios/Casicasi.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriocasicasi](./Screenshots4.0/Barrios/CasiCasi.png)
 
 Recorrido Calles CasiCasi :
 
@@ -34,7 +34,7 @@ Recorrido Calles CasiCasi :
 Currolandia
 
 ![gifsbarrios-currolandia](./GIFS4.0/Barrios/Currolandia.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriocurrolandia](./Screenshots4.0/Barrios/Currolandia.png)
 
 Recorrido Calles Currolandia :
 
@@ -44,7 +44,7 @@ Recorrido Calles Currolandia :
 El Wiki Barrio
 
 ![gifsbarrios-elwikibarrio](./GIFS4.0/Barrios/ElWikiBarrio.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-elwikibarrio](./Screenshots4.0/Barrios/ElWikiBarrio.png)
 
 Recorrido Calles El Wiki Barrio :
 
@@ -52,7 +52,7 @@ Recorrido Calles El Wiki Barrio :
 
 6
 Internets
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barriointernets](./Screenshots4.0/Barrios/BarrioInternets.png)
 
 ![gifsbarrios-internets](./GIFS4.0/Barrios/Internets.gif)
 
@@ -64,7 +64,7 @@ Recorrido Calles Barrio Internets :
 No no no no
 
 ![gifsbarrios-nononono](./GIFS4.0/Barrios/Nononono.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barrionononono](./Screenshots4.0/Barrios/Nononono.png)
 
 Recorrido Calles Nononono :
 
@@ -74,7 +74,7 @@ Recorrido Calles Nononono :
 No se queje
 
 ![gifsbarrios-nosequeje](./GIFS4.0/Barrios/Nosequeje.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barrionosequeje](./Screenshots4.0/Barrios/NoSeQueje.png)
 
 Recorrido Calles Barrio Nosequeje :
 
@@ -84,7 +84,7 @@ Recorrido Calles Barrio Nosequeje :
 Nueva Madrid
 
 ![gifsbarrios-NuevaMadrid](./GIFS4.0/Barrios/NuevaMadrid.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-barrionuevamadrid](./Screenshots4.0/Barrios/NuevaMadrid.png)
 
 Recorrido Calles Barrio Nueva Madrid :
 
@@ -94,7 +94,7 @@ Recorrido Calles Barrio Nueva Madrid :
 Nueva Pyongyang
 
 ![gifsbarrios-nuevapyongyang](./GIFS4.0/Barrios/NuevaPyongyang.gif)
-![pngsbarrios-barrio](./Screenshots4.0/Barrios/Barrio.png)
+![pngsbarrios-nuevapyongyang](./Screenshots4.0/Barrios/NuevaPyongyang.png)
 
 Recorrido Calles Barrio Nueva Pyongyang:
 
@@ -159,6 +159,7 @@ Vivan los Osos
 Recorrido Calles Vivan los Osos :
 
 ![gifsbarrios-recorridobarriovivanlososos](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVivanLosOsos.gif)
+
 
 
 
