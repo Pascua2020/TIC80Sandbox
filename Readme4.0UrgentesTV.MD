@@ -5,22 +5,22 @@ Urgente 1
 ![gifurgente1](./GIFS4.0/Urgentes/Urgente1.gif)
 
 ![pngurgente1-01](< ./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-01.png >)
-![pngurgente1-02](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-02.png)
-![pngurgente1-03](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-03.png)
-![pngurgente1-04](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-04.png)
-![pngurgente1-05](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-05.png)
-![pngurgente1-06](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-06.png)
-![pngurgente1-07](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-07.png)
-![pngurgente1-08](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-08.png)
-![pngurgente1-09](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-09.png)
+![pngurgente1-02](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-02.png>)
+![pngurgente1-03](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-03.png>)
+![pngurgente1-04](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-04.png>)
+![pngurgente1-05](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-05.png>)
+![pngurgente1-06](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-06.png>)
+![pngurgente1-07](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-07.png>)
+![pngurgente1-08](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-08.png>)
+![pngurgente1-09](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-09.png>)
 
-![pngurgente1-10](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-10.png)
-![pngurgente1-11](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-11.png)
-![pngurgente1-12](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-12.png)
-![pngurgente1-13](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-13.png)
-![pngurgente1-14](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-14.png)
-![pngurgente1-15](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-15.png)
-![pngurgente1-16](./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-16.png)
+![pngurgente1-10](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-10.png>)
+![pngurgente1-11](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-11.png>)
+![pngurgente1-12](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-12.png>)
+![pngurgente1-13](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-13.png>)
+![pngurgente1-14](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-14.png>)
+![pngurgente1-15](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-15.png>)
+![pngurgente1-16](<./Screenshots4.0/Urgentes/Urgente1/UrgenteTV1-16.png>)
 
 #Hashtags Urgente 1:
 
@@ -35,7 +35,7 @@ Urgente 2
 
 ![gifurgente2](./GIFS4.0/Urgentes/Urgente2.gif)
 
-![pngurgente2-01](./Screenshots4.0/Urgentes/Urgente2/UrgenteTV2-01.png)
+![pngurgente2-01](<./Screenshots4.0/Urgentes/Urgente2/UrgenteTV2-01.png>)
 ![pngurgente2-02](./Screenshots4.0/Urgentes/Urgente2/UrgenteTV2-02.png)
 ![pngurgente2-03](./Screenshots4.0/Urgentes/Urgente2/UrgenteTV2-03.png)
 ![pngurgente2-04](./Screenshots4.0/Urgentes/Urgente2/UrgenteTV2-04.png)
