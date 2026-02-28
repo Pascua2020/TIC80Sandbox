@@ -31,11 +31,17 @@ Dibujo Mar 04
 
 ![gifmardibujo04](./GIFS4.0/Mar/DibujoMar04.gif)
 
+![pngmardibujo04](./Screenshots4.0/Mar/DibujoMar04.png)
+
+
 "Vivan las Rusas"
 
 Dibujo Mar 05
 
 ![gifmardibujo05](./GIFS4.0/Mar/DibujoMar05.gif)
+
+![pngmardibujo05](./Screenshots4.0/Mar/DibujoMar05.png)
+
 
 Una Motosierra.
 
@@ -43,11 +49,15 @@ Dibujo Mar 06
 
 ![gifmardibujo06](./GIFS4.0/Mar/DibujoMar06.gif)
 
+![pngmardibujo06](./Screenshots4.0/Mar/DibujoMar06.png)
+
 Una Bandera Argentina.
 
 Dibujo Mar 07
 
 ![gifmardibujo07](./GIFS4.0/Mar/DibujoMar07.gif)
+
+![pngmardibujo07](./Screenshots4.0/Mar/DibujoMar07.png)
 
 "Gloria al Sexo Hardcore".
 
@@ -55,17 +65,24 @@ Dibujo Mar 08
 
 ![gifmardibujo08](./GIFS4.0/Mar/DibujoMar08.gif)
 
+![pngmardibujo08](./Screenshots4.0/Mar/DibujoMar08.png)
+
+
 "Ni Hao ( Hola en Chino Mandarin )".
 
 Dibujo Mar 09
 
 ![gifmardibujo09](./GIFS4.0/Mar/DibujoMar09.gif)
 
+![pngmardibujo09](./Screenshots4.0/Mar/DibujoMar09.png)
+
 "Puto el que lee".
 
 Dibujo Mar 10
 
 ![gifmardibujo10](./GIFS4.0/Mar/DibujoMar10.gif)
+
+![pngmardibujo10](./Screenshots4.0/Mar/DibujoMar10.png)
 
 App de Citas.
 
