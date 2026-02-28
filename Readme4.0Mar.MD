@@ -22,7 +22,7 @@ Dibujo Mar 03
 
 ![gifmardibujo03](./GIFS4.0/Mar/DibujoMar03.gif)
 
-![pngmardibujo04](./Screenshots4.0/Mar/DibujoMar04.png)
+![pngmardibujo03](./Screenshots4.0/Mar/DibujoMar03.png)
 
 
 Un Pinball.
