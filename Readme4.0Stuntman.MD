@@ -2,16 +2,16 @@ Readme4.0Stuntman
 
 Descripcion de Mision + Selector de Fases
 
-![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase01.png)
-![pngstuntmanv4.0selectorfase02](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase02.png)
-![pngstuntmanv4.0selectorfase03](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase03.png)
-![pngstuntmanv4.0selectorfase04](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase04.png)
-![pngstuntmanv4.0selectorfase05](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase05.png)
-![pngstuntmanv4.0selectorfase06](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase06.png)
-![pngstuntmanv4.0selectorfase07](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase07.png)
-![pngstuntmanv4.0selectorfase08](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase08.png)
-![pngstuntmanv4.0selectorfase09](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase09.png)
-![pngstuntmanv4.0selectorfase10](./Screenshots4.0/Stuntman/Selector_Fase/SelectorFase10.png)
+![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
+![pngstuntmanv4.0selectorfase02](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase02.png)
+![pngstuntmanv4.0selectorfase03](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase03.png)
+![pngstuntmanv4.0selectorfase04](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase04.png)
+![pngstuntmanv4.0selectorfase05](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase05.png)
+![pngstuntmanv4.0selectorfase06](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase06.png)
+![pngstuntmanv4.0selectorfase07](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase07.png)
+![pngstuntmanv4.0selectorfase08](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase08.png)
+![pngstuntmanv4.0selectorfase09](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase09.png)
+![pngstuntmanv4.0selectorfase10](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase10.png)
 
 ![pngstuntmanv4.0nombrestacchotta](./Screenshots4.0/Stuntman/NombreStacchotta.png)
 
