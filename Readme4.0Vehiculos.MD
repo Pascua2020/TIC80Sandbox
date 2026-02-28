@@ -6,6 +6,7 @@ Readme4.0Vehiculos
 
 ![pngvehiculo4x4420](./Screenshots4.0/Vehiculos/4x4420.png)
 ![gifvehiculo4x4420](./GIFS4.0/Vehiculos/4x4420.gif)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 
 2
 
@@ -52,6 +53,7 @@ Bondi
 Carro de Golf
 
 ![pngvehiculocarrodegolf](./Screenshots4.0/Vehiculos/carrodegolf.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculocarrodegolf](./GIFS4.0/Vehiculos/carrodegolf.gif)
 
 8
@@ -59,6 +61,7 @@ Carro de Golf
 Formula Negativo
 
 ![pngvehiculoformulanegativo](./Screenshots4.0/Vehiculos/formulanegativo.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculoformulanegativo](./GIFS4.0/Vehiculos/formulanegativo.gif)
 
 9
@@ -74,6 +77,7 @@ Globo
 Jet de Combate
 
 ![pngvehiculojetdecombate](./Screenshots4.0/Vehiculos/JetDeCombate.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculojetdecombate](./GIFS4.0/Vehiculos/jetdecombate.gif)
 
 11
@@ -97,6 +101,7 @@ Kart
 Lancha Kurro
 
 ![pngvehiculolanchakurro](./Screenshots4.0/Vehiculos/lanchakurro.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculolanchakurro](./GIFS4.0/Vehiculos/lanchakurro.gif)
 
 14
@@ -104,6 +109,7 @@ Lancha Kurro
 Limusina Diamante
 
 ![pngvehiculolimusinadiamante](./Screenshots4.0/Vehiculos/LimusinaDiamante.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculolimusinadiamante](./GIFS4.0/Vehiculos/limusinadiamante.gif)
 
 15
@@ -111,6 +117,7 @@ Limusina Diamante
 Monster Casta
 
 ![pngvehiculomonstercasta](./Screenshots4.0/Vehiculos/monstercasta.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculomonstercasta](./GIFS4.0/Vehiculos/monstercasta.gif)
 
 16
@@ -126,6 +133,7 @@ Policia
 Rally ElWacho
 
 ![pngvehiculorallyelwacho](./Screenshots4.0/Vehiculos/rallyelwacho.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculorallyelwacho](./GIFS4.0/Vehiculos/rallyelwacho.gif)
 
 18
@@ -133,6 +141,7 @@ Rally ElWacho
 RC
 
 ![pngvehiculorc](./Screenshots4.0/Vehiculos/rc.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculorc](./GIFS4.0/Vehiculos/rc.gif)
 
 19
@@ -140,6 +149,7 @@ RC
 Skate Stilo
 
 ![pngvehiculoskatestilo](./Screenshots4.0/Vehiculos/SkateStilo.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculoskatestilo](./GIFS4.0/Vehiculos/skatestilo.gif)
 
 20
@@ -147,6 +157,7 @@ Skate Stilo
 Stacchotta 69
 
 ![pngvehiculostacchotta69](./Screenshots4.0/Vehiculos/stacchotta69.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculostacchotta69](./GIFS4.0/Vehiculos/stacchotta69.gif)
 
 21
@@ -154,6 +165,7 @@ Stacchotta 69
 Tochota MohToh
 
 ![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/tochotamohtoh.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/tochotamohtoh.gif)
 
 22
@@ -161,6 +173,7 @@ Tochota MohToh
 Tochota Fulero
 
 ![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/tochotafulero.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculotochotafulero](./GIFS4.0/Vehiculos/tochotafulero.gif)
 
 23
@@ -168,6 +181,7 @@ Tochota Fulero
 Tren
 
 ![pngvehiculotren](./Screenshots4.0/Vehiculos/Tren.png)
+![pngvehiculotrenpreview](./Screenshots4.0/Vehiculos/Preview/Tren-HUD.png)
 ![gifvehiculotren](./GIFS4.0/Vehiculos/tren.gif)
 
 24
@@ -175,6 +189,7 @@ Tren
 Turbo Diarrea
 
 ![pngvehiculoturbodiarrea](./Screenshots4.0/Vehiculos/turbodiarrea.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculoturbodiarrea](./GIFS4.0/Vehiculos/turbodiarrea.gif)
 
 25
@@ -182,6 +197,7 @@ Turbo Diarrea
 ZhoZho Bilinkis
 
 ![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/zhozhobilinkis.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculozhozhobilinkis](./GIFS4.0/Vehiculos/zhozhobilinkis.gif)
 
 26
@@ -189,6 +205,7 @@ ZhoZho Bilinkis
 ZhoZho EgoEgo
 
 ![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/zhozhoegoego.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculozhozhoegoego](./GIFS4.0/Vehiculos/zhozhoegoego.gif)
 
 27
@@ -196,5 +213,6 @@ ZhoZho EgoEgo
 ZhoZho Jade
 
 ![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/zhozhojade.png)
+![pngvehiculopreview](./Screenshots4.0/Vehiculos/Preview/-HUD.png)
 ![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/zhozhojade.gif)
 
