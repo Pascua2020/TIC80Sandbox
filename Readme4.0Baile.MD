@@ -54,37 +54,37 @@ Frases Cancion
 
 ![gifsletrascancion1](./GIFS4.0/Baile/LetrasCancion/LetrasCancion1.gif)
 
-![pngfrasescancion1](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion1.png)
+![pngfrasescancion1](./Screenshots4.0/Baile/FrasesCancion/FraseCancion1.png)
 
 2
 
 ![gifsletrascancion2](./GIFS4.0/Baile/LetrasCancion/LetrasCancion2.gif)
 
-![pngfrasescancion2](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion2.png)
+![pngfrasescancion2](./Screenshots4.0/Baile/FrasesCancion/FraseCancion2.png)
 
 3
 
 ![gifsletrascancion3](./GIFS4.0/Baile/LetrasCancion/LetrasCancion3.gif)
 
-![pngfrasescancion3](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion3.png)
+![pngfrasescancion3](./Screenshots4.0/Baile/FrasesCancion/FraseCancion3.png)
 
 4
 
 ![gifsletrascancion4](./GIFS4.0/Baile/LetrasCancion/LetrasCancion4.gif)
 
-![pngfrasescancion4](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion4.png)
+![pngfrasescancion4](./Screenshots4.0/Baile/FrasesCancion/FraseCancion4.png)
 
 5
 
 ![gifsletrascancion5](./GIFS4.0/Baile/LetrasCancion/LetrasCancion5.gif)
 
-![pngfrasescancion5](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion5.png)
+![pngfrasescancion5](./Screenshots4.0/Baile/FrasesCancion/FraseCancion5.png)
 
 6
 
 ![gifsletrascancion6](./GIFS4.0/Baile/LetrasCancion/LetrasCancion6.gif)
 
-![pngfrasescancion6](./Screenshots4.0/Baile/Frases_Cancion/FraseCancion6.png)
+![pngfrasescancion6](./Screenshots4.0/Baile/FrasesCancion/FraseCancion6.png)
 
 Game Over
 
