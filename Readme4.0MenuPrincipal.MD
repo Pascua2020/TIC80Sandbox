@@ -51,9 +51,9 @@ CREDITOS
 
 ![gifMenuPrincipalCreditos](<./GIFS4.0/Menu Principal/Creditos.gif>)
 
-![pngMenuPrincipalCreditos1](<./Screenshots4.0/Menu Principal/Creditos1.png>)
-![pngMenuPrincipalCreditos2](./Screenshots4.0/MenuPrincipal/Creditos2.png)
-![pngMenuPrincipalCreditos3](./Screenshots4.0/MenuPrincipal/Creditos3.png)
+![pngMenuPrincipalCreditos1](./Screenshots4.0/Creditos/Creditos1.png)
+![pngMenuPrincipalCreditos2](./Screenshots4.0/Creditos/Creditos2.png)
+![pngMenuPrincipalCreditos3](./Screenshots4.0/Creditos/Creditos3.png)
 
 DEMO
 
@@ -75,5 +75,6 @@ INICIOS
 ![gifMenuPrincipalInicio8](./GIFS4.0/MenuPrincipal/Inicios/Inicio8.gif)
 
 ![gifMenuPrincipalInicio9](./GIFS4.0/MenuPrincipal/Inicios/Inicio9.gif)
+
 
 
