@@ -162,10 +162,10 @@ Readme4.0CutContent
 ![giftrompos2](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_4-3-2025.gif)
 ![giftrompos3](./GIFS4.0/CutContent/Trompos/Trompos_(_crimenypixel_)_7-4-2025.gif)
 
-![pngcutcontentTrompos1A](./Screenshots4.0/CutContent/Trompos1A.png)
-![pngcutcontentTrompos1B](./Screenshots4.0/CutContent/Trompos1B.png)
-![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos2.png)
-![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos3.png)
+![pngcutcontentTrompos1A](./Screenshots4.0/CutContent/Trompos/Trompos1A.png)
+![pngcutcontentTrompos1B](./Screenshots4.0/CutContent/Trompos/Trompos1B.png)
+![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos/Trompos2.png)
+![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos/Trompos3.png)
 
 -Piedra Papel o MotoSierra
 
