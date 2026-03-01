@@ -24,7 +24,7 @@ Urgente 1
 
 #Hashtags Urgente 1:
 
-![gif#urgente1-1](<./GIFS4.0/Urgentes/Hashtags/%231-1.gif>)
+![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/%231-1.gif)
 ![gif#urgente1-2](<./GIFS4.0/Urgentes/Hashtags/#1-2.gif>)
 ![gif#urgente1-3](<./GIFS4.0/Urgentes/Hashtags/#1-3.gif>)
 ![gif#urgente1-4](<./GIFS4.0/Urgentes/Hashtags/#1-4.gif>)
