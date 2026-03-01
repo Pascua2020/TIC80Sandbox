@@ -97,15 +97,15 @@ Readme4.0CutContent
 ![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT+MiniMapa/GT5B.png)
 ![pngcutcontentGT6](./Screenshots4.0/CutContent/GT+MiniMapa/GT6.png)
 
-![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/Minimapa1A.png)
-![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/Minimapa1B.png)
-![pngcutcontentMinimapa1C](./Screenshots4.0/CutContent/Minimapa1C.png)
-![pngcutcontentMinimapa1D](./Screenshots4.0/CutContent/Minimapa1D.png)
+![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1A.png)
+![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1B.png)
+![pngcutcontentMinimapa1C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1C.png)
+![pngcutcontentMinimapa1D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1D.png)
 
-![pngcutcontentMinimapa2A](./Screenshots4.0/CutContent/Minimapa2A.png)
-![pngcutcontentMinimapa2B](./Screenshots4.0/CutContent/Minimapa2B.png)
-![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/Minimapa2C.png)
-![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/Minimapa2D.png)
+![pngcutcontentMinimapa2A](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2A.png)
+![pngcutcontentMinimapa2B](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2B.png)
+![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2C.png)
+![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2D.png)
 
 -Interfaz
 
