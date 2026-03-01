@@ -7,7 +7,7 @@ Carteles A
 A01
 
 ![pngscartelesA01](./Screenshots4.0/Carteles/A/CartelA-01.png)
-![gifscartelesA01](./GIFS4.0/Carteles/Carteles_A/CartelA-01.gif)
+![gifscartelesA01](./GIFS4.0/Carteles/A/CartelA-01.gif)
 
 2
 
