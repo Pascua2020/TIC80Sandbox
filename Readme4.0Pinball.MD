@@ -6,7 +6,7 @@ Animacion Fondo
 
 --    ![pngvehiculo](./Screenshots4.0/Vehiculos/.png)
 
-![gifpinballanimacionfondo1](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo1.gif)
+![gifpinballanimacionfondo1](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo1.gif)
 
 ![pngpinballanimacionfondo1A](./Screenshots4.0/Pinball/AnimacionFondo/1A.png)
 ![pngpinballanimacionfondo1B](./Screenshots4.0/Pinball/AnimacionFondo/1B.png)
@@ -16,7 +16,7 @@ Animacion Fondo
 
 2
 
-![gifpinballanimacionfondo2](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo2.gif)
+![gifpinballanimacionfondo2](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo2.gif)
 
 ![pngpinballanimacionfondo2A](./Screenshots4.0/Pinball/AnimacionFondo/2A.png)
 ![pngpinballanimacionfondo2B](./Screenshots4.0/Pinball/AnimacionFondo/2B.png)
@@ -26,7 +26,7 @@ Animacion Fondo
 
 3
 
-![gifpinballanimacionfondo3](./GIFS4.0/Pinball/Animacion_Fondo/AnimacionFondo3.gif)
+![gifpinballanimacionfondo3](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo3.gif)
 
 ![pngpinballanimacionfondo3A](./Screenshots4.0/Pinball/AnimacionFondo/3A.png)
 ![pngpinballanimacionfondo3B](./Screenshots4.0/Pinball/AnimacionFondo/3B.png)
@@ -38,7 +38,7 @@ Frases a Completar
 
 1
 
-![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball1.gif)
+![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/FrasesACompletar/FrasesACompletarPinball1.gif)
 
 2
 
@@ -68,7 +68,7 @@ Frases Rebote
 
 1
 
-![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/Frases Rebote/FrasePinball1.gif>)
+![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/FrasesRebote/FrasePinball1.gif>)
 
 ![pngpinballfraserebote1](<./Screenshots4.0/Pinball/FrasesRebote/FraseRebote1.png>)
 
@@ -118,7 +118,7 @@ Rap Gales
 
 01
 
-![gifpinballrapgales01](./GIFS4.0/Pinball/Rap_Gales/FraseRap01.gif)
+![gifpinballrapgales01](./GIFS4.0/Pinball/RapGales/FraseRap01.gif)
 
 02
 
