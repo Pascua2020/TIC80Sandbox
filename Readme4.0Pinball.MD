@@ -74,43 +74,43 @@ Frases Rebote
 
 2
 
-![gifpinballfrasesrebote2](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball2.gif)
+![gifpinballfrasesrebote2](./GIFS4.0/Pinball/FrasesRebote/FrasePinball2.gif)
 
 ![pngpinballfraserebote2](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote2.png)
 
 3
 
-![gifpinballfrasesrebote3](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball3.gif)
+![gifpinballfrasesrebote3](./GIFS4.0/Pinball/FrasesRebote/FrasePinball3.gif)
 
 ![pngpinballfraserebote3](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote3.png)
 
 4
 
-![gifpinballfrasesrebote4](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball4.gif)
+![gifpinballfrasesrebote4](./GIFS4.0/Pinball/FrasesRebote/FrasePinball4.gif)
 
 ![pngpinballfraserebote4](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote4.png)
 
 5
 
-![gifpinballfrasesrebote5](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball5.gif)
+![gifpinballfrasesrebote5](./GIFS4.0/Pinball/FrasesRebote/FrasePinball5.gif)
 
 ![pngpinballfraserebote5](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote5.png)
 
 6
 
-![gifpinballfrasesrebote6](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball6.gif)
+![gifpinballfrasesrebote6](./GIFS4.0/Pinball/FrasesRebote/FrasePinball6.gif)
 
 ![pngpinballfraserebote6](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote6.png)
 
 7
 
-![gifpinballfrasesrebote7](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball7.gif)
+![gifpinballfrasesrebote7](./GIFS4.0/Pinball/FrasesRebote/FrasePinball7.gif)
 
 ![pngpinballfraserebote7](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote7.png)
 
 8
 
-![gifpinballfrasesrebote8](./GIFS4.0/Pinball/Frases_Rebote/FrasePinball8.gif)
+![gifpinballfrasesrebote8](./GIFS4.0/Pinball/FrasesRebote/FrasePinball8.gif)
 
 ![pngpinballfraserebote8](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote8.png)
 
@@ -122,59 +122,59 @@ Rap Gales
 
 02
 
-![gifpinballrapgales02](./GIFS4.0/Pinball/Rap_Gales/FraseRap02.gif)
+![gifpinballrapgales02](./GIFS4.0/Pinball/RapGales/FraseRap02.gif)
 
 03
 
-![gifpinballrapgales03](./GIFS4.0/Pinball/Rap_Gales/FraseRap03.gif)
+![gifpinballrapgales03](./GIFS4.0/Pinball/RapGales/FraseRap03.gif)
 
 04
 
-![gifpinballrapgales04](./GIFS4.0/Pinball/Rap_Gales/FraseRap04.gif)
+![gifpinballrapgales04](./GIFS4.0/Pinball/RapGales/FraseRap04.gif)
 
 05
 
-![gifpinballrapgales05](./GIFS4.0/Pinball/Rap_Gales/FraseRap05.gif)
+![gifpinballrapgales05](./GIFS4.0/Pinball/RapGales/FraseRap05.gif)
 
 06
 
-![gifpinballrapgales06](./GIFS4.0/Pinball/Rap_Gales/FraseRap06.gif)
+![gifpinballrapgales06](./GIFS4.0/Pinball/RapGales/FraseRap06.gif)
 
 07
 
-![gifpinballrapgales07](./GIFS4.0/Pinball/Rap_Gales/FraseRap07.gif)
+![gifpinballrapgales07](./GIFS4.0/Pinball/RapGales/FraseRap07.gif)
 
 08
 
-![gifpinballrapgales08](./GIFS4.0/Pinball/Rap_Gales/FraseRap08.gif)
+![gifpinballrapgales08](./GIFS4.0/Pinball/RapGales/FraseRap08.gif)
 
 09
 
-![gifpinballrapgales09](./GIFS4.0/Pinball/Rap_Gales/FraseRap09.gif)
+![gifpinballrapgales09](./GIFS4.0/Pinball/RapGales/FraseRap09.gif)
 
 10
 
-![gifpinballrapgales10](./GIFS4.0/Pinball/Rap_Gales/FraseRap10.gif)
+![gifpinballrapgales10](./GIFS4.0/Pinball/Rap_ñGales/FraseRap10.gif)
 
 11
 
-![gifpinballrapgales11](./GIFS4.0/Pinball/Rap_Gales/FraseRap11.gif)
+![gifpinballrapgales11](./GIFS4.0/Pinball/RapGales/FraseRap11.gif)
 
 12
 
-![gifpinballrapgales12](./GIFS4.0/Pinball/Rap_Gales/FraseRap12.gif)
+![gifpinballrapgales12](./GIFS4.0/Pinball/RapGales/FraseRap12.gif)
 
 13
 
-![gifpinballrapgales13](./GIFS4.0/Pinball/Rap_Gales/FraseRap13.gif)
+![gifpinballrapgales13](./GIFS4.0/Pinball/RapGales/FraseRap13.gif)
 
 14
 
-![gifpinballrapgales14](./GIFS4.0/Pinball/Rap_Gales/FraseRap14.gif)
+![gifpinballrapgales14](./GIFS4.0/Pinball/RapGales/FraseRap14.gif)
 
 15
 
-![gifpinballrapgales15](./GIFS4.0/Pinball/Rap_Gales/FraseRap15.gif)
+![gifpinballrapgales15](./GIFS4.0/Pinball/RapGales/FraseRap15.gif)
 
 Agujero
 
