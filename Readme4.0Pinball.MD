@@ -38,31 +38,31 @@ Frases a Completar
 
 1
 
-![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/FrasesACompletar/FrasesACompletarPinball1.gif)
+![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball1.gif)
 
 2
 
-![gifpinballfrasesacompletar2](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball2.gif)
+![gifpinballfrasesacompletar2](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball2.gif)
 
 3
 
-![gifpinballfrasesacompletar3](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball3.gif)
+![gifpinballfrasesacompletar3](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball3.gif)
 
 4
 
-![gifpinballfrasesacompletar4](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball4.gif)
+![gifpinballfrasesacompletar4](./GIFS4.0/Pinball/FrasesACcompletar/FraseACompletarPinball4.gif)
 
 5
 
-![gifpinballfrasesacompletar5](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball5.gif)
+![gifpinballfrasesacompletar5](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball5.gif)
 
 6
 
-![gifpinballfrasesacompletar6](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball6.gif)
+![gifpinballfrasesacompletar6](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball6.gif)
 
 7
 
-![gifpinballfrasesacompletar7](./GIFS4.0/Pinball/Frases_a_completar/FrasesACompletarPinball7.gif)
+![gifpinballfrasesacompletar7](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball7.gif)
 
 Frases Rebote
 
