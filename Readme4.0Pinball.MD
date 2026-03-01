@@ -2,9 +2,7 @@ Readme4.0Pinball
 
 Animacion Fondo
 
-1
-
---    ![pngvehiculo](./Screenshots4.0/Vehiculos/.png)
+1
 
 ![gifpinballanimacionfondo1](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo1.gif)
 
