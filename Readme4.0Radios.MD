@@ -2,11 +2,11 @@ Readme4.0Radios
 
 Cambio de Radio
 
-![gifscambioradio](./GIFS4.0/Radios/Cambioderadios.gif)
+![gifscambioradio](./GIFS4.0/Radios/cambioDeRadios.gif)
 
 Fin de Radio
 
-![gifsfinradio](./GIFS4.0/Radios/finradio.gif)
+![gifsfinradio](./GIFS4.0/Radios/finRadio.gif)
 
 Radio 01
 
