@@ -154,7 +154,7 @@ Rap Gales
 
 10
 
-![gifpinballrapgales10](./GIFS4.0/Pinball/Rap_ñGales/FraseRap10.gif)
+![gifpinballrapgales10](./GIFS4.0/Pinball/RapGales/FraseRap10.gif)
 
 11
 
@@ -178,7 +178,7 @@ Rap Gales
 
 Agujero
 
-![gifpinballagujero](<./GIFS4.0/GIFS Pinball/AgujeroPinball.gif>)
+![gifpinballagujero](<./GIFS4.0/Pinball/AgujeroPinball.gif>)
 
 Diamantes
 
