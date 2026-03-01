@@ -24,12 +24,12 @@ Urgente 1
 
 #Hashtags Urgente 1:
 
-![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-1.gif)
-![gif#urgente1-2](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-2.gif)
-![gif#urgente1-3](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-3.gif)
-![gif#urgente1-4](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-4.gif)
-![gif#urgente1-5](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-5.gif)
-![gif#urgente1-6](./GIFS4.0/Urgentes/Hashtags_Urgentes/#1/#1-6.gif)
+![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/#1-1.gif)
+![gif#urgente1-2](./GIFS4.0/Urgentes/Hashtags/#1-2.gif)
+![gif#urgente1-3](./GIFS4.0/Urgentes/Hashtags/#1-3.gif)
+![gif#urgente1-4](./GIFS4.0/Urgentes/Hashtags/#1-4.gif)
+![gif#urgente1-5](./GIFS4.0/Urgentes/Hashtags/#1-5.gif)
+![gif#urgente1-6](./GIFS4.0/Urgentes/Hashtags/#1-6.gif)
 
 Urgente 2
 
