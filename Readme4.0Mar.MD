@@ -34,7 +34,7 @@ Dibujo Mar 04
 ![pngmardibujo04](./Screenshots4.0/Mar/DibujoMar04.png)
 
 
-"Vivan las Rusas"
+"Vivan las Rusas Carajo!"
 
 Dibujo Mar 05
 
@@ -66,10 +66,9 @@ Dibujo Mar 08
 ![gifmardibujo08](./GIFS4.0/Mar/DibujoMar08.gif)
 
 ![pngmardibujo08](./Screenshots4.0/Mar/DibujoMar08.png)
-
-
-"Ni Hao ( Hola en Chino Mandarin )".
-
+
+"Ni Hao ( Hola en Chino Mandarin ) 你好".
+ 
 Dibujo Mar 09
 
 ![gifmardibujo09](./GIFS4.0/Mar/DibujoMar09.gif)
