@@ -64,13 +64,13 @@ Readme4.0CutContent
 ![giftomarcolectivo1](./GIFS4.0/CutContent/Colectivo/Colectivo_(_suba9_)_22-1-2025.gif)
 ![giftomarcolectivo2](./GIFS4.0/CutContent/Colectivo/Colectivo_(_ZColectivo_)_12-3-2025.gif)
 
-![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/TomarColectivo1A.png)
-![pngcutcontentTomarColectivo1B](./Screenshots4.0/CutContent/TomarColectivo1B.png)
-![pngcutcontentTomarColectivo1C](./Screenshots4.0/CutContent/TomarColectivo1C.png)
+![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1A.png)
+![pngcutcontentTomarColectivo1B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1B.png)
+![pngcutcontentTomarColectivo1C](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1C.png)
 
-![pngcutcontentTomarColectivo2A](./Screenshots4.0/CutContent/TomarColectivo2A.png)
-![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/TomarColectivo2B.png)
-![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/TomarColectivo2C.png)
+![pngcutcontentTomarColectivo2A](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2A.png)
+![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2B.png)
+![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2C.png)
 
 -Modo GT + MiniMapa
 
