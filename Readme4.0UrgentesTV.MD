@@ -56,12 +56,12 @@ Urgente 2
 
 #Hashtags Urgente 2:
 
-![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-1.gif)
-![gif#urgente2-2](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-2.gif)
-![gif#urgente2-3](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-3.gif)
-![gif#urgente2-4](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-4.gif)
-![gif#urgente2-5](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-5.gif)
-![gif#urgente2-6](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/#2-6.gif)
+![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-1.gif)
+![gif#urgente2-2](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-2.gif)
+![gif#urgente2-3](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-3.gif)
+![gif#urgente2-4](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-4.gif)
+![gif#urgente2-5](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-5.gif)
+![gif#urgente2-6](./GIFS4.0/Urgentes/Hashtags_Urgentes/#2/2-6.gif)
 
 Urgente 3
 
@@ -88,7 +88,7 @@ Urgente 3
 
 #Hashtags Urgente 3:
 
-![gif#urgente3](./GIFS4.0/Urgentes/Hashtags_Urgentes/#3.gif)
+![gif#urgente3](./GIFS4.0/Urgentes/Hashtags_Urgentes/3.gif)
 
 Urgente 4
 
@@ -115,7 +115,7 @@ Urgente 4
 
 #Hashtags Urgente 4:
 
-![gif#urgente4](./GIFS4.0/Urgentes/Hashtags_Urgentes/#4.gif)
+![gif#urgente4](./GIFS4.0/Urgentes/Hashtags_Urgentes/4.gif)
 
 Urgente 5
 
@@ -144,7 +144,7 @@ Urgente 5
 
 #Hashtags Urgente 5:
 
-![gif#urgente5](./GIFS4.0/Urgentes/Hashtags_Urgentes/#5.gif)
+![gif#urgente5](./GIFS4.0/Urgentes/Hashtags_Urgentes/5.gif)
 
 Urgente 6
 
@@ -171,7 +171,7 @@ Urgente 6
 
 #Hashtags Urgente 6:
 
-![gif#urgente6](./GIFS4.0/Urgentes/Hashtags_Urgentes/#6.gif)
+![gif#urgente6](./GIFS4.0/Urgentes/Hashtags_Urgentes/6.gif)
 
 Urgente 7
 
@@ -197,5 +197,5 @@ Urgente 7
 
 #Hashtags Urgente 7:
 
-![gif#urgente6](./GIFS4.0/Urgentes/Hashtags_Urgentes/#7.gif)
+![gif#urgente6](./GIFS4.0/Urgentes/Hashtags_Urgentes/7.gif)
 
