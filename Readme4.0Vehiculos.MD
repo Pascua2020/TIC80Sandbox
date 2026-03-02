@@ -94,7 +94,7 @@ Kart
 
 ![pngvehiculokart](./Screenshots4.0/Vehiculos/Kart.png)
 ![pngvehiculokartpreview](./Screenshots4.0/Vehiculos/Preview/Kart-HUD.png)
-![gifvehiculokart](./GIFS4.0/Vehiculos/kart.gif)
+![gifvehiculokart](./GIFS4.0/Vehiculos/Kart.gif)
 
 13
 
@@ -126,7 +126,7 @@ Policia
 
 ![pngvehiculopolicia](./Screenshots4.0/Vehiculos/Policia.png)
 ![pngvehiculopoliciapreview](./Screenshots4.0/Vehiculos/Preview/Policia-HUD.png)
-![gifvehiculopolicia](./GIFS4.0/Vehiculos/policia.gif)
+![gifvehiculopolicia](./GIFS4.0/Vehiculos/Policia.gif)
 
 17
 
@@ -134,7 +134,7 @@ Rally ElWacho
 
 ![pngvehiculorallyelwacho](./Screenshots4.0/Vehiculos/RallyElWacho.png)
 ![pngvehiculoRallyElWachopreview](./Screenshots4.0/Vehiculos/Preview/RallyElWacho-HUD.png)
-![gifvehiculorallyelwacho](./GIFS4.0/Vehiculos/rallyelwacho.gif)
+![gifvehiculorallyelwacho](./GIFS4.0/Vehiculos/RallyElWacho.gif)
 
 18
 
