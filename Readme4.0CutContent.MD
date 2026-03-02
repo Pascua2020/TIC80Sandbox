@@ -2,7 +2,7 @@ Readme4.0CutContent
 
 -Chat
 
-![gifchat1](./GIFS4.0/CutContent/Chat/Chat_(_wpp2_)_-_21-1-2025.gif)
+![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 ![gifchat2](./GIFS4.0/CutContent/Chat/Chat_(wpp2)_-_4-3-2025.gif)
 ![gifchat3](./GIFS4.0/CutContent/Chat/Chat_(_ZMensajesMoviles_)_-_12-3-2025.gif)
 
