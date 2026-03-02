@@ -159,9 +159,9 @@ Readme4.0CutContent
 
 -Trompos
 
-![giftrompos1](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_20-1-2025.gif)
-![giftrompos2](./GIFS4.0/CutContent/Trompos/Trompos_(_trompo6_)_4-3-2025.gif)
-![giftrompos3](./GIFS4.0/CutContent/Trompos/Trompos_(_crimenypixel_)_7-4-2025.gif)
+![giftrompos1](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 20-1-2025.gif>)
+![giftrompos2](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 4-3-2025.gif>)
+![giftrompos3](<./GIFS4.0/CutContent/Trompos/Trompos ( crimenypixel ) 7-4-2025.gif>)
 
 ![pngcutcontentTrompos1A](./Screenshots4.0/CutContent/Trompos/Trompos1A.png)
 ![pngcutcontentTrompos1B](./Screenshots4.0/CutContent/Trompos/Trompos1B.png)
