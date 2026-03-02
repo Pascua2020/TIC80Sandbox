@@ -133,9 +133,9 @@ Readme4.0CutContent
 
 -Nafta
 
-![gifnafta1](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_22-1-2025.gif)
-![gifnafta2](./GIFS4.0/CutContent/Nafta/Nafta_(_nafta2_)_4-3-2025.gif)
-![gifnafta3](./GIFS4.0/CutContent/Nafta/Nafta_(_zcombustible_)_12-3-2025.gif)
+![gifnafta1](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 22-1-2025.gif>)
+![gifnafta2](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 4-3-2025.gif>)
+![gifnafta3](<./GIFS4.0/CutContent/Nafta/Nafta ( zcombustible ) 12-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
