@@ -47,14 +47,14 @@ Readme4.0CutContent
 
 --Niebla
 
-![gifniebla](./GIFS4.0/CutContent/Climas/Niebla_(_niebla_)_4-3-2025.gif)
+![gifniebla](<./GIFS4.0/CutContent/Climas/Niebla ( niebla ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 --Terremoto
 
-![gifterremoto1](./GIFS4.0/CutContent/Climas/Terremoto_terremoto_22-1-2025.gif)
-![gifterremoto2](./GIFS4.0/CutContent/Climas/Terremoto_(_terremoto_)_4-3-2025.gif)
+![gifterremoto1](<./GIFS4.0/CutContent/Climas/Terremoto terremoto 22-1-2025.gif>)
+![gifterremoto2](<./GIFS4.0/CutContent/Climas/Terremoto ( terremoto ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
