@@ -70,7 +70,7 @@ Globo
 
 ![pngvehiculoglobo](./Screenshots4.0/Vehiculos/Globo.png)
 ![pngvehiculoglobopreview](./Screenshots4.0/Vehiculos/Preview/Globo-HUD.png)
-![gifvehiculoglobo](./GIFS4.0/Vehiculos/globo.gif)
+![gifvehiculoglobo](./GIFS4.0/Vehiculos/Globo.gif)
 
 10
 
