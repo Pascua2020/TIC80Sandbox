@@ -3,7 +3,7 @@ Readme4.0Versiones
 Crimen y Pixel Version 1.0
 7/4/2025
 
-![gifstuntmanversion1](./GIFS4.0/CutContent/*Versiones Antiguas/V1_7-4-2025.gif)
+![gifstuntmanversion1](./GIFS4.0/CutContent/VersionesAntiguas/V1_7-4-2025.gif)
 
 Crimen y Pixel Version 2.0
 
