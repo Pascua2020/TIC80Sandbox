@@ -62,8 +62,8 @@ Readme4.0CutContent
 
 -Tomar Colectivo
 
-![giftomarcolectivo1](./GIFS4.0/CutContent/Colectivo/Colectivo_(_suba9_)_22-1-2025.gif)
-![giftomarcolectivo2](./GIFS4.0/CutContent/Colectivo/Colectivo_(_ZColectivo_)_12-3-2025.gif)
+![giftomarcolectivo1](<./GIFS4.0/CutContent/Colectivo/Colectivo ( suba9 ) 22-1-2025.gif>)
+![giftomarcolectivo2](<./GIFS4.0/CutContent/Colectivo/Colectivo ( ZColectivo ) 12-3-2025.gif>)
 
 ![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1A.png)
 ![pngcutcontentTomarColectivo1B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1B.png)
