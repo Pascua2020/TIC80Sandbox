@@ -54,6 +54,7 @@ Readme4.0CutContent
 --Terremoto
 
 ![gifterremoto1](<./GIFS4.0/CutContent/Climas/Terremoto terremoto 22-1-2025.gif>)
+
 ![gifterremoto2](<./GIFS4.0/CutContent/Climas/Terremoto ( terremoto ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
