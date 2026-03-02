@@ -143,10 +143,10 @@ Readme4.0CutContent
 
 -RC
 
-![gifrc2](./GIFS4.0/CutContent/RC/RC_(_rc10_)_21-1-2025.gif)
-![gifrc1](./GIFS4.0/CutContent/RC/RC_(_rc7_)_4-3-2025.gif)
-![gifrc3](./GIFS4.0/CutContent/RC/RC_(_rc12_)_4-3-2025.gif)
-![gifrc4](./GIFS4.0/CutContent/RC/RC_(_ZRC_)_22-7-2025.gif)
+![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
+![gifrc1](<./GIFS4.0/CutContent/RC/RC ( rc7 ) 4-3-2025.gif>)
+![gifrc3](<./GIFS4.0/CutContent/RC/RC ( rc12 ) 4-3-2025.gif>)
+![gifrc4](<./GIFS4.0/CutContent/RC/RC ( ZRC ) 22-7-2025.gif>)
 
 ![pngcutcontentRC1A](./Screenshots4.0/CutContent/RC/RC1A.png)
 ![pngcutcontentRC1B](./Screenshots4.0/CutContent/RC/RC1B.png)
