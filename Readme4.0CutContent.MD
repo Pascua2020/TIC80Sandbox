@@ -110,8 +110,8 @@ Readme4.0CutContent
 
 -Interfaz
 
-![gifinterfaz1](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_22-1-2025.gif)
-![gifinterfaz2](./GIFS4.0/CutContent/Interfaz/Interfaz_(_interfazv2.2_)_4-3-2025.gif)
+![gifinterfaz1](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 22-1-2025.gif>)
+![gifinterfaz2](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 4-3-2025.gif>)
 
 ![pngcutcontentInterfaz1](./Screenshots4.0/CutContent/Interfaz/Interfaz1.png)
 ![pngcutcontentInterfaz2A](./Screenshots4.0/CutContent/Interfaz/Interfaz2A.png)
