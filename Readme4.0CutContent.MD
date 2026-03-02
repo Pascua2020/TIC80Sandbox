@@ -119,15 +119,15 @@ Readme4.0CutContent
 
 -Internet
 
-![gifinternet1](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_22-1-2025.gif)
-![gifinternet2](./GIFS4.0/CutContent/Internet/Internet_(_internet_)_4-3-2025.gif)
+![gifinternet1](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 22-1-2025.gif>)
+![gifinternet2](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 4-3-2025.gif>)
 
 ![pngcutcontentInternetA](./Screenshots4.0/CutContent/InternetA.png)
 ![pngcutcontentInternetB](./Screenshots4.0/CutContent/InternetB.png)
 
 -Menu de Pausa
 
-![gifmenupausa](./GIFS4.0/CutContent/Menu_Pausa/MenuPausa_(_menupausa3_)_4-3-2025.gif)
+![gifmenupausa](<./GIFS4.0/CutContent/MenuPausa/MenuPausa ( menupausa3 ) 4-3-2025.gif>)
 
 ![pngcutcontentMenuPausa](./Screenshots4.0/CutContent/MenuPausa.png)
 
