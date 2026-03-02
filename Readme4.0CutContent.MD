@@ -33,15 +33,15 @@ Readme4.0CutContent
 
 -Climas
 
-![gifbetaclimas1](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_20-1-2025.gif)
-![gifbetaclimas2](./GIFS4.0/CutContent/Climas/Climas_(_todosclima6_)_4-3-2025.gif)
+![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
+![gifbetaclimas2](<./GIFS4.0/CutContent/Climas/Climas ( todosclima6 ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
 --Arcoiris
 
-![gifarcoiris](./GIFS4.0/CutContent/Climas/Arcoiris_(_arcoiris_)_4-3-2025.gif)
+![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
