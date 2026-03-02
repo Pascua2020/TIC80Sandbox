@@ -20,8 +20,8 @@ Readme4.0CutContent
 
 -Ciclo Dia Noche
 
-![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/Ciclo Dia Noche ( ciclo ) 22-1-2025.gif>)
-![gifciclodianoche2](<./GIFS4.0/CutContent/CicloDiaNoche/Ciclo Dia Noche ( ciclo ) 4-3-2025.gif>)
+![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
+![gifciclodianoche2](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 4-3-2025.gif>)
 
 ![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1A.png)
 ![pngcutcontentCicloDiaNoche1B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1B.png)
