@@ -142,7 +142,7 @@ RC
 
 ![pngvehiculorc](./Screenshots4.0/Vehiculos/RC-A.png)
 ![pngvehiculoRCpreview](./Screenshots4.0/Vehiculos/Preview/RC-HUD.png)
-![gifvehiculorc](./GIFS4.0/Vehiculos/rc.gif)
+![gifvehiculorc](./GIFS4.0/Vehiculos/RC-B.gif)
 
 19
 
@@ -150,7 +150,7 @@ Skate Stilo
 
 ![pngvehiculoskatestilo](./Screenshots4.0/Vehiculos/SkateStilo.png)
 ![pngvehiculoSkateStilopreview](./Screenshots4.0/Vehiculos/Preview/SkateStilo-HUD.png)
-![gifvehiculoskatestilo](./GIFS4.0/Vehiculos/skatestilo.gif)
+![gifvehiculoskatestilo](./GIFS4.0/Vehiculos/SkateStilo.gif)
 
 20
 
@@ -158,7 +158,7 @@ Stacchotta 69
 
 ![pngvehiculostacchotta69](./Screenshots4.0/Vehiculos/Stacchotta69.png)
 ![pngvehiculoStacchotta69preview](./Screenshots4.0/Vehiculos/Preview/Stacchotta69-HUD.png)
-![gifvehiculostacchotta69](./GIFS4.0/Vehiculos/stacchotta69.gif)
+![gifvehiculostacchotta69](./GIFS4.0/Vehiculos/Stacchotta69.gif)
 
 21
 
@@ -166,7 +166,7 @@ Tochota MohToh
 
 ![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/TochotaMohtoh.png)
 ![pngvehiculoTochotaMohtohpreview](./Screenshots4.0/Vehiculos/Preview/TochotaMohtoh-HUD.png)
-![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/tochotamohtoh.gif)
+![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/TochotaMohtoh.gif)
 
 22
 
@@ -174,7 +174,7 @@ Tochota Fulero
 
 ![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/TochotaFuleroA.png)
 ![pngvehiculoTochotaFuleropreview](./Screenshots4.0/Vehiculos/Preview/TochotaFulero-HUD.png)
-![gifvehiculotochotafulero](./GIFS4.0/Vehiculos/tochotafulero.gif)
+![gifvehiculotochotafulero](./GIFS4.0/Vehiculos/TochotaFuleroB.gif)
 
 23
 
@@ -182,7 +182,7 @@ Tren
 
 ![pngvehiculotren](./Screenshots4.0/Vehiculos/Tren.png)
 ![pngvehiculotrenpreview](./Screenshots4.0/Vehiculos/Preview/Tren-HUD.png)
-![gifvehiculotren](./GIFS4.0/Vehiculos/tren.gif)
+![gifvehiculotren](./GIFS4.0/Vehiculos/Tren.gif)
 
 24
 
@@ -190,7 +190,7 @@ Turbo Diarrea
 
 ![pngvehiculoturbodiarrea](./Screenshots4.0/Vehiculos/TurboDiarrea.png)
 ![pngvehiculoTurboDiarreapreview](./Screenshots4.0/Vehiculos/Preview/TurboDiarrea-HUD.png)
-![gifvehiculoturbodiarrea](./GIFS4.0/Vehiculos/turbodiarrea.gif)
+![gifvehiculoturbodiarrea](./GIFS4.0/Vehiculos/TurboDiarrea.gif)
 
 25
 
