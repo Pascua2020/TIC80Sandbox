@@ -62,9 +62,10 @@ Lluvia +
 Nieve +
 Viento
 
-![pngclima-hojas+lluvia+nieve+viento](./Screenshots4.0/Climas/Hojas+Lluvia+Nieve+Viento.png)
+![gifsclima-hojas+lluvia+nieve+viento](./GIFS4.0/Climas/Hojas+Lluvia+Nieve+Viento.gif)
 
-![pngclima-](./Screenshots4.0/Climas/.png)
+
+![pngclima-hojas+lluvia+nieve+viento](./Screenshots4.0/Climas/Hojas+Lluvia+Nieve+Viento.png)
 
 Hojas +
 Lluvia +
