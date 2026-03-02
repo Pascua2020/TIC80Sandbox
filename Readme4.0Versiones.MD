@@ -21,7 +21,7 @@ Crimen y Pixel Version 2.2
 Crimen y Pixel Version 2.3
 24/4/2025
 
-![gifstuntmanversion2.3](./GIFS4.0/CutContent/*Versiones Antiguas/V2.3_24-4-2025.gif)
+![gifstuntmanversion2.3](<./GIFS4.0/CutContent/VersionesAntiguas/V2.3 24-4-2025.gif>)
 
 Crimen y Pixel Version 2.4
 27/4/2025
