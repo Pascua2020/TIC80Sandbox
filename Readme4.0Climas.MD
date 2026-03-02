@@ -108,7 +108,7 @@ Hojas +
 Viento + 
 Relampagos
 
-![gifsclima-hojas+viento+relampagos](./GIFS4.0/Climas/Hojas+viento+relampago.gif)
+![gifsclima-hojas+viento+relampagos](./GIFS4.0/Climas/Hojas+Viento+Relampagos.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
