@@ -86,7 +86,7 @@ Jetpack
 
 ![pngvehiculojetpack](./Screenshots4.0/Vehiculos/Jetpack.png)
 ![pngvehiculojetpackpreview](./Screenshots4.0/Vehiculos/Preview/Jetpack-HUD.png)
-![gifvehiculojetpack](./GIFS4.0/Vehiculos/jetpack.gif)
+![gifvehiculojetpack](./GIFS4.0/Vehiculos/Jetpack.gif)
 
 12
 
