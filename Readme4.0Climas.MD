@@ -163,7 +163,7 @@ Nieve
 Nieve +
 Relampago
 
-![gifsclima-Nieve+Relampago](./GIFS4.0/Climas/Nieve+Relampagos.gif)
+![gifsclima-Nieve+Relampago](./GIFS4.0/Climas/Nieve+Relampago.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
@@ -171,7 +171,7 @@ Nieve +
 Relampago +
 Vientos
 
-![gifsclima-Nieve+Relampago+Vientos](./GIFS4.0/Climas/Nieve+Relampagos+Vientos.gif)
+![gifsclima-Nieve+Relampago+Vientos](./GIFS4.0/Climas/Nieve+Relampagos+Viento.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
