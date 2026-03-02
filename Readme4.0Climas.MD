@@ -85,21 +85,21 @@ Hojas +
 Nieve +
 Relampagos
 
-![gifsclima-hojas+nieve+relampagos](./GIFS4.0/Climas/Hojas+nieve+relampagos.gif)
+![gifsclima-hojas+nieve+relampagos](./GIFS4.0/Climas/Hojas+Nieve+Relampago.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
 Hojas +
 Relampago
 
-![gifsclima-hojas+relampago](./GIFS4.0/Climas/Hojas+relampago.gif)
+![gifsclima-hojas+relampago](./GIFS4.0/Climas/Hojas+Relampago.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
 Hojas +
 Viento
 
-![gifsclima-hojas+viento](./GIFS4.0/Climas/Hojas+viento.gif)
+![gifsclima-hojas+viento](./GIFS4.0/Climas/Hojas+Viento.gif)
 
 ![pngclima-hojas+viento](./Screenshots4.0/Climas/Hojas+Viento.png)
 
