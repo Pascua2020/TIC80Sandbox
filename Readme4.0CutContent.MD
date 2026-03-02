@@ -4,7 +4,7 @@ Readme4.0CutContent
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 ![gifchat2](<./GIFS4.0/CutContent/Chat/Chat (wpp2) - 4-3-2025.gif>)
-![gifchat3](<./GIFS4.0/CutContent/Chat/Chat ( ZMensajesMoviles ) - 12-3-2025.gif>)
+![gifchat3](<./GIFS4.0/CutContent/Chat/Chat ( ZMensajesMoviles ) 12-3-2025.gif>)
 
 ![pngcutcontentChat1A](./Screenshots4.0/CutContent/Chat/Chat1A.png)
 ![pngcutcontentChat1B](./Screenshots4.0/CutContent/Chat/Chat1B.png)
