@@ -26,7 +26,7 @@ Lluvia +
 Nieve +
 Relampagos
 
-![gifsclima-hojas+lluvia+nieve+relampagos](./GIFS4.0/Climas/Hojas+Lluvia+Nieve+Relampagos.gif)
+![gifsclima-hojas+lluvia+nieve+relampagos](./GIFS4.0/Climas/Hojas+Lluvia+Nieve+Relampago.gif)
 
 ![pngclima-](./Screenshots4.0/Climas/.png)
 
