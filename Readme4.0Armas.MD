@@ -59,8 +59,8 @@ Frases
 5
 Golpe
 
-![gifsarmasgolpe](./GIFS4.0/Armas/Golpe.gif)]
-![gifsarmastesteogolpe](./GIFS4.0/Armas/TesteoGolpe.gif)
+![gifsarmasgolpe](./GIFS4.0/Armas/Golpe.gif)
+![gifsarmastesteogolpe](./GIFS4.0/Armas/TesteoPuño.gif)
 
 Frases
 
@@ -73,7 +73,7 @@ Frases
 6
 Granada
 
-![gifsarmasgranada](./GIFS4.0/Armas/Granada.gif)]
+![gifsarmasgranada](./GIFS4.0/Armas/Granada.gif)
 ![gifsarmastesteogranada](./GIFS4.0/Armas/TesteoGranada.gif)
 
 Frases
@@ -87,7 +87,7 @@ Frases
 7
 Katana
 
-![gifsarmaskatana](./GIFS4.0/Armas/Katana.gif)]
+![gifsarmaskatana](./GIFS4.0/Armas/Katana.gif)
 ![gifsarmastesteokatana](./GIFS4.0/Armas/TesteoKatana.gif)
 
 Frases
