@@ -312,11 +312,11 @@ Trafico en el mapa
 
 38-NiHao
 
-![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/Nihao.png)
-![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/Nihao.gif)
+![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/NiHao.png)
+![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/NiHao.gif)
 
 ![pngcallenihaohud](./Screenshots4.0/Calles(HUD)/Nihao-HUD.png)
-![gifcallenihaohud](./GIFS4.0/Calles(HUD)/Nihao-HUD.gif)
+![gifcallenihaohud](./GIFS4.0/Calles(HUD)/NiHao-HUD.gif)
 
 39-No jodas
 
