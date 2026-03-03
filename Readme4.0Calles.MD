@@ -360,11 +360,11 @@ Trafico en el mapa
 
 44-Party Hard
 
-![pngcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/Partyhard.png)
-![gifcallepartyhardnohud](./GIFS4.0/Calles(NOHUD)/Partyhard.gif)
+![pngcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party hard.png>)
+![gifcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.gif>)
 
-![pngcallepartyhardhud](./Screenshots4.0/Calles(HUD)/Partyhard-HUD.png)
-![gifcallepartyhardhud](./Screenshots4.0/Calles(HUD)/Partyhard-HUD.gif)
+![pngcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.png>)
+![gifcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.gif>)
 
 45-Pelado
 
