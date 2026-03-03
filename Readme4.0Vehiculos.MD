@@ -213,6 +213,6 @@ ZhoZho EgoEgo
 ZhoZho Jade
 
 ![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/ZhoZhoJadeA.png)
-![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoJadeA-HUD.png)
+![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhoZhoJadeA-HUD.png)
 ![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/ZhoZhoJadeD.gif)
 
