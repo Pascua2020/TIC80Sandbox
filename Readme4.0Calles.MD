@@ -488,51 +488,51 @@ Trafico en el mapa
 
 60-Turro
 
-![pngcalleturronohud](./GIFS4.0/Calles(NOHUD)/Turro.png)
+![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 ![gifcalleturronohud](./GIFS4.0/Calles(NOHUD)/Turro.gif)
 
 ![pngcalleturrohud](./Screenshots4.0/Calles(HUD)/Turro-HUD.png)
-![gifcalleturrohud](./Screenshots4.0/Calles(HUD)/Turro-HUD.gif)
+![gifcalleturrohud](./GIFS4.0/Calles(HUD)/Turro-HUD.gif)
 
 61-Tuti fruti
 
-![pngcalletutifrutinohud](./GIFS4.0/Calles(NOHUD)/Tutifruti.png)
+![pngcalletutifrutinohud](./Screenshots4.0/Calles(NOHUD)/Tutifruti.png)
 ![gifcalletutifrutinohud](./GIFS4.0/Calles(NOHUD)/Tutifruti.gif)
 
 ![pngcalletutifrutihud](./Screenshots4.0/Calles(HUD)/Tutifruti-HUD.png)
-![gifcalletutifrutihud](./Screenshots4.0/Calles(HUD)/Tutifruti-HUD.gif)
+![gifcalletutifrutihud](./GIFS4.0/Calles(HUD)/Tutifruti-HUD.gif)
 
 62-Viagra
 
-![pngcalleviagranohud](./GIFS4.0/Calles(NOHUD)/Viagra.png)
+![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 ![gifcalleviagranohud](./GIFS4.0/Calles(NOHUD)/Viagra.gif)
 
 ![pngcalleviagrahud](./Screenshots4.0/Calles(HUD)/Viagra-HUD.png)
-![gifcalleviagrahud](./Screenshots4.0/Calles(HUD)/Viagra-HUD.gif)
+![gifcalleviagrahud](./GIFS4.0/Calles(HUD)/Viagra-HUD.gif)
 
 63-Wauf
 
-![pngcallewaufnohud](./GIFS4.0/Calles(NOHUD)/Wauf.png)
+![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
 ![gifcallewaufnohud](./GIFS4.0/Calles(NOHUD)/Wauf.gif)
 
 ![pngcallewaufhud](./Screenshots4.0/Calles(HUD)/Wauf-HUD.png)
-![gifcallewaufhud](./Screenshots4.0/Calles(HUD)/Wauf-HUD.gif)
+![gifcallewaufhud](./GIFS4.0/Calles(HUD)/Wauf-HUD.gif)
 
 64-Yupi
 
-![pngcalleyupinohud](./GIFS4.0/Calles(NOHUD)/Yupi.png)
+![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 ![gifcalleyupinohud](./GIFS4.0/Calles(NOHUD)/Yupi.gif)
 
 ![pngcalleyupihud](./Screenshots4.0/Calles(HUD)/Yupi-HUD.png)
-![gifcalleyupihud](./Screenshots4.0/Calles(HUD)/Yupi-HUD.gif)
+![gifcalleyupihud](./GIFS4.0/Calles(HUD)/Yupi-HUD.gif)
 
 65-Zig Zag
 
-![pngcallezigzagnohud](./GIFS4.0/Calles(NOHUD)/Zigzag.png)
+![pngcallezigzagnohud](./Screenshots4.0/Calles(NOHUD)/Zigzag.png)
 ![gifcallezigzagnohud](./GIFS4.0/Calles(NOHUD)/Zigzag.gif)
 
 ![pngcallezigzaghud](./Screenshots4.0/Calles(HUD)/Zigzag-HUD.png)
-![gifcallezigzaghud](./Screenshots4.0/Calles(HUD)/Zigzag-HUD.gif)
+![gifcallezigzaghud](./GIFS4.0/Calles(HUD)/Zigzag-HUD.gif)
 
 66-
 
