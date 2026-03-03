@@ -364,7 +364,7 @@ Trafico en el mapa
 ![gifcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.gif>)
 
 ![pngcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.png>)
-![gifcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.gif>)
+![gifcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party Hard-HUD.gif>)
 
 45-Pelado
 
