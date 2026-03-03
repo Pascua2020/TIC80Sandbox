@@ -198,7 +198,7 @@ ZhoZho Bilinkis
 
 ![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/ZhoZhoBilinkisB.png)
 ![pngvehiculoZhozhoBilinkispreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoBilinkis-HUD.png)
-![gifvehiculozhozhobilinkis](./GIFS4.0/Vehiculos/ZhozhoBilinkis.gif)
+![gifvehiculozhozhobilinkis](./GIFS4.0/Vehiculos/ZhoZhoBilinkisC.gif)
 
 26
 
@@ -206,7 +206,7 @@ ZhoZho EgoEgo
 
 ![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/ZhoZhoEgoEgoB.png)
 ![pngvehiculoZhozhoEgoegopreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoEgoego-HUD.png)
-![gifvehiculozhozhoegoego](./GIFS4.0/Vehiculos/ZhozhoEgoego.gif)
+![gifvehiculozhozhoegoego](./GIFS4.0/Vehiculos/ZhoZhoEgoEgoB.gif)
 
 27
 
@@ -214,5 +214,5 @@ ZhoZho Jade
 
 ![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/ZhoZhoJadeA.png)
 ![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhozhoJade-HUD.png)
-![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/ZhozhoJade.gif)
+![gifvehiculozhozhojade](./GIFS4.0/Vehiculos/ZhoZhoJadeD.gif)
 
