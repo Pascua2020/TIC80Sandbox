@@ -19,7 +19,7 @@ Nieve
 
 ![gifsclima-hojas+lluvia+nieve](./GIFS4.0/Climas/Hojas+Lluvia+Nieve.gif)
 
-![pngclima-](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+lluvia+nieve](./Screenshots4.0/Climas/Hojas+Lluvia+Nieve.png)
 
 Hojas +
 Lluvia +
@@ -28,7 +28,7 @@ Relampagos
 
 ![gifsclima-hojas+lluvia+nieve+relampagos](./GIFS4.0/Climas/Hojas+Lluvia+Nieve+Relampago.gif)
 
-![pngclima-](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+lluvia+nieve+relampagos](./Screenshots4.0/Climas/Hojas+Lluvia+Nieve+Relampagos.png)
 
 Hojas +
 Lluvia +
@@ -38,7 +38,7 @@ Viento
 
 ![gifsclima-hojas+lluvia+nieve+relampagos+viento](./GIFS4.0/Climas/Hojas+Lluvia+Nieve+Relampagos+Viento.gif)
 
-![pngclima-hojas+lluvia+nieve+relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+lluvia+nieve+relampagos+viento](./Screenshots4.0/Climas/Hojas+Lluvia+Nieve+Relampagos+Viento.png)
 
 Hojas +
 Lluvia +
@@ -46,7 +46,7 @@ Relampago
 
 ![gifsclima-hojas+lluvia+relampago](./GIFS4.0/Climas/Hojas+Lluvia+Relampago.gif)
 
-![pngclima-hojas+lluvia+relampago](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+lluvia+relampago](./Screenshots4.0/Climas/Hojas+Lluvia+Relampago.png)
 
 Hojas +
 Lluvia +
@@ -55,7 +55,7 @@ Viento
 
 ![gifsclima-hojas+lluvia+relampagos+viento](./GIFS4.0/Climas/Hojas+Lluvia+Relampagos+Viento.gif)
 
-![pngclima-hojas+lluvia+relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+lluvia+relampagos+viento](./Screenshots4.0/Climas/Hojas+Lluvia+Relampagos+Viento.png)
 
 Hojas +
 Lluvia +
@@ -88,14 +88,14 @@ Relampagos
 
 ![gifsclima-hojas+nieve+relampagos](./GIFS4.0/Climas/Hojas+Nieve+Relampago.gif)
 
-![pngclima-hojas+nieve+relampagos](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+nieve+relampagos](./Screenshots4.0/Climas/Hojas+Nieve+Relampagos.png)
 
 Hojas +
 Relampago
 
 ![gifsclima-hojas+relampago](./GIFS4.0/Climas/Hojas+Relampago.gif)
 
-![pngclima-hojas+relampago](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+relampago](./Screenshots4.0/Climas/Hojas+Relampago.png)
 
 Hojas +
 Viento
@@ -110,7 +110,7 @@ Relampagos
 
 ![gifsclima-hojas+viento+relampagos](./GIFS4.0/Climas/Hojas+Viento+Relampagos.gif)
 
-![pngclima-hojas+relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-hojas+relampagos+viento](./Screenshots4.0/Climas/Hojas+Viento+Relampagos.png)
 
 Lluvia
 
@@ -131,14 +131,14 @@ Viento
 
 ![gifsclima-Lluvia+Nieve+Viento](./GIFS4.0/Climas/Lluvia+Nieve+Viento.gif)
 
-![pngclima-lluvia+nieve+viento](./Screenshots4.0/Climas/.png)
+![pngclima-lluvia+nieve+viento](./Screenshots4.0/Climas/Lluvia+Nieve+Viento.png)
 
 Lluvia +
 Relampagos
 
 ![gifsclima-Lluvia+Relampagos](./GIFS4.0/Climas/Lluvia+Relampagos.gif)
 
-![pngclima-lluvia+relampagos](./Screenshots4.0/Climas/.png)
+![pngclima-lluvia+relampagos](./Screenshots4.0/Climas/Lluvia+Relampagos.png)
 
 Lluvia +
 Relampagos +
@@ -146,7 +146,7 @@ Viento
 
 ![gifsclima-Lluvia+relampagos+viento](./GIFS4.0/Climas/Lluvia+Relampagos+Viento.gif)
 
-![pngclima-lluvia+relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-lluvia+relampagos+viento](./Screenshots4.0/Climas/Lluvia+Relampagos+Viento.png)
 
 Lluvia + 
 Viento
@@ -166,7 +166,7 @@ Relampago
 
 ![gifsclima-Nieve+Relampago](./GIFS4.0/Climas/Nieve+Relampago.gif)
 
-![pngclima-nieve+relampago](./Screenshots4.0/Climas/.png)
+![pngclima-nieve+relampago](./Screenshots4.0/Climas/Nieve+Relampago.png)
 
 Nieve +
 Relampago +
@@ -174,7 +174,7 @@ Vientos
 
 ![gifsclima-Nieve+Relampago+Vientos](./GIFS4.0/Climas/Nieve+Relampagos+Viento.gif)
 
-![pngclima-nieve+relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-nieve+relampagos+viento](./Screenshots4.0/Climas/Nieve+Relampago+Vientos.png)
 
 Nieve +
 Viento
@@ -194,7 +194,7 @@ Viento
 
 ![gifsclima-relampagos+viento](./GIFS4.0/Climas/Relampagos+Viento.gif)
 
-![pngclima-relampagos+viento](./Screenshots4.0/Climas/.png)
+![pngclima-relampagos+viento](./Screenshots4.0/Climas/Relampagos+Viento.png)
 
 Viento
 
