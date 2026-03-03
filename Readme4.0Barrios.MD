@@ -73,7 +73,7 @@ Recorrido Calles Nononono :
 8
 No se queje
 
-![gifsbarrios-nosequeje](./GIFS4.0/Barrios/Nosequeje.gif)
+![gifsbarrios-nosequeje](<./GIFS4.0/Barrios/No se queje.gif>)
 ![pngsbarrios-barrionosequeje](./Screenshots4.0/Barrios/NoSeQueje.png)
 
 Recorrido Calles Barrio Nosequeje :
