@@ -100,25 +100,25 @@ Condon 16
 
 Condon 17
 
-![gifscoleccionablescondones17](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar1.gif)
+![gifscoleccionablescondones17](./GIFS4.0/Coleccionables/Condones/ColeccionableMar1.gif)
 
 ![pngcoleccionablescondones17](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar1.png)
 
 Condon 18
 
-![gifscoleccionablescondones18](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar2.gif)
+![gifscoleccionablescondones18](./GIFS4.0/Coleccionables/Condones/ColeccionableMar2.gif)
 
 ![pngcoleccionablescondones18](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar2.png)
 
 Condon 19
 
-![gifscoleccionablescondones19](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar3.gif)
+![gifscoleccionablescondones19](./GIFS4.0/Coleccionables/Condones/ColeccionableMar3.gif)
 
 ![pngcoleccionablescondones19](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar3.png)
 
 Condon 20
 
-![gifscoleccionablescondones20](./GIFS4.0/Coleccionables/Condones/ColeccionablesMar4.gif)
+![gifscoleccionablescondones20](./GIFS4.0/Coleccionables/Condones/ColeccionableMar4.gif)
 
 ![pngcoleccionablescondones20](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar4.png)
 
