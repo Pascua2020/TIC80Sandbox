@@ -272,11 +272,11 @@ Trafico en el mapa
 
 33-Mas placer
 
-![pngcallemasplacernohud](./Screenshots4.0/Calles(NOHUD)/Mas_placer.png)
-![gifcallemasplacernohud](./GIFS4.0/Calles(NOHUD)/Mas_placer.gif)
+![pngcallemasplacernohud](<./Screenshots4.0/Calles(NOHUD)/Mas placer.png>)
+![gifcallemasplacernohud](<./GIFS4.0/Calles(NOHUD)/Mas placer.gif>)
 
-![pngcallemasplacerhud](./Screenshots4.0/Calles(HUD)/Mas_placer-HUD.png)
-![gifcallemasplacerhud](./GIFS4.0/Calles(HUD)/Mas_placer-HUD.gif)
+![pngcallemasplacerhud](<./Screenshots4.0/Calles(HUD)/Mas placer-HUD.png>)
+![gifcallemasplacerhud](<./GIFS4.0/Calles(HUD)/Mas placer-HUD.gif>)
 
 34-Meteorito
 
