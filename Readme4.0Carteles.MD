@@ -586,7 +586,7 @@ F12
 
 F13
 
-![pngscartelesF13](./Screenshots4.0/Carteles/F/CartelF13.png)
+![pngscartelesF13](./Screenshots4.0/Carteles/F/Cartel-F13.png)
 ![gifscartelesF13](./GIFS4.0/Carteles/F/CartelF-13.gif)
 
 83
