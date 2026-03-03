@@ -464,11 +464,11 @@ Trafico en el mapa
 
 57-Siga siga
 
-![pngcallesigasiganohud](./Screenshots4.0/Calles(NOHUD)/Sigasiga.png)
-![gifcallesigasiganohud](./GIFS4.0/Calles(NOHUD)/Sigasiga.gif)
+![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga siga.png>)
+![gifcallesigasiganohud](<./GIFS4.0/Calles(NOHUD)/Siga siga.gif>)
 
-![pngcallesigasigahud](./Screenshots4.0/Calles(HUD)/Sigasiga-HUD.png)
-![gifcallesigasigahud](./GIFS4.0/Calles(HUD)/Sigasiga-HUD.gif)
+![pngcallesigasigahud](<./Screenshots4.0/Calles(HUD)/Siga siga-HUD.png>)
+![gifcallesigasigahud](<./GIFS4.0/Calles(HUD)/Siga siga-HUD.gif>)
 
 58-Trisexual
 
