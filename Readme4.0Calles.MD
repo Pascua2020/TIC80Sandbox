@@ -392,11 +392,11 @@ Trafico en el mapa
 
 48-Pio pio
 
-![pngcallepiopionohud](./Screenshots4.0/Calles(NOHUD)/Piopio.png)
-![gifcallepiopionohud](./GIFS4.0/Calles(NOHUD)/Piopio.gif)
+![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
+![gifcallepiopionohud](<./GIFS4.0/Calles(NOHUD)/Pio pio.gif>)
 
-![pngcallepiopiohud](./Screenshots4.0/Calles(HUD)/Piopio-HUD.png)
-![gifcallepiopiohud](./GIFS4.0/Calles(HUD)/Piopio-HUD.gif)
+![pngcallepiopiohud](<./Screenshots4.0/Calles(HUD)/Pio pio-HUD.png>)
+![gifcallepiopiohud](<./GIFS4.0/Calles(HUD)/Pio pio-HUD.gif>)
 
 49-Pixeles
 
@@ -408,83 +408,83 @@ Trafico en el mapa
 
 50-Poker
 
-![pngcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.png)
+![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 ![gifcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.gif)
 
 ![pngcallepokerhud](./Screenshots4.0/Calles(HUD)/Poker-HUD.png)
-![gifcallepokerhud](./Screenshots4.0/Calles(HUD)/Poker-HUD.gif)
+![gifcallepokerhud](./GIFS4.0/Calles(HUD)/Poker-HUD.gif)
 
 51-Pollo
 
-![pngcallepollonohud](./GIFS4.0/Calles(NOHUD)/Pollo.png)
+![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
 ![gifcallepollonohud](./GIFS4.0/Calles(NOHUD)/Pollo.gif)
 
 ![pngcallepollohud](./Screenshots4.0/Calles(HUD)/Pollo-HUD.png)
-![gifcallepollohud](./Screenshots4.0/Calles(HUD)/Pollo-HUD.gif)
+![gifcallepollohud](./GIFS4.0/Calles(HUD)/Pollo-HUD.gif)
 
 52-Ponemela
 
-![pngcalleponemelanohud](./GIFS4.0/Calles(NOHUD)/Ponemela.png)
+![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 ![gifcalleponemelanohud](./GIFS4.0/Calles(NOHUD)/Ponemela.gif)
 
 ![pngcalleponemelahud](./Screenshots4.0/Calles(HUD)/Ponemela-HUD.png)
-![gifcalleponemelahud](./Screenshots4.0/Calles(HUD)/Ponemela-HUD.gif)
+![gifcalleponemelahud](./GIFS4.0/Calles(HUD)/Ponemela-HUD.gif)
 
 53-Proceda
 
-![pngcalleprocedanohud](./GIFS4.0/Calles(NOHUD)/Proceda.png)
+![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
 ![gifcalleprocedanohud](./GIFS4.0/Calles(NOHUD)/Proceda.gif)
 
 ![pngcalleprocedahud](./Screenshots4.0/Calles(HUD)/Proceda-HUD.png)
-![gifcalleprocedahud](./Screenshots4.0/Calles(HUD)/Proceda-HUD.gif)
+![gifcalleprocedahud](./GIFS4.0/Calles(HUD)/Proceda-HUD.gif)
 
 54-Reperfilar
 
-![pngcallereperfilarnohud](./GIFS4.0/Calles(NOHUD)/Reperfilar.png)
+![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 ![gifcallereperfilarnohud](./GIFS4.0/Calles(NOHUD)/Reperfilar.gif)
 
 ![pngcallereperfilarhud](./Screenshots4.0/Calles(HUD)/Reperfilar-HUD.png)
-![gifcallereperfilarhud](./Screenshots4.0/Calles(HUD)/Reperfilar-HUD.gif)
+![gifcallereperfilarhud](./GIFS4.0/Calles(HUD)/Reperfilar-HUD.gif)
 
 55-Satanas
 
-![pngcallesatanasnohud](./GIFS4.0/Calles(NOHUD)/Satanas.png)
+![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
 ![gifcallesatanasnohud](./GIFS4.0/Calles(NOHUD)/Satanas.gif)
 
 ![pngcallesatanashud](./Screenshots4.0/Calles(HUD)/Satanas-HUD.png)
-![gifcallesatanashud](./Screenshots4.0/Calles(HUD)/Satanas-HUD.gif)
+![gifcallesatanashud](./GIFS4.0/Calles(HUD)/Satanas-HUD.gif)
 
 56-Seineldin
 
-![pngcalleseineldinnohud](./GIFS4.0/Calles(NOHUD)/Seineldin.png)
+![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 ![gifcalleseineldinnohud](./GIFS4.0/Calles(NOHUD)/Seineldin.gif)
 
 ![pngcalleseineldinhud](./Screenshots4.0/Calles(HUD)/Seineldin-HUD.png)
-![gifcalleseineldinhud](./Screenshots4.0/Calles(HUD)/Seineldin-HUD.gif)
+![gifcalleseineldinhud](./GIFS4.0/Calles(HUD)/Seineldin-HUD.gif)
 
 57-Siga siga
 
-![pngcallesigasiganohud](./GIFS4.0/Calles(NOHUD)/Sigasiga.png)
+![pngcallesigasiganohud](./Screenshots4.0/Calles(NOHUD)/Sigasiga.png)
 ![gifcallesigasiganohud](./GIFS4.0/Calles(NOHUD)/Sigasiga.gif)
 
 ![pngcallesigasigahud](./Screenshots4.0/Calles(HUD)/Sigasiga-HUD.png)
-![gifcallesigasigahud](./Screenshots4.0/Calles(HUD)/Sigasiga-HUD.gif)
+![gifcallesigasigahud](./GIFS4.0/Calles(HUD)/Sigasiga-HUD.gif)
 
 58-Trisexual
 
-![pngcalletrisexualnohud](./GIFS4.0/Calles(NOHUD)/Trisexual.png)
+![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 ![gifcalletrisexualnohud](./GIFS4.0/Calles(NOHUD)/Trisexual.gif)
 
 ![pngcalletrisexualhud](./Screenshots4.0/Calles(HUD)/Trisexual-HUD.png)
-![gifcalletrisexualhud](./Screenshots4.0/Calles(HUD)/Trisexual-HUD.gif)
+![gifcalletrisexualhud](./GIFS4.0/Calles(HUD)/Trisexual-HUD.gif)
 
 59-Turbina
 
-![pngcalleturbinanohud](./GIFS4.0/Calles(NOHUD)/Turbina.png)
+![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
 ![gifcalleturbinanohud](./GIFS4.0/Calles(NOHUD)/Turbina.gif)
 
 ![pngcalleturbinahud](./Screenshots4.0/Calles(HUD)/Turbina-HUD.png)
-![gifcalleturbinahud](./Screenshots4.0/Calles(HUD)/Turbina-HUD.gif)
+![gifcalleturbinahud](./GIFS4.0/Calles(HUD)/Turbina-HUD.gif)
 
 60-Turro
 
