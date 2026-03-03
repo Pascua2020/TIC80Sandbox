@@ -864,5 +864,5 @@ Descartado:
 -Sistema de Logros
 
 
-![gifstuntmansistemalogros](./GIFS4.0/CutContent/Stuntman/SistemaLogros.gif)
+![gifstuntmansistemalogros](<./GIFS4.0/CutContent/Stuntman/SistemaLogros ( crimenYPixelv2.1 ) 18-4-2025.gif>)
 
