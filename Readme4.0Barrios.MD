@@ -83,7 +83,7 @@ Recorrido Calles Barrio Nosequeje :
 9
 Nueva Madrid
 
-![gifsbarrios-NuevaMadrid](./GIFS4.0/Barrios/NuevaMadrid.gif)
+![gifsbarrios-NuevaMadrid](<./GIFS4.0/Barrios/Nueva Madrid.gif>)
 ![pngsbarrios-barrionuevamadrid](./Screenshots4.0/Barrios/NuevaMadrid.png)
 
 Recorrido Calles Barrio Nueva Madrid :
@@ -93,7 +93,7 @@ Recorrido Calles Barrio Nueva Madrid :
 10
 Nueva Pyongyang
 
-![gifsbarrios-nuevapyongyang](./GIFS4.0/Barrios/NuevaPyongyang.gif)
+![gifsbarrios-nuevapyongyang](<./GIFS4.0/Barrios/Nueva Pyongyang.gif>)
 ![pngsbarrios-nuevapyongyang](./Screenshots4.0/Barrios/NuevaPyongyang.png)
 
 Recorrido Calles Barrio Nueva Pyongyang:
@@ -123,7 +123,7 @@ Recorrido Calles Tigerlandia :
 13
 Villa Casta
 
-![gifsbarrios-villacasta](./GIFS4.0/Barrios/VillaCasta.gif)
+![gifsbarrios-villacasta](<./GIFS4.0/Barrios/Villa Casta.gif>)
 ![pngsbarrios-barriovillacasta](./Screenshots4.0/Barrios/VillaCasta.png)
 
 Recorrido Calles Villa Casta :
@@ -133,7 +133,7 @@ Recorrido Calles Villa Casta :
 14
 Villa Castores
 
-![gifsbarrios-villacastores](./GIFS4.0/Barrios/VillaCastores.gif)
+![gifsbarrios-villacastores](<./GIFS4.0/Barrios/Villa Castores.gif>)
 ![pngsbarrios-villacastores](./Screenshots4.0/Barrios/VillaCastores.png)
 
 Recorrido Calles Villa Castores :
@@ -143,7 +143,7 @@ Recorrido Calles Villa Castores :
 15
 Villa Pinball
 
-![gifsbarrios-villapinball](./GIFS4.0/Barrios/VillaPinball.gif)
+![gifsbarrios-villapinball](<./GIFS4.0/Barrios/Villa Pinball.gif>)
 ![pngsbarrios-barriovillapinball](./Screenshots4.0/Barrios/VillaPinball.png)
 
 Recorrido Calles Villa Pinball :
@@ -153,7 +153,7 @@ Recorrido Calles Villa Pinball :
 16
 Vivan los Osos
 
-![gifsbarrios-vivanlososos](./GIFS4.0/Barrios/Vivanlososos.gif)
+![gifsbarrios-vivanlososos](<./GIFS4.0/Barrios/Vivan los osos.gif>)
 ![pngsbarrios-vivanlososos](./Screenshots4.0/Barrios/VivanLosOsos.png)
 
 Recorrido Calles Vivan los Osos :
