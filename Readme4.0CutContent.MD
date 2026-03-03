@@ -170,14 +170,14 @@ Readme4.0CutContent
 
 -Piedra Papel o MotoSierra
 
-![gifpiedrapapelmotosierra](./GIFS4.0/CutContent/PiedraPapelOMotosierra_(_piedra_)_4-3-2025.gif)
+![gifpiedrapapelmotosierra](<./GIFS4.0/CutContent/PiedraPapelOMotosierra ( piedra ) 4-3-2025.gif>)
 
 ![pngcutcontentPiedraPapelOMotosierra1](./Screenshots4.0/CutContent/PiedraPapelOMotosierra1.png)
 ![pngcutcontentPiedraPapelOMotosierra2](./Screenshots4.0/CutContent/PiedraPapelOMotosierra2.png)
 
 -Medidor de Ansiedad y Estres
 
-![gifansiedad](./GIFS4.0/CutContent/Ansiedadyestres_(_ansiedad_)_4-3-2025.gif)
+![gifansiedad](<./GIFS4.0/CutContent/Ansiedadyestres ( ansiedad ) 4-3-2025.gif>)
 
 ![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)
 
