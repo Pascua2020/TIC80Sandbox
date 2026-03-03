@@ -101,7 +101,7 @@ Frases
 8
 Lanzallamas
 
-![gifsarmaslanzallamas](./GIFS4.0/Armas/Lanzallamas.gif)
+![gifsarmaslanzallamas](./GIFS4.0/Armas/LanzaLlamas.gif)
 ![gifsarmastesteolanzallamas](./GIFS4.0/Armas/TesteoLanzallamas.gif)
 
 Frases
