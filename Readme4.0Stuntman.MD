@@ -1,6 +1,6 @@
 Readme4.0Stuntman
 
-Descripcion de Mision + Selector de Fases
+🎬Descripcion de Mision + Selector de Fases
 
 ![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
 ![pngstuntmanv4.0selectorfase02](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase02.png)
@@ -15,29 +15,29 @@ Descripcion de Mision + Selector de Fases
 
 ![pngstuntmanv4.0nombrestacchotta](./Screenshots4.0/Stuntman/NombreStacchotta.png)
 
-Toda la Mision ( Principio a Fin )
+🎬Toda la Mision ( Principio a Fin )
 
-Version 1.0 ( SIN ERRORES )
+🎥Version 1.0 ( SIN ERRORES )
 
 ![gifstuntmanV1.0MisionF1a10](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10_Sin_Errores_(_crimenYPixel_)_7-4-2025.gif)
 
-MISION COMPLETADA:
+🎬MISION COMPLETADA:
 
-V1.0
+🎥V1.0
 
 ![gifstuntmanv1misioncompletada](./GIFS4.0/CutContent/Stuntman/V1/MisionCompletada.gif)
 
-V4.0
+🎥V4.0
 
 ![gifstuntmanv4.0misioncompletada](./GIFS4.0/CutContent/Stuntman/StuntmanMisionCompletada.gif)
 
-Fase 1 Dialogos
+🎬Fase 1 Dialogos
 
 
 
 A
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase1.gif)
 
@@ -47,45 +47,45 @@ Version 4.0
 
 B
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase1B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase1B.gif)
 
 ![pngstuntmanv4.0mensajefase1B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase1B.png)
 
-Fase 1 Accion
+🎬Fase 1 Accion
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1jugabilidadF1](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase1.gif)
 
-Fase 1 Game Over
+🎬Fase 1 Game Over
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1gameover1](./GIFS4.0/CutContent/Stuntman/V1/GameOver1.gif)
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0gameover1](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver1.gif)
 
 ![pngstuntmanv4.0gameover1](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman01.png)
 
 
-Fase 1 Inicio Rapido
+🎬Fase 1 Inicio Rapido
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
 
 
-Fase 2 Dialogos
+🎬Fase 2 Dialogos
 
 
 
 A
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase2](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase2.gif)
 
@@ -93,44 +93,44 @@ Version 4.0
 
 B
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase2B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase2B.gif)
 
 ![pngstuntmanv4.0mensajefase2B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase2B.png)
 
-Fase 2 Accion
+🎬Fase 2 Accion
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1jugabilidadF2](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase2.gif)
 
-Fase 2 Game Over
+🎬Fase 2 Game Over
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1gameover2](./GIFS4.0/CutContent/Stuntman/V1/GameOver2.gif)
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0gameover2](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver2.gif)
 
 ![pngstuntmanv4.0gameover2](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman02.png)
 
-Fase 2 Inicio Rapido
+🎬Fase 2 Inicio Rapido
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
 
 
-Fase 3 Dialogos
+🎬Fase 3 Dialogos
 
 
 
 A
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase3](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase3.gif)
 
@@ -138,45 +138,45 @@ Version 4.0
 
 B
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase3B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase3B.gif)
 
 ![pngstuntmanv4.0mensajefase3B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase3B.png)
 
 
-Fase 3 Accion
+🎬Fase 3 Accion
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1jugabilidadF3](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase3.gif)
 
-Fase 3 Game Over
+🎬Fase 3 Game Over
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1gameover3](./GIFS4.0/CutContent/Stuntman/V1/GameOver3.gif)
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0gameover3](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver3.gif)
 
 ![pngstuntmanv4.0gameover3](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman03.png)
 
-Fase 3 Inicio Rapido
+🎬Fase 3 Inicio Rapido
 
 
-Version 1
+🎥Version 1
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
 
-Fase 4 Dialogos
+🎬Fase 4 Dialogos
 
 
 
 A
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase4](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase4.gif)
 
@@ -184,7 +184,7 @@ Version 4.0
 
 B
 
-Version 4.0
+🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase4B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase4B.gif)
 
@@ -192,13 +192,13 @@ Version 4.0
 
 
 
-Fase 4 Accion
+🎬Fase 4 Accion
 
 Version 1
 
 ![gifstuntmanv1jugabilidadF4](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase4.gif)
 
-Fase 4 Game Over
+🎬Fase 4 Game Over
 
 Version 1
 
@@ -210,14 +210,14 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover4](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman04.png)
 
-Fase 4 Inicio Rapido
+🎬Fase 4 Inicio Rapido
 
 Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
 
 
-Fase 5 Dialogos
+🎬Fase 5 Dialogos
 
 
 
@@ -238,7 +238,7 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase5B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase5B.png)
 
 
-Fase 5 Accion
+🎬Fase 5 Accion
 
 Version 1
 
