@@ -48,43 +48,43 @@ MegaTabla - gestionArmas
 
 MegaTabla - gestionMisionStuntman-crearObjetos
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionMisionStuntman-crearObjetos.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionMisionStuntman-crearObjetos.gif)
 
 MegaTabla - gestionMisionStuntman-numericos-Stacchotta
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionMisionStuntman-numericos-Stacchotta.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-gestionMisionStuntman-numericos-Stacchotta.gif)
 
 MegaTabla - lectorDeDiarios
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-lectorDeDiarios.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-lectorDeDiarios.gif)
 
 MegaTabla - menuPrincipal
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-menuPrincipal.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-menuPrincipal.gif)
 
 MegaTabla - Pinball-animaciones
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball-animaciones.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball-animaciones.gif)
 
 MegaTabla - Pinball-frases-aCompletar
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball-frases-aCompletar.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball-frases-aCompletar.gif)
 
 MegaTabla - pinball
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-pinball.gif)
 
 MegaTabla - radios
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-radios.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-radios.gif)
 
 MegaTabla - temporizadorGeneral
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-temporizadorGeneral.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-temporizadorGeneral.gif)
 
 MegaTabla - 
 
-![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-.gif)]
+![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-.gif)
 
 p,r,c,s,l = print,rect,circ,spr,line -- alias global
 --====== VARIABLES.LUA (simulado) ======--
