@@ -46,25 +46,25 @@ Condon 07
 
 Condon 08
 
-![gifscoleccionablescondones8](./GIFS4.0/Coleccionables/Condones/Villa_castores.gif)
+![gifscoleccionablescondones8](<./GIFS4.0/Coleccionables/Condones/Villa castores.gif>)
 
 ![pngcoleccionablescondones8](./Screenshots4.0/Coleccionables/Condones/Villa_castores.png)
 
 Condon 09
 
-![gifscoleccionablescondones9](./GIFS4.0/Coleccionables/Condones/Villa_pinball.gif)
+![gifscoleccionablescondones9](<./GIFS4.0/Coleccionables/Condones/Villa pinball.gif>)
 
 ![pngcoleccionablescondones9](./Screenshots4.0/Coleccionables/Condones/Villa_pinball.png)
 
 Condon 10
 
-![gifscoleccionablescondones10](./GIFS4.0/Coleccionables/Condones/Villa_pinball2.gif)
+![gifscoleccionablescondones10](<./GIFS4.0/Coleccionables/Condones/Villa pinball2.gif>)
 
 ![pngcoleccionablescondones10](./Screenshots4.0/Coleccionables/Condones/Villa_pinball2.png)
 
 Condon 11
 
-![gifscoleccionablescondones11](./GIFS4.0/Coleccionables/Condones/Vivan_los_osos.gif)
+![gifscoleccionablescondones11](<./GIFS4.0/Coleccionables/Condones/Vivan los osos.gif>)
 
 ![pngcoleccionablescondones11](./Screenshots4.0/Coleccionables/Condones/Vivan_los_osos.png)
 
