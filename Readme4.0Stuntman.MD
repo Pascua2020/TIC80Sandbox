@@ -855,7 +855,7 @@ Descartado:
 
 -Grabar Fase
 
-![gifstuntmangrabarfase](<./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman ( crimenYPixelv2.3 ) 24-4-2025.gif>)
+![gifstuntmangrabarfase](<./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman ( crimenypixelv2.3 ) 24-4-2025.gif>)
 
 -Medidor Sobrecarga de RAM
 
