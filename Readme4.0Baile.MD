@@ -12,37 +12,37 @@ Frases Baile
 
 2
 
-![gifsfrasesbailarines2](./GIFS4.0/Baile/MensajeBaile2.gif)
+![gifsfrasesbailarines2](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile2.gif)
 
 ![pngfrasesbailarines2](<./Screenshots4.0/Baile/Frases Baile/BaileFrase2.png>)
 
 3
 
-![gifsfrasesbailarines3](./GIFS4.0/Baile/MensajeBaile3.gif)
+![gifsfrasesbailarines3](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile3.gif)
 
 ![pngfrasesbailarines3](<./Screenshots4.0/Baile/Frases Baile/BaileFrase3.png>)
 
 4
 
-![gifsfrasesbailarines4](./GIFS4.0/Baile/MensajeBaile4.gif)
+![gifsfrasesbailarines4](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile4.gif)
 
 ![pngfrasesbailarines4](<./Screenshots4.0/Baile/Frases Baile/BaileFrase4.png>)
 
 5
 
-![gifsfrasesbailarines5](./GIFS4.0/Baile/MensajeBaile5.gif)
+![gifsfrasesbailarines5](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile5.gif)
 
 ![pngfrasesbailarines5](<./Screenshots4.0/Baile/Frases Baile/BaileFrase5.png>)
 
 6
 
-![gifsfrasesbailarines6](./GIFS4.0/Baile/MensajeBaile6.gif)
+![gifsfrasesbailarines6](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile6.gif)
 
 ![pngfrasesbailarines6](<./Screenshots4.0/Baile/Frases Baile/BaileFrase6.png>)
 
 7
 
-![gifsfrasesbailarines7](./GIFS4.0/Baile/MensajeBaile7.gif)
+![gifsfrasesbailarines7](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile7.gif)
 
 ![pngfrasesbailarines7](<./Screenshots4.0/Baile/Frases Baile/BaileFrase7.png>)
 
