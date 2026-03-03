@@ -96,25 +96,25 @@ Frases Combos
 
 1
 
-![gifsfrasescombos1](./GIFS4.0/Baile/FrasesCombos/FrasesCombos1.gif)
+![gifsfrasescombos1](./GIFS4.0/Baile/LetrasCombos/FrasesCombos1.gif)
 
 ![pngfrasescombos1](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos1.png)
 
 2
 
-![gifsfrasescombos2](./GIFS4.0/Baile/FrasesCombos/FrasesCombos2.gif)
+![gifsfrasescombos2](./GIFS4.0/Baile/LetrasCombos/FrasesCombos2.gif)
 
 ![pngfrasescombos2](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos2.png)
 
 3
 
-![gifsfrasescombos3](./GIFS4.0/Baile/FrasesCombos/FrasesCombos3.gif)
+![gifsfrasescombos3](./GIFS4.0/Baile/LetrasCombos/FrasesCombos3.gif)
 
 ![pngfrasescombos3](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos3.png)
 
 4
 
-![gifsfrasescombos4](./GIFS4.0/Baile/FrasesCombos/FrasesCombos4.gif)
+![gifsfrasescombos4](./GIFS4.0/Baile/LetrasCombos/FrasesCombos4.gif)
 
 ![pngfrasescombos4](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos4.png)
 
