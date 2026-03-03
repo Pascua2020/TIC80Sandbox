@@ -520,22 +520,22 @@ todoJuego = {
 
 VerificarLimitesMapaConCamara - esParaMisionStuntman
 
-![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara-esParaMisionStuntman.gif)]
+![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara-esParaMisionStuntman.gif)
 
 VerificarLimitesMapaConCamara - 
 
-![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)]
+![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)
 
 
 
 -
 
 
-![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)]
+![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)
 
-![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)]
+![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)
 
-![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)]
+![gifCodigoFuenteVerificarLimitesMapaConCamara](./GIFS4.0/CodigoFuente/FuncionVerificarLimitesMapaConCamara.gif)
 
 
 function verificarLimitesMapaConCamara(accion, esParaMisionStuntman)
