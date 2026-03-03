@@ -43,7 +43,7 @@ Recorrido Calles Currolandia :
 5
 El Wiki Barrio
 
-![gifsbarrios-elwikibarrio](./GIFS4.0/Barrios/ElWikiBarrio.gif)
+![gifsbarrios-elwikibarrio](<./GIFS4.0/Barrios/El Wiki Barrio.gif>)
 ![pngsbarrios-elwikibarrio](./Screenshots4.0/Barrios/ElWikiBarrio.png)
 
 Recorrido Calles El Wiki Barrio :
@@ -63,7 +63,7 @@ Recorrido Calles Barrio Internets :
 7
 No no no no
 
-![gifsbarrios-nononono](./GIFS4.0/Barrios/Nononono.gif)
+![gifsbarrios-nononono](<./GIFS4.0/Barrios/No no no no.gif>)
 ![pngsbarrios-barrionononono](./Screenshots4.0/Barrios/Nononono.png)
 
 Recorrido Calles Nononono :
