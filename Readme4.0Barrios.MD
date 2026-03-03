@@ -3,7 +3,7 @@ Readme4.0Barrios
 1
 Barrio Chetisimo
 
-![gifsbarrios-barriochetisimo](./GIFS4.0/Barrios/BarrioChetisimo.gif)
+![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
 ![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
 
 Recorrido Calles Barrio Chetisimo :
@@ -13,7 +13,7 @@ Recorrido Calles Barrio Chetisimo :
 2
 Barrio Turrisimo
 
-![gifsbarrios-barrioturrisimo](./GIFS4.0/Barrios/BarrioTurrisimo.gif)
+![gifsbarrios-barrioturrisimo](<./GIFS4.0/Barrios/Barrio Turrisimo.gif>)
 ![pngsbarrios-barrioturrisimo](./Screenshots4.0/Barrios/BarrioTurrisimo.png)
 
 Recorrido Calles Barrio Turrisimo :
@@ -23,7 +23,7 @@ Recorrido Calles Barrio Turrisimo :
 3
 Casi Casi
 
-![gifsbarrios-casicasi](./GIFS4.0/Barrios/Casicasi.gif)
+![gifsbarrios-casicasi](<./GIFS4.0/Barrios/Casi Casi.gif>)
 ![pngsbarrios-barriocasicasi](./Screenshots4.0/Barrios/CasiCasi.png)
 
 Recorrido Calles CasiCasi :
