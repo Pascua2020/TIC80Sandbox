@@ -855,11 +855,11 @@ Descartado:
 
 -Grabar Fase
 
-![gifstuntmangrabarfase](./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman.gif)
+![gifstuntmangrabarfase](<./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman ( crimenYPixelv2.3 ) 24-4-2025.gif>)
 
 -Medidor Sobrecarga de RAM
 
-![gifstuntmanmedidorram](./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM.gif)
+![gifstuntmanmedidorram](<./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM ( crimenYPixelv2.1 ) 18-4-2025.gif>)
 
 -Sistema de Logros
 
