@@ -141,7 +141,7 @@ Rally ElWacho
 RC
 
 ![pngvehiculorc](./Screenshots4.0/Vehiculos/RC-A.png)
-![pngvehiculoRCpreview](./Screenshots4.0/Vehiculos/Preview/RC-HUD.png)
+![pngvehiculoRCpreview](./Screenshots4.0/Vehiculos/Preview/RC-B-HUD.png)
 ![gifvehiculorc](./GIFS4.0/Vehiculos/RC-B.gif)
 
 19
