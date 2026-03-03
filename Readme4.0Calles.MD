@@ -497,10 +497,10 @@ Trafico en el mapa
 61-Tuti fruti
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
-![gifcalletutifrutinohud](<./GIFS4.0/Calles(NOHUD)/Tuti fruti.gif>)
+![gifcalletutifrutinohud](<./GIFS4.0/Calles(NOHUD)/Tuti Fruti.gif>)
 
-![pngcalletutifrutihud](<./Screenshots4.0/Calles(HUD)/Tuti fruti-HUD.png>)
-![gifcalletutifrutihud](<./GIFS4.0/Calles(HUD)/Tuti fruti-HUD.gif>)
+![pngcalletutifrutihud](<./Screenshots4.0/Calles(HUD)/Tuti Fruti-HUD.png>)
+![gifcalletutifrutihud](<./GIFS4.0/Calles(HUD)/Tuti Fruti-HUD.gif>)
 
 62-Viagra
 
@@ -529,10 +529,10 @@ Trafico en el mapa
 65-Zig Zag
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
-![gifcallezigzagnohud](<./GIFS4.0/Calles(NOHUD)/Zig zag.gif>)
+![gifcallezigzagnohud](<./GIFS4.0/Calles(NOHUD)/Zig Zag.gif>)
 
-![pngcallezigzaghud](<./Screenshots4.0/Calles(HUD)/Zig zag-HUD.png>)
-![gifcallezigzaghud](<./GIFS4.0/Calles(HUD)/Zig zag-HUD.gif>)
+![pngcallezigzaghud](<./Screenshots4.0/Calles(HUD)/Zig Zag-HUD.png>)
+![gifcallezigzaghud](<./GIFS4.0/Calles(HUD)/Zig Zag-HUD.gif>)
 
 66-
 
