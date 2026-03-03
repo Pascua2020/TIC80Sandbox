@@ -6,7 +6,7 @@ Frases Baile
 
 1
 
-![gifsfrasesbailarines1](./GIFS4.0/Baile/FrasesBaile/MensajeBaile1.gif)
+![gifsfrasesbailarines1](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile1.gif)
 
 ![pngfrasesbailarines1](<./Screenshots4.0/Baile/Frases Baile/BaileFrase1.png>)
 
