@@ -4,7 +4,7 @@ Condones
 
 Condon 01
 
-![gifscoleccionablescondones1](./GIFS4.0/Coleccionables/Condones/Casi_casi.gif)
+![gifscoleccionablescondones1](<./GIFS4.0/Coleccionables/Condones/Casi casi.gif>)
 
 ![pngcoleccionablescondones1](./Screenshots4.0/Coleccionables/Condones/Casi_Casi.png)
 
@@ -16,19 +16,19 @@ Condon 02
 
 Condon 03
 
-![gifscoleccionablescondones3](./GIFS4.0/Coleccionables/Condones/No_no_no_no.gif)
+![gifscoleccionablescondones3](<./GIFS4.0/Coleccionables/Condones/No no no no.gif>)
 
 ![pngcoleccionablescondones3](./Screenshots4.0/Coleccionables/Condones/No_no_no_no.png)
 
 Condon 04
 
-![gifscoleccionablescondones4](./GIFS4.0/Coleccionables/Condones/No_no_no_no2.gif)
+![gifscoleccionablescondones4](<./GIFS4.0/Coleccionables/Condones/No no no no2.gif>)
 
 ![pngcoleccionablescondones4](./Screenshots4.0/Coleccionables/Condones/No_no_no_no2.png)
 
 Condon 05
 
-![gifscoleccionablescondones5](./GIFS4.0/Coleccionables/Condones/No_se_queje.gif)
+![gifscoleccionablescondones5](<./GIFS4.0/Coleccionables/Condones/No se queje.gif>)
 
 ![pngcoleccionablescondones5](./Screenshots4.0/Coleccionables/Condones/No_se_queje.png)
 
