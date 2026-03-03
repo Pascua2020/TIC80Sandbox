@@ -32,7 +32,7 @@ Frases
 ElectroRifle
 
 ![gifsarmaselectrorifle](./GIFS4.0/Armas/ElectroRifle.gif)
-![gifsarmastesteoelectrorifle](./GIFS4.0/Armas/TesteoElectroRifle.gif)
+![gifsarmastesteoelectrorifle](./GIFS4.0/Armas/TesteoElectrorifle.gif)
 
 Frases
 
