@@ -165,7 +165,7 @@ Stacchotta 69
 Tochota MohToh
 
 ![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/TochotaMohtoh.png)
-![pngvehiculoTochotaMohtohpreview](./Screenshots4.0/Vehiculos/Preview/TochotaMohtoh-HUD.png)
+![pngvehiculoTochotaMohtohpreview](./Screenshots4.0/Vehiculos/Preview/TochotaMohToh-HUD.png)
 ![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/TochotaMohToh.gif)
 
 22
