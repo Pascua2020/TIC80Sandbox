@@ -153,7 +153,7 @@ Recorrido Calles Villa Pinball :
 16
 Vivan los Osos
 
-![gifsbarrios-vivanlososos](<./GIFS4.0/Barrios/Vivan los osos.gif>)
+![gifsbarrios-vivanlososos](<./GIFS4.0/Barrios/Vivan los Osos.gif>)
 ![pngsbarrios-vivanlososos](./Screenshots4.0/Barrios/VivanLosOsos.png)
 
 Recorrido Calles Vivan los Osos :
