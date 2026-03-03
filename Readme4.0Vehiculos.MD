@@ -166,7 +166,7 @@ Tochota MohToh
 
 ![pngvehiculotochotamohtoh](./Screenshots4.0/Vehiculos/TochotaMohtoh.png)
 ![pngvehiculoTochotaMohtohpreview](./Screenshots4.0/Vehiculos/Preview/TochotaMohtoh-HUD.png)
-![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/TochotaMohtoh.gif)
+![gifvehiculotochotamohtoh](./GIFS4.0/Vehiculos/TochotaMohToh.gif)
 
 22
 
