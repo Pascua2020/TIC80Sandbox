@@ -17,7 +17,7 @@ Frases
 2
 Bazooka
 
-![gifsarmasbazooka](./GIFS4.0/Armas/Bazooka.gif)]
+![gifsarmasbazooka](./GIFS4.0/Armas/Bazooka.gif)
 ![gifsarmastesteobazooka](./GIFS4.0/Armas/TesteoBazooka.gif)
 
 Frases
