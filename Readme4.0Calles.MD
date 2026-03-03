@@ -360,7 +360,7 @@ Trafico en el mapa
 
 44-Party Hard
 
-![pngcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party hard.png>)
+![pngcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.png>)
 ![gifcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.gif>)
 
 ![pngcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.png>)
