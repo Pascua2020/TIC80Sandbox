@@ -28,7 +28,7 @@ Casi Casi
 
 Recorrido Calles CasiCasi :
 
-![gifsbarrios-recorridocasicasi](./GIFS4.0/Barrios/RecorridosBarrios/CallesCasicasi.gif)
+![gifsbarrios-recorridocasicasi](./GIFS4.0/Barrios/RecorridosBarrios/CallesCasiCasi.gif)
 
 4
 Currolandia
@@ -78,7 +78,7 @@ No se queje
 
 Recorrido Calles Barrio Nosequeje :
 
-![gifsbarrios-recorridobarrionosequeje](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioNosequeje.gif)
+![gifsbarrios-recorridobarrionosequeje](./GIFS4.0/Barrios/RecorridosBarrios/CallesNosequeje.gif)
 
 9
 Nueva Madrid
@@ -88,7 +88,7 @@ Nueva Madrid
 
 Recorrido Calles Barrio Nueva Madrid :
 
-![gifsbarrios-recorridobarrionuevamadrid](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioNuevaMadrid.gif)
+![gifsbarrios-recorridobarrionuevamadrid](./GIFS4.0/Barrios/RecorridosBarrios/CallesNuevaMadrid.gif)
 
 10
 Nueva Pyongyang
@@ -98,7 +98,7 @@ Nueva Pyongyang
 
 Recorrido Calles Barrio Nueva Pyongyang:
 
-![gifsbarrios-recorridobarrionuevapyongyang](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioNuevaPyongyang.gif)
+![gifsbarrios-recorridobarrionuevapyongyang](./GIFS4.0/Barrios/RecorridosBarrios/CallesNuevaPyongyang.gif)
 
 11
 Obelisco
@@ -108,7 +108,7 @@ Obelisco
 
 Recorrido Calles Barrio Obelisco :
 
-![gifsbarrios-recorridobarrioobelisco](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioObelisco.gif)
+![gifsbarrios-recorridobarrioobelisco](./GIFS4.0/Barrios/RecorridosBarrios/CallesObelisco.gif)
 
 12
 Tigerlandia
@@ -118,7 +118,7 @@ Tigerlandia
 
 Recorrido Calles Tigerlandia :
 
-![gifsbarrios-recorridobarriotigerlandia](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioTigerlandia.gif)
+![gifsbarrios-recorridobarriotigerlandia](./GIFS4.0/Barrios/RecorridosBarrios/CallesTigerlandia.gif)
 
 13
 Villa Casta
@@ -128,7 +128,7 @@ Villa Casta
 
 Recorrido Calles Villa Casta :
 
-![gifsbarrios-recorridobarriovillacasta](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVillaCasta.gif)
+![gifsbarrios-recorridobarriovillacasta](./GIFS4.0/Barrios/RecorridosBarrios/CallesVillaCasta.gif)
 
 14
 Villa Castores
@@ -138,7 +138,7 @@ Villa Castores
 
 Recorrido Calles Villa Castores :
 
-![gifsbarrios-recorridobarriovillacastores](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVillaCastores.gif)
+![gifsbarrios-recorridobarriovillacastores](./GIFS4.0/Barrios/RecorridosBarrios/CallesVillaCastores.gif)
 
 15
 Villa Pinball
@@ -148,7 +148,7 @@ Villa Pinball
 
 Recorrido Calles Villa Pinball :
 
-![gifsbarrios-recorridobarriovillapinball](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVillaPinball.gif)
+![gifsbarrios-recorridobarriovillapinball](./GIFS4.0/Barrios/RecorridosBarrios/CallesVillaPinball.gif)
 
 16
 Vivan los Osos
@@ -158,7 +158,7 @@ Vivan los Osos
 
 Recorrido Calles Vivan los Osos :
 
-![gifsbarrios-recorridobarriovivanlososos](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioVivanLosOsos.gif)
+![gifsbarrios-recorridobarriovivanlososos](./GIFS4.0/Barrios/RecorridosBarrios/CallesVivanlososos.gif)
 
 
 
