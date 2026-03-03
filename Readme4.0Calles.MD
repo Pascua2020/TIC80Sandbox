@@ -320,27 +320,27 @@ Trafico en el mapa
 
 39-No jodas
 
-![pngcallenojodasnohud](./Screenshots4.0/Calles(NOHUD)/Nojodas.png)
-![gifcallenojodasnohud](./GIFS4.0/Calles(NOHUD)/Nojodas.gif)
+![pngcallenojodasnohud](<./Screenshots4.0/Calles(NOHUD)/No jodas.png>)
+![gifcallenojodasnohud](<./GIFS4.0/Calles(NOHUD)/No jodas.gif>)
 
-![pngcallenojodashud](./Screenshots4.0/Calles(HUD)/Nojodas-HUD.png)
-![gifcallenojodashud](./GIFS4.0/Calles(HUD)/Nojodas-HUD.gif)
+![pngcallenojodashud](<./Screenshots4.0/Calles(HUD)/No jodas-HUD.png>)
+![gifcallenojodashud](<./GIFS4.0/Calles(HUD)/No  jodas-HUD.gif>)
 
 40-No te creo
 
-![pngcallenotecreonohud](./Screenshots4.0/Calles(NOHUD)/Notecreo.png)
-![gifcallenotecreonohud](./GIFS4.0/Calles(NOHUD)/Notecreo.gif)
+![pngcallenotecreonohud](<./Screenshots4.0/Calles(NOHUD)/No te creo.png>)
+![gifcallenotecreonohud](<./GIFS4.0/Calles(NOHUD)/No te creo.gif>)
 
-![pngcallenotecreohud](./Screenshots4.0/Calles(HUD)/Notecreo-HUD.png)
-![gifcallenotecreohud](./GIFS4.0/Calles(HUD)/Notecreo-HUD.gif)
+![pngcallenotecreohud](<./Screenshots4.0/Calles(HUD)/No te creo-HUD.png>)
+![gifcallenotecreohud](<./GIFS4.0/Calles(HUD)/No te creo-HUD.gif>)
 
 41-NOOOO
 
-![pngcallenoooonohud](./GIFS4.0/Calles(NOHUD)/Noooo.png)
-![gifcallenoooonohud](./GIFS4.0/Calles(NOHUD)/Noooo.gif)
+![pngcallenoooonohud](./GIFS4.0/Calles(NOHUD)/NOOOO.png)
+![gifcallenoooonohud](./GIFS4.0/Calles(NOHUD)/NOOOO.gif)
 
-![pngcallenoooohud](./Screenshots4.0/Calles(HUD)/Noooo-HUD.png)
-![gifcallenoooohud](./Screenshots4.0/Calles(HUD)/Noooo-HUD.gif)
+![pngcallenoooohud](./Screenshots4.0/Calles(HUD)/NOOOO-HUD.png)
+![gifcallenoooohud](./Screenshots4.0/Calles(HUD)/NOOOO-HUD.gif)
 
 42-Orco
 
