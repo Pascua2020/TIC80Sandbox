@@ -734,29 +734,29 @@ Carteles I
 
 I1
 
-![pngscartelesI1](./Screenshots4.0/Carteles/I/CartelI-1.png)
-![gifscartelesI1](./GIFS4.0/Carteles/I/CartelI-1.gif)
+![pngscartelesI1](./Screenshots4.0/Carteles/I/CartelI-01.png)
+![gifscartelesI1](./GIFS4.0/Carteles/I/CartelI-01.gif)
 
 103
 
 I2
 
-![pngscartelesI2](./Screenshots4.0/Carteles/I/CartelI-2.png)
-![gifscartelesI2](./GIFS4.0/Carteles/I/CartelI-2.gif)
+![pngscartelesI2](./Screenshots4.0/Carteles/I/CartelI-02.png)
+![gifscartelesI2](./GIFS4.0/Carteles/I/CartelI-02.gif)
 
 104
 
 I3
 
-![pngscartelesI3](./Screenshots4.0/Carteles/I/CartelI-3.png)
-![gifscartelesI3](./GIFS4.0/Carteles/I/CartelI-3.gif)
+![pngscartelesI3](./Screenshots4.0/Carteles/I/CartelI-03.png)
+![gifscartelesI3](./GIFS4.0/Carteles/I/CartelI-03.gif)
 
 105
 
 I4
 
-![pngscartelesI4](./Screenshots4.0/Carteles/I/CartelI-4.png)
-![gifscartelesI4](./GIFS4.0/Carteles/I/CartelI-4.gif)
+![pngscartelesI4](./Screenshots4.0/Carteles/I/CartelI-04.png)
+![gifscartelesI4](./GIFS4.0/Carteles/I/CartelI-04.gif)
 
 Carteles J
 
