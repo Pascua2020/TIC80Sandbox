@@ -130,7 +130,7 @@ Frases
 MiniGun
 
 ![gifsarmasminigun](./GIFS4.0/Armas/MiniGun.gif)
-![gifsarmastesteominigun](./GIFS4.0/Armas/TesteoMiniGun.gif)
+![gifsarmastesteominigun](./GIFS4.0/Armas/TesteoMinigun.gif)
 
 Frases
 
