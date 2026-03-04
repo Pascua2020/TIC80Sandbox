@@ -18,18 +18,18 @@ SubReadmes:
 -Diario ![README4.0-Diario ](./Readme4.0Diario.MD)
 -DiosGPT ![README4.0-DiosGPT ](./Readme4.0DiosGPT.MD)
 -EasterEggs ![README4.0-EasterEggs](./Readme4.0EasterEggs.MD)
--Mapa
--Mar
--Mejorar
--Menu Principal
--NPCs
--Nerdpedia
--Pinball
--RadioTeatro
--Radios
--Stuntman
--Teclados
--Telescopio
--UrgentesTV
--Vehiculos
--Versiones
+-Mapa ![README4.0- ](./Readme4.0.MD)
+-Mar ![README4.0- ](./Readme4.0.MD)
+-Mejorar ![README4.0- ](./Readme4.0.MD)
+-Menu Principal ![README4.0- ](./Readme4.0.MD)
+-NPCs ![README4.0- ](./Readme4.0.MD)
+-Nerdpedia ![README4.0- ](./Readme4.0.MD)
+-Pinball ![README4.0- ](./Readme4.0.MD)
+-RadioTeatro ![README4.0- ](./Readme4.0.MD)
+-Radios ![README4.0- ](./Readme4.0.MD)
+-Stuntman ![README4.0- ](./Readme4.0.MD)
+-Teclados ![README4.0- ](./Readme4.0.MD)
+-Telescopio ![README4.0- ](./Readme4.0.MD)
+-UrgentesTV ![README4.0- ](./Readme4.0.MD)
+-Vehiculos ![README4.0- ](./Readme4.0.MD)
+-Versiones ![README4.0- ](./Readme4.0.MD)
