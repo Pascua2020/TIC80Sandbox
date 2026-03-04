@@ -1,5 +1,7 @@
 Readme4.0Mar
 
+Hay 20 dibujos diferentes en el mar.
+
 🌊Dibujo Mar 01
 
 ![gifmardibujo01](./GIFS4.0/Mar/DibujoMar01.gif)
