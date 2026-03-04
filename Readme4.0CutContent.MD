@@ -1,6 +1,6 @@
 Readme4.0CutContent
 
--Chat
+⚠️-Chat
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 ![gifchat2](<./GIFS4.0/CutContent/Chat/Chat (wpp2) 4-3-2025.gif>)
@@ -18,7 +18,7 @@ Readme4.0CutContent
 ![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat/Chat3B.png)
 ![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat/Chat3C.png)
 
--Ciclo Dia Noche
+⚠️-Ciclo Dia Noche
 
 ![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
 ![gifciclodianoche2](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 4-3-2025.gif>)
@@ -31,7 +31,7 @@ Readme4.0CutContent
 ![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2A.png)
 ![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2B.png)
 
--Climas
+⚠️-Climas
 
 ![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
 ![gifbetaclimas2](<./GIFS4.0/CutContent/Climas/Climas ( todosclima6 ) 4-3-2025.gif>)
@@ -60,7 +60,7 @@ Readme4.0CutContent
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
--Tomar Colectivo
+⚠️-Tomar Colectivo
 
 ![giftomarcolectivo1](<./GIFS4.0/CutContent/Colectivo/Colectivo ( suba9 ) 22-1-2025.gif>)
 ![giftomarcolectivo2](<./GIFS4.0/CutContent/Colectivo/Colectivo ( ZColectivo ) 12-3-2025.gif>)
@@ -73,7 +73,7 @@ Readme4.0CutContent
 ![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2B.png)
 ![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2C.png)
 
--Modo GT + MiniMapa
+⚠️-Modo GT + MiniMapa
 
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 4-3-2025.gif>)
@@ -108,7 +108,7 @@ Readme4.0CutContent
 ![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2C.png)
 ![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2D.png)
 
--Interfaz
+⚠️-Interfaz
 
 ![gifinterfaz1](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 22-1-2025.gif>)
 ![gifinterfaz2](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 4-3-2025.gif>)
@@ -117,7 +117,7 @@ Readme4.0CutContent
 ![pngcutcontentInterfaz2A](./Screenshots4.0/CutContent/Interfaz/Interfaz2A.png)
 ![pngcutcontentInterfaz2B](./Screenshots4.0/CutContent/Interfaz/Interfaz2B.png)
 
--Internet
+⚠️-Internet
 
 ![gifinternet1](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 22-1-2025.gif>)
 ![gifinternet2](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 4-3-2025.gif>)
@@ -125,13 +125,13 @@ Readme4.0CutContent
 ![pngcutcontentInternetA](./Screenshots4.0/CutContent/InternetA.png)
 ![pngcutcontentInternetB](./Screenshots4.0/CutContent/InternetB.png)
 
--Menu de Pausa
+⚠️-Menu de Pausa
 
 ![gifmenupausa](<./GIFS4.0/CutContent/MenuPausa/MenuPausa ( menupausa3 ) 4-3-2025.gif>)
 
 ![pngcutcontentMenuPausa](./Screenshots4.0/CutContent/MenuPausa.png)
 
--Nafta
+⚠️-Nafta
 
 ![gifnafta1](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 22-1-2025.gif>)
 ![gifnafta2](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 4-3-2025.gif>)
@@ -141,7 +141,7 @@ Readme4.0CutContent
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
--RC
+⚠️-RC
 
 ![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
 ![gifrc1](<./GIFS4.0/CutContent/RC/RC ( rc7 ) 4-3-2025.gif>)
@@ -157,7 +157,7 @@ Readme4.0CutContent
 ![pngcutcontentRC4A](./Screenshots4.0/CutContent/RC/RC4A.png)
 ![pngcutcontentRC4B](./Screenshots4.0/CutContent/RC/RC4B.png)
 
--Trompos
+⚠️-Trompos
 
 ![giftrompos1](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 20-1-2025.gif>)
 ![giftrompos2](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 4-3-2025.gif>)
@@ -168,51 +168,51 @@ Readme4.0CutContent
 ![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos/Trompos2.png)
 ![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos/Trompos3.png)
 
--Piedra Papel o MotoSierra
+⚠️-Piedra Papel o MotoSierra
 
 ![gifpiedrapapelmotosierra](<./GIFS4.0/CutContent/PiedraPapelOMotosierra ( piedra ) 4-3-2025.gif>)
 
 ![pngcutcontentPiedraPapelOMotosierra1](./Screenshots4.0/CutContent/PiedraPapelOMotosierra1.png)
 ![pngcutcontentPiedraPapelOMotosierra2](./Screenshots4.0/CutContent/PiedraPapelOMotosierra2.png)
 
--Medidor de Ansiedad y Estres
+⚠️-Medidor de Ansiedad y Estres
 
 ![gifansiedad](<./GIFS4.0/CutContent/Ansiedadyestres ( ansiedad ) 4-3-2025.gif>)
 
 ![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)
 
--Boton
+⚠️-Boton
 
 ![gifboton](./GIFS4.0/CutContent/Boton_(_boton_)_4-3-2025.gif)
 
 ![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)
 ![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)
 
--Dibujar
+⚠️-Dibujar
 
 ![gifdibujar](./GIFS4.0/CutContent/Dibujar_(_dibujar3_)_20-1-2025.gif)
 
 ![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)
 
--Hora
+⚠️-Hora
 
 ![gifhora](./GIFS4.0/CutContent/Hora_(_hora_)_4-3-2025.gif)
 
 ![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)
 
--TV
+⚠️-TV
 
 ![giftv](./GIFS4.0/CutContent/TV_(_tele_)_4-3-2025.gif)
 
 ![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)
 
--Velocidad
+⚠️-Velocidad
 
 ![gifvelocidad](./GIFS4.0/CutContent/VelocidadVehiculo_(_vel2_)_4-3-2025.gif)
 
 ![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
 
--Votar
+⚠️-Votar
 
 ![gifvotar](./GIFS4.0/CutContent/Votar_(_votar_)_4-3-2025.gif)
 
