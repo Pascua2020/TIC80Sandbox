@@ -1,6 +1,6 @@
 Readme4.0Mapa
 
-Fondo
+🏞️Fondo
 
 Avion1
 
@@ -28,7 +28,7 @@ Avion2
 ![pnganimacionavion2d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-4.png)
 
 
-Luces Aeropuerto
+🏔️Luces Aeropuerto
 
 ![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
 
@@ -37,7 +37,7 @@ Luces Aeropuerto
 ![pnganimacionaeropuerto2](./Screenshots4.0/Mapa/Animaciones/LucesAeropuerto-2.png)
 
 
-Peces
+🐟Peces
 
 ![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)
 
@@ -49,7 +49,7 @@ Peces
 
 
 
-Palomas
+🦅Palomas
 
 ![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
 
@@ -58,7 +58,7 @@ Palomas
 ![pnganimacionpajaros2](./Screenshots4.0/Mapa/Animaciones/Pajaros-2.png)
 
 
-GloboNPC
+🪂GloboNPC
 
 ![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
 
@@ -67,7 +67,7 @@ GloboNPC
 ![pnganimacionglobo2](./Screenshots4.0/Mapa/Animaciones/GloboNPC-2.png)
 
 
-LanchaNPC
+🚤LanchaNPC
 
 ![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
 
@@ -76,7 +76,7 @@ LanchaNPC
 ![pnganimacionlancha2](./Screenshots4.0/Mapa/Animaciones/LanchaNPC-2.png)
 
 
-Semaforos
+🚦Semaforos
 
 ![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
 
@@ -85,7 +85,7 @@ Semaforos
 ![pnganimacionpeces2](./Screenshots4.0/Mapa/Animaciones/Semaforo-2.png)
 
 
-Tren
+🚅Tren
 
 ![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
 
@@ -94,9 +94,9 @@ Tren
 ![pnganimaciontren2](./Screenshots4.0/Mapa/Animaciones/Tren-2.png)
 
 
-Ubicaciones
+🧭Ubicaciones
 
-Cajas
+🧭Cajas
 
 ![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)
 
@@ -108,49 +108,48 @@ Cajas
 
 
 
-Condones
+🧭Condones
 
 ![gifubicacionescoleccionables](./GIFS4.0/Mapa/Ubicaciones/UbicacionesColeccionables.gif)
 
-Monedas
+🧭Monedas
 
 ![gifubicacionesmonedas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesMonedas.gif)
 
-Urgentes
+🧭Urgentes
 
 ![gifubicacionesurgentes](./GIFS4.0/Mapa/Ubicaciones/UbicacionesUrgentes.gif)
 
-RadioTeatro
+🧭RadioTeatro
 
 ![gifubicacionesRT](./GIFS4.0/Mapa/Ubicaciones/UbicacionesRadioteatro.gif)
 
-Interruptores
+🛎️Interruptores
 
-Calles
+🛎️Calles
 ![gifinterruptorcalles](./GIFS4.0/Mapa/Interruptores/InterruptorCalles.gif)
 
-Baile
+🛎️Baile
 ![gifinterruptorbaile](./GIFS4.0/Mapa/Interruptores/MapaBaile.gif)
 
-Diario
+🛎️Diario
 ![gifinterruptordiario](./GIFS4.0/Mapa/Interruptores/MapaDiario.gif)
 
-DiosGPT
+🛎️DiosGPT
 ![gifinterruptordiosgpt](./GIFS4.0/Mapa/Interruptores/MapaDiosGPT.gif)
 
-Pinball
+🛎️Pinball
 ![gifinterruptorpinball](./GIFS4.0/Mapa/Interruptores/MapaPinball.gif)
 
-Stuntman
+🛎️Stuntman
 ![gifinterruptorstuntman](./GIFS4.0/Mapa/Interruptores/MapaStuntman.gif)
 
-TecladoPC
+🛎️TecladoPC
 ![gifinterruptortecladopc](./GIFS4.0/Mapa/Interruptores/MapaTecladoPC.gif)
 
-TecladoNumerico
+🛎️TecladoNumerico
 ![gifinterruptortecladonumerico](./GIFS4.0/Mapa/Interruptores/MapaTecladoNumerico.gif)
 
-Telescopio
-
+🛎️Telescopio
 ![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)
 
