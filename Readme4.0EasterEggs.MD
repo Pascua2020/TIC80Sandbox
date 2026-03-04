@@ -788,62 +788,62 @@ https://en.wikipedia.org/wiki/Elections_in_Uruguay
 
 https://en.wikipedia.org/wiki/Big_Bang
 
-136
+🥚136
 
 ![pngEasterEggPrusia](./Screenshots4.0/EasterEggs/EasterEggPrusia.png)]
 
 https://en.wikipedia.org/wiki/Prussia
 
-137
+🥚137
 
 ![pngEasterEggOVNI](./Screenshots4.0/EasterEggs/EasterEggOVNI.png)]
 
 https://en.wikipedia.org/wiki/Unidentified_flying_object
 
-138
+🥚138
 
 ![pngEasterEggPPT](./Screenshots4.0/EasterEggs/EasterEggPPT.png)]
 
 https://en.wikipedia.org/wiki/Periodismo_para_todos
 https://en.wikipedia.org/wiki/Bangladesh
 
-139
+🥚139
 
 ![pngEasterEggIATakeover](./Screenshots4.0/EasterEggs/EasterEggAITakeover.png)]
 
 https://en.wikipedia.org/wiki/AI_takeover
 
-140
+🥚140
 
 ![pngEasterEggTardigrado](./Screenshots4.0/EasterEggs/EasterEggTardigrado.png)]
 
 https://en.wikipedia.org/wiki/Tardigrade
 
-141
+🥚141
 
 ![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggTaringaAustralia.png)]
 
 https://en.wikipedia.org/wiki/Taringa,_Queensland
 
-142
+🥚142
 
 ![pngEasterEggEspaniolRioplatense](./Screenshots4.0/EasterEggs/EasterEggEspaniolRioplatense.png)]
 
 https://en.wikipedia.org/wiki/Rioplatense_Spanish
 
-143
+🥚143
 
 ![pngEasterEggCanada](./Screenshots4.0/EasterEggs/EasterEggCanada.png)]
 
 https://en.wikipedia.org/wiki/Canada
 
-144
+🥚144
 
 ![pngEasterEggRDCongo](./Screenshots4.0/EasterEggs/EasterEggRDCongo.png)]
 
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 
-145
+🥚145
 
 ![pngEasterEggCasaDeLaMonedaArgentina](./Screenshots4.0/EasterEggs/EasterEggCasaDeLaMonedaArgentina.png)]
 
@@ -851,14 +851,14 @@ https://en.wikipedia.org/wiki/Casa_de_Moneda_de_la_Rep%C3%BAblica_Argentina
 https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn
 https://en.wikipedia.org/wiki/Lowrider
 
-146
+🥚146
 
 ![pngEasterEggGuilin](./Screenshots4.0/EasterEggs/EasterEggGuilin.png)]
 
 https://en.wikipedia.org/wiki/Guilin
 https://en.wikipedia.org/wiki/Mao_Zedong
 
-147
+🥚147
 
 ![pngEasterEggCuarteto](./Screenshots4.0/EasterEggs/EasterEggCuarteto.png)]
 
@@ -867,85 +867,85 @@ https://en.wikipedia.org/wiki/Britpop
 https://en.wikipedia.org/wiki/City_of_London
 ( Distrito DENTRO de la Ciudad de Londres,no confundir con el RESTO DE LA CIUDAD DE LONDRES - al resto se le llama solamente LONDON -)
 
-148
+🥚148
 
 ![pngEasterEggHologramas](./Screenshots4.0/EasterEggs/EasterEggHologramas.png)]
 
 https://en.wikipedia.org/wiki/Holography
 
-149
+🥚149
 
 ![pngEasterEggGranTurismo](./Screenshots4.0/EasterEggs/EasterEggGranTurismo.png)]
 
 https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
 
-150
+🥚150
 
 ![pngEasterEggPlayStation](./Screenshots4.0/EasterEggs/EasterEggPlayStation.png)]
 
 https://en.wikipedia.org/wiki/PlayStation_2
 
-151
+🥚151
 
 ![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)]
 
 https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
 
-152
+🥚152
 
 ![pngEasterEggBeyblade](./Screenshots4.0/EasterEggs/EasterEggBeyblade.png)]
 
 https://en.wikipedia.org/wiki/Beyblade
 
-153
+🥚153
 
 ![pngEasterEggBiblia](./Screenshots4.0/EasterEggs/EasterEggBiblia.png)]
 
 https://en.wikipedia.org/wiki/Bible
 
-154
+🥚154
 
 ![pngEasterEggBatmanTurquia](./Screenshots4.0/EasterEggs/EasterEggBatmanTurquia.png)]
 
 https://en.wikipedia.org/wiki/Batman_Province
 
-155
+🥚155
 
 ![pngEasterEggCuartaPared](./Screenshots4.0/EasterEggs/EasterEggCuartaPared.png)]
 
 https://en.wikipedia.org/wiki/Fourth_wall
 
-156
+🥚156
 
 ![pngEasterEggDukeNukem](./Screenshots4.0/EasterEggs/EasterEggDukeNukem.png)]
 
 https://en.wikipedia.org/wiki/Duke_Nukem_3D
 
-157
+🥚157
 
 ![pngEasterEggObelisco](./Screenshots4.0/EasterEggs/EasterEggObelisco.png)]
 
 https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires
 
-158
+🥚158
 
 ![pngEasterEggDeepSeek](./Screenshots4.0/EasterEggs/EasterEggDeepSeek.png)]
 
 https://en.wikipedia.org/wiki/DeepSeek_(chatbot)
 
-159
+🥚159
 
 ![pngEasterEggTonyHawk](./Screenshots4.0/EasterEggs/EasterEggTonyHawk.png)]
 
 https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4
 
-160
+🥚160
 
 ![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)]
 
 https://en.wikipedia.org/wiki/First_Blood
 
-161
+🥚161
 
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
 
