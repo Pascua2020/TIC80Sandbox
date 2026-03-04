@@ -1,5 +1,7 @@
 Readme4.0EasterEggs
 
+Hay almenos 161 Easter Eggs ( Referencias ).
+
 🥚1
 
 ![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
