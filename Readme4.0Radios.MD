@@ -430,7 +430,7 @@ Radio 20
 ![pngraadio20-03](./Screenshots4.0/CutContent/Radios/20/R20-03.png)
 ![pngraadio20-04](./Screenshots4.0/CutContent/Radios/20/R20-04.png)
 ![pngraadio20-05](./Screenshots4.0/CutContent/Radios/20/R20-05.png)
-![pngraadio20-06](./Screenshots4.0/CutContent/Radios/20/R20-06.png)]
+![pngraadio20-06](./Screenshots4.0/CutContent/Radios/20/R20-06.png)
 ![pngraadio20-07](./Screenshots4.0/CutContent/Radios/20/R20-07.png)
 ![pngraadio20-08](./Screenshots4.0/CutContent/Radios/20/R20-08.png)
 ![pngraadio20-09](./Screenshots4.0/CutContent/Radios/20/R20-09.png)
