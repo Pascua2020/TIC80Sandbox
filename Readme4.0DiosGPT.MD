@@ -1,6 +1,6 @@
 Readme4.0DiosGPT
 
---![gifdiosgpt](./GIFS4.0/CutContent/DiosGPT/DiosGPT.gif)
+![gifdiosgpt](./GIFS4.0/CutContent/DiosGPT/DiosGPT.gif)
 
 ![pngDiosGPTMenuA](./Screenshots4.0/DiosGPT/MenuA.png)
 
