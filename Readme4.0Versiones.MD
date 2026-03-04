@@ -81,7 +81,7 @@ Crimen y Pixel Version 3.4
 Crimen y Pixel Version 3.5
 18/6/2025
 
-![gifstuntmanversion3.5(<./GIFS4.0/CutContent/VersionesAntiguas/V3.5 18-6-2025.gif>)
+![gifstuntmanversion3.5](<./GIFS4.0/CutContent/VersionesAntiguas/V3.5 18-6-2025.gif>)
 
 Crimen y Pixel Version 3.6
 19/6/2025
