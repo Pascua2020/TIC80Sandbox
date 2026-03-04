@@ -561,7 +561,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador02](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador02.gif)
+![gifstuntmanv4.0mensajesdesarrollador02](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador02.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador02](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador02.png)
 
@@ -570,7 +570,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador03](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador03.gif)
+![gifstuntmanv4.0mensajesdesarrollador03](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador03.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador03](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador03.png)
 
@@ -579,7 +579,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador04](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador04.gif)
+![gifstuntmanv4.0mensajesdesarrollador04](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador04.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador04](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador04.png)
 
@@ -588,7 +588,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador05](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador05.gif)
+![gifstuntmanv4.0mensajesdesarrollador05](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador05.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador05](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador05.png)
 
@@ -597,7 +597,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador06](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador06.gif)
+![gifstuntmanv4.0mensajesdesarrollador06](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador06.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador06](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador06.png)
 
@@ -606,7 +606,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador07](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador07.gif)
+![gifstuntmanv4.0mensajesdesarrollador07](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador07.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador07](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador07.png)
 
@@ -615,7 +615,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador08](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador08.gif)
+![gifstuntmanv4.0mensajesdesarrollador08](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador08.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador08](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador08.png)
 
@@ -624,7 +624,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador09](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador09.gif)
+![gifstuntmanv4.0mensajesdesarrollador09](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador09.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador09](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador09.png)
 
@@ -633,7 +633,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador10](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador10.gif)
+![gifstuntmanv4.0mensajesdesarrollador10](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador10.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador10](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador10.png)
 
@@ -642,7 +642,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador11](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador11.gif)
+![gifstuntmanv4.0mensajesdesarrollador11](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador11.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador11](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador11.png)
 
@@ -650,7 +650,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador12](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador12.gif)
+![gifstuntmanv4.0mensajesdesarrollador12](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador12.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador12](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador12.png)
 
@@ -658,7 +658,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador13](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador13.gif)
+![gifstuntmanv4.0mensajesdesarrollador13](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador13.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador13](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador13.png)
 
@@ -666,7 +666,7 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador14](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador14.gif)
+![gifstuntmanv4.0mensajesdesarrollador14](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador14.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador14](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador14.png)
 
@@ -675,16 +675,16 @@ Version 4.0
 
 Version 4.0
 
-![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajesDesarrollador15.gif)
+![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador15.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador15](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador15.png)
 
 
 Quick Time Event
 
-![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/IconoDialogosDesarrollador.png)
-![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogosDesarrolladorActivados.png)
-![pngstuntmanv4.0qte3](./Screenshots4.0/Stuntman/Mensajes_Desarrollador/DialogoDesarrolladorFallado.png)
+![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/MensajesDesarrollador/IconoDialogosDesarrollador.png)
+![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/MensajesDesarrollador/DialogosDesarrolladorActivados.png)
+![pngstuntmanv4.0qte3](./Screenshots4.0/Stuntman/MensajesDesarrollador/DialogoDesarrolladorFallado.png)
 
 Elementos
 
