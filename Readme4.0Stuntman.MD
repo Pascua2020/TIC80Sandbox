@@ -41,9 +41,9 @@ A
 
 ![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase1.gif)
 
-![pngstuntmanv4.0mensajefase1-1](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase1-1.png)
-![pngstuntmanv4.0mensajefase1-3](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase1-3.png)
-![pngstuntmanv4.0mensajefase1-5](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase1-5.png)
+![pngstuntmanv4.0mensajefase1-1](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-1.png)
+![pngstuntmanv4.0mensajefase1-3](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-3.png)
+![pngstuntmanv4.0mensajefase1-5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-5.png)
 
 B
 
