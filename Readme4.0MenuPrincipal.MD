@@ -1,7 +1,5 @@
 Readme4.0MenuPrincipal
-
---![gifstuntmanv1mensajelimitepantalla](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)
-
+
 Seleccion
 
 ![gifMenuPrincipalSeleccion](./GIFS4.0/MenuPrincipal/MenuPrincipalSeleccion.gif)
