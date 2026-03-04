@@ -2,7 +2,7 @@ README4.0
 
 CRIMEN Y PIXEL VERSION 4.0 ( 2/7/2025 )
 
-Readme Antiguo : ![READMEv1](./README.MD)
+Readme Antiguo : ![READMEv1](./README.md)
 
 SubReadmes:
 -Armas ![README4.0-Armas ](./Readme4.0Armas.MD)
