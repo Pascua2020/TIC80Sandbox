@@ -58,7 +58,7 @@ Readme4.0NPCs
 
 🥸Timmy Trabalenguas
 
-![gifnpc9](./GIFS4.0/Personajes/TimmyTrabalenguas.gif)
+![gifnpc9](<./GIFS4.0/Personajes/Timmy Trabalenguas.gif>)
 
 ![pngnpc9A](<./Screenshots4.0/Personajes/Timmy Trabalenguas.png>)
 
