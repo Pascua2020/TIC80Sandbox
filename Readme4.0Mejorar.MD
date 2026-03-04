@@ -156,11 +156,17 @@ Si jugador agarra COLECCIONABLES DE DIAMANTES,que diga
 ☣️33
 
 STUNTMAN : Hay errores graficos ( Accediendo desde el MENU PRINCIPAL ).
+
 --Aparecen Aves Duplicadas.
+
 --Vehiculos del Mapa Principal.
+
 --Hay un numero gigante un poco arriba del jugador.
+
 --Aparece el HUD del Mapa Principal.
+
 --El coche de Stuntman del jugador aparece duplicado.
+
 --Si el jugador va al limite de la pantalla no aparece el cartel de limite,
 el coche no para y ademas se mueven coches del mapa principal ( que no deberian 
 verse en la mision de stuntman ).
