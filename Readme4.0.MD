@@ -5,7 +5,7 @@ CRIMEN Y PIXEL VERSION 4.0 ( 2/7/2025 )
 Readme Antiguo : ![READMEv1](./README.MD)
 
 SubReadmes:
--Armas ![README4.0-Armas ](./README4.0Armas.MD)
+-Armas ![README4.0-Armas ](./Readme4.0Armas.MD)
 -Baile ![README4.0-Baile ](./README4.0Baile.MD)
 -Barrios ![README4.0-Barrios ](./README4.0Barrios.MD)
 -Bugs ![README4.0-Bugs ](./README4.0Bugs.MD)
