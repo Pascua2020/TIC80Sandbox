@@ -271,17 +271,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase6](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase6.gif)
+![gifstuntmanv4.0mensajefase6](./GIFS4.0/Stuntman/MensajesFases/MensajeFase6.gif)
 
-![pngstuntmanv4.0mensajefase6](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase6.png)
+![pngstuntmanv4.0mensajefase6](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase6.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase6B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase6B.gif)
+![gifstuntmanv4.0mensajefase6B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase6B.gif)
 
-![pngstuntmanv4.0mensajefase6B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase6B.png)
+![pngstuntmanv4.0mensajefase6B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase6B.png)
 
 
 Fase 6 Accion
@@ -317,17 +317,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase7](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase7.gif)
+![gifstuntmanv4.0mensajefase7](./GIFS4.0/Stuntman/MensajesFases/MensajeFase7.gif)
 
-![pngstuntmanv4.0mensajefase7](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase7.png)
+![pngstuntmanv4.0mensajefase7](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase7.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase7B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase7B.gif)
+![gifstuntmanv4.0mensajefase7B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase7B.gif)
 
-![pngstuntmanv4.0mensajefase7B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase7B.png)
+![pngstuntmanv4.0mensajefase7B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase7B.png)
 
 
 Fase 7 Accion
@@ -362,17 +362,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase8](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase8.gif)
+![gifstuntmanv4.0mensajefase8](./GIFS4.0/Stuntman/MensajesFases/MensajeFase8.gif)
 
-![pngstuntmanv4.0mensajefase8](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase8.png)
+![pngstuntmanv4.0mensajefase8](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase8.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase8B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase8B.gif)
+![gifstuntmanv4.0mensajefase8B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase8B.gif)
 
-![pngstuntmanv4.0mensajefase8B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase8B.png)
+![pngstuntmanv4.0mensajefase8B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase8B.png)
 
 Fase 8 Accion
 
@@ -407,17 +407,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase9](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase9.gif)
+![gifstuntmanv4.0mensajefase9](./GIFS4.0/Stuntman/MensajesFases/MensajeFase9.gif)
 
-![pngstuntmanv4.0mensajefase9](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase9.png)
+![pngstuntmanv4.0mensajefase9](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase9.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase9B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase9B.gif)
+![gifstuntmanv4.0mensajefase9B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase9B.gif)
 
-![pngstuntmanv4.0mensajefase9B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase9B.png)
+![pngstuntmanv4.0mensajefase9B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase9B.png)
 
 
 Fase 9 Accion
@@ -453,17 +453,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase10](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase10.gif)
+![gifstuntmanv4.0mensajefase10](./GIFS4.0/Stuntman/MensajesFases/MensajeFase10.gif)
 
-![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase10.png)
+![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase10.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase10B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase10B.gif)
+![gifstuntmanv4.0mensajefase10B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase10B.gif)
 
-![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase10B.png)
+![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase10B.png)
 
 
 Fase 10 Accion
@@ -530,7 +530,7 @@ Version 4.0
 
 ![gifstuntmanv4.0mensajesecretoF4](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.gif)
 
-![pngstuntmanv4.0mensajesecretoF4](./Screenshots4.0/Stuntman/Mensajes_Secretos/MensajeSecretoFase4.png)
+![pngstuntmanv4.0mensajesecretoF4](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.png)
 
 -Fase 5
 
@@ -542,7 +542,7 @@ Version 4.0
 
 ![gifstuntmanv4.0mensajesecretoF5](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.gif)
 
-![pngstuntmanv4.0mensajesecretoF5](./Screenshots4.0/Stuntman/Mensajes_Secretos/MensajeSecretoFase5.png)
+![pngstuntmanv4.0mensajesecretoF5](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.png)
 
 Mensajes Desarrollador
 
@@ -752,7 +752,7 @@ V1
 
 V4.0
 
-----![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
+![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
 
 Coches en Llamas
 
