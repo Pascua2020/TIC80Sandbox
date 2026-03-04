@@ -1,121 +1,121 @@
 Readme4.0EasterEggs
 
-1
+🥚1
 
 ![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
 
 https://en.wikipedia.org/wiki/(29075)_1950_DA
 
-2
+🥚2
 
 ![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)
 
 https://en.wikipedia.org/wiki/SpongeBob_SquarePants_season_3
 ( Capitulo 53 - "Clams" )
 
-3
+🥚3
 
 ![pngEasterEggChatGPT](./Screenshots4.0/EasterEggs/EasterEggChatGPT.png)
 
 https://en.wikipedia.org/wiki/ChatGPT
 
-4
+🥚4
 
 ![pngEasterEggCoreaDelNorte](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte.png)
 
 https://en.wikipedia.org/wiki/North_Korea
 
-5
+🥚5
 
 ![pngEasterEggDDR](./Screenshots4.0/EasterEggs/EasterEggDDR.png)
 
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution
 
-6
+🥚6
 
 ![pngEasterEggEbola](./Screenshots4.0/EasterEggs/EasterEggEbola.png)
 
 https://en.wikipedia.org/wiki/Ebola
 
-7
+🥚7
 
 ![pngEasterEggEbola2](./Screenshots4.0/EasterEggs/EasterEggEbola2.png)
 
 https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic
 
-8
+🥚8
 
 ![pngEasterEggEspaña](./Screenshots4.0/EasterEggs/EasterEggEspaña.png)
 
 https://en.wikipedia.org/wiki/Spain
 
-9
+🥚9
 
 ![pngEasterEggEspaña2](./Screenshots4.0/EasterEggs/EasterEggEspaña2.png)
 
 https://en.wikipedia.org/wiki/Madrid
 
-10
+🥚10
 
 ![pngEasterEggGeorgeWBush](./Screenshots4.0/EasterEggs/EasterEggGeorgeWBush.png)
 
 https://en.wikipedia.org/wiki/Internets
 
-11
+🥚11
 
 ![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto_2
 
-12
+🥚12
 
 ![pngEasterEggGTAViceCity](./Screenshots4.0/EasterEggs/EasterEggGTAViceCity.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City
 
-13
+🥚13
 
 ![pngEasterEggHarvard](./Screenshots4.0/EasterEggs/EasterEggHarvard.png)
 
 https://en.wikipedia.org/wiki/Harvard_University
 
-14
+🥚14
 
 ![pngEasterEggIdiomaChino](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-15
+🥚15
 
 ![pngEasterEggIdiomaChino2](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino2.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-16
+🥚16
 
 ![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)
 
 https://en.wikipedia.org/wiki/Patagonian_Welsh
 
-17
+🥚17
 
 ![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)
 
 https://en.wikipedia.org/wiki/Welsh_language
 
-18
+🥚18
 
 ![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)
 
 https://en.wikipedia.org/wiki/Romansh_language
 
-19
+🥚19
 
 ![pngEasterEggIdiomaTenis](./Screenshots4.0/EasterEggs/EasterEggIdiomaTenis.png)
 
 https://en.wikipedia.org/wiki/Tenis_language
 
-20
+🥚20
 
 ![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)
 
