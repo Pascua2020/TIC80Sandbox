@@ -1,6 +1,6 @@
 Readme4.0UrgentesTV
 
-Urgente 1
+🔊Urgente 1
 
 ![gifurgente1](./GIFS4.0/Urgentes/Urgente1.gif)
 
@@ -31,7 +31,7 @@ Urgente 1
 ![gif#urgente1-5](<./GIFS4.0/Urgentes/Hashtags/1-5.gif>)
 ![gif#urgente1-6](<./GIFS4.0/Urgentes/Hashtags/1-6.gif>)
 
-Urgente 2
+🔊Urgente 2
 
 ![gifurgente2](./GIFS4.0/Urgentes/Urgente2.gif)
 
@@ -63,7 +63,7 @@ Urgente 2
 ![gif#urgente2-5](./GIFS4.0/Urgentes/Hashtags/2-5.gif)
 ![gif#urgente2-6](./GIFS4.0/Urgentes/Hashtags/2-6.gif)
 
-Urgente 3
+🔊Urgente 3
 
 ![gifurgente3](./GIFS4.0/Urgentes/Urgente3.gif)
 
@@ -90,7 +90,7 @@ Urgente 3
 
 ![gif#urgente3](./GIFS4.0/Urgentes/Hashtags/3.gif)
 
-Urgente 4
+🔊Urgente 4
 
 ![gifurgente4](./GIFS4.0/Urgentes/Urgente4.gif)
 
@@ -117,7 +117,7 @@ Urgente 4
 
 ![gif#urgente4](./GIFS4.0/Urgentes/Hashtags/4.gif)
 
-Urgente 5
+🔊Urgente 5
 
 ![gifurgente5](./GIFS4.0/Urgentes/Urgente5.gif)
 
@@ -146,7 +146,7 @@ Urgente 5
 
 ![gif#urgente5](./GIFS4.0/Urgentes/Hashtags/5.gif)
 
-Urgente 6
+🔊Urgente 6
 
 ![gifurgente6](./GIFS4.0/Urgentes/Urgente6.gif)
 
@@ -173,7 +173,7 @@ Urgente 6
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/6.gif)
 
-Urgente 7
+🔊Urgente 7
 
 ![gifurgente6](./GIFS4.0/Urgentes/Urgente7.gif)
 
