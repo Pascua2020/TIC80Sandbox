@@ -297,171 +297,171 @@ https://en.wikipedia.org/wiki/The_Drowners
 
 https://en.wikipedia.org/wiki/Tinder_(app)
 
-51
+🥚51
 
 ![pngEasterEggTN1](./Screenshots4.0/EasterEggs/EasterEggTN1.png)
 
 https://en.wikipedia.org/wiki/Todo_Noticias
 
-52
+🥚52
 
 ![pngEasterEggTN2](./Screenshots4.0/EasterEggs/EasterEggTN2.png)
 
 https://en.wikipedia.org/wiki/Nelson_Castro_(journalist)
 
-53
+🥚53
 
 ![pngEasterEggTN3](./Screenshots4.0/EasterEggs/EasterEggTN3.png)
 
 https://es.wikipedia.org/wiki/A_dos_voces
 
-54
+🥚54
 
 ![pngEasterEggTN4](./Screenshots4.0/EasterEggs/EasterEggTN4.png)
 
 https://es.wikipedia.org/wiki/Marcelo_Bonelli
 
-55
+🥚55
 
 ![pngEasterEggTN5](./Screenshots4.0/EasterEggs/EasterEggTN5.png)
 
 https://en.wikipedia.org/wiki/Jorge_Lanata
 
-56
+🥚56
 
 ![pngEasterEggTN6](./Screenshots4.0/EasterEggs/EasterEggTN6.png)
 
-57
+🥚57
 
 ![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)
 
-58
+🥚58
 
 ![pngEasterEggTOC](./Screenshots4.0/EasterEggs/EasterEggTOC.png)
 
 https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 https://en.wikipedia.org/wiki/Exposure_therapy#Exposure_and_response_prevention_(ERP)
 
-59
+🥚59
 
 ![pngEasterEggToyota](./Screenshots4.0/EasterEggs/EasterEggToyota.png)
 
 https://en.wikipedia.org/wiki/Toyota
 
-60
+🥚60
 
 ![pngEasterEggUruguay](./Screenshots4.0/EasterEggs/EasterEggUruguay.png)
 
 https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
-61
+🥚61
 
 ![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)
 
-62
+🥚62
 
 ![pngEasterEggAfganistan](./Screenshots4.0/EasterEggs/EasterEggAfganistan.png)
 
 https://en.wikipedia.org/wiki/Afghanistan
 
-63
+🥚63
 
 ![pngEasterEggCoreaDelNorte2](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte2.png)
 
 https://en.wikipedia.org/wiki/Pyongyang
 
-64
+🥚64
 
 ![pngEasterEggCoreaDelNorte3](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte3.png)
 
 https://en.wikipedia.org/wiki/Lionel_Messi
 
-65
+🥚65
 
 ![pngEasterEggGoticas1](./Screenshots4.0/EasterEggs/EasterEggGoticas1.png)
 
 https://en.wikipedia.org/wiki/Goth_subculture
 
-66
+🥚66
 
 ![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)
 
-67
+🥚67
 
 ![pngEasterEggGuidoSuller1](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller1.png)
 
 https://es.wikipedia.org/wiki/Guido_S%C3%BCller
 
-68
+🥚68
 
 ![pngEasterEggGuidoSuller2](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller2.png)
 
-69
+🥚69
 
 ![pngEasterEggGuineaEcuatorial](./Screenshots4.0/EasterEggs/EasterEggGuineaEcuatorial.png)
 
 https://en.wikipedia.org/wiki/Equatorial_Guinea
 
-70
+🥚70
 
 ![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
 https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
-71
+🥚71
 
 ![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)]
 
-72
+🥚72
 
 ![pngEasterEggMemoriaRAM](./Screenshots4.0/EasterEggs/EasterEggMemoriaRAM.png)]
 
 https://en.wikipedia.org/wiki/Random-access_memory
 
-73
+🥚73
 
 ![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)]
 
 https://en.wikipedia.org/wiki/Mirtha_Legrand
 
-74
+🥚74
 
 ![pngEasterEggTango1](./Screenshots4.0/EasterEggs/EasterEggTango1.png)]
 
 https://en.wikipedia.org/wiki/Argentine_tango
 
-75
+🥚75
 
 ![pngEasterEggTango2](./Screenshots4.0/EasterEggs/EasterEggTango2.png)]
 ![pngEasterEggWikipedia1](./Screenshots4.0/EasterEggs/EasterEggWikipedia1.png)]
 
 https://en.wikipedia.org/wiki/Wikipedia
 
-76
+🥚76
 
 ![pngEasterEggWikipedia2](./Screenshots4.0/EasterEggs/EasterEggWikipedia2.png)]
 
 https://en.wikipedia.org/wiki/Wiki
 
-77
+🥚77
 
 ![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)]
 
 https://en.wikipedia.org/wiki/Tigger
 
-78
+🥚78
 
 ![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)]
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
-79
+🥚79
 
 ![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)]
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
-80
+🥚80
 
 ![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)]
 
