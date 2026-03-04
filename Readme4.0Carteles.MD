@@ -1,141 +1,143 @@
 Readme4.0Carteles
 
+Hay mas de 100 carteles.
+
 Carteles A
 
-1
+ℹ️1
 
 A01
 
 ![pngscartelesA01](./Screenshots4.0/Carteles/A/CartelA-01.png)
 ![gifscartelesA01](./GIFS4.0/Carteles/A/CartelA-01.gif)
 
-2
+ℹ️2
 
 A02
 
 ![pngscartelesA02](./Screenshots4.0/Carteles/A/CartelA-02.png)
 ![gifscartelesA02](./GIFS4.0/Carteles/A/CartelA-02.gif)
 
-3
+ℹ️3
 
 A03
 
 ![pngscartelesA03](./Screenshots4.0/Carteles/A/CartelA-03.png)
 ![gifscartelesA03](./GIFS4.0/Carteles/A/CartelA-03.gif)
 
-4
+ℹ️4
 
 A04
 
 ![pngscartelesA04](./Screenshots4.0/Carteles/A/CartelA-04.png)
 ![gifscartelesA04](./GIFS4.0/Carteles/A/CartelA-04.gif)
 
-5
+ℹ️5
 
 A05
 
 ![pngscartelesA05](./Screenshots4.0/Carteles/A/CartelA-05.png)
 ![gifscartelesA05](./GIFS4.0/Carteles/A/CartelA-05.gif)
 
-6
+ℹ️6
 
 A06
 
 ![pngscartelesA06](./Screenshots4.0/Carteles/A/CartelA-06.png)
 ![gifscartelesA06](./GIFS4.0/Carteles/A/CartelA-06.gif)
 
-7
+ℹ️7
 
 A07
 
 ![pngscartelesA07](./Screenshots4.0/Carteles/A/CartelA-07.png)
 ![gifscartelesA07](./GIFS4.0/Carteles/A/CartelA-07.gif)
 
-8
+ℹ️8
 
 A08
 
 ![pngscartelesA08](./Screenshots4.0/Carteles/A/CartelA-08.png)
 ![gifscartelesA08](./GIFS4.0/Carteles/A/CartelA-08.gif)
 
-9
+ℹ️9
 
 A09
 
 ![pngscartelesA09](./Screenshots4.0/Carteles/A/CartelA-09.png)
 ![gifscartelesA09](./GIFS4.0/Carteles/A/CartelA-09.gif)
 
-10
+ℹ️10
 
 A10
 
 ![pngscartelesA10](./Screenshots4.0/Carteles/A/CartelA-10.png)
 ![gifscartelesA10](./GIFS4.0/Carteles/A/CartelA-10.gif)
 
-11
+ℹ️11
 
 A11
 
 ![pngscartelesA11](./Screenshots4.0/Carteles/A/CartelA-11.png)
 ![gifscartelesA11](./GIFS4.0/Carteles/A/CartelA-11.gif)
 
-12
+ℹ️12
 
 A12
 
 ![pngscartelesA12](./Screenshots4.0/Carteles/A/CartelA-12.png)
 ![gifscartelesA12](./GIFS4.0/Carteles/A/CartelA-12.gif)
 
-13
+ℹ️13
 
 A13
 
 ![pngscartelesA13](./Screenshots4.0/Carteles/A/CartelA-13.png)
 ![gifscartelesA13](./GIFS4.0/Carteles/A/CartelA-13.gif)
 
-14
+ℹ️14
 
 A14
 
 ![pngscartelesA14](./Screenshots4.0/Carteles/A/CartelA-14.png)
 ![gifscartelesA14](./GIFS4.0/Carteles/A/CartelA-14.gif)
 
-15
+ℹ️15
 
 A15
 
 ![pngscartelesA15](./Screenshots4.0/Carteles/A/CartelA-15.png)
 ![gifscartelesA15](./GIFS4.0/Carteles/A/CartelA-15.gif)
 
-16
+ℹ️16
 
 A16
 
 ![pngscartelesA16](./Screenshots4.0/Carteles/A/CartelA-16.png)
 ![gifscartelesA16](./GIFS4.0/Carteles/A/CartelA-16.gif)
 
-17
+ℹ️17
 
 A17
 
 ![pngscartelesA17](./Screenshots4.0/Carteles/A/CartelA-17.png)
 ![gifscartelesA17](./GIFS4.0/Carteles/A/CartelA-17.gif)
 
-18
+ℹ️18
 
 A18
 
 ![pngscartelesA18](./Screenshots4.0/Carteles/A/CartelA-18.png)
 ![gifscartelesA18](./GIFS4.0/Carteles/A/CartelA-18.gif)
 
-19
+ℹ️19
 
 A19
 
 ![pngscartelesA19](./Screenshots4.0/Carteles/A/CartelA-19.png)
 ![gifscartelesA19](./GIFS4.0/Carteles/A/CartelA-19.gif)
 
-20
+ℹ️20
 
 A20
 
