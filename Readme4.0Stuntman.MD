@@ -829,12 +829,8 @@ Trenes
 
 ![gifstuntmanv4.0Tren](./GIFS4.0/Stuntman/Tren.gif)
 
-![pngstuntmanv4.0Tren](./Screenshots4.0/Stuntman/TrenesFase9.png)
-
-Mensaje Mision Completada
-
-![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
-
+![pngstuntmanv4.0Tren](./Screenshots4.0/Stuntman/TrenesFase9.png)
+
 Efectos de Luces y Humo de Escape en Coche
 
 Version 4.0
