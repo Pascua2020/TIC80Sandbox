@@ -805,12 +805,12 @@ V1.0
 
 V4.0
 
-![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman1.png)
-![pngstuntmanv4.0frasesdisparostuntman2](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman2.png)
-![pngstuntmanv4.0frasesdisparostuntman3](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman3.png)
-![pngstuntmanv4.0frasesdisparostuntman4](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman4.png)
-![pngstuntmanv4.0frasesdisparostuntman5](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman5.png)
-![pngstuntmanv4.0frasesdisparostuntman6](./Screenshots4.0/Stuntman/Frases_Disparo/FraseDisparoStuntman6.png)
+![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman1.png)
+![pngstuntmanv4.0frasesdisparostuntman2](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman2.png)
+![pngstuntmanv4.0frasesdisparostuntman3](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman3.png)
+![pngstuntmanv4.0frasesdisparostuntman4](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman4.png)
+![pngstuntmanv4.0frasesdisparostuntman5](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman5.png)
+![pngstuntmanv4.0frasesdisparostuntman6](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman6.png)
 
 Nitro
 
