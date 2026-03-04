@@ -2,7 +2,7 @@ Readme4.0Baile
 
 ![gifsbaile100combos](./GIFS4.0/Baile/Baile100Combos.gif)
 
-Frases Baile
+🪩Frases Baile
 
 1
 
@@ -46,7 +46,7 @@ Frases Baile
 
 ![pngfrasesbailarines7](<./Screenshots4.0/Baile/Frases Baile/BaileFrase7.png>)
 
-Frases Cancion
+🪩Frases Cancion
 
 ![gifsletrascancion](./GIFS4.0/Baile/LetrasCancion.gif)
 
@@ -86,13 +86,13 @@ Frases Cancion
 
 ![pngfrasescancion6](./Screenshots4.0/Baile/FrasesCancion/FraseCancion6.png)
 
-Game Over
+🪩Game Over
 
 ![gifsbailegameover](./GIFS4.0/Baile/BaileGameOver.gif)
 
 ![pngbailegameover](./Screenshots4.0/Baile/BaileGameOver.png)
 
-Frases Combos
+🪩Frases Combos
 
 1
 
@@ -118,7 +118,7 @@ Frases Combos
 
 ![pngfrasescombos4](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos4.png)
 
-Niveles Velocidad
+🪩Niveles Velocidad
 
 0
 
