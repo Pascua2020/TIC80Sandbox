@@ -76,32 +76,32 @@ Crimen y Pixel Version 3.3
 Crimen y Pixel Version 3.4
 16/6/2025
 
-![gifstuntmanversion3.4](./GIFS4.0/CutContent/*Versiones Antiguas/V3.4_16-6-2025.gif)
+![gifstuntmanversion3.4](./GIFS4.0/CutContent/VersionesAntiguas/V3.4_16-6-2025.gif)
 
 Crimen y Pixel Version 3.5
 18/6/2025
 
-![gifstuntmanversion3.5(./GIFS4.0/CutContent/*Versiones Antiguas/V3.5_18-6-2025.gif)
+![gifstuntmanversion3.5(./GIFS4.0/CutContent/VersionesAntiguas/V3.5_18-6-2025.gif)
 
 Crimen y Pixel Version 3.6
 19/6/2025
 
-![gifstuntmanversion3.6](./GIFS4.0/CutContent/*Versiones Antiguas/V3.6_19-6-2025.gif)
+![gifstuntmanversion3.6](./GIFS4.0/CutContent/VersionesAntiguas/V3.6_19-6-2025.gif)
 
 Crimen y Pixel Version 3.7
 21/6/2025
 
-![gifstuntmanversion3.7](./GIFS4.0/CutContent/*Versiones Antiguas/V3.7_21-6-2025.gif)
+![gifstuntmanversion3.7](./GIFS4.0/CutContent/VersionesAntiguas/V3.7_21-6-2025.gif)
 
 Crimen y Pixel Version 3.8
 24/6/2025
 
-![gifstuntmanversion3.8](./GIFS4.0/CutContent/*Versiones Antiguas/V3.8_24-6-2025.gif)
+![gifstuntmanversion3.8](./GIFS4.0/CutContent/VersionesAntiguas/V3.8_24-6-2025.gif)
 
 Crimen y Pixel Version 3.9
 25/6/2025
 
-![gifstuntmanversion3.9](./GIFS4.0/CutContent/*Versiones Antiguas/V3.9_25-6-2025.gif)
+![gifstuntmanversion3.9](./GIFS4.0/CutContent/VersionesAntiguas/V3.9_25-6-2025.gif)
 
 Crimen y Pixel Version 4.0 ( ACTUAL )
 2/7/2025
