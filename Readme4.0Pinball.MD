@@ -1,6 +1,6 @@
 Readme4.0Pinball
 
-Animacion Fondo
+💎Animacion Fondo
 
 1
 
@@ -32,7 +32,7 @@ Animacion Fondo
 ![pngpinballanimacionfondo3D](./Screenshots4.0/Pinball/AnimacionFondo/3D.png)
 ![pngpinballanimacionfondo3E](./Screenshots4.0/Pinball/AnimacionFondo/3E.png)
 
-Frases a Completar
+💎Frases a Completar
 
 1
 
@@ -62,7 +62,7 @@ Frases a Completar
 
 ![gifpinballfrasesacompletar7](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball7.gif)
 
-Frases Rebote
+💎Frases Rebote
 
 1
 
@@ -112,7 +112,7 @@ Frases Rebote
 
 ![pngpinballfraserebote8](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote8.png)
 
-Rap Gales
+💎Rap Gales
 
 01
 
@@ -174,24 +174,24 @@ Rap Gales
 
 ![gifpinballrapgales15](./GIFS4.0/Pinball/RapGales/FraseRap15.gif)
 
-Agujero
+💎Agujero
 
 ![gifpinballagujero](<./GIFS4.0/Pinball/AgujeroPinball.gif>)
 
-Diamantes
+💎Diamantes
 
 ![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)
 
-Modo MultiBola
+💎Modo MultiBola
 
 --![gifpinballdiamante](./GIFS4.0/Pinball/DiamantePinball.gif)
 
-Rebote
+💎Rebote
 
 ![gifpinballrebotepaleta1](./GIFS4.0/Pinball/RebotePaleta1.gif)
 ![gifpinballrebotepaleta2](./GIFS4.0/Pinball/RebotePaleta2.gif)
 
-Ruleta 
+💎Ruleta 
 
 ![gifpinballruleta](./GIFS4.0/Pinball/Ruleta.gif)
 
