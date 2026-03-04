@@ -374,7 +374,7 @@ Radio 17
 
 Radio 18
 
-![gifsradio18](./GIFS4.0/CutContent/Radios/r18.gif)
+![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
 
 ![pngraadio18-01](./Screenshots4.0/CutContent/Radios/18/R18-01.png)
 ![pngraadio18-02](./Screenshots4.0/CutContent/Radios/18/R18-02.png)
