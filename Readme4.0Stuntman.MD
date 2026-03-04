@@ -19,7 +19,7 @@ Readme4.0Stuntman
 
 🎥Version 1.0 ( SIN ERRORES )
 
-![gifstuntmanV1.0MisionF1a10](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10_Sin_Errores_(_crimenYPixel_)_7-4-2025.gif)
+![gifstuntmanV1.0MisionF1a10](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10 Sin Errores ( crimenYPixel ) 7-4-2025.gif>)
 
 🎬MISION COMPLETADA:
 
@@ -39,7 +39,7 @@ A
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase1.gif)
+![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/MensajesFases/MensajeFase1.gif)
 
 ![pngstuntmanv4.0mensajefase1-1](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-1.png)
 ![pngstuntmanv4.0mensajefase1-3](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-3.png)
@@ -49,9 +49,9 @@ B
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase1B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase1B.gif)
+![gifstuntmanv4.0mensajefase1B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase1B.gif)
 
-![pngstuntmanv4.0mensajefase1B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase1B.png)
+![pngstuntmanv4.0mensajefase1B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1B.png)
 
 🎬Fase 1 Accion
 
@@ -89,15 +89,15 @@ A
 
 ![gifstuntmanv4.0mensajefase2](./GIFS4.0/Stuntman/MensajesFases/MensajeFase2.gif)
 
-![pngstuntmanv4.0mensajefase2](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase2.png)
+![pngstuntmanv4.0mensajefase2](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase2.png)
 
 B
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase2B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase2B.gif)
+![gifstuntmanv4.0mensajefase2B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase2B.gif)
 
-![pngstuntmanv4.0mensajefase2B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase2B.png)
+![pngstuntmanv4.0mensajefase2B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase2B.png)
 
 🎬Fase 2 Accion
 
@@ -132,17 +132,17 @@ A
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase3](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase3.gif)
+![gifstuntmanv4.0mensajefase3](./GIFS4.0/Stuntman/MensajesFases/MensajeFase3.gif)
 
-![pngstuntmanv4.0mensajefase3](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase3.png)
+![pngstuntmanv4.0mensajefase3](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase3.png)
 
 B
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase3B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase3B.gif)
+![gifstuntmanv4.0mensajefase3B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase3B.gif)
 
-![pngstuntmanv4.0mensajefase3B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase3B.png)
+![pngstuntmanv4.0mensajefase3B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase3B.png)
 
 
 🎬Fase 3 Accion
@@ -178,17 +178,17 @@ A
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase4](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase4.gif)
+![gifstuntmanv4.0mensajefase4](./GIFS4.0/Stuntman/MensajesFases/MensajeFase4.gif)
 
-![pngstuntmanv4.0mensajefase4](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase4.png)
+![pngstuntmanv4.0mensajefase4](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase4.png)
 
 B
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase4B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase4B.gif)
+![gifstuntmanv4.0mensajefase4B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase4B.gif)
 
-![pngstuntmanv4.0mensajefase4B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase4B.png)
+![pngstuntmanv4.0mensajefase4B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase4B.png)
 
 
 
@@ -225,17 +225,17 @@ A
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase5](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase5.gif)
+![gifstuntmanv4.0mensajefase5](./GIFS4.0/Stuntman/MensajesFases/MensajeFase5.gif)
 
-![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase5.png)
+![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase5.png)
 
 B
 
 Version 4.0
 
-![gifstuntmanv4.0mensajefase5B](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase5B.gif)
+![gifstuntmanv4.0mensajefase5B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase5B.gif)
 
-![pngstuntmanv4.0mensajefase5B](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase5B.png)
+![pngstuntmanv4.0mensajefase5B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase5B.png)
 
 
 🎬Fase 5 Accion
