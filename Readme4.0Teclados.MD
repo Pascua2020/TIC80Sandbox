@@ -1,5 +1,7 @@
 Readme4.0Teclados
 
+⌨️Teclado PC
+
 ![gifteclado](./GIFS4.0/Teclados/TecladoPC.gif)
 
 ![pngtecladoPC](./Screenshots4.0/Teclados/TecladoPC1.png)
@@ -7,6 +9,8 @@ Readme4.0Teclados
 ![pngtecladoPC2](./Screenshots4.0/Teclados/TecladoPC2.png)
 
 ![pngtecladoPC3](./Screenshots4.0/Teclados/TecladoPC3.png)
+
+📠Teclado Numerico
 
 ![giftecladonum](./GIFS4.0/Teclados/TecladoNum.gif)
 
