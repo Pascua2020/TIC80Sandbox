@@ -121,177 +121,177 @@ https://en.wikipedia.org/wiki/Tenis_language
 
 https://en.wikipedia.org/wiki/Tigrinya_language
 
-21
+🥚21
 
 ![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
 https://en.wikipedia.org/wiki/Wolof_language
 
-22
+🥚22
 
 ![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)
 
 https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war
 
-23
+🥚23
 
 ![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)
 
 https://en.wikipedia.org/wiki/Lut_Desert
 
-24
+🥚24
 
 ![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)
 
 https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 
-25
+🥚25
 
 ![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)
 
 https://en.wikipedia.org/wiki/La_Naci%C3%B3n
 
-26
+🥚26
 
 ![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)
 
 https://es.wikipedia.org/wiki/Carlos_Pagni
 
-27
+🥚27
 
 ![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)
 
 https://en.wikipedia.org/wiki/Los_Angeles
 
-28
+🥚28
 
 ![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)
 
 https://en.wikipedia.org/wiki/Bart_on_the_Road
 
-29
+🥚29
 
 ![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)
 
 https://en.wikipedia.org/wiki/Bart_the_Genius
 
-30
+🥚30
 
 ![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
 https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
-31
+🥚31
 
 ![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)
 
 https://en.wikipedia.org/wiki/Lunfardo
 
-32
+🥚32
 
 ![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
 
 https://en.wikipedia.org/wiki/Presidency_of_Mauricio_Macri
 
-33
+🥚33
 
 ![pngEasterEggMarioAlonsoPuig](./Screenshots4.0/EasterEggs/EasterEggMarioAlonsoPuig.png)
 
 https://marioalonsopuig.com/biografia/
 
-34
+🥚34
 
 ![pngEasterEggMaslaton](./Screenshots4.0/EasterEggs/EasterEggMaslaton.png)
 
 https://en.wikipedia.org/wiki/Carlos_Maslat%C3%B3n
 
-35
+🥚35
 
 ![pngEasterEggMilei1](./Screenshots4.0/EasterEggs/EasterEggMilei1.png)
 
 https://en.wikipedia.org/wiki/Javier_Milei
 
-36
+🥚36
 
 ![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)
 
-37
+🥚37
 
 ![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)
 
-38
+🥚38
 
 ![pngEasterEggPulp](./Screenshots4.0/EasterEggs/EasterEggPulp.png)
 
 https://en.wikipedia.org/wiki/Party_Hard_(Pulp_song)
 
-39
+🥚39
 
 ![pngEasterEggRusia1](./Screenshots4.0/EasterEggs/EasterEggRusia1.png)
 
 https://en.wikipedia.org/wiki/Vladivostok
 
-40
+🥚40
 
 ![pngEasterEggRusia2](./Screenshots4.0/EasterEggs/EasterEggRusia2.png)
 
 https://en.wikipedia.org/wiki/Mikhail_Gorbachev
 https://en.wikipedia.org/wiki/Gopnik
 
-41
+🥚41
 
 ![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)
 
 https://en.wikipedia.org/wiki/Women_in_Russia
 
-42
+🥚42
 
 ![pngEasterEggRusia4](./Screenshots4.0/EasterEggs/EasterEggRusia4.png)
 
-43
+🥚43
 
 ![pngEasterEggSeineldin](./Screenshots4.0/EasterEggs/EasterEggSeineldin.png)
 
 https://en.wikipedia.org/wiki/Mohamed_Al%C3%AD_Seineld%C3%ADn
 
-44
+🥚44
 
 ![pngEasterEggShenzhen](./Screenshots4.0/EasterEggs/EasterEggShenzhen.png)
 
 https://en.wikipedia.org/wiki/Shenzhen
 
-45
+🥚45
 
 ![pngEasterEggStallone](./Screenshots4.0/EasterEggs/EasterEggStallone.png)
 
 https://en.wikipedia.org/wiki/Sylvester_Stallone
 https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 
-46
+🥚46
 
 ![pngEasterEggStuntmanPS2](./Screenshots4.0/EasterEggs/EasterEggStuntmanPS2.png)
 
 https://en.wikipedia.org/wiki/Stuntman_(video_game)
 
-47
+🥚47
 
 ![pngEasterEggSudan](./Screenshots4.0/EasterEggs/EasterEggSudan.png)
 
 https://en.wikipedia.org/wiki/Khartoum
 
-48
+🥚48
 
 ![pngEasterEggSuede1](./Screenshots4.0/EasterEggs/EasterEggSuede1.png)
 
 https://en.wikipedia.org/wiki/Suede_(band)
 
-49
+🥚49
 
 ![pngEasterEggSuede2](./Screenshots4.0/EasterEggs/EasterEggSuede2.png)
 
 https://en.wikipedia.org/wiki/The_Drowners
 
-50
+🥚50
 
 ![pngEasterEggTinder](./Screenshots4.0/EasterEggs/EasterEggTinder.png)
 
