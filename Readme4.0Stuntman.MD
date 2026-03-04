@@ -87,7 +87,7 @@ A
 
 🎥Version 4.0
 
-![gifstuntmanv4.0mensajefase2](./GIFS4.0/Stuntman/Mensajes_Fases/MensajeFase2.gif)
+![gifstuntmanv4.0mensajefase2](./GIFS4.0/Stuntman/MensajesFases/MensajeFase2.gif)
 
 ![pngstuntmanv4.0mensajefase2](./Screenshots4.0/Stuntman/Mensajes_Fases/MensajeFase2.png)
 
