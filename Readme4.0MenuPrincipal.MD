@@ -1,10 +1,10 @@
 Readme4.0MenuPrincipal
 
-Seleccion
+🎮Seleccion
 
 ![gifMenuPrincipalSeleccion](./GIFS4.0/MenuPrincipal/MenuPrincipalSeleccion.gif)
 
-Personajes
+🎮Personajes
 
 ![gifMenuPrincipalPersonajes](./GIFS4.0/MenuPrincipal/MenuPrincipalPersonajes.gif)
 
@@ -36,7 +36,7 @@ Personajes
 
 ![pngMenuPrincipalPersonaje7](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje7.png)
 
-INTRO
+🎮INTRO
 
 ![gifMenuPrincipalIntro](./GIFS4.0/MenuPrincipal/Intro.gif)
 
@@ -45,14 +45,14 @@ INTRO
 ![pngMenuPrincipalIntro3](./Screenshots4.0/Intro/Intro3.png)
 ![pngMenuPrincipalIntro4](./Screenshots4.0/Intro/Intro4.png)
 
-CREDITOS
+🎮CREDITOS
 
 
 ![pngMenuPrincipalCreditos1](./Screenshots4.0/Creditos/Creditos1.png)
 ![pngMenuPrincipalCreditos2](./Screenshots4.0/Creditos/Creditos2.png)
 ![pngMenuPrincipalCreditos3](./Screenshots4.0/Creditos/Creditos3.png)
 
-DEMO
+🎮DEMO
 
 ![gifMenuPrincipalDemo](./GIFS4.0/MenuPrincipal/Demo.gif)
 
@@ -60,7 +60,7 @@ DEMO
 ![pngMenuPrincipalDemo2](./Screenshots4.0/Demo/Demo2.png)
 ![pngMenuPrincipalDemo3](./Screenshots4.0/Demo/Demo3.png)
 
-INICIOS
+🎮INICIOS
 
 ![gifMenuPrincipalInicio1](./GIFS4.0/MenuPrincipal/Inicios/Inicio1.gif)
 ![gifMenuPrincipalInicio2](./GIFS4.0/MenuPrincipal/Inicios/Inicio2.gif)
