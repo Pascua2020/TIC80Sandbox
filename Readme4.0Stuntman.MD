@@ -29,7 +29,7 @@ Readme4.0Stuntman
 
 🎥V4.0
 
-![gifstuntmanv4.0misioncompletada](./GIFS4.0/CutContent/Stuntman/StuntmanMisionCompletada.gif)
+![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
 
 🎬Fase 1 Dialogos
 
