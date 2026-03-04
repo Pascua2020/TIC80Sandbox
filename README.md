@@ -1,3 +1,5 @@
+# Readme 4.0 ( Marzo 2026 ) : ![Readme4.0 ](./README4.0.MD)
+
 # Actualizacion Agosto 2025 :
 Ultima version del juego es 4.0 .
 Si bien este readme es super detallado,quedo algo desfasado con respecto a la ultima version.Mas adelante lo actualizare a su version actual.
