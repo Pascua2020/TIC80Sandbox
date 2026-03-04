@@ -1,5 +1,7 @@
 Readme4.0Diario
 
+![gifdiario](./Screenshots4.0/Diario/Diario.gif)
+
 NOTICIA 1
 
 ![pngdiario01](./Screenshots4.0/Diario/Diario01.png)
