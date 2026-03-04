@@ -13,11 +13,11 @@ SubReadmes:
 -Carteles ![README4.0-Carteles ](./Readme4.0Carteles.MD)
 -Climas ![README4.0-Climas ](./Readme4.0Climas.MD)
 -Codigo Fuente ![README4.0-CodigoFuente ](./Readme4.0CodigoFuente.MD)
--Coleccionables
--CutContent
--Diario
--DiosGPT
--EasterEggs
+-Coleccionables ![README4.0-Coleccionables ](./Readme4.0Coleccionables.MD)
+-CutContent ![README4.0-CutContent ](./Readme4.0CutContent.MD)
+-Diario ![README4.0-Diario ](./Readme4.0Diario.MD)
+-DiosGPT ![README4.0-DiosGPT ](./Readme4.0DiosGPT.MD)
+-EasterEggs ![README4.0-EasterEggs](./Readme4.0EasterEggs.MD)
 -Mapa
 -Mar
 -Mejorar
