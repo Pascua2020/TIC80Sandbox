@@ -1,5 +1,7 @@
 Readme4.0NPCs
 
+Hay 9 personajes en el mapa.
+
 🤠Capitan Inflacion
 
 ![gifnpc1](<./GIFS4.0/Personajes/Capitan Inflacion.gif>)
