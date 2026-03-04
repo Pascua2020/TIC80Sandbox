@@ -2,7 +2,7 @@ Readme4.0NPCs
 
 🤠Capitan Inflacion
 
-![gifnpc1](./GIFS4.0/Personajes/CapitanInflacion.gif)
+![gifnpc1](<./GIFS4.0/Personajes/Capitan Inflacion.gif>)
 
 ![pngnpc1A](<./Screenshots4.0/Personajes/Capitan Inflacion.png>)
 ![pngnpc1B](<./Screenshots4.0/Personajes/Capitan Inflacion-2.png>)
@@ -16,7 +16,7 @@ Readme4.0NPCs
 
 🤡El Payaso Curro Curro
 
-![gifnpc3](./GIFS4.0/Personajes/El_Payaso_Curro_Curro.gif)
+![gifnpc3](<./GIFS4.0/Personajes/El Payaso Curro Curro.gif>)
 
 ![pngnpc3A](<./Screenshots4.0/Personajes/El Payaso Curro Curro.png>)
 ![pngnpc3B](<./Screenshots4.0/Personajes/El Payaso Curro Curro-2.png>)
