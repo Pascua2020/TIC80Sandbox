@@ -113,6 +113,8 @@
 
 📻Radio 05
 
+12 Dialogos.
+
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
 
 ![pngraadio05-01](./Screenshots4.0/Radios/Radio05/R05-01.png)
