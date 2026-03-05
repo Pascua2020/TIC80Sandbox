@@ -225,11 +225,11 @@ BETA
 TODAS
 
 💣AK47
-![gifarmabetaak47](./GIFS4.0/CutContent/Armas/AK47_(_armaak2_)_4-3-2025.gif)
+![gifarmabetaak47](<./GIFS4.0/CutContent/Armas/AK47 ( armaak2 ) 4-3-2025.gif>)
 
 💣ElectroRifle
-![gifarmabetaelectrorifle1](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_4-3-2025.gif)
-![gifarmabetaelectrorifle2](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_24-1-2025.gif)
+![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/Electrorifle ( rifleel ) 4-3-2025.gif>)
+![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/Electrorifle ( rifleel ) 24-1-2025.gif>)
 
 💣Escopeta
 ![gifarmabetaescopeta](./GIFS4.0/CutContent/Armas/Escopeta_(_armaes3_)_4-3-2025.gif)
