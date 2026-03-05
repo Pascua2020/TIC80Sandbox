@@ -52,6 +52,8 @@
 
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
+<details>
+
 ![pngraadio02-01](./Screenshots4.0/Radios/Radio02/R02-01.png)
 ![pngraadio02-02](./Screenshots4.0/Radios/Radio02/R02-02.png)
 ![pngraadio02-03](./Screenshots4.0/Radios/Radio02/R02-03.png)
@@ -73,12 +75,15 @@
 ![pngraadio02-18](./Screenshots4.0/Radios/Radio02/R02-18.png)
 ![pngraadio02-19](./Screenshots4.0/Radios/Radio02/R02-19.png)
 
+</details>
 
 📻Radio 03 : Poesia de la Calle
 
 12 Dialogos.
 
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
+
+<details>
 
 ![pngraadio03-01](./Screenshots4.0/Radios/Radio03/R03-01.png)
 ![pngraadio03-02](./Screenshots4.0/Radios/Radio03/R03-02.png)
@@ -93,13 +98,13 @@
 ![pngraadio03-10](./Screenshots4.0/Radios/Radio03/R03-10.png)
 ![pngraadio03-11](./Screenshots4.0/Radios/Radio03/R03-11.png)
 ![pngraadio03-12](./Screenshots4.0/Radios/Radio03/R03-12.png)
-
+</details>
 📻Radio 04 : Gobierno de Argentina
 
 13 Dialogos.
 
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
-
+<details>
 ![pngraadio04-01](./Screenshots4.0/Radios/Radio04/R04-01.png)
 ![pngraadio04-02](./Screenshots4.0/Radios/Radio04/R04-02.png)
 ![pngraadio04-03](./Screenshots4.0/Radios/Radio04/R04-03.png)
@@ -114,13 +119,13 @@
 ![pngraadio04-11](./Screenshots4.0/Radios/Radio04/R04-11.png)
 ![pngraadio04-12](./Screenshots4.0/Radios/Radio04/R04-12.png)
 ![pngraadio04-13](./Screenshots4.0/Radios/Radio04/R04-13.png)
-
+</details>
 📻Radio 05 : Solos y Solas
 
 12 Dialogos.
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
-
+<details>
 ![pngraadio05-01](./Screenshots4.0/Radios/Radio05/R05-01.png)
 ![pngraadio05-02](./Screenshots4.0/Radios/Radio05/R05-02.png)
 ![pngraadio05-03](./Screenshots4.0/Radios/Radio05/R05-03.png)
@@ -134,13 +139,13 @@
 ![pngraadio05-10](./Screenshots4.0/Radios/Radio05/R05-10.png)
 ![pngraadio05-11](./Screenshots4.0/Radios/Radio05/R05-11.png)
 ![pngraadio05-12](./Screenshots4.0/Radios/Radio05/R05-12.png)
-
+</details>
 📻Radio 06 : Desgracias Economicas
 
 10 Dialogos.
 
 ![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
-
+<details>
 ![pngraadio06-01](./Screenshots4.0/Radios/Radio06/R06-01.png)
 ![pngraadio06-02](./Screenshots4.0/Radios/Radio06/R06-02.png)
 ![pngraadio06-03](./Screenshots4.0/Radios/Radio06/R06-03.png)
@@ -151,7 +156,7 @@
 ![pngraadio06-08](./Screenshots4.0/Radios/Radio06/R06-08.png)
 ![pngraadio06-09](./Screenshots4.0/Radios/Radio06/R06-09.png)
 ![pngraadio06-10](./Screenshots4.0/Radios/Radio06/R06-10.png)
-
+</details>
 📻Radio 07 : Joyas de la Historia Argentina
 
 11 Dialogos
