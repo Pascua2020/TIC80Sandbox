@@ -6,6 +6,8 @@
 
 ![pngDiosGPTMenuB](./Screenshots4.0/DiosGPT/MenuB.png)
 
+Opciones
+
 ![pngDiosGPTMenuC1](./Screenshots4.0/DiosGPT/MenuC1.png)
 
 ![pngDiosGPTMenuC2](./Screenshots4.0/DiosGPT/MenuC2.png)
