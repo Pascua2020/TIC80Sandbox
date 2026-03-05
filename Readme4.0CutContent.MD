@@ -246,22 +246,22 @@ TODAS
 ![gifarmabetakatana2](<./GIFS4.0/CutContent/Armas/Katana ( katana ) 4-3-2025.gif>)
 
 💣Lanzallamas
-![gifarmabetalanzallamas1](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_24-1-2025.gif)
-![gifarmabetalanzallamas2](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_4-3-2025.gif)
+![gifarmabetalanzallamas1](<./GIFS4.0/CutContent/Armas/Lanzallamas ( lanzallama ) 24-1-2025.gif>)
+![gifarmabetalanzallamas2](<./GIFS4.0/CutContent/Armas/Lanzallamas ( lanzallama ) 4-3-2025.gif>)
 
 💣Laser
-![gifarmabetalaser1](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_24-1-2025.gif)
-![gifarmabetalaser2](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_4-3-2025.gif)
+![gifarmabetalaser1](<./GIFS4.0/CutContent/Armas/Laser ( laser ) 24-1-2025.gif>)
+![gifarmabetalaser2](<./GIFS4.0/CutContent/Armas/Laser ( laser ) 4-3-2025.gif>)
 
 💣Minigun
-![gifarmabetaminigun1](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_24-1-2025.gif)
-![gifarmabetaminigun2](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_4-3-2025.gif)
+![gifarmabetaminigun1](<./GIFS4.0/CutContent/Armas/Minigun ( minigun ) 24-1-2025.gif>)
+![gifarmabetaminigun2](<./GIFS4.0/CutContent/Armas/Minigun ( minigun ) 4-3-2025.gif>)
 
 💣Pistola
-![gifarmabetapistola](./GIFS4.0/CutContent/Armas/Pistola_(_pistola_)_4-3-2025.gif)
+![gifarmabetapistola](<./GIFS4.0/CutContent/Armas/Pistola ( pistola ) 4-3-2025.gif>)
 
 💣RIFLE DE FRANCOTIRADOR
-![gifarmabetariflefrancotirador](./GIFS4.0/CutContent/Armas/RifleFrancotirador_(_armar_)_4-3-2025.gif)
+![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
 
 DiosGPT
 
