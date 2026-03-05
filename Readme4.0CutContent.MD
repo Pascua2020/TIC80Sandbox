@@ -3,6 +3,8 @@
 ⚠️-Chat
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
+
+<details>
 ![gifchat2](<./GIFS4.0/CutContent/Chat/Chat (wpp2) 4-3-2025.gif>)
 ![gifchat3](<./GIFS4.0/CutContent/Chat/Chat ( ZMensajesMoviles ) 12-3-2025.gif>)
 
@@ -17,10 +19,10 @@
 ![pngcutcontentChat3A](./Screenshots4.0/CutContent/Chat/Chat3A.png)
 ![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat/Chat3B.png)
 ![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat/Chat3C.png)
-
+</details>
 ⚠️-Ciclo Dia Noche
 
-![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
+![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)<details>
 ![gifciclodianoche2](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 4-3-2025.gif>)
 
 ![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1A.png)
@@ -30,15 +32,15 @@
 
 ![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2A.png)
 ![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2B.png)
-
+</details>
 ⚠️-Climas
 
-![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
+![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)<details>
 ![gifbetaclimas2](<./GIFS4.0/CutContent/Climas/Climas ( todosclima6 ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
-
+</details>
 --Arcoiris
 
 ![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
