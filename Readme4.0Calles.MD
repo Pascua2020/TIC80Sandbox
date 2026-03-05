@@ -14,7 +14,7 @@ Trafico en el mapa
 ![giftrafico3](./GIFS4.0/Trafico/siguiendoTochotaMohtoh.gif)
 ![giftrafico4](./GIFS4.0/Trafico/siguiendoZhoZhoEgoEgo.gif)
 
-01-Ameo
+🚸01-Ameo
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
 <details>
@@ -23,7 +23,7 @@ Trafico en el mapa
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
 ![gifcalleameohud](./GIFS4.0/Calles(HUD)/Ameo-HUD.gif)
 </details>
-02-Anaconda
+🚸02-Anaconda
 
 ![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
 
@@ -36,7 +36,7 @@ Trafico en el mapa
 
 </details>
 
-03-Bubs
+🚸03-Bubs
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
 
@@ -49,7 +49,7 @@ Trafico en el mapa
 
 </details>
 
-04-Callate
+🚸04-Callate
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
 
@@ -62,7 +62,7 @@ Trafico en el mapa
 
 </details>
 
-05-Caos
+🚸05-Caos
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
 
@@ -75,7 +75,7 @@ Trafico en el mapa
 
 </details>
 
-06-Cepo
+🚸06-Cepo
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
 
@@ -88,7 +88,7 @@ Trafico en el mapa
 
 </details>
 
-07-Chad
+🚸07-Chad
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
 
@@ -101,7 +101,7 @@ Trafico en el mapa
 
 </details>
 
-08-Chechona
+🚸08-Chechona
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 
@@ -114,7 +114,7 @@ Trafico en el mapa
 
 </details>
 
-09-Chocolate
+🚸09-Chocolate
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 
@@ -127,7 +127,7 @@ Trafico en el mapa
 
 </details>
 
-10-Cocaina
+🚸10-Cocaina
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
 
@@ -140,7 +140,7 @@ Trafico en el mapa
 
 </details>
 
-11-Conspiracion
+🚸11-Conspiracion
 
 ![pngcalleconspiracionnohud](./Screenshots4.0/Calles(NOHUD)/Conspiracion.png)
 
@@ -153,7 +153,7 @@ Trafico en el mapa
 
 </details>
 
-12-Corrupcion
+🚸12-Corrupcion
 
 ![pngcallecorrupcionnohud](./Screenshots4.0/Calles(NOHUD)/Corrupcion.png)
 
@@ -166,7 +166,7 @@ Trafico en el mapa
 
 </details>
 
-13-Dark
+🚸13-Dark
 
 ![pngcalledarknohud](./Screenshots4.0/Calles(NOHUD)/Dark.png)
 
@@ -179,7 +179,7 @@ Trafico en el mapa
 
 </details>
 
-14-Default
+🚸14-Default
 
 ![pngcalledefaultnohud](./Screenshots4.0/Calles(NOHUD)/Default.png)
 
@@ -192,7 +192,7 @@ Trafico en el mapa
 
 </details>
 
-15-Diablo
+🚸15-Diablo
 
 ![pngcallediablonohud](./Screenshots4.0/Calles(NOHUD)/Diablo.png)
 
@@ -205,7 +205,7 @@ Trafico en el mapa
 
 </details>
 
-16-Diamante
+🚸16-Diamante
 
 ![pngcallediamantenohud](./Screenshots4.0/Calles(NOHUD)/Diamante.png)
 
@@ -218,7 +218,7 @@ Trafico en el mapa
 
 </details>
 
-17-Eureka
+🚸17-Eureka
 
 ![pngcalleeurekanohud](./Screenshots4.0/Calles(NOHUD)/Eureka.png)
 
@@ -231,7 +231,7 @@ Trafico en el mapa
 
 </details>
 
-18-Extasis
+🚸18-Extasis
 
 ![pngcalleextasisnohud](./Screenshots4.0/Calles(NOHUD)/Extasis.png)
 
@@ -244,7 +244,7 @@ Trafico en el mapa
 
 </details>
 
-19-Fentanilo
+🚸19-Fentanilo
 
 ![pngcallefentanilonohud](./Screenshots4.0/Calles(NOHUD)/Fentanilo.png)
 
@@ -257,7 +257,7 @@ Trafico en el mapa
 
 </details>
 
-20-Gilipollas
+🚸20-Gilipollas
 
 ![pngcallegilipollasnohud](./Screenshots4.0/Calles(NOHUD)/Gilipollas.png)
 
@@ -270,7 +270,7 @@ Trafico en el mapa
 
 </details>
 
-21-Hardcore
+🚸21-Hardcore
 
 ![pngcallehardcorenohud](./Screenshots4.0/Calles(NOHUD)/Hardcore.png)
 
@@ -283,7 +283,7 @@ Trafico en el mapa
 
 </details>
 
-22-Inflacion
+🚸22-Inflacion
 
 ![pngcalleinflacionnohud](./Screenshots4.0/Calles(NOHUD)/Inflacion.png)
 
@@ -296,7 +296,7 @@ Trafico en el mapa
 
 </details>
 
-23-Informeishon
+🚸23-Informeishon
 
 ![pngcalleinformeishonnohud](./Screenshots4.0/Calles(NOHUD)/Informeishon.png)
 
@@ -309,7 +309,7 @@ Trafico en el mapa
 
 </details>
 
-24-Jarbard
+🚸24-Jarbard
 
 ![pngcallejarbardnohud](./Screenshots4.0/Calles(NOHUD)/Jarbard.png)
 
@@ -322,7 +322,7 @@ Trafico en el mapa
 
 </details>
 
-25-Kamasutra
+🚸25-Kamasutra
 
 ![pngcallekamasutranohud](./Screenshots4.0/Calles(NOHUD)/Kamasutra.png)
 
@@ -335,7 +335,7 @@ Trafico en el mapa
 
 </details>
 
-26-Khe
+🚸26-Khe
 
 ![pngcallekhenohud](./Screenshots4.0/Calles(NOHUD)/Khe.png)
 
@@ -348,7 +348,7 @@ Trafico en el mapa
 
 </details>
 
-27-Kinga
+🚸27-Kinga
 
 ![pngcallekinganohud](./Screenshots4.0/Calles(NOHUD)/Kinga.png)
 
@@ -361,7 +361,7 @@ Trafico en el mapa
 
 </details>
 
-28-Konga
+🚸28-Konga
 
 ![pngcallekonganohud](./Screenshots4.0/Calles(NOHUD)/Konga.png)
 
@@ -374,7 +374,7 @@ Trafico en el mapa
 
 </details>
 
-29-Kwyjibo
+🚸29-Kwyjibo
 
 ![pngcallekwyijbonohud](./Screenshots4.0/Calles(NOHUD)/Kwyjibo.png)
 
@@ -387,7 +387,7 @@ Trafico en el mapa
 
 </details>
 
-30-Laberinto
+🚸30-Laberinto
 
 ![pngcallelaberintonohud](./Screenshots4.0/Calles(NOHUD)/Laberinto.png)
 
