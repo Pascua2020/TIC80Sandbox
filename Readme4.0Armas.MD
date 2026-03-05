@@ -1,4 +1,4 @@
-Readme4.0Armas
+# Readme4.0Armas
 
 Hay 11 Armas diferentes.
 Cada arma tiene sus propias frases al disparar/ejecutar.
