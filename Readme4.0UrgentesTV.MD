@@ -33,12 +33,15 @@ Hay 7 Urgentes estilo noticiero.
 #️⃣#Hashtags Urgente 1:
 
 ![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/1-1.gif)
+
+<details>
+
 ![gif#urgente1-2](<./GIFS4.0/Urgentes/Hashtags/1-2.gif>)
 ![gif#urgente1-3](<./GIFS4.0/Urgentes/Hashtags/1-3.gif>)
 ![gif#urgente1-4](<./GIFS4.0/Urgentes/Hashtags/1-4.gif>)
 ![gif#urgente1-5](<./GIFS4.0/Urgentes/Hashtags/1-5.gif>)
 ![gif#urgente1-6](<./GIFS4.0/Urgentes/Hashtags/1-6.gif>)
-
+</details>
 🔊Urgente 2
 
 17 Dialogos.
@@ -71,11 +74,16 @@ Hay 7 Urgentes estilo noticiero.
 #️⃣#Hashtags Urgente 2:
 
 ![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags/2-1.gif)
+
+<details>
+
 ![gif#urgente2-2](./GIFS4.0/Urgentes/Hashtags/2-2.gif)
 ![gif#urgente2-3](./GIFS4.0/Urgentes/Hashtags/2-3.gif)
 ![gif#urgente2-4](./GIFS4.0/Urgentes/Hashtags/2-4.gif)
 ![gif#urgente2-5](./GIFS4.0/Urgentes/Hashtags/2-5.gif)
 ![gif#urgente2-6](./GIFS4.0/Urgentes/Hashtags/2-6.gif)
+
+</details>
 
 🔊Urgente 3
 
