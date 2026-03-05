@@ -352,8 +352,8 @@ Jetpack
 ![gifbetastuntmanF10C](./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10_(_ZS10_)_12-3-2025.gif)
 
 Stuntman F1 a 10 ( Bugeado )
-![gifbetastuntmanF1A10A](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug10_)_30-3-2025.gif)
-![gifbetastuntmanF1A10B](./GIFS4.0/CutContent/Stuntman/Stuntman_Fase_1_a_10(_hiperdebug11_)_31-3-2025.gif)
+![gifbetastuntmanF1A10A](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug10 ) 30-3-2025.gif>)
+![gifbetastuntmanF1A10B](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug11 ) 31-3-2025.gif>)
 
 📻Radio
 
@@ -363,7 +363,7 @@ Stuntman F1 a 10 ( Bugeado )
 
 💻MENU DEBUG
 
-![gifmenudebug](./GIFS4.0/CutContent/MenuDebug_(_hiperdebug5_)_19-3-2025.gif)
+![gifmenudebug](<./GIFS4.0/CutContent/MenuDebug ( hiperdebug5 ) 19-3-2025.gif>)
 
 ![pngcutcontentDebug](./Screenshots4.0/CutContent/Debug.png)
 
