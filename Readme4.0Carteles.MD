@@ -258,21 +258,21 @@ A36
 
 Carteles B
 
-37
+⬛37
 
 B1
 
 ![pngscartelesB1](./Screenshots4.0/Carteles/B/CartelB-1.png)
 ![gifscartelesB1](./GIFS4.0/Carteles/B/CartelB-1.gif)
 
-38
+⬛38
 
 B2
 
 ![pngscartelesB2](./Screenshots4.0/Carteles/B/CartelB-2.png)
 ![gifscartelesB2](./GIFS4.0/Carteles/B/CartelB-2.gif)
 
-39
+⬛39
 
 B3
 
