@@ -357,8 +357,8 @@ Stuntman F1 a 10 ( Bugeado )
 
 📻Radio
 
-![gifbetaradiosA](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_4-3-2025.gif)
-![gifbetaradiosB](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_12-2-2025.gif)
+![gifbetaradiosA](<./GIFS4.0/CutContent/Radios/22Radios ( todasradios7 ) 4-3-2025.gif>)
+![gifbetaradiosB](<./GIFS4.0/CutContent/Radios/22Radios ( todasradios7 ) 12-2-2025.gif>)
 ![gifbetaradioaprendechino](./GIFS4.0/CutContent/Radios/RadioAprendeChino_(_dialogo4_)_4-3-2025.gif)
 
 💻MENU DEBUG
