@@ -100,6 +100,8 @@ Hay 7 Urgentes estilo noticiero.
 
 🔊Urgente 4
 
+17 Dialogos.
+
 ![gifurgente4](./GIFS4.0/Urgentes/Urgente4.gif)
 
 ![pngurgente4-01](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-01.png>)
