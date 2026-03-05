@@ -265,13 +265,13 @@ TODAS
 
 DiosGPT
 
-![gifbetadiosgpt1](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_diosgpt7_)_4-3-2025.gif)
-![gifbetadiosgpt2](./GIFS4.0/CutContent/DiosGPT/DiosGPT_(_gptv2.10_)_20-1-2025.gif)
+![gifbetadiosgpt1](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( diosgpt7 ) 4-3-2025.gif>)
+![gifbetadiosgpt2](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( gptv2.10 ) 20-1-2025.gif>)
 
 Jetpack
 
-![gifbetajetpack1](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_4-3-2025.gif)
-![gifbetajetpack2](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_24-1-2025.gif)
+![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
+![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
 
 🀄Nerdpedia
 
