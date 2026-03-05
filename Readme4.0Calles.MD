@@ -17,58 +17,89 @@ Trafico en el mapa
 01-Ameo
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
+<details>
 ![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.gif)
 
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
 ![gifcalleameohud](./GIFS4.0/Calles(HUD)/Ameo-HUD.gif)
-
+</details>
 02-Anaconda
 
 ![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
+
+<details>
+
 ![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.gif)
 
 ![pngcalleanacondahud](./Screenshots4.0/Calles(HUD)/Anaconda-HUD.png)
 ![gifcalleanacondahud](./GIFS4.0/Calles(HUD)/Anaconda-HUD.gif)
 
+</details>
+
 03-Bubs
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
+
+<details>
+
 ![gifcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.gif)
 
 ![pngcallebubshud](./Screenshots4.0/Calles(HUD)/Bubs-HUD.png)
 ![gifcallebubshud](./GIFS4.0/Calles(HUD)/Bubs-HUD.gif)
 
+</details>
+
 04-Callate
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
+
+<details>
+
 ![gifcallecallatenohud](./GIFS4.0/Calles(NOHUD)/Callate.gif)
 
 ![pngcallecallatehud](./Screenshots4.0/Calles(HUD)/Callate-HUD.png)
 ![gifcallecallatehud](./GIFS4.0/Calles(HUD)/Callate-HUD.gif)
 
+</details>
+
 05-Caos
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
+
+<details>
+
 ![gifcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.gif)
 
 ![pngcallecaoshud](./Screenshots4.0/Calles(HUD)/Caos-HUD.png)
 ![gifcallecaoshud](./GIFS4.0/Calles(HUD)/Caos-HUD.gif)
 
+</details>
+
 06-Cepo
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
+
+<details>
+
 ![gifcalleceponohud](./GIFS4.0/Calles(NOHUD)/Cepo.gif)
 
 ![pngcallecepohud](./Screenshots4.0/Calles(HUD)/Cepo-HUD.png)
 ![gifcallecepohud](./GIFS4.0/Calles(HUD)/Cepo-HUD.gif)
 
+</details>
+
 07-Chad
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
+
+<details>
+
 ![gifcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.gif)
 
 ![pngcallechadhud](./Screenshots4.0/Calles(HUD)/Chad-HUD.png)
 ![gifcallechadhud](./GIFS4.0/Calles(HUD)/Chad-HUD.gif)
+
+</details>
 
 08-Chechona
 
