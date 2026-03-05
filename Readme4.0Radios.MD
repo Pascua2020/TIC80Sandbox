@@ -72,6 +72,8 @@
 
 📻Radio 03
 
+12 Dialogos.
+
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
 
 ![pngraadio03-01](./Screenshots4.0/Radios/Radio03/R03-01.png)
