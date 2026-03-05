@@ -273,17 +273,18 @@ Jetpack
 ![gifbetajetpack1](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_4-3-2025.gif)
 ![gifbetajetpack2](./GIFS4.0/CutContent/Jetpack/Jetpack_(_jetpack_)_24-1-2025.gif)
 
-Nerdpedia
-V1
+🀄Nerdpedia
+
+🎴V1
 
 ![gifnerdpediav1](./GIFS4.0/CutContent/Nerdpedia/Nerdpedia_(_wiki24_)_4-3-2025.gif)
 
-V2
+🎴V2
 
 ![gifnerdpediav2A](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_crimenYPixel_)_7-4-2025.gif)
 ![gifnerdpediav2B](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_w2.10_)_12-2-2025.gif)
 
-Skate
+🛹Skate
 
 ![gifbetaskateA](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_20-1-2025.gif)
 ![gifbetaskateB](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_4-3-2025.gif)
