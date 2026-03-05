@@ -144,112 +144,112 @@ A20
 ![pngscartelesA20](./Screenshots4.0/Carteles/A/CartelA-20.png)
 ![gifscartelesA20](./GIFS4.0/Carteles/A/CartelA-20.gif)
 
-21
+ℹ️21
 
 A21
 
 ![pngscartelesA21](./Screenshots4.0/Carteles/A/CartelA-21.png)
 ![gifscartelesA21](./GIFS4.0/Carteles/A/CartelA-21.gif)
 
-22
+ℹ️22
 
 A22
 
 ![pngscartelesA22](./Screenshots4.0/Carteles/A/CartelA-22.png)
 ![gifscartelesA22](./GIFS4.0/Carteles/A/CartelA-22.gif)
 
-23
+ℹ️23
 
 A23
 
 ![pngscartelesA23](./Screenshots4.0/Carteles/A/CartelA-23.png)
 ![gifscartelesA23](./GIFS4.0/Carteles/A/CartelA-23.gif)
 
-24
+ℹ️24
 
 A24
 
 ![pngscartelesA24](./Screenshots4.0/Carteles/A/CartelA-24.png)
 ![gifscartelesA24](./GIFS4.0/Carteles/A/CartelA-24.gif)
 
-25
+ℹ️25
 
 A25
 
 ![pngscartelesA25](./Screenshots4.0/Carteles/A/CartelA-25.png)
 ![gifscartelesA25](./GIFS4.0/Carteles/A/CartelA-25.gif)
 
-26
+ℹ️26
 
 A26
 
 ![pngscartelesA26](./Screenshots4.0/Carteles/A/CartelA-26.png)
 ![gifscartelesA26](./GIFS4.0/Carteles/A/CartelA-26.gif)
 
-27
+ℹ️27
 
 A27
 
 ![pngscartelesA27](./Screenshots4.0/Carteles/A/CartelA-27.png)
 ![gifscartelesA27](./GIFS4.0/Carteles/A/CartelA-27.gif)
 
-28
+ℹ️28
 
 A28
 
 ![pngscartelesA28](./Screenshots4.0/Carteles/A/CartelA-28.png)
 ![gifscartelesA28](./GIFS4.0/Carteles/A/CartelA-28.gif)
 
-29
+ℹ️29
 
 A29
 
 ![pngscartelesA29](./Screenshots4.0/Carteles/A/CartelA-29.png)
 ![gifscartelesA29](./GIFS4.0/Carteles/A/CartelA-29.gif)
 
-30
+ℹ️30
 
 A30
 
 ![pngscartelesA30](./Screenshots4.0/Carteles/A/CartelA-30.png)
 ![gifscartelesA30](./GIFS4.0/Carteles/A/CartelA-30.gif)
 
-31
+ℹ️31
 
 A31
 
 ![pngscartelesA31](./Screenshots4.0/Carteles/A/CartelA-31.png)
 ![gifscartelesA31](./GIFS4.0/Carteles/A/CartelA-31.gif)
 
-32
+ℹ️32
 
 A32
 
 ![pngscartelesA32](./Screenshots4.0/Carteles/A/CartelA-32.png)
 ![gifscartelesA32](./GIFS4.0/Carteles/A/CartelA-32.gif)
 
-33
+ℹ️33
 
 A33
 
 ![pngscartelesA33](./Screenshots4.0/Carteles/A/CartelA-33.png)
 ![gifscartelesA33](./GIFS4.0/Carteles/A/CartelA-33.gif)
 
-34
+ℹ️34
 
 A34
 
 ![pngscartelesA34](./Screenshots4.0/Carteles/A/CartelA-34.png)
 ![gifscartelesA34](./GIFS4.0/Carteles/A/CartelA-34.gif)
 
-35
+ℹ️35
 
 A35
 
 ![pngscartelesA35](./Screenshots4.0/Carteles/A/CartelA-35.png)
 ![gifscartelesA35](./GIFS4.0/Carteles/A/CartelA-35.gif)
 
-36
+ℹ️36
 
 A36
 
