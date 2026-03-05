@@ -183,20 +183,20 @@
 
 ⚠️-Boton
 
-![gifboton](./GIFS4.0/CutContent/Boton_(_boton_)_4-3-2025.gif)
+![gifboton](<./GIFS4.0/CutContent/Boton ( boton ) 4-3-2025.gif>)
 
 ![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)
 ![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)
 
 ⚠️-Dibujar
 
-![gifdibujar](./GIFS4.0/CutContent/Dibujar_(_dibujar3_)_20-1-2025.gif)
+![gifdibujar](<./GIFS4.0/CutContent/Dibujar ( dibujar3 ) 20-1-2025.gif>)
 
 ![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)
 
 ⚠️-Hora
 
-![gifhora](./GIFS4.0/CutContent/Hora_(_hora_)_4-3-2025.gif)
+![gifhora](<./GIFS4.0/CutContent/Hora ( hora ) 4-3-2025.gif>)
 
 ![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)
 
