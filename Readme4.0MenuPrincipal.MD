@@ -14,6 +14,8 @@ Hay 9 opciones en el Menu Principal.
 
 ![pngMenuPrincipalPersonaje1](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje1.png)
 
+<details>
+
 👾2
 
 ![pngMenuPrincipalPersonaje2](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje2.png)
@@ -38,14 +40,20 @@ Hay 9 opciones en el Menu Principal.
 
 ![pngMenuPrincipalPersonaje7](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje7.png)
 
+</details>
+
 🎮INTRO
 
 ![gifMenuPrincipalIntro](./GIFS4.0/MenuPrincipal/Intro.gif)
+
+<details>
 
 ![pngMenuPrincipalIntro1](./Screenshots4.0/Intro/Intro1.png)
 ![pngMenuPrincipalIntro2](./Screenshots4.0/Intro/Intro2.png)
 ![pngMenuPrincipalIntro3](./Screenshots4.0/Intro/Intro3.png)
 ![pngMenuPrincipalIntro4](./Screenshots4.0/Intro/Intro4.png)
+
+</details>
 
 🎮CREDITOS
 
@@ -58,22 +66,28 @@ Hay 9 opciones en el Menu Principal.
 
 ![gifMenuPrincipalDemo](./GIFS4.0/MenuPrincipal/Demo.gif)
 
+<details>
+
 ![pngMenuPrincipalDemo1](./Screenshots4.0/Demo/Demo1.png)
 ![pngMenuPrincipalDemo2](./Screenshots4.0/Demo/Demo2.png)
 ![pngMenuPrincipalDemo3](./Screenshots4.0/Demo/Demo3.png)
 
+</details>
+
 🎮INICIOS
 
 ![gifMenuPrincipalInicio1](./GIFS4.0/MenuPrincipal/Inicios/Inicio1.gif)
+
+<details>
+
 ![gifMenuPrincipalInicio2](./GIFS4.0/MenuPrincipal/Inicios/Inicio2.gif)
 ![gifMenuPrincipalInicio3](./GIFS4.0/MenuPrincipal/Inicios/Inicio3.gif)
 ![gifMenuPrincipalInicio4](./GIFS4.0/MenuPrincipal/Inicios/Inicio4.gif)
 ![gifMenuPrincipalInicio5](./GIFS4.0/MenuPrincipal/Inicios/Inicio5.gif)
 ![gifMenuPrincipalInicio6](./GIFS4.0/MenuPrincipal/Inicios/Inicio6.gif)
 ![gifMenuPrincipalInicio7](./GIFS4.0/MenuPrincipal/Inicios/Inicio7.gif)
-![gifMenuPrincipalInicio8](./GIFS4.0/MenuPrincipal/Inicios/Inicio8.gif)
-
+![gifMenuPrincipalInicio8](./GIFS4.0/MenuPrincipal/Inicios/Inicio8.gif)
 ![gifMenuPrincipalInicio9](./GIFS4.0/MenuPrincipal/Inicios/Inicio9.gif)
 
-
+</details>
 
