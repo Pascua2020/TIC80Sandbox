@@ -66,6 +66,9 @@
 ⚠️-Tomar Colectivo
 
 ![giftomarcolectivo1](<./GIFS4.0/CutContent/Colectivo/Colectivo ( suba9 ) 22-1-2025.gif>)
+
+<details>
+
 ![giftomarcolectivo2](<./GIFS4.0/CutContent/Colectivo/Colectivo ( ZColectivo ) 12-3-2025.gif>)
 
 ![pngcutcontentTomarColectivo1A](./Screenshots4.0/CutContent/Colectivo/TomarColectivo1A.png)
@@ -75,10 +78,12 @@
 ![pngcutcontentTomarColectivo2A](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2A.png)
 ![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2B.png)
 ![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2C.png)
-
+</details>
 ⚠️-Modo GT + MiniMapa
 
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
+
+<details>
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
 
 ![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)
@@ -111,22 +116,34 @@
 ![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2C.png)
 ![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2D.png)
 
+</details>
+
 ⚠️-Interfaz
 
 ![gifinterfaz1](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 22-1-2025.gif>)
+
+<details>
+
 ![gifinterfaz2](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 4-3-2025.gif>)
 
 ![pngcutcontentInterfaz1](./Screenshots4.0/CutContent/Interfaz/Interfaz1.png)
 ![pngcutcontentInterfaz2A](./Screenshots4.0/CutContent/Interfaz/Interfaz2A.png)
 ![pngcutcontentInterfaz2B](./Screenshots4.0/CutContent/Interfaz/Interfaz2B.png)
 
+</details>
+
 ⚠️-Internet
 
 ![gifinternet1](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 22-1-2025.gif>)
+
+<details>
+
 ![gifinternet2](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 4-3-2025.gif>)
 
 ![pngcutcontentInternetA](./Screenshots4.0/CutContent/InternetA.png)
 ![pngcutcontentInternetB](./Screenshots4.0/CutContent/InternetB.png)
+
+</details>
 
 ⚠️-Menu de Pausa
 
@@ -137,6 +154,9 @@
 ⚠️-Nafta
 
 ![gifnafta1](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 22-1-2025.gif>)
+
+<details>
+
 ![gifnafta2](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 4-3-2025.gif>)
 ![gifnafta3](<./GIFS4.0/CutContent/Nafta/Nafta ( zcombustible ) 12-3-2025.gif>)
 
@@ -144,9 +164,14 @@
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
+</details>
+
 ⚠️-RC
 
 ![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
+
+<details>
+
 ![gifrc1](<./GIFS4.0/CutContent/RC/RC ( rc7 ) 4-3-2025.gif>)
 ![gifrc3](<./GIFS4.0/CutContent/RC/RC (rc12) 4-3-2025.gif>)
 ![gifrc4](<./GIFS4.0/CutContent/RC/RC ( ZRC ) 22-7-2025.gif>)
@@ -159,6 +184,8 @@
 ![pngcutcontentRC3B](./Screenshots4.0/CutContent/RC/RC3B.png)
 ![pngcutcontentRC4A](./Screenshots4.0/CutContent/RC/RC4A.png)
 ![pngcutcontentRC4B](./Screenshots4.0/CutContent/RC/RC4B.png)
+
+</details>
 
 ⚠️-Trompos
 
