@@ -54,6 +54,8 @@ Al alcanzar 5000 puntos.
 
 ![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball1.gif)
 
+<details>
+
 🌠2
 
 ![gifpinballfrasesacompletar2](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball2.gif)
@@ -78,11 +80,15 @@ Al alcanzar 5000 puntos.
 
 ![gifpinballfrasesacompletar7](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball7.gif)
 
+</details>
+
 💎Frases Rebote
 
 ☄️1
 
 ![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/FrasesRebote/FrasePinball1.gif>)
+
+<details>
 
 ![pngpinballfraserebote1](<./Screenshots4.0/Pinball/FrasesRebote/FraseRebote1.png>)
 
@@ -128,11 +134,15 @@ Al alcanzar 5000 puntos.
 
 ![pngpinballfraserebote8](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote8.png)
 
+</details>
+
 💎Rap Gales
 
 🎵01
 
 ![gifpinballrapgales01](./GIFS4.0/Pinball/RapGales/FraseRap01.gif)
+
+<details>
 
 🎵02
 
@@ -189,6 +199,8 @@ Al alcanzar 5000 puntos.
 🎵15
 
 ![gifpinballrapgales15](./GIFS4.0/Pinball/RapGales/FraseRap15.gif)
+
+</details>
 
 💎Agujero
 
