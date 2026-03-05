@@ -100,11 +100,15 @@
 
 💎Condon 17
 
+( Mar 🌊)
+
 ![gifscoleccionablescondones17](./GIFS4.0/Coleccionables/Condones/ColeccionableMar1.gif)
 
 ![pngcoleccionablescondones17](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar1.png)
 
 💎Condon 18
+
+( Mar 🌊)
 
 ![gifscoleccionablescondones18](./GIFS4.0/Coleccionables/Condones/ColeccionableMar2.gif)
 
@@ -112,11 +116,15 @@
 
 💎Condon 19
 
+( Mar 🌊)
+
 ![gifscoleccionablescondones19](./GIFS4.0/Coleccionables/Condones/ColeccionableMar3.gif)
 
 ![pngcoleccionablescondones19](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar3.png)
 
 💎Condon 20
+
+( Mar 🌊)
 
 ![gifscoleccionablescondones20](./GIFS4.0/Coleccionables/Condones/ColeccionableMar4.gif)
 
