@@ -743,9 +743,11 @@ V1.0
 V4.0
 
 ![pngstuntmanv4.0reflejos1](./Screenshots4.0/Stuntman/Reflejos/ReflejoAgua.png)
+
+<details>
 ![pngstuntmanv4.0reflejos2](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche.png)
 ![pngstuntmanv4.0reflejos3](./Screenshots4.0/Stuntman/Reflejos/ReflejoAguaCoche2.png)
-
+</details>
 Caja Normal
 
 ![gifstuntmanv4.0cajanormal](./GIFS4.0/Stuntman/ColisionesCaja.gif)
