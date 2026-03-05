@@ -564,6 +564,8 @@ Version 4.0
 
 ![pngstuntmanv4.0mensajedesarrollador01](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador01.png)
 
+<details>
+
 
 02
 
@@ -686,6 +688,8 @@ Version 4.0
 ![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador15.gif)
 
 ![pngstuntmanv4.0mensajedesarrollador15](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador15.png)
+
+</details>
 
 
 Quick Time Event
@@ -814,11 +818,16 @@ V1.0
 V4.0
 
 ![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman1.png)
+
+<details>
+
 ![pngstuntmanv4.0frasesdisparostuntman2](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman2.png)
 ![pngstuntmanv4.0frasesdisparostuntman3](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman3.png)
 ![pngstuntmanv4.0frasesdisparostuntman4](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman4.png)
 ![pngstuntmanv4.0frasesdisparostuntman5](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman5.png)
 ![pngstuntmanv4.0frasesdisparostuntman6](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman6.png)
+
+</details>
 
 Nitro
 
