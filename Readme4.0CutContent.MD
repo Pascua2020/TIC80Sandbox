@@ -84,6 +84,7 @@
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
 
 <details>
+
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
 
 🏎️1
