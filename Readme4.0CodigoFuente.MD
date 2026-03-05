@@ -2,6 +2,8 @@
 
 01 - MEGATABLA
 
+<details>
+
 MegaTabla - Baile
 
 ![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-baile.gif)
@@ -85,6 +87,8 @@ MegaTabla - temporizadorGeneral
 MegaTabla - 
 
 ![gifCodigoFuenteMegaTabla](./GIFS4.0/CodigoFuente/megaTabla-.gif)
+
+</details>
 
 p,r,c,s,l = print,rect,circ,spr,line -- alias global
 --====== VARIABLES.LUA (simulado) ======--
