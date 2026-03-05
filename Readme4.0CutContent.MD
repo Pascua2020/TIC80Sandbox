@@ -5,6 +5,7 @@
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 
 <details>
+
 ![gifchat2](<./GIFS4.0/CutContent/Chat/Chat (wpp2) 4-3-2025.gif>)
 ![gifchat3](<./GIFS4.0/CutContent/Chat/Chat ( ZMensajesMoviles ) 12-3-2025.gif>)
 
