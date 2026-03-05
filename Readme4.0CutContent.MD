@@ -398,27 +398,27 @@ COORDENADAS
 
 GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )
 
-Caballo
+🐎Caballo
 
 ![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficoSinUsarCaballo.png)
 
-Coche
+🚙Coche
 
 ![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficoSinUsarCoche.png)
 
-OVNI
+🛸OVNI
 
 ![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficoSinUsarOVNI.png)
 
-Jet de Combate Alternativo
+✈️Jet de Combate Alternativo
 
 ![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficoSinUsarJetDeCombateB.png)
 
-Cabina de Peaje
+🚦Cabina de Peaje
 
 ![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficoSinUsarPeaje.png)
 
-Escalera
+🛤️Escalera
 
 ![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficoSinUsarEscalera.png)
 
