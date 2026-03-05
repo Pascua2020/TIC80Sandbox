@@ -524,11 +524,11 @@ Version 1
 
 🦈Game Over Tiburon
 
-Version 1
+🎫Version 1
 
 ![gifstuntmanv1gameovertiburon](./GIFS4.0/CutContent/Stuntman/V1/GameOverTiburon.gif)
 
-Version 4.0
+🎟️Version 4.0
 
 ![pngstuntmanv4.0ataquetiburon](./Screenshots4.0/Stuntman/AtaqueTiburon.png)
 
@@ -538,13 +538,13 @@ Fondo
 
 🛫-Mensaje Avion
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanV1mensajevionstuntman](./GIFS4.0/CutContent/Stuntman/V1/MensajeAvionStuntman.gif)
 
 🐟-Peces
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanV1peces](./GIFS4.0/CutContent/Stuntman/V1/Peces.gif)
 
@@ -554,11 +554,11 @@ V1.0
 
 ❗-Fase 4
 
-V1
+🎫V1
 
 ![gifstuntmanV1mensajesecretoF4](./GIFS4.0/CutContent/Stuntman/V1/MensajeSecretoFase4.gif)
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesecretoF4](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.gif)
 <details>
@@ -566,11 +566,11 @@ Version 4.0
 
 ❗-Fase 5
 
-V1
+🎫V1
 
 ![gifstuntmanV1mensajesecretoF5](./GIFS4.0/CutContent/Stuntman/V1/MensajeSecretoFase5.gif)
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesecretoF5](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.gif)
 
@@ -581,7 +581,7 @@ Version 4.0
 
 💾01
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador01](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador01.gif)
 
@@ -592,7 +592,7 @@ Version 4.0
 
 💾02
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador02](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador02.gif)
 
@@ -601,7 +601,7 @@ Version 4.0
 
 💾03
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador03](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador03.gif)
 
@@ -610,7 +610,7 @@ Version 4.0
 
 💾04
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador04](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador04.gif)
 
@@ -619,7 +619,7 @@ Version 4.0
 
 💾05
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador05](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador05.gif)
 
@@ -628,7 +628,7 @@ Version 4.0
 
 💾06
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador06](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador06.gif)
 
@@ -637,7 +637,7 @@ Version 4.0
 
 💾07
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador07](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador07.gif)
 
@@ -646,7 +646,7 @@ Version 4.0
 
 💾08
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador08](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador08.gif)
 
@@ -655,7 +655,7 @@ Version 4.0
 
 💾09
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador09](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador09.gif)
 
@@ -664,7 +664,7 @@ Version 4.0
 
 💾10
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador10](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador10.gif)
 
@@ -673,7 +673,7 @@ Version 4.0
 
 💾11
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador11](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador11.gif)
 
@@ -681,7 +681,7 @@ Version 4.0
 
 💾12
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador12](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador12.gif)
 
@@ -689,7 +689,7 @@ Version 4.0
 
 💾13
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador13](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador13.gif)
 
@@ -697,7 +697,7 @@ Version 4.0
 
 💾14
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador14](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador14.gif)
 
@@ -706,7 +706,7 @@ Version 4.0
 
 💾15
 
-Version 4.0
+🎟️Version 4.0
 
 ![gifstuntmanv4.0mensajesdesarrollador15](./GIFS4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador15.gif)
 
@@ -727,22 +727,22 @@ Elementos
 
 ⚙️🔥Aro con y sin Fuego
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/AroConYSinFuego.gif)
 
-V4.0
+🎟️V4.0
 
 ![gifstuntmanv4.0aroconysinfuego](./GIFS4.0/Stuntman/AroConYSinFuego.gif)
 
 🌅Charco de Agua con Reflejos
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanV1Reflejos1](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua.gif)
 ![gifstuntmanV1Reflejos2](./GIFS4.0/CutContent/Stuntman/V1/CharcoAgua2.gif)
 
-V4.0
+🎟️V4.0
 
 ![pngstuntmanv4.0reflejos1](./Screenshots4.0/Stuntman/Reflejos/ReflejoAgua.png)
 
@@ -776,21 +776,21 @@ V4.0
 
 🍶Botellas de Vidrio
 
-V1
+🎫V1
 
 ![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/BotellasVidrio.gif)
 
-V4.0
+🎟️V4.0
 
 ![pngstuntmanv4.0vidrio](./Screenshots4.0/Stuntman/Destructibles/VidrioDestruido.png)
 
 🚧Conos
 
-V1
+🎫V1
 
 ![gifstuntmanV1Conos](./GIFS4.0/CutContent/Stuntman/V1/Conos.gif)
 
-V4.0
+🎟️V4.0
 
 ![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
 
@@ -812,38 +812,38 @@ Cronometros
 
 ⛔Mensaje Limite Pantalla
 
-Version 1
+🎫Version 1
 
 ![gifstuntmanv1mensajelimitepantalla1](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)
 ![gifstuntmanv1mensajelimitepantalla2](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla2.gif)
 
 💥Explosiones ( Fase 2 )
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanv1ExplosionF2](./GIFS4.0/CutContent/Stuntman/V1/ExplosionFase2.gif)
 
-V4.0
+🎟️V4.0
 
 ![gifstuntmanv4.0explosionF2](./GIFS4.0/Stuntman/ExplosionFase2.gif)
 
 💥🔥Mega Explosion Fase 10
 
-V1.0
+🎫V1.0
 
 
 
-V4.0
+🎟️V4.0
 
 ![gifstuntmanv4.0explosionF10](./GIFS4.0/Stuntman/ExplosionFase10.gif)
 
 🤬Pistola con Frases de Disparo
 
-V1.0
+🎫V1.0
 
 ![gifstuntmanV1frasesdisparosstuntman](./GIFS4.0/CutContent/Stuntman/V1/FrasesDisparosStuntman.gif)
 
-V4.0
+🎟️V4.0
 
 ![pngstuntmanv4.0frasesdisparostuntman1](./Screenshots4.0/Stuntman/FrasesDisparo/FraseDisparoStuntman1.png)
 
