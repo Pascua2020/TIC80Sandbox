@@ -440,62 +440,62 @@ https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
 🥚71
 
-![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)]
+![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)
 
 <details>
 
 🥚72
 
-![pngEasterEggMemoriaRAM](./Screenshots4.0/EasterEggs/EasterEggMemoriaRAM.png)]
+![pngEasterEggMemoriaRAM](./Screenshots4.0/EasterEggs/EasterEggMemoriaRAM.png)
 
 https://en.wikipedia.org/wiki/Random-access_memory
 
 🥚73
 
-![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)]
+![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)
 
 https://en.wikipedia.org/wiki/Mirtha_Legrand
 
 🥚74
 
-![pngEasterEggTango1](./Screenshots4.0/EasterEggs/EasterEggTango1.png)]
+![pngEasterEggTango1](./Screenshots4.0/EasterEggs/EasterEggTango1.png)
 
 https://en.wikipedia.org/wiki/Argentine_tango
 
 🥚75
 
-![pngEasterEggTango2](./Screenshots4.0/EasterEggs/EasterEggTango2.png)]
-![pngEasterEggWikipedia1](./Screenshots4.0/EasterEggs/EasterEggWikipedia1.png)]
+![pngEasterEggTango2](./Screenshots4.0/EasterEggs/EasterEggTango2.png)
+![pngEasterEggWikipedia1](./Screenshots4.0/EasterEggs/EasterEggWikipedia1.png)
 
 https://en.wikipedia.org/wiki/Wikipedia
 
 🥚76
 
-![pngEasterEggWikipedia2](./Screenshots4.0/EasterEggs/EasterEggWikipedia2.png)]
+![pngEasterEggWikipedia2](./Screenshots4.0/EasterEggs/EasterEggWikipedia2.png)
 
 https://en.wikipedia.org/wiki/Wiki
 
 🥚77
 
-![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)]
+![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)
 
 https://en.wikipedia.org/wiki/Tigger
 
 🥚78
 
-![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)]
+![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
 🥚79
 
-![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)]
+![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
 🥚80
 
-![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)]
+![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
 
 https://en.wikipedia.org/wiki/Korea
 
@@ -503,7 +503,7 @@ https://en.wikipedia.org/wiki/Korea
 
 🥚81
 
-![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)]
+![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
 
 https://en.wikipedia.org/wiki/Eritrea
 
@@ -511,54 +511,54 @@ https://en.wikipedia.org/wiki/Eritrea
 
 🥚82
 
-![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)]
+![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)
 
 🥚83
 
-![pngEasterEggInstagram](./Screenshots4.0/EasterEggs/EasterEggInstagram.png)]
+![pngEasterEggInstagram](./Screenshots4.0/EasterEggs/EasterEggInstagram.png)
 
 https://en.wikipedia.org/wiki/Instagram
 
 🥚84
 
-![pngEasterEggIphone](./Screenshots4.0/EasterEggs/EasterEggIphone.png)]
+![pngEasterEggIphone](./Screenshots4.0/EasterEggs/EasterEggIphone.png)
 
 https://en.wikipedia.org/wiki/Iphone
 
 🥚85
 
-![pngEasterEggLince](./Screenshots4.0/EasterEggs/EasterEggLince.png)]
+![pngEasterEggLince](./Screenshots4.0/EasterEggs/EasterEggLince.png)
 
 https://en.wikipedia.org/wiki/Lynx
 
 🥚86
 
-![pngEasterEggMercadoLibre](./Screenshots4.0/EasterEggs/EasterEggMercadoLibre.png)]
+![pngEasterEggMercadoLibre](./Screenshots4.0/EasterEggs/EasterEggMercadoLibre.png)
 
 https://en.wikipedia.org/wiki/Mercado_Libre
 
 🥚87
 
-![pngEasterEggNunavut](./Screenshots4.0/EasterEggs/EasterEggNunavut.png)]
+![pngEasterEggNunavut](./Screenshots4.0/EasterEggs/EasterEggNunavut.png)
 
 https://en.wikipedia.org/wiki/Nunavut
 
 🥚88
 
-![pngEasterEggPenpals](./Screenshots4.0/EasterEggs/EasterEggPenpals.png)]
+![pngEasterEggPenpals](./Screenshots4.0/EasterEggs/EasterEggPenpals.png)
 
 https://en.wikipedia.org/wiki/Pen_pal
 
 🥚89
 
-![pngEasterEggPentagonoArea51](./Screenshots4.0/EasterEggs/EasterEggPentagonoArea51.png)]
+![pngEasterEggPentagonoArea51](./Screenshots4.0/EasterEggs/EasterEggPentagonoArea51.png)
 
 https://en.wikipedia.org/wiki/The_Pentagon
 https://en.wikipedia.org/wiki/Area_51
 
 🥚90
 
-![pngEasterEggPinballs1](./Screenshots4.0/EasterEggs/EasterEggPinballs1.png)]
+![pngEasterEggPinballs1](./Screenshots4.0/EasterEggs/EasterEggPinballs1.png)
 
 https://en.wikipedia.org/wiki/Pinball
 
@@ -566,7 +566,7 @@ https://en.wikipedia.org/wiki/Pinball
 
 🥚91
 
-![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)]
+![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)
 
 https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
@@ -574,53 +574,53 @@ https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
 🥚92
 
-![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)]
+![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)
 
 🥚93
 
-![pngEasterEggPresidenteDeArgentina](./Screenshots4.0/EasterEggs/EasterEggPresidenteDeArgentina.png)]
+![pngEasterEggPresidenteDeArgentina](./Screenshots4.0/EasterEggs/EasterEggPresidenteDeArgentina.png)
 
 https://en.wikipedia.org/wiki/President_of_Argentina
 
 🥚94
 
-![pngEasterEggPulp2](./Screenshots4.0/EasterEggs/EasterEggPulp2.png)]
+![pngEasterEggPulp2](./Screenshots4.0/EasterEggs/EasterEggPulp2.png)
 
 https://en.wikipedia.org/wiki/This_Is_Hardcore
 
 🥚95
 
-![pngEasterEggSantiagoDelEstero](./Screenshots4.0/EasterEggs/EasterEggSantiagoDelEstero.png)]
+![pngEasterEggSantiagoDelEstero](./Screenshots4.0/EasterEggs/EasterEggSantiagoDelEstero.png)
 
 https://en.wikipedia.org/wiki/Santiago_del_Estero_Province
 
 🥚96
 
-![pngEasterEggSerbia](./Screenshots4.0/EasterEggs/EasterEggSerbia.png)]
+![pngEasterEggSerbia](./Screenshots4.0/EasterEggs/EasterEggSerbia.png)
 
 https://en.wikipedia.org/wiki/Serbia
 
 🥚97
 
-![pngEasterEggSexual1](./Screenshots4.0/EasterEggs/EasterEggSexual1.png)]
+![pngEasterEggSexual1](./Screenshots4.0/EasterEggs/EasterEggSexual1.png)
 
 https://en.wikipedia.org/wiki/Sexual_intercourse
 
 🥚98
 
-![pngEasterEggSexual2](./Screenshots4.0/EasterEggs/EasterEggSexual2.png)]
+![pngEasterEggSexual2](./Screenshots4.0/EasterEggs/EasterEggSexual2.png)
 
 https://en.wikipedia.org/wiki/Condom
 
 🥚99
 
-![pngEasterEggSexual3](./Screenshots4.0/EasterEggs/EasterEggSexual3.png)]
+![pngEasterEggSexual3](./Screenshots4.0/EasterEggs/EasterEggSexual3.png)
 
 https://en.wikipedia.org/wiki/Kama_Sutra
 
 🥚100
 
-![pngEasterEggSuizaNoruegaZurich](./Screenshots4.0/EasterEggs/EasterEggSuizaNoruegaZurich.png)]
+![pngEasterEggSuizaNoruegaZurich](./Screenshots4.0/EasterEggs/EasterEggSuizaNoruegaZurich.png)
 
 https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Norway
