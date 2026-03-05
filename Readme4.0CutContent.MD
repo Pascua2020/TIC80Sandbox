@@ -293,9 +293,9 @@ Jetpack
 
 📼F1
 
-![gifbetastuntmanF1A](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_21-1-2025.gif)
-![gifbetastuntmanF1B](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_stuntman4_)_4-3-2025.gif)
-![gifbetastuntmanF1C](./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1_(_ZS1_)_12-3-2025.gif)
+![gifbetastuntmanF1A](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 21-1-2025.gif>)
+![gifbetastuntmanF1B](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 4-3-2025.gif>)
+![gifbetastuntmanF1C](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( ZS1 ) 12-3-2025.gif>)
 
 📼F2
 
