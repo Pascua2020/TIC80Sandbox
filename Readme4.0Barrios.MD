@@ -13,7 +13,7 @@ Hay 16 Barrios.
 ![gifsbarrios-recorridobarriochetisimo](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioChetisimo.gif)
 
 🌃2
-**Barrio Turrisimo***
+**Barrio Turrisimo**
 
 ![gifsbarrios-barrioturrisimo](<./GIFS4.0/Barrios/Barrio Turrisimo.gif>)
 ![pngsbarrios-barrioturrisimo](./Screenshots4.0/Barrios/BarrioTurrisimo.png)
