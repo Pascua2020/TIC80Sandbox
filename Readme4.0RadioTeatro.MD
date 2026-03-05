@@ -5,6 +5,8 @@ Hay 2 Obras de Radioteatro.
 🎭Obra de RadioTeatro 1
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
+
+<details>
 ![pngradioteatro1-01](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-01.png)
 ![pngradioteatro1-02](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-02.png)
 ![pngradioteatro1-03](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-03.png)
@@ -33,11 +35,11 @@ Hay 2 Obras de Radioteatro.
 ![pngradioteatro1-24](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-24.png)
 ![pngradioteatro1-25](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-25.png)
 ![pngradioteatro1-26](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-26.png)
-
+</details>
 🎭Obra de RadioTeatro 2
 
 ![gifsradioteatro2](./GIFS4.0/RadioTeatro/RadioTeatro2.gif)
-
+<details>
 ![pngradioteatro2-01](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-01.png)
 ![pngradioteatro2-02](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-02.png)
 ![pngradioteatro2-03](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-03.png)
@@ -88,7 +90,7 @@ Hay 2 Obras de Radioteatro.
 ![pngradioteatro2-44](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-44.png)
 ![pngradioteatro2-45](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-45.png)
 ![pngradioteatro2-46](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-46.png)
-
+</details>
 
 
 
