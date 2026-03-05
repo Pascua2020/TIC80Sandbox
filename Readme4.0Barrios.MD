@@ -8,7 +8,7 @@ Barrio Chetisimo
 ![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
 ![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
 
-🧭Recorrido Calles Barrio Chetisimo :
+🧭***Recorrido Calles Barrio Chetisimo :***
 
 ![gifsbarrios-recorridobarriochetisimo](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioChetisimo.gif)
 
