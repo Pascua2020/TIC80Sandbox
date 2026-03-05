@@ -422,6 +422,6 @@ GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )
 
 ![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficoSinUsarEscalera.png)
 
-Tiburon
+🦈Tiburon
 
 ![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficoSinUsarTiburon.png)
