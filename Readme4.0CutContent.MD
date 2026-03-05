@@ -306,12 +306,12 @@ TODAS
 💣RIFLE DE FRANCOTIRADOR
 ![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
 
-DiosGPT
+📱DiosGPT
 
 ![gifbetadiosgpt1](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( diosgpt7 ) 4-3-2025.gif>)
 ![gifbetadiosgpt2](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( gptv2.10 ) 20-1-2025.gif>)
 
-Jetpack
+🪂Jetpack
 
 ![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
 ![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
@@ -399,7 +399,7 @@ Jetpack
 
 </details>
 
-Stuntman F1 a 10 ( Bugeado )
+🎥Stuntman F1 a 10 ( Bugeado )
 ![gifbetastuntmanF1A10A](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug10 ) 30-3-2025.gif>)
 ![gifbetastuntmanF1A10B](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug11 ) 31-3-2025.gif>)
 
