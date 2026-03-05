@@ -281,13 +281,13 @@ Jetpack
 
 🎴V2
 
-![gifnerdpediav2A](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_crimenYPixel_)_7-4-2025.gif)
-![gifnerdpediav2B](./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2_(_w2.10_)_12-2-2025.gif)
+![gifnerdpediav2A](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( crimenYPixel ) 7-4-2025.gif>)
+![gifnerdpediav2B](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( w2.10 ) 12-2-2025.gif>)
 
 🛹Skate
 
-![gifbetaskateA](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_20-1-2025.gif)
-![gifbetaskateB](./GIFS4.0/CutContent/Skate/SkateCanios_(_skatev2.5_)_4-3-2025.gif)
+![gifbetaskateA](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 20-1-2025.gif>)
+![gifbetaskateB](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 4-3-2025.gif>)
 
 🎬STUNTMAN
 
