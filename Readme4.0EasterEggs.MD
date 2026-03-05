@@ -871,31 +871,31 @@ https://en.wikipedia.org/wiki/Tardigrade
 
 🥚141
 
-![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggTaringaAustralia.png)]
+![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggTaringaAustralia.png)
 
 https://en.wikipedia.org/wiki/Taringa,_Queensland
 
 🥚142
 
-![pngEasterEggEspaniolRioplatense](./Screenshots4.0/EasterEggs/EasterEggEspaniolRioplatense.png)]
+![pngEasterEggEspaniolRioplatense](./Screenshots4.0/EasterEggs/EasterEggEspaniolRioplatense.png)
 
 https://en.wikipedia.org/wiki/Rioplatense_Spanish
 
 🥚143
 
-![pngEasterEggCanada](./Screenshots4.0/EasterEggs/EasterEggCanada.png)]
+![pngEasterEggCanada](./Screenshots4.0/EasterEggs/EasterEggCanada.png)
 
 https://en.wikipedia.org/wiki/Canada
 
 🥚144
 
-![pngEasterEggRDCongo](./Screenshots4.0/EasterEggs/EasterEggRDCongo.png)]
+![pngEasterEggRDCongo](./Screenshots4.0/EasterEggs/EasterEggRDCongo.png)
 
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 
 🥚145
 
-![pngEasterEggCasaDeLaMonedaArgentina](./Screenshots4.0/EasterEggs/EasterEggCasaDeLaMonedaArgentina.png)]
+![pngEasterEggCasaDeLaMonedaArgentina](./Screenshots4.0/EasterEggs/EasterEggCasaDeLaMonedaArgentina.png)
 
 https://en.wikipedia.org/wiki/Casa_de_Moneda_de_la_Rep%C3%BAblica_Argentina
 https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn
@@ -903,14 +903,14 @@ https://en.wikipedia.org/wiki/Lowrider
 
 🥚146
 
-![pngEasterEggGuilin](./Screenshots4.0/EasterEggs/EasterEggGuilin.png)]
+![pngEasterEggGuilin](./Screenshots4.0/EasterEggs/EasterEggGuilin.png)
 
 https://en.wikipedia.org/wiki/Guilin
 https://en.wikipedia.org/wiki/Mao_Zedong
 
 🥚147
 
-![pngEasterEggCuarteto](./Screenshots4.0/EasterEggs/EasterEggCuarteto.png)]
+![pngEasterEggCuarteto](./Screenshots4.0/EasterEggs/EasterEggCuarteto.png)
 
 https://en.wikipedia.org/wiki/Cuarteto
 https://en.wikipedia.org/wiki/Britpop
@@ -919,85 +919,85 @@ https://en.wikipedia.org/wiki/City_of_London
 
 🥚148
 
-![pngEasterEggHologramas](./Screenshots4.0/EasterEggs/EasterEggHologramas.png)]
+![pngEasterEggHologramas](./Screenshots4.0/EasterEggs/EasterEggHologramas.png)
 
 https://en.wikipedia.org/wiki/Holography
 
 🥚149
 
-![pngEasterEggGranTurismo](./Screenshots4.0/EasterEggs/EasterEggGranTurismo.png)]
+![pngEasterEggGranTurismo](./Screenshots4.0/EasterEggs/EasterEggGranTurismo.png)
 
 https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
 
 🥚150
 
-![pngEasterEggPlayStation](./Screenshots4.0/EasterEggs/EasterEggPlayStation.png)]
+![pngEasterEggPlayStation](./Screenshots4.0/EasterEggs/EasterEggPlayStation.png)
 
 https://en.wikipedia.org/wiki/PlayStation_2
 
 🥚151
 
-![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)]
+![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)
 
 https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
 
 🥚152
 
-![pngEasterEggBeyblade](./Screenshots4.0/EasterEggs/EasterEggBeyblade.png)]
+![pngEasterEggBeyblade](./Screenshots4.0/EasterEggs/EasterEggBeyblade.png)
 
 https://en.wikipedia.org/wiki/Beyblade
 
 🥚153
 
-![pngEasterEggBiblia](./Screenshots4.0/EasterEggs/EasterEggBiblia.png)]
+![pngEasterEggBiblia](./Screenshots4.0/EasterEggs/EasterEggBiblia.png)
 
 https://en.wikipedia.org/wiki/Bible
 
 🥚154
 
-![pngEasterEggBatmanTurquia](./Screenshots4.0/EasterEggs/EasterEggBatmanTurquia.png)]
+![pngEasterEggBatmanTurquia](./Screenshots4.0/EasterEggs/EasterEggBatmanTurquia.png)
 
 https://en.wikipedia.org/wiki/Batman_Province
 
 🥚155
 
-![pngEasterEggCuartaPared](./Screenshots4.0/EasterEggs/EasterEggCuartaPared.png)]
+![pngEasterEggCuartaPared](./Screenshots4.0/EasterEggs/EasterEggCuartaPared.png)
 
 https://en.wikipedia.org/wiki/Fourth_wall
 
 🥚156
 
-![pngEasterEggDukeNukem](./Screenshots4.0/EasterEggs/EasterEggDukeNukem.png)]
+![pngEasterEggDukeNukem](./Screenshots4.0/EasterEggs/EasterEggDukeNukem.png)
 
 https://en.wikipedia.org/wiki/Duke_Nukem_3D
 
 🥚157
 
-![pngEasterEggObelisco](./Screenshots4.0/EasterEggs/EasterEggObelisco.png)]
+![pngEasterEggObelisco](./Screenshots4.0/EasterEggs/EasterEggObelisco.png)
 
 https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires
 
 🥚158
 
-![pngEasterEggDeepSeek](./Screenshots4.0/EasterEggs/EasterEggDeepSeek.png)]
+![pngEasterEggDeepSeek](./Screenshots4.0/EasterEggs/EasterEggDeepSeek.png)
 
 https://en.wikipedia.org/wiki/DeepSeek_(chatbot)
 
 🥚159
 
-![pngEasterEggTonyHawk](./Screenshots4.0/EasterEggs/EasterEggTonyHawk.png)]
+![pngEasterEggTonyHawk](./Screenshots4.0/EasterEggs/EasterEggTonyHawk.png)
 
 https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4
 
 🥚160
 
-![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)]
+![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)
 
 https://en.wikipedia.org/wiki/First_Blood
 
 🥚161
 
-![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)]
+![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)
 
 https://en.wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game
 
