@@ -879,7 +879,7 @@ https://en.wikipedia.org/wiki/Tardigrade
 
 🥚141
 
-![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggTaringaAustralia.png)
+![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggsTaringaAustralia.png)
 
 https://en.wikipedia.org/wiki/Taringa,_Queensland
 
