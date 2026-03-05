@@ -131,7 +131,7 @@
 ![pngraadio05-11](./Screenshots4.0/Radios/Radio05/R05-11.png)
 ![pngraadio05-12](./Screenshots4.0/Radios/Radio05/R05-12.png)
 
-📻Radio 06
+📻Radio 06 : Desgracias Economicas
 
 10 Dialogos.
 
@@ -148,7 +148,7 @@
 ![pngraadio06-09](./Screenshots4.0/Radios/Radio06/R06-09.png)
 ![pngraadio06-10](./Screenshots4.0/Radios/Radio06/R06-10.png)
 
-📻Radio 07
+📻Radio 07 : Joyas de la Historia Argentina
 
 11 Dialogos
 
