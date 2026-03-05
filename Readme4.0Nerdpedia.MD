@@ -10,9 +10,13 @@
 
 ![gifcutcontentNerdpedia2](./GIFS4.0/CutContent/Nerdpedia/N2.gif)
 
+<details>
+
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N2-1.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N2-2.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N2-3.png)
+
+</details>
 
 🗺️3
 
@@ -31,6 +35,8 @@
 
 ![gifcutcontentNerdpedia5](./GIFS4.0/CutContent/Nerdpedia/N5.gif)
 
+<details>
+
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N5-1.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N5-2.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N5-3.png)
@@ -38,9 +44,13 @@
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N5-5.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N5-6.png)
 
+</details>
+
 🗺️6
 
 ![gifcutcontentNerdpedia6](./GIFS4.0/CutContent/Nerdpedia/N6.gif)
+
+<details>
 
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N6-1.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N6-2.png)
@@ -49,6 +59,8 @@
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N6-5.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N6-6.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N6-7.png)
+
+</details>
 
 🗺️7
 
@@ -74,12 +86,16 @@
 
 ![gifcutcontentNerdpedia10](./GIFS4.0/CutContent/Nerdpedia/N10.gif)
 
+<details>
+
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-1.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-2.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-3.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-4.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-5.png)
 ![pngcutcontentNerdpedia](./Screenshots4.0/CutContent/Nerdpedia/N10-6.png)
+
+</details>
 
 🗺️11
 
