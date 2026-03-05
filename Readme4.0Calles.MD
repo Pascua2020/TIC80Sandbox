@@ -415,9 +415,10 @@ Trafico en el mapa
 
 🚸32-Libre
 
+![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
+
 <details>
 
-![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 ![gifcallelibrenohud](./GIFS4.0/Calles(NOHUD)/Libre.gif)
 
 ![pngcallelibrehud](./Screenshots4.0/Calles(HUD)/Libre-HUD.png)
@@ -530,114 +531,184 @@ Trafico en el mapa
 🚸41-NOOOO
 
 ![pngcallenoooonohud](./Screenshots4.0/Calles(NOHUD)/NOOOO.png)
+
+<details>
+
 ![gifcallenoooonohud](./GIFS4.0/Calles(NOHUD)/NOOOO.gif)
 
 ![pngcallenoooohud](./Screenshots4.0/Calles(HUD)/NOOOO-HUD.png)
 ![gifcallenoooohud](./GIFS4.0/Calles(HUD)/NOOOO-HUD.gif)
 
+</details>
+
 🚸42-Orco
 
 ![pngcalleorconohud](./Screenshots4.0/Calles(NOHUD)/Orco.png)
+
+<details>
+
 ![gifcalleorconohud](./GIFS4.0/Calles(NOHUD)/Orco.gif)
 
 ![pngcalleorcohud](./Screenshots4.0/Calles(HUD)/Orco-HUD.png)
 ![gifcalleorcohud](./GIFS4.0/Calles(HUD)/Orco-HUD.gif)
 
+</details>
+
 🚸43-Ouch
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
+
+<details>
+
 ![gifcalleouchnohud](./GIFS4.0/Calles(NOHUD)/Ouch.gif)
 
 ![pngcalleouchhud](./Screenshots4.0/Calles(HUD)/Ouch-HUD.png)
 ![gifcalleouchhud](./GIFS4.0/Calles(HUD)/Ouch-HUD.gif)
 
+</details>
+
 🚸44-Party Hard
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
+
+<details>
+
 ![gifcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.gif>)
 
 ![pngcallepartyhardhud](<./Screenshots4.0/Calles(HUD)/Party hard-HUD.png>)
 ![gifcallepartyhardhud](<./GIFS4.0/Calles(HUD)/Party Hard-HUD.gif>)
 
+</details>
+
 🚸45-Pelado
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
+
+<details>
+
 ![gifcallepeladonohud](./GIFS4.0/Calles(NOHUD)/Pelado.gif)
 
 ![pngcallepeladohud](./Screenshots4.0/Calles(HUD)/Pelado-HUD.png)
 ![gifcallepeladohud](./GIFS4.0/Calles(HUD)/Pelado-HUD.gif)
 
+</details>
+
 🚸46-Peluca
 
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
+
+<details>
+
 ![gifcallepelucanohud](./GIFS4.0/Calles(NOHUD)/Peluca.gif)
 
 ![pngcallepelucahud](./Screenshots4.0/Calles(HUD)/Peluca-HUD.png)
 ![gifcallepelucahud](./GIFS4.0/Calles(HUD)/Peluca-HUD.gif)
 
+</details>
+
 🚸47-Pff
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
+
+<details>
+
 ![gifcallepffnohud](./GIFS4.0/Calles(NOHUD)/Pff.gif)
 
 ![pngcallepffhud](./Screenshots4.0/Calles(HUD)/Pff-HUD.png)
 ![gifcallepffhud](./GIFS4.0/Calles(HUD)/Pff-HUD.gif)
 
+</details>
+
 🚸48-Pio pio
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
+
+<details>
+
 ![gifcallepiopionohud](<./GIFS4.0/Calles(NOHUD)/Pio pio.gif>)
 
 ![pngcallepiopiohud](<./Screenshots4.0/Calles(HUD)/Pio pio-HUD.png>)
 ![gifcallepiopiohud](<./GIFS4.0/Calles(HUD)/Pio pio-HUD.gif>)
 
+</details>
+
 🚸49-Pixeles
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
+
+<details>
+
 ![gifcallepixelesnohud](./GIFS4.0/Calles(NOHUD)/Pixeles.gif)
 
 ![pngcallepixeleshud](./Screenshots4.0/Calles(HUD)/Pixeles-HUD.png)
 ![gifcallepixeleshud](./GIFS4.0/Calles(HUD)/Pixeles-HUD.gif)
 
+</details>
+
 🚸50-Poker
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
+
+<details>
+
 ![gifcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.gif)
 
 ![pngcallepokerhud](./Screenshots4.0/Calles(HUD)/Poker-HUD.png)
 ![gifcallepokerhud](./GIFS4.0/Calles(HUD)/Poker-HUD.gif)
 
+</details>
+
 🚸51-Pollo
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
+
+<details>
+
 ![gifcallepollonohud](./GIFS4.0/Calles(NOHUD)/Pollo.gif)
 
 ![pngcallepollohud](./Screenshots4.0/Calles(HUD)/Pollo-HUD.png)
 ![gifcallepollohud](./GIFS4.0/Calles(HUD)/Pollo-HUD.gif)
 
+</details>
+
 🚸52-Ponemela
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
+
+<details>
+
 ![gifcalleponemelanohud](./GIFS4.0/Calles(NOHUD)/Ponemela.gif)
 
 ![pngcalleponemelahud](./Screenshots4.0/Calles(HUD)/Ponemela-HUD.png)
 ![gifcalleponemelahud](./GIFS4.0/Calles(HUD)/Ponemela-HUD.gif)
 
+</details>
+
 🚸53-Proceda
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
+
+<details>
+
 ![gifcalleprocedanohud](./GIFS4.0/Calles(NOHUD)/Proceda.gif)
 
 ![pngcalleprocedahud](./Screenshots4.0/Calles(HUD)/Proceda-HUD.png)
 ![gifcalleprocedahud](./GIFS4.0/Calles(HUD)/Proceda-HUD.gif)
 
+</details>
+
 🚸54-Reperfilar
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
+
+<details>
+
 ![gifcallereperfilarnohud](./GIFS4.0/Calles(NOHUD)/Reperfilar.gif)
 
 ![pngcallereperfilarhud](./Screenshots4.0/Calles(HUD)/Reperfilar-HUD.png)
 ![gifcallereperfilarhud](./GIFS4.0/Calles(HUD)/Reperfilar-HUD.gif)
+
+</details>
 
 🚸55-Satanas
 
