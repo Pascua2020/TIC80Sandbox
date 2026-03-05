@@ -1,4 +1,10 @@
 # Readme4.0Climas
+🍃Hojas
+☔Lluvia
+☃️Nieve
+⚡Relampagos
+🌪️Viento
+
 
 🌦️Hojas
 
