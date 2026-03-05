@@ -715,7 +715,7 @@ Version 4.0
 </details>
 
 
-Quick Time Event
+🖲️Quick Time Event
 
 ![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/MensajesDesarrollador/IconoDialogosDesarrollador.png)
 ![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/MensajesDesarrollador/DialogosDesarrolladorActivados.png)
@@ -725,7 +725,7 @@ Elementos
 
 
 
-Aro con y sin Fuego
+⚙️🔥Aro con y sin Fuego
 
 V1.0
 
@@ -735,7 +735,7 @@ V4.0
 
 ![gifstuntmanv4.0aroconysinfuego](./GIFS4.0/Stuntman/AroConYSinFuego.gif)
 
-Charco de Agua con Reflejos
+🌅Charco de Agua con Reflejos
 
 V1.0
 
@@ -753,28 +753,28 @@ V4.0
 
 </details>
 
-Caja Normal
+🧱Caja Normal
 
 ![gifstuntmanv4.0cajanormal](./GIFS4.0/Stuntman/ColisionesCaja.gif)
 
 ![pngstuntmanv4.0cajanormal](./Screenshots4.0/Stuntman/Destructibles/CajaNormalDestruida.png)
 
-Caja Metalica
+🗄️Caja Metalica
 
 ![gifstuntmanv4.0cajametalica](./GIFS4.0/Stuntman/CajaMetalica.gif)
 
-Muñeco Galeria de Tiro
+☠️Muñeco Galeria de Tiro
 
 ![gifstuntmanv4.0galeriadetiro](./GIFS4.0/Stuntman/DisparoGaleriaDeTiro.gif)
 
 ![pngstuntmanv4.0galeriadetiro](./Screenshots4.0/Stuntman/Destructibles/GaleriaDeTiro.png)
 
-Checkpoint
+⏳Checkpoint
 
 ![pngstuntmanv4.0checkpoint1](./Screenshots4.0/Stuntman/Checkpoint/CheckpointAlcanzado.png)
 ![pngstuntmanv4.0checkpoint2](./Screenshots4.0/Stuntman/Checkpoint/CheckpointSinAlcanzar.png)
 
-Botellas de Vidrio
+🍶Botellas de Vidrio
 
 V1
 
@@ -784,7 +784,7 @@ V4.0
 
 ![pngstuntmanv4.0vidrio](./Screenshots4.0/Stuntman/Destructibles/VidrioDestruido.png)
 
-Conos
+🚧Conos
 
 V1
 
