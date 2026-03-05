@@ -133,9 +133,9 @@
 
 📻Radio 06
 
-![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
+10 Dialogos.
 
-10
+![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
 
 ![pngraadio06-01](./Screenshots4.0/Radios/Radio06/R06-01.png)
 ![pngraadio06-02](./Screenshots4.0/Radios/Radio06/R06-02.png)
