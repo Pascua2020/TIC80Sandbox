@@ -2,7 +2,7 @@
 
 🏞️Fondo
 
-Avion1
+🛫Avion 1
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
@@ -15,7 +15,7 @@ Avion1
 ![pnganimacionavion1d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-4.png)
 
 
-Avion2
+🛬Avion 2
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
 
@@ -105,8 +105,6 @@ Avion2
 ![pngubicacionescajas03](./Screenshots4.0/Mapa/Ubicaciones/Cajas/Caja3.png)
 ![pngubicacionescajas04](./Screenshots4.0/Mapa/Ubicaciones/Cajas/Caja4.png)
 ![pngubicacionescajarota](./Screenshots4.0/Mapa/Ubicaciones/Cajas/CajaRota.png)
-
-
 
 🧭Condones
 
