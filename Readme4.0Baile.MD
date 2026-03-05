@@ -8,6 +8,8 @@
 
 ![gifsfrasesbailarines1](./GIFS4.0/Baile/FrasesBailarines/MensajeBaile1.gif)
 
+<details>
+
 ![pngfrasesbailarines1](<./Screenshots4.0/Baile/Frases Baile/BaileFrase1.png>)
 
 2
@@ -46,9 +48,13 @@
 
 ![pngfrasesbailarines7](<./Screenshots4.0/Baile/Frases Baile/BaileFrase7.png>)
 
+</details>
+
 🪩Frases Cancion
 
 ![gifsletrascancion](./GIFS4.0/Baile/LetrasCancion.gif)
+
+<details>
 
 1
 
@@ -86,6 +92,8 @@
 
 ![pngfrasescancion6](./Screenshots4.0/Baile/FrasesCancion/FraseCancion6.png)
 
+</details>
+
 🪩Game Over
 
 ![gifsbailegameover](./GIFS4.0/Baile/BaileGameOver.gif)
@@ -97,6 +105,8 @@
 1
 
 ![gifsfrasescombos1](./GIFS4.0/Baile/LetrasCombos/FrasesCombos1.gif)
+
+<details>
 
 ![pngfrasescombos1](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos1.png)
 
@@ -118,11 +128,15 @@
 
 ![pngfrasescombos4](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos4.png)
 
+</details>
+
 🪩Niveles Velocidad
 
 0
 
 ![gifsvelocidad0](./GIFS4.0/Baile/NivelesVelocidad/Velocidad0.gif)
+
+<details>
 
 ![pngvelocidad0](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad0.png)
 
@@ -149,3 +163,5 @@
 ![gifsvelocidad4](./GIFS4.0/Baile/NivelesVelocidad/Velocidad4.gif)
 
 ![pngvelocidad4](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad4.png)
+
+</details>
