@@ -2,7 +2,7 @@
 
 💎Animacion Fondo
 
-1
+🪐1
 
 ![gifpinballanimacionfondo1](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo1.gif)
 
@@ -12,7 +12,7 @@
 ![pngpinballanimacionfondo1D](./Screenshots4.0/Pinball/AnimacionFondo/1D.png)
 ![pngpinballanimacionfondo1E](./Screenshots4.0/Pinball/AnimacionFondo/1E.png)
 
-2
+🪐2
 
 Al alcanzar 2000 puntos.
 
@@ -24,7 +24,7 @@ Al alcanzar 2000 puntos.
 ![pngpinballanimacionfondo2D](./Screenshots4.0/Pinball/AnimacionFondo/2D.png)
 ![pngpinballanimacionfondo2E](./Screenshots4.0/Pinball/AnimacionFondo/2E.png)
 
-3
+🪐3
 
 Al alcanzar 5000 puntos.
 
@@ -38,79 +38,79 @@ Al alcanzar 5000 puntos.
 
 💎Frases a Completar
 
-1
+🌠1
 
 ![gifpinballfrasesacompletar1](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball1.gif)
 
-2
+🌠2
 
 ![gifpinballfrasesacompletar2](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball2.gif)
 
-3
+🌠3
 
 ![gifpinballfrasesacompletar3](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball3.gif)
 
-4
+🌠4
 
 ![gifpinballfrasesacompletar4](./GIFS4.0/Pinball/FrasesACcompletar/FraseACompletarPinball4.gif)
 
-5
+🌠5
 
 ![gifpinballfrasesacompletar5](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball5.gif)
 
-6
+🌠6
 
 ![gifpinballfrasesacompletar6](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball6.gif)
 
-7
+🌠7
 
 ![gifpinballfrasesacompletar7](./GIFS4.0/Pinball/FrasesACompletar/FraseACompletarPinball7.gif)
 
 💎Frases Rebote
 
-1
+☄️1
 
 ![gifpinballfrasesrebote1](<./GIFS4.0/Pinball/FrasesRebote/FrasePinball1.gif>)
 
 ![pngpinballfraserebote1](<./Screenshots4.0/Pinball/FrasesRebote/FraseRebote1.png>)
 
-2
+☄️2
 
 ![gifpinballfrasesrebote2](./GIFS4.0/Pinball/FrasesRebote/FrasePinball2.gif)
 
 ![pngpinballfraserebote2](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote2.png)
 
-3
+☄️3
 
 ![gifpinballfrasesrebote3](./GIFS4.0/Pinball/FrasesRebote/FrasePinball3.gif)
 
 ![pngpinballfraserebote3](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote3.png)
 
-4
+☄️4
 
 ![gifpinballfrasesrebote4](./GIFS4.0/Pinball/FrasesRebote/FrasePinball4.gif)
 
 ![pngpinballfraserebote4](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote4.png)
 
-5
+☄️5
 
 ![gifpinballfrasesrebote5](./GIFS4.0/Pinball/FrasesRebote/FrasePinball5.gif)
 
 ![pngpinballfraserebote5](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote5.png)
 
-6
+☄️6
 
 ![gifpinballfrasesrebote6](./GIFS4.0/Pinball/FrasesRebote/FrasePinball6.gif)
 
 ![pngpinballfraserebote6](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote6.png)
 
-7
+☄️7
 
 ![gifpinballfrasesrebote7](./GIFS4.0/Pinball/FrasesRebote/FrasePinball7.gif)
 
 ![pngpinballfraserebote7](./Screenshots4.0/Pinball/FrasesRebote/FraseRebote7.png)
 
-8
+☄️8
 
 ![gifpinballfrasesrebote8](./GIFS4.0/Pinball/FrasesRebote/FrasePinball8.gif)
 
