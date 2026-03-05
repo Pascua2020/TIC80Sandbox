@@ -201,6 +201,8 @@ https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
 https://en.wikipedia.org/wiki/Lunfardo
 
+<details>
+
 🥚32
 
 ![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
@@ -252,11 +254,15 @@ https://en.wikipedia.org/wiki/Vladivostok
 https://en.wikipedia.org/wiki/Mikhail_Gorbachev
 https://en.wikipedia.org/wiki/Gopnik
 
+</details>
+
 🥚41
 
 ![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)
 
 https://en.wikipedia.org/wiki/Women_in_Russia
+
+<details>
 
 🥚42
 
@@ -311,11 +317,15 @@ https://en.wikipedia.org/wiki/The_Drowners
 
 https://en.wikipedia.org/wiki/Tinder_(app)
 
+</details>
+
 🥚51
 
 ![pngEasterEggTN1](./Screenshots4.0/EasterEggs/EasterEggTN1.png)
 
 https://en.wikipedia.org/wiki/Todo_Noticias
+
+<details>
 
 🥚52
 
@@ -368,9 +378,13 @@ https://en.wikipedia.org/wiki/Toyota
 
 https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
+</details>
+
 🥚61
 
 ![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)
+
+<details>
 
 🥚62
 
@@ -422,9 +436,13 @@ https://en.wikipedia.org/wiki/Equatorial_Guinea
 
 https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
+</details>
+
 🥚71
 
 ![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)]
+
+<details>
 
 🥚72
 
@@ -481,11 +499,15 @@ https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
 https://en.wikipedia.org/wiki/Korea
 
+</details>
+
 🥚81
 
 ![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)]
 
 https://en.wikipedia.org/wiki/Eritrea
+
+<details>
 
 🥚82
 
@@ -540,11 +562,15 @@ https://en.wikipedia.org/wiki/Area_51
 
 https://en.wikipedia.org/wiki/Pinball
 
+</details>
+
 🥚91
 
 ![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)]
 
 https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
+
+<details>
 
 🥚92
 
@@ -600,11 +626,15 @@ https://en.wikipedia.org/wiki/Switzerland
 https://en.wikipedia.org/wiki/Norway
 https://en.wikipedia.org/wiki/Zurich
 
+</details>
+
 🥚101
 
 ![pngEasterEggTogo](./Screenshots4.0/EasterEggs/EasterEggTogo.png)]
 
 https://en.wikipedia.org/wiki/Togo
+
+<details>
 
 🥚102
 
@@ -658,11 +688,15 @@ https://en.wikipedia.org/wiki/Carlos_Gardel
 
 ![pngEasterEggEbola3](./Screenshots4.0/EasterEggs/EasterEggEbola3.png)]
 
+</details>
+
 🥚111
 
 ![pngEasterEggGhosting](./Screenshots4.0/EasterEggs/EasterEggGhosting.png)]
 
 https://en.wikipedia.org/wiki/Ghosting_(behavior)
+
+<details>
 
 🥚112
 
@@ -716,6 +750,8 @@ https://en.wikipedia.org/wiki/Copenhagen
 🥚120
 
 ![pngEasterEggSexual4](./Screenshots4.0/EasterEggs/EasterEggSexual4.png)]
+
+</details>
 
 🥚121
 
