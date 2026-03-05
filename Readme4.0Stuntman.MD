@@ -36,7 +36,7 @@
 ![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
 
 🎥🚙🔥👀 FASE 1
-
+<details>
 🎬Fase 1 Dialogos
 
 
@@ -87,10 +87,11 @@ B
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
+</details>
 
 🎥🚙🔥👀 FASE 2
 
-
+<details>
 🎬Fase 2 Dialogos
 
 
@@ -134,10 +135,10 @@ B
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
-
+</details>
 🎥🚙🔥👀 FASE 3
 
-
+<details>
 🎬Fase 3 Dialogos
 
 
@@ -183,10 +184,10 @@ B
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
-
+</details>
 🎥🚙🔥👀 FASE 4
 
-
+<details>
 🎬Fase 4 Dialogos
 
 
@@ -232,9 +233,9 @@ Version 4.0
 Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
-
+</details>
 🎥🚙🔥👀 FASE 5
-
+<details>
 
 🎬Fase 5 Dialogos
 
@@ -280,10 +281,10 @@ Fase 5 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
-
+</details>
 🎥🚙🔥👀 FASE 6
 
-
+<details>
 Fase 6 Dialogos
 
 
@@ -328,9 +329,9 @@ Fase 6 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido6](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase6.gif)
-
+</details>
 🎥🚙🔥👀 FASE 7
-
+<details>
 
 Fase 7 Dialogos
 
@@ -376,10 +377,10 @@ Fase 7 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido7](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase7.gif)
-
+</details>
 🎥🚙🔥👀 FASE 8
 
-
+<details>
 Fase 8 Dialogos
 
 
@@ -423,9 +424,9 @@ Fase 8 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido8](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase8.gif)
-
+</details>
 🎥🚙🔥👀 FASE 9
-
+<details>
 
 Fase 9 Dialogos
 
@@ -471,9 +472,9 @@ Fase 9 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido9](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase9.gif)
-
+</details>
 🎥🚙🔥👀 FASE 10
-
+<details>
 
 Fase 10 Dialogos
 
@@ -519,7 +520,7 @@ Fase 10 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido10](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase10.gif)
-
+</details>
 Game Over Tiburon
 
 Version 1
