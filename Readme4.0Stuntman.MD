@@ -547,11 +547,11 @@ V1.0
 
 ![gifstuntmanV1peces](./GIFS4.0/CutContent/Stuntman/V1/Peces.gif)
 
-Mensajes Secretos
+🈶Mensajes Secretos
 
 
 
--Fase 4
+❗-Fase 4
 
 V1
 
@@ -563,7 +563,7 @@ Version 4.0
 <details>
 ![pngstuntmanv4.0mensajesecretoF4](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.png)
 
--Fase 5
+❗-Fase 5
 
 V1
 
@@ -575,7 +575,8 @@ Version 4.0
 
 ![pngstuntmanv4.0mensajesecretoF5](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.png)
 </details>
-Mensajes Desarrollador
+
+💬Mensajes Desarrollador
 
 💾01
 
