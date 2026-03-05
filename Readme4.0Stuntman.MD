@@ -35,6 +35,8 @@
 
 ![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
 
+🎥🚙🔥👀 FASE 1
+
 🎬Fase 1 Dialogos
 
 
@@ -86,6 +88,8 @@ B
 
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
 
+🎥🚙🔥👀 FASE 2
+
 
 🎬Fase 2 Dialogos
 
@@ -130,6 +134,8 @@ B
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
+
+🎥🚙🔥👀 FASE 3
 
 
 🎬Fase 3 Dialogos
@@ -178,6 +184,9 @@ B
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
 
+🎥🚙🔥👀 FASE 4
+
+
 🎬Fase 4 Dialogos
 
 
@@ -223,6 +232,8 @@ Version 4.0
 Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
+
+🎥🚙🔥👀 FASE 5
 
 
 🎬Fase 5 Dialogos
@@ -270,6 +281,8 @@ Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
 
+🎥🚙🔥👀 FASE 6
+
 
 Fase 6 Dialogos
 
@@ -315,6 +328,8 @@ Fase 6 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido6](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase6.gif)
+
+🎥🚙🔥👀 FASE 7
 
 
 Fase 7 Dialogos
@@ -362,6 +377,9 @@ Version 1
 
 ![gifstuntmanv1iniciorapido7](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase7.gif)
 
+🎥🚙🔥👀 FASE 8
+
+
 Fase 8 Dialogos
 
 
@@ -405,6 +423,8 @@ Fase 8 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido8](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase8.gif)
+
+🎥🚙🔥👀 FASE 9
 
 
 Fase 9 Dialogos
@@ -451,6 +471,8 @@ Fase 9 Inicio Rapido
 Version 1
 
 ![gifstuntmanv1iniciorapido9](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase9.gif)
+
+🎥🚙🔥👀 FASE 10
 
 
 Fase 10 Dialogos
