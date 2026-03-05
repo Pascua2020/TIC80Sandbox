@@ -281,119 +281,119 @@ B3
 
 Carteles C
 
-40
+🟥40
 
 C01
 
 ![pngscartelesC01](./Screenshots4.0/Carteles/C/CartelC-01.png)
 ![gifscartelesC01](./GIFS4.0/Carteles/C/CartelC-01.gif)
 
-41
+🟥41
 
 C02
 
 ![pngscartelesC02](./Screenshots4.0/Carteles/C/CartelC-02.png)
 ![gifscartelesC02](./GIFS4.0/Carteles/C/CartelC-02.gif)
 
-42
+🟥42
 
 C03
 
 ![pngscartelesC03](./Screenshots4.0/Carteles/C/CartelC-03.png)
 ![gifscartelesC03](./GIFS4.0/Carteles/C/CartelC-03.gif)
 
-43
+🟥43
 
 C04
 
 ![pngscartelesC04](./Screenshots4.0/Carteles/C/CartelC-04.png)
 ![gifscartelesC04](./GIFS4.0/Carteles/C/CartelC-04.gif)
 
-44
+🟥44
 
 C05
 
 ![pngscartelesC05](./Screenshots4.0/Carteles/C/CartelC-05.png)
 ![gifscartelesC05](./GIFS4.0/Carteles/C/CartelC-05.gif)
 
-45
+🟥45
 
 C06
 
 ![pngscartelesC06](./Screenshots4.0/Carteles/C/CartelC-06.png)
 ![gifscartelesC06](./GIFS4.0/Carteles/C/CartelC-06.gif)
 
-46
+🟥46
 
 C07
 
 ![pngscartelesC07](./Screenshots4.0/Carteles/C/CartelC-07.png)
 ![gifscartelesC07](./GIFS4.0/Carteles/C/CartelC-07.gif)
 
-47
+🟥47
 
 C08
 
 ![pngscartelesC08](./Screenshots4.0/Carteles/C/CartelC-08.png)
 ![gifscartelesC08](./GIFS4.0/Carteles/C/CartelC-08.gif)
 
-48
+🟥48
 
 C09
 
 ![pngscartelesC09](./Screenshots4.0/Carteles/C/CartelC-09.png)
 ![gifscartelesC09](./GIFS4.0/Carteles/C/CartelC-09.gif)
 
-49
+🟥49
 
 C10
 
 ![pngscartelesC10](./Screenshots4.0/Carteles/C/CartelC-10.png)
 ![gifscartelesC10](./GIFS4.0/Carteles/C/CartelC-10.gif)
 
-50
+🟥50
 
 C11
 
 ![pngscartelesC11](./Screenshots4.0/Carteles/C/CartelC-11.png)
 ![gifscartelesC11](./GIFS4.0/Carteles/C/CartelC-11.gif)
 
-51
+🟥51
 
 C12
 
 ![pngscartelesC12](./Screenshots4.0/Carteles/C/CartelC-12.png)
 ![gifscartelesC12](./GIFS4.0/Carteles/C/CartelC-12.gif)
 
-52
+🟥52
 
 C13
 
 ![pngscartelesC13](./Screenshots4.0/Carteles/C/CartelC-13.png)
 ![gifscartelesC13](./GIFS4.0/Carteles/C/CartelC-13.gif)
 
-53
+🟥53
 
 C14
 
 ![pngscartelesC14](./Screenshots4.0/Carteles/C/CartelC-14.png)
 ![gifscartelesC14](./GIFS4.0/Carteles/C/CartelC-14.gif)
 
-54
+🟥54
 
 C15
 
 ![pngscartelesC15](./Screenshots4.0/Carteles/C/CartelC-15.png)
 ![gifscartelesC15](./GIFS4.0/Carteles/C/CartelC-15.gif)
 
-55
+🟥55
 
 C16
 
 ![pngscartelesC16](./Screenshots4.0/Carteles/C/CartelC-16.png)
 ![gifscartelesC16](./GIFS4.0/Carteles/C/CartelC-16.gif)
 
-56
+🟥56
 
 C17
 
