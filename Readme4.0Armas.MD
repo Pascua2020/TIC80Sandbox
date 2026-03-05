@@ -12,10 +12,15 @@ AK47
 Frases
 
 ![pngfrasesAK47-1](./Screenshots4.0/Armas/AK47Frase1.png)
+
+<details>
+
 ![pngfrasesAK47-2](./Screenshots4.0/Armas/AK47Frase2.png)
 ![pngfrasesAK47-3](./Screenshots4.0/Armas/AK47Frase3.png)
 ![pngfrasesAK47-4](./Screenshots4.0/Armas/AK47Frase4.png)
 ![pngfrasesAK47-5](./Screenshots4.0/Armas/AK47Frase5.png)
+
+</details>
 
 ☢️2
 Bazooka
@@ -26,10 +31,15 @@ Bazooka
 Frases
 
 ![pngfrasesBazooka-1](./Screenshots4.0/Armas/BazookaFrase1.png)
+
+<details>
+
 ![pngfrasesBazooka-2](./Screenshots4.0/Armas/BazookaFrase2.png)
 ![pngfrasesBazooka-3](./Screenshots4.0/Armas/BazookaFrase3.png)
 ![pngfrasesBazooka-4](./Screenshots4.0/Armas/BazookaFrase4.png)
 ![pngfrasesBazooka-5](./Screenshots4.0/Armas/BazookaFrase5.png)
+
+</details>
 
 ☢️3
 ElectroRifle
@@ -40,10 +50,15 @@ ElectroRifle
 Frases
 
 ![pngfrasesElectroRifle-1](./Screenshots4.0/Armas/ElectrorifleFrase1.png)
+
+<details>
+
 ![pngfrasesElectroRifle-2](./Screenshots4.0/Armas/ElectrorifleFrase2.png)
 ![pngfrasesElectroRifle-3](./Screenshots4.0/Armas/ElectrorifleFrase3.png)
 ![pngfrasesElectroRifle-4](./Screenshots4.0/Armas/ElectrorifleFrase4.png)
 ![pngfrasesElectroRifle-5](./Screenshots4.0/Armas/ElectrorifleFrase5.png)
+
+</details>
 
 ☢️4
 Escopeta
@@ -54,10 +69,15 @@ Escopeta
 Frases
 
 ![pngfrasesEscopeta-1](./Screenshots4.0/Armas/EscopetaFrase1.png)
+
+<details>
+
 ![pngfrasesEscopeta-2](./Screenshots4.0/Armas/EscopetaFrase2.png)
 ![pngfrasesEscopeta-3](./Screenshots4.0/Armas/EscopetaFrase3.png)
 ![pngfrasesEscopeta-4](./Screenshots4.0/Armas/EscopetaFrase4.png)
 ![pngfrasesEscopeta-5](./Screenshots4.0/Armas/EscopetaFrase5.png)
+
+</details>
 
 ☢️5
 Golpe
@@ -68,10 +88,15 @@ Golpe
 Frases
 
 ![pngfrasesGolpe-1](./Screenshots4.0/Armas/GolpeFrase1.png)
+
+<details>
+
 ![pngfrasesGolpe-2](./Screenshots4.0/Armas/GolpeFrase2.png)
 ![pngfrasesGolpe-3](./Screenshots4.0/Armas/GolpeFrase3.png)
 ![pngfrasesGolpe-4](./Screenshots4.0/Armas/GolpeFrase4.png)
 ![pngfrasesGolpe-5](./Screenshots4.0/Armas/GolpeFrase5.png)
+
+</details>
 
 ☢️6
 Granada
@@ -82,10 +107,15 @@ Granada
 Frases
 
 ![pngfrasesGranada-1](./Screenshots4.0/Armas/GranadaFrase1.png)
+
+<details>
+
 ![pngfrasesGranada-2](./Screenshots4.0/Armas/GranadaFrase2.png)
 ![pngfrasesGranada-3](./Screenshots4.0/Armas/GranadaFrase3.png)
 ![pngfrasesGranada-4](./Screenshots4.0/Armas/GranadaFrase4.png)
 ![pngfrasesGranada-5](./Screenshots4.0/Armas/GranadaFrase5.png)
+
+</details>
 
 ☢️7
 Katana
@@ -96,10 +126,15 @@ Katana
 Frases
 
 ![pngfrasesKatana-1](./Screenshots4.0/Armas/KatanaFrase1.png)
+
+<details>
+
 ![pngfrasesKatana-2](./Screenshots4.0/Armas/KatanaFrase2.png)
 ![pngfrasesKatana-3](./Screenshots4.0/Armas/KatanaFrase3.png)
 ![pngfrasesKatana-4](./Screenshots4.0/Armas/KatanaFrase4.png)
 ![pngfrasesKatana-5](./Screenshots4.0/Armas/KatanaFrase5.png)
+
+</details>
 
 ☢️8
 Lanzallamas
@@ -110,10 +145,15 @@ Lanzallamas
 Frases
 
 ![pngfrasesLanzallamas-1](./Screenshots4.0/Armas/LanzallamasFrase1.png)
+
+<details>
+
 ![pngfrasesLanzallamas-2](./Screenshots4.0/Armas/LanzallamasFrase2.png)
 ![pngfrasesLanzallamas-3](./Screenshots4.0/Armas/LanzallamasFrase3.png)
 ![pngfrasesLanzallamas-4](./Screenshots4.0/Armas/LanzallamasFrase4.png)
 ![pngfrasesLanzallamas-5](./Screenshots4.0/Armas/LanzallamasFrase5.png)
+
+</details>
 
 ☢️9
 Laser
@@ -124,10 +164,15 @@ Laser
 Frases
 
 ![pngfrasesLaser-1](./Screenshots4.0/Armas/LaserFrase1.png)
+
+<details>
+
 ![pngfrasesLaser-2](./Screenshots4.0/Armas/LaserFrase2.png)
 ![pngfrasesLaser-3](./Screenshots4.0/Armas/LaserFrase3.png)
 ![pngfrasesLaser-4](./Screenshots4.0/Armas/LaserFrase4.png)
 ![pngfrasesLaser-5](./Screenshots4.0/Armas/LaserFrase5.png)
+
+</details>
 
 ☢️10
 MiniGun
@@ -138,10 +183,15 @@ MiniGun
 Frases
 
 ![pngfrasesMinigun-1](./Screenshots4.0/Armas/MinigunFrase1.png)
+
+<details>
+
 ![pngfrasesMinigun-2](./Screenshots4.0/Armas/MinigunFrase2.png)
 ![pngfrasesMinigun-3](./Screenshots4.0/Armas/MinigunFrase3.png)
 ![pngfrasesMinigun-4](./Screenshots4.0/Armas/MinigunFrase4.png)
 ![pngfrasesMinigun-5](./Screenshots4.0/Armas/MinigunFrase5.png)
+
+</details>
 
 ☢️11
 Pistola
@@ -149,12 +199,18 @@ Pistola
 ![gifsarmaspistola](./GIFS4.0/Armas/Pistola.gif)
 ![gifsarmastesteopistola](./GIFS4.0/Armas/TesteoPistola.gif)
 
+Frases
+
 ![pngfrasesPistola-1](./Screenshots4.0/Armas/PistolaFrase1.png)
+
+<details>
+
 ![pngfrasesPistola-2](./Screenshots4.0/Armas/PistolaFrase2.png)
 ![pngfrasesPistola-3](./Screenshots4.0/Armas/PistolaFrase3.png)
 ![pngfrasesPistola-4](./Screenshots4.0/Armas/PistolaFrase4.png)
 ![pngfrasesPistola-5](./Screenshots4.0/Armas/PistolaFrase5.png)
 
+</details>
 
 
 
