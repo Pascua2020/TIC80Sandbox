@@ -190,6 +190,9 @@
 ⚠️-Trompos
 
 ![giftrompos1](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 20-1-2025.gif>)
+
+<details>
+
 ![giftrompos2](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 4-3-2025.gif>)
 ![giftrompos3](<./GIFS4.0/CutContent/Trompos/Trompos ( crimenYPixel ) 7-4-2025.gif>)
 
@@ -198,12 +201,18 @@
 ![pngcutcontentTrompos2](./Screenshots4.0/CutContent/Trompos/Trompos2.png)
 ![pngcutcontentTrompos3](./Screenshots4.0/CutContent/Trompos/Trompos3.png)
 
+</details>
+
 ⚠️-Piedra Papel o MotoSierra
 
 ![gifpiedrapapelmotosierra](<./GIFS4.0/CutContent/piedraPapelOMotosierra ( piedra ) 4-3-2025.gif>)
 
+<details>
+
 ![pngcutcontentPiedraPapelOMotosierra1](./Screenshots4.0/CutContent/PiedraPapelOMotosierra1.png)
 ![pngcutcontentPiedraPapelOMotosierra2](./Screenshots4.0/CutContent/PiedraPapelOMotosierra2.png)
+
+</details>
 
 ⚠️-Medidor de Ansiedad y Estres
 
@@ -257,6 +266,8 @@ TODAS
 💣AK47
 ![gifarmabetaak47](<./GIFS4.0/CutContent/Armas/AK47 ( armaak2 ) 4-3-2025.gif>)
 
+<details>
+
 💣ElectroRifle
 ![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 4-3-2025.gif>)
 ![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 24-1-2025.gif>)
@@ -289,6 +300,8 @@ TODAS
 
 💣Pistola
 ![gifarmabetapistola](<./GIFS4.0/CutContent/Armas/Pistola ( arma8 ) 4-3-2025.gif>)
+
+</details>
 
 💣RIFLE DE FRANCOTIRADOR
 ![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
@@ -324,6 +337,9 @@ Jetpack
 📼F1
 
 ![gifbetastuntmanF1A](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 21-1-2025.gif>)
+
+<details>
+
 ![gifbetastuntmanF1B](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 4-3-2025.gif>)
 ![gifbetastuntmanF1C](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( ZS1 ) 12-3-2025.gif>)
 
@@ -380,6 +396,8 @@ Jetpack
 ![gifbetastuntmanF10A](<./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10 ( stuntmanv10.4 ) 21-1-2025.gif>)
 ![gifbetastuntmanF10B](<./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10 ( stuntmanv10.4 ) 4-3-2025.gif>)
 ![gifbetastuntmanF10C](<./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10 ( ZS10 ) 12-3-2025.gif>)
+
+</details>
 
 Stuntman F1 a 10 ( Bugeado )
 ![gifbetastuntmanF1A10A](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug10 ) 30-3-2025.gif>)
