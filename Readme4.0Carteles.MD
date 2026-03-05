@@ -792,14 +792,14 @@ J4
 
 Carteles K
 
-110
+⚫110
 
 K1
 
 ![pngscartelesK1](./Screenshots4.0/Carteles/K/CartelK-1.png)
 ![gifscartelesK1](./GIFS4.0/Carteles/K/CartelK-1.gif)
 
-111
+⚫111
 
 K2
 
@@ -808,42 +808,42 @@ K2
 
 Carteles L
 
-112
+🛑112
 
 L1
 
 ![pngscartelesL1](./Screenshots4.0/Carteles/L/CartelL-1.png)
 ![gifscartelesL1](./GIFS4.0/Carteles/L/CartelL-1.gif)
 
-113
+🛑113
 
 L2
 
 ![pngscartelesL2](./Screenshots4.0/Carteles/L/CartelL-2.png)
 ![gifscartelesL2](./GIFS4.0/Carteles/L/CartelL-2.gif)
 
-114
+🛑114
 
 L3
 
 ![pngscartelesL3](./Screenshots4.0/Carteles/L/CartelL-3.png)
 ![gifscartelesL3](./GIFS4.0/Carteles/L/CartelL-3.gif)
 
-115
+🛑115
 
 L4
 
 ![pngscartelesL4](./Screenshots4.0/Carteles/L/CartelL-4.png)
 ![gifscartelesL4](./GIFS4.0/Carteles/L/CartelL-4.gif)
 
-116
+🛑116
 
 L5
 
 ![pngscartelesL5](./Screenshots4.0/Carteles/L/CartelL-5.png)
 ![gifscartelesL5](./GIFS4.0/Carteles/L/CartelL-5.gif)
 
-117
+🛑117
 
 L6
 
