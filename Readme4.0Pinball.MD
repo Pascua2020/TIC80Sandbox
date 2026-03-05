@@ -1,4 +1,4 @@
-Readme4.0Pinball
+# Readme4.0Pinball
 
 💎Animacion Fondo
 
@@ -14,6 +14,8 @@ Readme4.0Pinball
 
 2
 
+Al alcanzar 2000 puntos.
+
 ![gifpinballanimacionfondo2](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo2.gif)
 
 ![pngpinballanimacionfondo2A](./Screenshots4.0/Pinball/AnimacionFondo/2A.png)
@@ -23,6 +25,8 @@ Readme4.0Pinball
 ![pngpinballanimacionfondo2E](./Screenshots4.0/Pinball/AnimacionFondo/2E.png)
 
 3
+
+Al alcanzar 5000 puntos.
 
 ![gifpinballanimacionfondo3](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo3.gif)
 
