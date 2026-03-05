@@ -500,119 +500,119 @@ E6
 
 Carteles F
 
-70
+⬛70
 
 F01
 
 ![pngscartelesF01](./Screenshots4.0/Carteles/F/CartelF-01.png)
 ![gifscartelesF01](./GIFS4.0/Carteles/F/CartelF-01.gif)
 
-71
+⬛71
 
 F02
 
 ![pngscartelesF02](./Screenshots4.0/Carteles/F/CartelF-02.png)
 ![gifscartelesF02](./GIFS4.0/Carteles/F/CartelF-02.gif)
 
-72
+⬛72
 
 F03
 
 ![pngscartelesF03](./Screenshots4.0/Carteles/F/CartelF-03.png)
 ![gifscartelesF03](./GIFS4.0/Carteles/F/CartelF-03.gif)
 
-73
+⬛73
 
 F04
 
 ![pngscartelesF04](./Screenshots4.0/Carteles/F/CartelF-04.png)
 ![gifscartelesF04](./GIFS4.0/Carteles/F/CartelF-04.gif)
 
-74
+⬛74
 
 F05
 
 ![pngscartelesF05](./Screenshots4.0/Carteles/F/CartelF-05.png)
 ![gifscartelesF05](./GIFS4.0/Carteles/F/CartelF-05.gif)
 
-75
+⬛75
 
 F06
 
 ![pngscartelesF06](./Screenshots4.0/Carteles/F/CartelF-06.png)
 ![gifscartelesF06](./GIFS4.0/Carteles/F/CartelF-06.gif)
 
-76
+⬛76
 
 F07
 
 ![pngscartelesF07](./Screenshots4.0/Carteles/F/CartelF-07.png)
 ![gifscartelesF07](./GIFS4.0/Carteles/F/CartelF-07.gif)
 
-77
+⬛77
 
 F08
 
 ![pngscartelesF08](./Screenshots4.0/Carteles/F/CartelF-08.png)
 ![gifscartelesF08](./GIFS4.0/Carteles/F/CartelF-08.gif)
 
-78
+⬛78
 
 F09
 
 ![pngscartelesF09](./Screenshots4.0/Carteles/F/CartelF-09.png)
 ![gifscartelesF09](./GIFS4.0/Carteles/F/CartelF-09.gif)
 
-79
+⬛79
 
 F10
 
 ![pngscartelesF10](./Screenshots4.0/Carteles/F/CartelF-10.png)
 ![gifscartelesF10](./GIFS4.0/Carteles/F/CartelF-10.gif)
 
-80
+⬛80
 
 F11
 
 ![pngscartelesF11](./Screenshots4.0/Carteles/F/CartelF-11.png)
 ![gifscartelesF11](./GIFS4.0/Carteles/F/CartelF-11.gif)
 
-81
+⬛81
 
 F12
 
 ![pngscartelesF12](./Screenshots4.0/Carteles/F/CartelF-12.png)
 ![gifscartelesF12](./GIFS4.0/Carteles/F/CartelF-12.gif)
 
-82
+⬛82
 
 F13
 
 ![pngscartelesF13](./Screenshots4.0/Carteles/F/CartelF-13.png)
 ![gifscartelesF13](./GIFS4.0/Carteles/F/CartelF-13.gif)
 
-83
+⬛83
 
 F14
 
 ![pngscartelesF14](./Screenshots4.0/Carteles/F/CartelF-14.png)
 ![gifscartelesF14](./GIFS4.0/Carteles/F/CartelF-14.gif)
 
-84
+⬛84
 
 F15
 
 ![pngscartelesF15](./Screenshots4.0/Carteles/F/CartelF-15.png)
 ![gifscartelesF15](./GIFS4.0/Carteles/F/CartelF-15.gif)
 
-85
+⬛85
 
 F16
 
 ![pngscartelesF16](./Screenshots4.0/Carteles/F/CartelF-16.png)
 ![gifscartelesF16](./GIFS4.0/Carteles/F/CartelF-16.gif)
 
-86
+⬛86
 
 F17
 
