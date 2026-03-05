@@ -118,63 +118,63 @@ Al alcanzar 5000 puntos.
 
 💎Rap Gales
 
-01
+🎵01
 
 ![gifpinballrapgales01](./GIFS4.0/Pinball/RapGales/FraseRap01.gif)
 
-02
+🎵02
 
 ![gifpinballrapgales02](./GIFS4.0/Pinball/RapGales/FraseRap02.gif)
 
-03
+🎵03
 
 ![gifpinballrapgales03](./GIFS4.0/Pinball/RapGales/FraseRap03.gif)
 
-04
+🎵04
 
 ![gifpinballrapgales04](./GIFS4.0/Pinball/RapGales/FraseRap04.gif)
 
-05
+🎵05
 
 ![gifpinballrapgales05](./GIFS4.0/Pinball/RapGales/FraseRap05.gif)
 
-06
+🎵06
 
 ![gifpinballrapgales06](./GIFS4.0/Pinball/RapGales/FraseRap06.gif)
 
-07
+🎵07
 
 ![gifpinballrapgales07](./GIFS4.0/Pinball/RapGales/FraseRap07.gif)
 
-08
+🎵08
 
 ![gifpinballrapgales08](./GIFS4.0/Pinball/RapGales/FraseRap08.gif)
 
-09
+🎵09
 
 ![gifpinballrapgales09](./GIFS4.0/Pinball/RapGales/FraseRap09.gif)
 
-10
+🎵10
 
 ![gifpinballrapgales10](./GIFS4.0/Pinball/RapGales/FraseRap10.gif)
 
-11
+🎵11
 
 ![gifpinballrapgales11](./GIFS4.0/Pinball/RapGales/FraseRap11.gif)
 
-12
+🎵12
 
 ![gifpinballrapgales12](./GIFS4.0/Pinball/RapGales/FraseRap12.gif)
 
-13
+🎵13
 
 ![gifpinballrapgales13](./GIFS4.0/Pinball/RapGales/FraseRap13.gif)
 
-14
+🎵14
 
 ![gifpinballrapgales14](./GIFS4.0/Pinball/RapGales/FraseRap14.gif)
 
-15
+🎵15
 
 ![gifpinballrapgales15](./GIFS4.0/Pinball/RapGales/FraseRap15.gif)
 
