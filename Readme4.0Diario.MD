@@ -2,12 +2,12 @@
 
 ![gifdiario](./Screenshots4.0/Diario/Diario.gif)
 
-📰NOTICIA 1
+📰NOTICIA 1 - Portada
 
 ![pngdiario01](./Screenshots4.0/Diario/Diario01.png)
 ![pngdiario02](./Screenshots4.0/Diario/Diario02.png)
 
-📰NOTICIA 2
+📰NOTICIA 2 - Local
 
 ![pngdiario03](./Screenshots4.0/Diario/Diario03.png)
 ![pngdiario04](./Screenshots4.0/Diario/Diario04.png)
