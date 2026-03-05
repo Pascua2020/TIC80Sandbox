@@ -4,7 +4,7 @@ Hay 27 Vehiculos.
 
 🚐1
 
-4X4 420
+**4X4 420**
 
 ![pngvehiculo4x4420](./Screenshots4.0/Vehiculos/4X4420.png)
 ![pngvehiculo4X4420preview](./Screenshots4.0/Vehiculos/Preview/4X4420-HUD.png)
@@ -12,7 +12,7 @@ Hay 27 Vehiculos.
 
 🚑2
 
-Ambulancia
+**Ambulancia**
 
 ![pngvehiculoambulancia](./Screenshots4.0/Vehiculos/Ambulancia.png)
 ![pngvehiculoambulanciapreview](./Screenshots4.0/Vehiculos/Preview/Ambulancia-HUD.png)
