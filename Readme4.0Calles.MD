@@ -713,100 +713,146 @@ Trafico en el mapa
 🚸55-Satanas
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
+
+<details>
+
 ![gifcallesatanasnohud](./GIFS4.0/Calles(NOHUD)/Satanas.gif)
 
 ![pngcallesatanashud](./Screenshots4.0/Calles(HUD)/Satanas-HUD.png)
 ![gifcallesatanashud](./GIFS4.0/Calles(HUD)/Satanas-HUD.gif)
 
+</details>
+
 🚸56-Seineldin
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
+
+<details>
+
 ![gifcalleseineldinnohud](./GIFS4.0/Calles(NOHUD)/Seineldin.gif)
 
 ![pngcalleseineldinhud](./Screenshots4.0/Calles(HUD)/Seineldin-HUD.png)
 ![gifcalleseineldinhud](./GIFS4.0/Calles(HUD)/Seineldin-HUD.gif)
 
+</details>
+
 🚸57-Siga siga
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
+
+<details>
+
 ![gifcallesigasiganohud](<./GIFS4.0/Calles(NOHUD)/Siga siga.gif>)
 
 ![pngcallesigasigahud](<./Screenshots4.0/Calles(HUD)/Siga Siga0-HUD.png>)
 ![gifcallesigasigahud](<./GIFS4.0/Calles(HUD)/Siga siga-HUD.gif>)
 
+</details>
+
 🚸58-Trisexual
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
+
+<details>
+
 ![gifcalletrisexualnohud](./GIFS4.0/Calles(NOHUD)/Trisexual.gif)
 
 ![pngcalletrisexualhud](./Screenshots4.0/Calles(HUD)/Trisexual-HUD.png)
 ![gifcalletrisexualhud](./GIFS4.0/Calles(HUD)/Trisexual-HUD.gif)
 
+</details>
+
 🚸59-Turbina
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
+
+<details>
+
 ![gifcalleturbinanohud](./GIFS4.0/Calles(NOHUD)/Turbina.gif)
 
 ![pngcalleturbinahud](./Screenshots4.0/Calles(HUD)/Turbina-HUD.png)
 ![gifcalleturbinahud](./GIFS4.0/Calles(HUD)/Turbina-HUD.gif)
 
+</details>
+
 🚸60-Turro
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
+
+<details>
+
 ![gifcalleturronohud](./GIFS4.0/Calles(NOHUD)/Turro.gif)
 
 ![pngcalleturrohud](./Screenshots4.0/Calles(HUD)/Turro-HUD.png)
 ![gifcalleturrohud](./GIFS4.0/Calles(HUD)/Turro-HUD.gif)
 
+</details>
+
 🚸61-Tuti fruti
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
+
+<details>
+
 ![gifcalletutifrutinohud](<./GIFS4.0/Calles(NOHUD)/Tuti Fruti.gif>)
 
 ![pngcalletutifrutihud](<./Screenshots4.0/Calles(HUD)/Tuti Fruti-HUD.png>)
 ![gifcalletutifrutihud](<./GIFS4.0/Calles(HUD)/Tuti Fruti-HUD.gif>)
 
+</details>
+
 🚸62-Viagra
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
+
+<details>
+
 ![gifcalleviagranohud](./GIFS4.0/Calles(NOHUD)/Viagra.gif)
 
 ![pngcalleviagrahud](./Screenshots4.0/Calles(HUD)/Viagra-HUD.png)
 ![gifcalleviagrahud](./GIFS4.0/Calles(HUD)/Viagra-HUD.gif)
 
+</details>
+
 🚸63-Wauf
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
+
+<details>
+
 ![gifcallewaufnohud](./GIFS4.0/Calles(NOHUD)/Wauf.gif)
 
 ![pngcallewaufhud](./Screenshots4.0/Calles(HUD)/Wauf-HUD.png)
 ![gifcallewaufhud](./GIFS4.0/Calles(HUD)/Wauf-HUD.gif)
 
+</details>
+
 🚸64-Yupi
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
+
+<details>
+
 ![gifcalleyupinohud](./GIFS4.0/Calles(NOHUD)/Yupi.gif)
 
 ![pngcalleyupihud](./Screenshots4.0/Calles(HUD)/Yupi-HUD.png)
 ![gifcalleyupihud](./GIFS4.0/Calles(HUD)/Yupi-HUD.gif)
 
+</details>
+
 🚸65-Zig Zag
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
+
+<details>
+
 ![gifcallezigzagnohud](<./GIFS4.0/Calles(NOHUD)/Zig Zag.gif>)
 
 ![pngcallezigzaghud](<./Screenshots4.0/Calles(HUD)/Zig Zag-HUD.png>)
 ![gifcallezigzaghud](<./GIFS4.0/Calles(HUD)/Zig Zag-HUD.gif>)
 
-66-
+</details>
 
-67-
-
-68-
-
-69-
-
-70-
 
 
 
