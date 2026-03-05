@@ -650,6 +650,8 @@ G1
 ![pngscartelesG1](./Screenshots4.0/Carteles/G/CartelG-1.png)
 ![gifscartelesG1](./GIFS4.0/Carteles/G/CartelG-1.gif)
 
+<details>
+
 ⚫88
 
 G2
@@ -678,6 +680,7 @@ G5
 ![pngscartelesG5](./Screenshots4.0/Carteles/G/CartelG-5.png)
 ![gifscartelesG5](./GIFS4.0/Carteles/G/CartelG-5.gif)
 
+</details>
 
 Carteles H
 
@@ -687,6 +690,8 @@ H01
 
 ![pngscartelesH01](./Screenshots4.0/Carteles/H/CartelH-01.png)
 ![gifscartelesH01](./GIFS4.0/Carteles/H/CartelH-01.gif)
+
+<details>
 
 🟨93
 
@@ -751,6 +756,8 @@ H10
 ![pngscartelesH10](./Screenshots4.0/Carteles/H/CartelH-10.png)
 ![gifscartelesH10](./GIFS4.0/Carteles/H/CartelH-10.gif)
 
+</details>
+
 Carteles I
 
 🔵102
@@ -759,6 +766,8 @@ I1
 
 ![pngscartelesI1](./Screenshots4.0/Carteles/I/CartelI-01.png)
 ![gifscartelesI1](./GIFS4.0/Carteles/I/CartelI-01.gif)
+
+<details>
 
 🔵103
 
@@ -781,6 +790,8 @@ I4
 ![pngscartelesI4](./Screenshots4.0/Carteles/I/CartelI-04.png)
 ![gifscartelesI4](./GIFS4.0/Carteles/I/CartelI-04.gif)
 
+</details>
+
 Carteles J
 
 🟦106
@@ -789,6 +800,8 @@ J1
 
 ![pngscartelesJ1](./Screenshots4.0/Carteles/J/CartelJ-1.png)
 ![gifscartelesJ1](./GIFS4.0/Carteles/J/CartelJ-01.gif)
+
+<details>
 
 🟦107
 
@@ -810,6 +823,8 @@ J4
 
 ![pngscartelesJ4](./Screenshots4.0/Carteles/J/CartelJ-4.png)
 ![gifscartelesJ4](./GIFS4.0/Carteles/J/CartelJ-04.gif)
+
+</details>
 
 Carteles K
 
@@ -835,6 +850,8 @@ L1
 
 ![pngscartelesL1](./Screenshots4.0/Carteles/L/CartelL-1.png)
 ![gifscartelesL1](./GIFS4.0/Carteles/L/CartelL-1.gif)
+
+<details>
 
 🛑113
 
@@ -871,4 +888,5 @@ L6
 ![pngscartelesL6](./Screenshots4.0/Carteles/L/CartelL-6.png)
 ![gifscartelesL6](./GIFS4.0/Carteles/L/CartelL-6.gif)
 
+</details>
 
