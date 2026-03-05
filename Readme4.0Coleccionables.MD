@@ -8,6 +8,8 @@
 
 ![pngcoleccionablescondones1](./Screenshots4.0/Coleccionables/Condones/Casi_Casi.png)
 
+<details>
+
 💎Condon 02
 
 ![gifscoleccionablescondones2](./GIFS4.0/Coleccionables/Condones/Currolandia.gif)
@@ -130,6 +132,8 @@
 
 ![pngcoleccionablescondones20](./Screenshots4.0/Coleccionables/Condones/ColeccionablesMar4.png)
 
+</details>
+
 🪙Monedas
 
 💵Moneda 01
@@ -137,6 +141,8 @@
 ![gifscoleccionablesmonedas1](./GIFS4.0/Coleccionables/Monedas/.gif)
 
 ![pngcoleccionablesmonedas1](./Screenshots4.0/Coleccionables/Monedas/Moneda01.png)
+
+<details>
 
 💵Moneda 02
 
@@ -203,3 +209,5 @@
 ![gifscoleccionablesmonedas12](./GIFS4.0/Coleccionables/Monedas/.gif)
 
 ![pngcoleccionablesmonedas12](./Screenshots4.0/Coleccionables/Monedas/Moneda12.png)
+
+</details>
