@@ -8,6 +8,8 @@ Hay almenos 161 Easter Eggs ( Referencias ).
 
 https://en.wikipedia.org/wiki/(29075)_1950_DA
 
+<details>
+
 🥚2
 
 ![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)
@@ -63,11 +65,15 @@ https://en.wikipedia.org/wiki/Madrid
 
 https://en.wikipedia.org/wiki/Internets
 
+</details>
+
 🥚11
 
 ![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto_2
+
+<details>
 
 🥚12
 
@@ -123,11 +129,15 @@ https://en.wikipedia.org/wiki/Tenis_language
 
 https://en.wikipedia.org/wiki/Tigrinya_language
 
+</details>
+
 🥚21
 
 ![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
 https://en.wikipedia.org/wiki/Wolof_language
+
+<details>
 
 🥚22
 
@@ -182,6 +192,8 @@ https://en.wikipedia.org/wiki/Bart_the_Genius
 ![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
 https://en.wikipedia.org/wiki/Bart_Gets_Famous
+
+</details>
 
 🥚31
 
