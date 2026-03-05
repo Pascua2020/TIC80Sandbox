@@ -220,47 +220,47 @@
 
 BETA
 
-Armas
+💣Armas
 
 TODAS
 
-AK47
+💣AK47
 ![gifarmabetaak47](./GIFS4.0/CutContent/Armas/AK47_(_armaak2_)_4-3-2025.gif)
 
-ElectroRifle
+💣ElectroRifle
 ![gifarmabetaelectrorifle1](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_4-3-2025.gif)
 ![gifarmabetaelectrorifle2](./GIFS4.0/CutContent/Armas/Electrorifle_(_rifleel_)_24-1-2025.gif)
 
-Escopeta
+💣Escopeta
 ![gifarmabetaescopeta](./GIFS4.0/CutContent/Armas/Escopeta_(_armaes3_)_4-3-2025.gif)
 
-Golpe
+💣Golpe
 ![gifarmabetagolpe1](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_13-2-2025.gif)
 ![gifarmabetagolpe2](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_4-3-2025.gif)
 
-Granada
+💣Granada
 ![gifarmabetagranada](./GIFS4.0/CutContent/Armas/Granada_(_armagra2_)_4-3-2025.gif)
 
-Katana
+💣Katana
 ![gifarmabetakatana1](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_24-1-2025.gif)
 ![gifarmabetakatana2](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_4-3-2025.gif)
 
-Lanzallamas
+💣Lanzallamas
 ![gifarmabetalanzallamas1](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_24-1-2025.gif)
 ![gifarmabetalanzallamas2](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_4-3-2025.gif)
 
-Laser
+💣Laser
 ![gifarmabetalaser1](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_24-1-2025.gif)
 ![gifarmabetalaser2](./GIFS4.0/CutContent/Armas/Laser_(_laser_)_4-3-2025.gif)
 
-Minigun
+💣Minigun
 ![gifarmabetaminigun1](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_24-1-2025.gif)
 ![gifarmabetaminigun2](./GIFS4.0/CutContent/Armas/Minigun_(_minigun_)_4-3-2025.gif)
 
-Pistola
+💣Pistola
 ![gifarmabetapistola](./GIFS4.0/CutContent/Armas/Pistola_(_pistola_)_4-3-2025.gif)
 
-RIFLE DE FRANCOTIRADOR
+💣RIFLE DE FRANCOTIRADOR
 ![gifarmabetariflefrancotirador](./GIFS4.0/CutContent/Armas/RifleFrancotirador_(_armar_)_4-3-2025.gif)
 
 DiosGPT
