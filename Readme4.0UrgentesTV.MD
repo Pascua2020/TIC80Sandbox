@@ -8,6 +8,8 @@ Hay 7 Urgentes estilo noticiero.
 
 ![gifurgente1](./GIFS4.0/Urgentes/Urgente1.gif)
 
+<details>
+
 ![pngurgente1-01](< ./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-01.png >)
 ![pngurgente1-02](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-02.png>)
 ![pngurgente1-03](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-03.png>)
@@ -26,6 +28,8 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente1-15](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-15.png>)
 ![pngurgente1-16](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-16.png>)
 
+</details>
+
 #️⃣#Hashtags Urgente 1:
 
 ![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/1-1.gif)
@@ -40,6 +44,8 @@ Hay 7 Urgentes estilo noticiero.
 17 Dialogos.
 
 ![gifurgente2](./GIFS4.0/Urgentes/Urgente2.gif)
+
+<details>
 
 ![pngurgente2-01](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-01.png>)
 ![pngurgente2-02](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-02.png>)
@@ -60,6 +66,8 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente2-16](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-16.png>)
 ![pngurgente2-17](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-17.png>)
 
+</details>
+
 #️⃣#Hashtags Urgente 2:
 
 ![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags/2-1.gif)
@@ -74,6 +82,8 @@ Hay 7 Urgentes estilo noticiero.
 17 Dialogos.
 
 ![gifurgente3](./GIFS4.0/Urgentes/Urgente3.gif)
+
+<details>
 
 ![pngurgente3-01](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-01.png>)
 ![pngurgente3-02](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-02.png>)
@@ -94,6 +104,8 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente3-16](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-16.png>)
 ![pngurgente3-17](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-17.png>)
 
+</details>
+
 #️⃣#Hashtags Urgente 3:
 
 ![gif#urgente3](./GIFS4.0/Urgentes/Hashtags/3.gif)
@@ -103,6 +115,8 @@ Hay 7 Urgentes estilo noticiero.
 17 Dialogos.
 
 ![gifurgente4](./GIFS4.0/Urgentes/Urgente4.gif)
+
+<details>
 
 ![pngurgente4-01](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-01.png>)
 ![pngurgente4-02](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-02.png>)
@@ -122,6 +136,8 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente4-15](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-15.png>)
 ![pngurgente4-16](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-16.png>)
 ![pngurgente4-17](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-17.png>)
+
+</details>
 
 #️⃣#Hashtags Urgente 4:
 
