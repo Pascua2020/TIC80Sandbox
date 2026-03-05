@@ -44,6 +44,8 @@
 
 📻Radio 02
 
+19 Dialogos.
+
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
 ![pngraadio02-01](./Screenshots4.0/Radios/Radio02/R02-01.png)
