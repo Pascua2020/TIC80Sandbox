@@ -622,35 +622,35 @@ F17
 
 Carteles G
 
-87
+⚫87
 
 G1
 
 ![pngscartelesG1](./Screenshots4.0/Carteles/G/CartelG-1.png)
 ![gifscartelesG1](./GIFS4.0/Carteles/G/CartelG-1.gif)
 
-88
+⚫88
 
 G2
 
 ![pngscartelesG2](./Screenshots4.0/Carteles/G/CartelG-2.png)
 ![gifscartelesG2](./GIFS4.0/Carteles/G/CartelG-2.gif)
 
-89
+⚫89
 
 G3
 
 ![pngscartelesG3](./Screenshots4.0/Carteles/G/CartelG-3.png)
 ![gifscartelesG3](./GIFS4.0/Carteles/G/CartelG-3.gif)
 
-90
+⚫90
 
 G4
 
 ![pngscartelesG4](./Screenshots4.0/Carteles/G/CartelG-4.png)
 ![gifscartelesG4](./GIFS4.0/Carteles/G/CartelG-4.gif)
 
-91
+⚫91
 
 G5
 
@@ -660,70 +660,70 @@ G5
 
 Carteles H
 
-92
+🟨92
 
 H01
 
 ![pngscartelesH01](./Screenshots4.0/Carteles/H/CartelH-01.png)
 ![gifscartelesH01](./GIFS4.0/Carteles/H/CartelH-01.gif)
 
-93
+🟨93
 
 H02
 
 ![pngscartelesH02](./Screenshots4.0/Carteles/H/CartelH-02.png)
 ![gifscartelesH02](./GIFS4.0/Carteles/H/CartelH-02.gif)
 
-94
+🟨94
 
 H03
 
 ![pngscartelesH03](./Screenshots4.0/Carteles/H/CartelH-03.png)
 ![gifscartelesH03](./GIFS4.0/Carteles/H/CartelH-03.gif)
 
-95
+🟨95
 
 H04
 
 ![pngscartelesH04](./Screenshots4.0/Carteles/H/CartelH-04.png)
 ![gifscartelesH04](./GIFS4.0/Carteles/H/CartelH-04.gif)
 
-96
+🟨96
 
 H05
 
 ![pngscartelesH05](./Screenshots4.0/Carteles/H/CartelH-05.png)
 ![gifscartelesH05](./GIFS4.0/Carteles/H/CartelH-05.gif)
 
-97
+🟨97
 
 H06
 
 ![pngscartelesH06](./Screenshots4.0/Carteles/H/CartelH-06.png)
 ![gifscartelesH06](./GIFS4.0/Carteles/H/CartelH-06.gif)
 
-98
+🟨98
 
 H07
 
 ![pngscartelesH07](./Screenshots4.0/Carteles/H/CartelH-07.png)
 ![gifscartelesH07](./GIFS4.0/Carteles/H/CartelH-07.gif)
 
-99
+🟨99
 
 H08
 
 ![pngscartelesH08](./Screenshots4.0/Carteles/H/CartelH-08.png)
 ![gifscartelesH08](./GIFS4.0/Carteles/H/CartelH-08.gif)
 
-100
+🟨100
 
 H09
 
 ![pngscartelesH09](./Screenshots4.0/Carteles/H/CartelH-09.png)
 ![gifscartelesH09](./GIFS4.0/Carteles/H/CartelH-09.gif)
 
-101
+🟨101
 
 H10
 
