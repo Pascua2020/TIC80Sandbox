@@ -10,6 +10,8 @@
 
 📻Radio 01
 
+25 Dialogos.
+
 ![gifsradio01](./GIFS4.0/Radios/Radio01.gif)
 
 ![pngraadio01-01](./Screenshots4.0/Radios/Radio01/R01-01.png)
