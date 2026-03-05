@@ -808,14 +808,14 @@ Cronometros
 
 
 
-Mensaje Limite Pantalla
+⛔Mensaje Limite Pantalla
 
 Version 1
 
 ![gifstuntmanv1mensajelimitepantalla1](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla.gif)
 ![gifstuntmanv1mensajelimitepantalla2](./GIFS4.0/CutContent/Stuntman/V1/MensajeLimitePantalla2.gif)
 
-Explosiones ( Fase 2 )
+💥Explosiones ( Fase 2 )
 
 V1.0
 
@@ -825,7 +825,7 @@ V4.0
 
 ![gifstuntmanv4.0explosionF2](./GIFS4.0/Stuntman/ExplosionFase2.gif)
 
-Mega Explosion Fase 10
+💥🔥Mega Explosion Fase 10
 
 V1.0
 
@@ -835,7 +835,7 @@ V4.0
 
 ![gifstuntmanv4.0explosionF10](./GIFS4.0/Stuntman/ExplosionFase10.gif)
 
-Pistola con Frases de Disparo
+🤬Pistola con Frases de Disparo
 
 V1.0
 
@@ -855,13 +855,13 @@ V4.0
 
 </details>
 
-Nitro
+🛢️Nitro
 
 ![gifstuntmanv4.0nitro](./GIFS4.0/Stuntman/Nitro.gif)
 
 ![pngstuntmanv4.0nitro](./Screenshots4.0/Stuntman/NitroConFrase.png)
 
-Rampa
+🛤️Rampa
 
 ![gifstuntmanv4.0rampa](./GIFS4.0/Stuntman/Rampa.gif)
 
