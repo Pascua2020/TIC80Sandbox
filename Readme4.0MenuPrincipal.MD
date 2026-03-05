@@ -10,31 +10,31 @@ Hay 9 opciones en el Menu Principal.
 
 ![gifMenuPrincipalPersonajes](./GIFS4.0/MenuPrincipal/MenuPrincipalPersonajes.gif)
 
-1
+👾1
 
 ![pngMenuPrincipalPersonaje1](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje1.png)
 
-2
+👾2
 
 ![pngMenuPrincipalPersonaje2](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje2.png)
 
-3
+👾3
 
 ![pngMenuPrincipalPersonaje3](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje3.png)
 
-4
+👾4
 
 ![pngMenuPrincipalPersonaje4](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje4.png)
 
-5
+👾5
 
 ![pngMenuPrincipalPersonaje5](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje5.png)
 
-6
+👾6
 
 ![pngMenuPrincipalPersonaje6](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje6.png)
 
-7
+👾7
 
 ![pngMenuPrincipalPersonaje7](./Screenshots4.0/MenuPrincipal/MenuPrincipal-Personaje7.png)
 
