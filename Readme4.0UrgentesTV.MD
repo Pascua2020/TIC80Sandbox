@@ -26,7 +26,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente1-15](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-15.png>)
 ![pngurgente1-16](<./Screenshots4.0/Urgentes/Urgente 1/UrgenteTV1-16.png>)
 
-#Hashtags Urgente 1:
+#️⃣#Hashtags Urgente 1:
 
 ![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/1-1.gif)
 ![gif#urgente1-2](<./GIFS4.0/Urgentes/Hashtags/1-2.gif>)
@@ -60,7 +60,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente2-16](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-16.png>)
 ![pngurgente2-17](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-17.png>)
 
-#Hashtags Urgente 2:
+#️⃣#Hashtags Urgente 2:
 
 ![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags/2-1.gif)
 ![gif#urgente2-2](./GIFS4.0/Urgentes/Hashtags/2-2.gif)
@@ -94,7 +94,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente3-16](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-16.png>)
 ![pngurgente3-17](<./Screenshots4.0/Urgentes/Urgente 3/UrgenteTV3-17.png>)
 
-#Hashtags Urgente 3:
+#️⃣#Hashtags Urgente 3:
 
 ![gif#urgente3](./GIFS4.0/Urgentes/Hashtags/3.gif)
 
@@ -123,7 +123,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente4-16](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-16.png>)
 ![pngurgente4-17](<./Screenshots4.0/Urgentes/Urgente 4/UrgenteTV4-17.png>)
 
-#Hashtags Urgente 4:
+#️⃣#Hashtags Urgente 4:
 
 ![gif#urgente4](./GIFS4.0/Urgentes/Hashtags/4.gif)
 
@@ -154,7 +154,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente5-18](<./Screenshots4.0/Urgentes/Urgente 5/UrgenteTV5-18.png>)
 ![pngurgente5-19](<./Screenshots4.0/Urgentes/Urgente 5/UrgenteTV5-19.png>)
 
-#Hashtags Urgente 5:
+#️⃣#Hashtags Urgente 5:
 
 ![gif#urgente5](./GIFS4.0/Urgentes/Hashtags/5.gif)
 
@@ -183,7 +183,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente6-16](<./Screenshots4.0/Urgentes/Urgente 6/UrgenteTV6-16.png>)
 ![pngurgente6-17](<./Screenshots4.0/Urgentes/Urgente 6/UrgenteTV6-17.png>)
 
-#Hashtags Urgente 6:
+#️⃣#Hashtags Urgente 6:
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/6.gif)
 
@@ -211,7 +211,7 @@ Hay 7 Urgentes estilo noticiero.
 ![pngurgente7-15](<./Screenshots4.0/Urgentes/Urgente 7/UrgenteTV7-15.png>)
 ![pngurgente7-16](<./Screenshots4.0/Urgentes/Urgente 7/UrgenteTV7-16.png>)
 
-#Hashtags Urgente 7:
+#️⃣#Hashtags Urgente 7:
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/7.gif)
 
