@@ -868,7 +868,7 @@ Rampa
 ![pngstuntmanv4.0rampa1](./Screenshots4.0/Stuntman/Rampa/RampaSinSubirse.png)
 ![pngstuntmanv4.0rampa2](./Screenshots4.0/Stuntman/Rampa/RampaSaltandoConFrase.png)
 
-Trenes
+🚅Trenes
 
 ![gifstuntmanv4.0Tren](./GIFS4.0/Stuntman/Tren.gif)
 
@@ -892,15 +892,15 @@ Descartado:
 
 
 
--Grabar Fase
+🎥-Grabar Fase
 
 ![gifstuntmangrabarfase](<./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman ( crimenypixelv2.3 ) 24-4-2025.gif>)
 
--Medidor Sobrecarga de RAM
+🪫-Medidor Sobrecarga de RAM
 
 ![gifstuntmanmedidorram](<./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM ( crimenYPixelv2.1 ) 18-4-2025.gif>)
 
--Sistema de Logros
+📀-Sistema de Logros
 
 
 ![gifstuntmansistemalogros](<./GIFS4.0/CutContent/Stuntman/SistemaLogros ( crimenYPixelv2.1 ) 18-4-2025.gif>)
