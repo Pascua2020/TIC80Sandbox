@@ -277,7 +277,7 @@ Jetpack
 
 🎴V1
 
-![gifnerdpediav1](<./GIFS4.0/CutContent/Nerdpedia/Nerdpedia (wiki24) 4-3-2025.gif>)
+![gifnerdpediav1](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV1 (wiki24) 4-3-2025.gif>)
 
 🎴V2
 
