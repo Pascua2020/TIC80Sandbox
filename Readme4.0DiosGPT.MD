@@ -2,11 +2,13 @@
 
 ![gifdiosgpt](./GIFS4.0/DiosGPT/DiosGPT.gif)
 
+📱Interfaz
+
 ![pngDiosGPTMenuA](./Screenshots4.0/DiosGPT/MenuA.png)
 
 ![pngDiosGPTMenuB](./Screenshots4.0/DiosGPT/MenuB.png)
 
-Opciones
+📱Opciones
 
 ![pngDiosGPTMenuC1](./Screenshots4.0/DiosGPT/MenuC1.png)
 
