@@ -3,6 +3,8 @@
 🎬Descripcion de Mision + Selector de Fases
 
 ![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
+
+<details>
 ![pngstuntmanv4.0selectorfase02](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase02.png)
 ![pngstuntmanv4.0selectorfase03](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase03.png)
 ![pngstuntmanv4.0selectorfase04](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase04.png)
@@ -12,6 +14,8 @@
 ![pngstuntmanv4.0selectorfase08](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase08.png)
 ![pngstuntmanv4.0selectorfase09](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase09.png)
 ![pngstuntmanv4.0selectorfase10](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase10.png)
+
+</details>
 
 ![pngstuntmanv4.0nombrestacchotta](./Screenshots4.0/Stuntman/NombreStacchotta.png)
 
@@ -41,9 +45,13 @@ A
 
 ![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/MensajesFases/MensajeFase1.gif)
 
+<details>
+
 ![pngstuntmanv4.0mensajefase1-1](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-1.png)
 ![pngstuntmanv4.0mensajefase1-3](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-3.png)
 ![pngstuntmanv4.0mensajefase1-5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-5.png)
+
+</details>
 
 B
 
