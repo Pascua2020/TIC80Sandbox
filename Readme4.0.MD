@@ -43,7 +43,7 @@ CRIMEN Y PIXEL VERSION 4.0 ( 2/7/2025 )
 
 🌟-Menu Principal ![README4.0-MenuPrincipal ](./Readme4.0MenuPrincipal.MD)
 
-🌟-NPCs ![README4.0- ](./Readme4.0.MD)
+🌟-NPCs ![README4.0-NPCs ](./Readme4.0NPCs.MD)
 
 🌟-Nerdpedia ![README4.0-Nerdpedia ](./Readme4.0Nerdpedia.MD)
 
