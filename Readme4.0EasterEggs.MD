@@ -757,6 +757,8 @@ https://en.wikipedia.org/wiki/Copenhagen
 
 ![pngEasterEggSexual5](./Screenshots4.0/EasterEggs/EasterEggSexual5.png)
 
+<details>
+
 🥚122
 
 ![pngEasterEggSexual6](./Screenshots4.0/EasterEggs/EasterEggSexual6.png)
@@ -808,11 +810,15 @@ https://en.wikipedia.org/wiki/Chad
 
 https://en.wikipedia.org/wiki/International_Space_Station
 
+</details>
+
 🥚131
 
 ![pngEasterEggFacebook](./Screenshots4.0/EasterEggs/EasterEggFacebook.png)
 
 https://en.wikipedia.org/wiki/Facebook
+
+<details>
 
 🥚132
 
@@ -869,11 +875,15 @@ https://en.wikipedia.org/wiki/AI_takeover
 
 https://en.wikipedia.org/wiki/Tardigrade
 
+</details>
+
 🥚141
 
 ![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggTaringaAustralia.png)
 
 https://en.wikipedia.org/wiki/Taringa,_Queensland
+
+<details>
 
 🥚142
 
@@ -935,11 +945,15 @@ https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
 
 https://en.wikipedia.org/wiki/PlayStation_2
 
+</details>
+
 🥚151
 
 ![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)
 
 https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
+
+<details>
 
 🥚152
 
@@ -994,6 +1008,8 @@ https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4
 ![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)
 
 https://en.wikipedia.org/wiki/First_Blood
+
+</details>
 
 🥚161
 
