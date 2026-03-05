@@ -228,22 +228,22 @@ TODAS
 ![gifarmabetaak47](<./GIFS4.0/CutContent/Armas/AK47 ( armaak2 ) 4-3-2025.gif>)
 
 💣ElectroRifle
-![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/Electrorifle ( rifleel ) 4-3-2025.gif>)
-![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/Electrorifle ( rifleel ) 24-1-2025.gif>)
+![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 4-3-2025.gif>)
+![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/Electroarifle ( rifleel ) 24-1-2025.gif>)
 
 💣Escopeta
-![gifarmabetaescopeta](./GIFS4.0/CutContent/Armas/Escopeta_(_armaes3_)_4-3-2025.gif)
+![gifarmabetaescopeta](<./GIFS4.0/CutContent/Armas/Escopeta ( armaes3 ) 4-3-2025.gif>)
 
 💣Golpe
-![gifarmabetagolpe1](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_13-2-2025.gif)
-![gifarmabetagolpe2](./GIFS4.0/CutContent/Armas/Golpe_(_armap3_)_4-3-2025.gif)
+![gifarmabetagolpe1](<./GIFS4.0/CutContent/Armas/Golpe ( armap3 ) 13-2-2025.gif>)
+![gifarmabetagolpe2](<./GIFS4.0/CutContent/Armas/Golpe ( armap3 ) 4-3-2025.gif>)
 
 💣Granada
-![gifarmabetagranada](./GIFS4.0/CutContent/Armas/Granada_(_armagra2_)_4-3-2025.gif)
+![gifarmabetagranada](<./GIFS4.0/CutContent/Armas/Granada ( armagra2 ) 4-3-2025.gif>)
 
 💣Katana
-![gifarmabetakatana1](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_24-1-2025.gif)
-![gifarmabetakatana2](./GIFS4.0/CutContent/Armas/Katana_(_katana_)_4-3-2025.gif)
+![gifarmabetakatana1](<./GIFS4.0/CutContent/Armas/Katana ( katana ) 24-1-2025.gif>)
+![gifarmabetakatana2](<./GIFS4.0/CutContent/Armas/Katana ( katana ) 4-3-2025.gif>)
 
 💣Lanzallamas
 ![gifarmabetalanzallamas1](./GIFS4.0/CutContent/Armas/Lanzallamas_(_lanzallama_)_24-1-2025.gif)
