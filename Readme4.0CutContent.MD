@@ -369,7 +369,7 @@ Stuntman F1 a 10 ( Bugeado )
 
 📰DIARIO
 
---![gifbetadiario](./GIFS4.0/CutContent/Diario_(_diario4_)_20-1-2025.gif)
+![gifbetadiario](<./GIFS4.0/CutContent/Diario ( diario4 ) 20-1-2025.gif>)
 
 🌐PINBALL
 
@@ -393,7 +393,7 @@ Stuntman F1 a 10 ( Bugeado )
 
 💾COORDENADAS
 
-![gifcoordenadas](./GIFS4.0/CutContent/Coordenadas_(_coor4_)_1-2-2025.gif)
+![gifcoordenadas](<./GIFS4.0/CutContent/Coordenadas ( coor4 ) 1-2-2025.gif>)
 
 ![pngcutcontentCoordenadas](./Screenshots4.0/CutContent/Coordenadas.png)
 
