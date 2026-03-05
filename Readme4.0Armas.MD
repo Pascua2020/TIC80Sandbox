@@ -9,7 +9,7 @@ AK47
 ![gifsarmasak47](./GIFS4.0/Armas/AK47.gif)
 ![gifsarmastesteoak47](./GIFS4.0/Armas/TesteoAK47.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesAK47-1](./Screenshots4.0/Armas/AK47Frase1.png)
 
@@ -28,7 +28,7 @@ Bazooka
 ![gifsarmasbazooka](./GIFS4.0/Armas/Bazooka.gif)
 ![gifsarmastesteobazooka](./GIFS4.0/Armas/TesteoBazooka.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesBazooka-1](./Screenshots4.0/Armas/BazookaFrase1.png)
 
@@ -47,7 +47,7 @@ ElectroRifle
 ![gifsarmaselectrorifle](./GIFS4.0/Armas/ElectroRifle.gif)
 ![gifsarmastesteoelectrorifle](./GIFS4.0/Armas/TesteoElectrorifle.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesElectroRifle-1](./Screenshots4.0/Armas/ElectrorifleFrase1.png)
 
@@ -66,7 +66,7 @@ Escopeta
 ![gifsarmasescopeta](./GIFS4.0/Armas/Escopeta.gif)
 ![gifsarmastesteoescopeta](./GIFS4.0/Armas/TesteoEscopeta.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesEscopeta-1](./Screenshots4.0/Armas/EscopetaFrase1.png)
 
@@ -85,7 +85,7 @@ Golpe
 ![gifsarmasgolpe](./GIFS4.0/Armas/Golpe.gif)
 ![gifsarmastesteogolpe](./GIFS4.0/Armas/TesteoPuño.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesGolpe-1](./Screenshots4.0/Armas/GolpeFrase1.png)
 
@@ -104,7 +104,7 @@ Granada
 ![gifsarmasgranada](./GIFS4.0/Armas/Granada.gif)
 ![gifsarmastesteogranada](./GIFS4.0/Armas/TesteoGranada.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesGranada-1](./Screenshots4.0/Armas/GranadaFrase1.png)
 
@@ -123,7 +123,7 @@ Katana
 ![gifsarmaskatana](./GIFS4.0/Armas/Katana.gif)
 ![gifsarmastesteokatana](./GIFS4.0/Armas/TesteoKatana.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesKatana-1](./Screenshots4.0/Armas/KatanaFrase1.png)
 
@@ -142,7 +142,7 @@ Lanzallamas
 ![gifsarmaslanzallamas](./GIFS4.0/Armas/LanzaLlamas.gif)
 ![gifsarmastesteolanzallamas](./GIFS4.0/Armas/TesteoLanzallamas.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesLanzallamas-1](./Screenshots4.0/Armas/LanzallamasFrase1.png)
 
@@ -161,7 +161,7 @@ Laser
 ![gifsarmaslaser](./GIFS4.0/Armas/Laser.gif)
 ![gifsarmastesteolaser](./GIFS4.0/Armas/TesteoLaser.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesLaser-1](./Screenshots4.0/Armas/LaserFrase1.png)
 
@@ -180,7 +180,7 @@ MiniGun
 ![gifsarmasminigun](./GIFS4.0/Armas/MiniGun.gif)
 ![gifsarmastesteominigun](./GIFS4.0/Armas/TesteoMinigun.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesMinigun-1](./Screenshots4.0/Armas/MinigunFrase1.png)
 
@@ -199,7 +199,7 @@ Pistola
 ![gifsarmaspistola](./GIFS4.0/Armas/Pistola.gif)
 ![gifsarmastesteopistola](./GIFS4.0/Armas/TesteoPistola.gif)
 
-Frases
+🤬Frases
 
 ![pngfrasesPistola-1](./Screenshots4.0/Armas/PistolaFrase1.png)
 
