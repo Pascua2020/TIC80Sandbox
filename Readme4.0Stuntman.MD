@@ -792,13 +792,13 @@ V4.0
 
 ![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
 
-Coches en Llamas
+🚗🔥Coches en Llamas
 
 ![gifstuntmanv4.0cochesenllamas](./GIFS4.0/Stuntman/CochesEnLlamas.gif)
 
 ![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/MensajesEnemigos/MensajeCocheEnLlamas.png)
 
-Coche a Perseguir
+🚗Coche a Perseguir
 
 ![gifstuntmanv4.0cocheaperseguir](./GIFS4.0/Stuntman/CocheAPerseguir.gif)
 
@@ -878,10 +878,10 @@ Efectos de Luces y Humo de Escape en Coche
 
 Version 4.0
 
-SIN LUCES :
+🕯️SIN LUCES :
 ![pngstuntmanv4.0cochesinluces](./Screenshots4.0/Stuntman/CocheStuntmanSinLuces.png)
 
-CON LUCES :
+💡CON LUCES :
 ![pngstuntmanv4.0cocheconluces](./Screenshots4.0/Stuntman/CocheStuntmanConLuces.png)
 
 Efectos Climaticos
