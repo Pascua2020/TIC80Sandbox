@@ -8,7 +8,7 @@
 
 ![gifsfinradio](./GIFS4.0/Radios/finRadio.gif)
 
-📻Radio 01
+📻Radio 01 : Todo Vardo
 
 25 Dialogos.
 
@@ -42,7 +42,7 @@
 ![pngraadio01-24](./Screenshots4.0/Radios/Radio01/R01-24.png)
 ![pngraadio01-25](./Screenshots4.0/Radios/Radio01/R01-25.png)
 
-📻Radio 02
+📻Radio 02 : Bajones
 
 19 Dialogos.
 
@@ -70,7 +70,7 @@
 ![pngraadio02-19](./Screenshots4.0/Radios/Radio02/R02-19.png)
 
 
-📻Radio 03
+📻Radio 03 : Poesia de la Calle
 
 12 Dialogos.
 
@@ -90,7 +90,7 @@
 ![pngraadio03-11](./Screenshots4.0/Radios/Radio03/R03-11.png)
 ![pngraadio03-12](./Screenshots4.0/Radios/Radio03/R03-12.png)
 
-📻Radio 04
+📻Radio 04 : Gobierno de Argentina
 
 13 Dialogos.
 
@@ -111,7 +111,7 @@
 ![pngraadio04-12](./Screenshots4.0/Radios/Radio04/R04-12.png)
 ![pngraadio04-13](./Screenshots4.0/Radios/Radio04/R04-13.png)
 
-📻Radio 05
+📻Radio 05 : Solos y Solas
 
 12 Dialogos.
 
