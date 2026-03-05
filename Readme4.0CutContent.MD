@@ -76,7 +76,7 @@
 ⚠️-Modo GT + MiniMapa
 
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
-![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 4-3-2025.gif>)
+![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
 
 ![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)
 ![gifgt+minimapa-GT2](./GIFS4.0/CutContent/GT+MiniMapa/GT2.gif)
