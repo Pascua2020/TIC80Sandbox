@@ -104,66 +104,106 @@ Trafico en el mapa
 08-Chechona
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
+
+<details>
+
 ![gifcallechechonanohud](./GIFS4.0/Calles(NOHUD)/Chechona.gif)
 
 ![pngcallechechonahud](./Screenshots4.0/Calles(HUD)/Chechona-HUD.png)
 ![gifcallechechonahud](./GIFS4.0/Calles(HUD)/Chechona-HUD.gif)
 
+</details>
+
 09-Chocolate
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
+
+<details>
+
 ![gifcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.gif)
 
 ![pngcallechocolatehud](./Screenshots4.0/Calles(HUD)/Chocolate-HUD.png)
 ![gifcallechocolatehud](./GIFS4.0/Calles(HUD)/Chocolate-HUD.gif)
 
+</details>
+
 10-Cocaina
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
+
+<details>
+
 ![gifcallecocainanohud](./GIFS4.0/Calles(NOHUD)/Cocaina.gif)
 
 ![pngcallecocainahud](./Screenshots4.0/Calles(HUD)/Cocaina-HUD.png)
 ![gifcallecocainahud](./GIFS4.0/Calles(HUD)/Cocaina-HUD.gif)
 
+</details>
+
 11-Conspiracion
 
 ![pngcalleconspiracionnohud](./Screenshots4.0/Calles(NOHUD)/Conspiracion.png)
+
+<details>
+
 ![gifcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.gif)
 
 ![pngcalleconspiracionhud](./Screenshots4.0/Calles(HUD)/Conspiracion-HUD.png)
 ![gifcalleconspiracionhud](./GIFS4.0/Calles(HUD)/Conspiracion-HUD.gif)
 
+</details>
+
 12-Corrupcion
 
 ![pngcallecorrupcionnohud](./Screenshots4.0/Calles(NOHUD)/Corrupcion.png)
+
+<details>
+
 ![gifcallecorrupcionnohud](./GIFS4.0/Calles(NOHUD)/Corrupcion.gif)
 
 ![pngcallecorrupcionhud](./Screenshots4.0/Calles(HUD)/Corrupcion-HUD.png)
 ![gifcallecorrupcionhud](./GIFS4.0/Calles(HUD)/Corrupcion-HUD.gif)
 
+</details>
+
 13-Dark
 
 ![pngcalledarknohud](./Screenshots4.0/Calles(NOHUD)/Dark.png)
+
+<details>
+
 ![gifcalledarknohud](./GIFS4.0/Calles(NOHUD)/Dark.gif)
 
 ![pngcalledarkhud](./Screenshots4.0/Calles(HUD)/Dark-HUD.png)
 ![gifcalledarkhud](./GIFS4.0/Calles(HUD)/Dark-HUD.gif)
 
+</details>
+
 14-Default
 
 ![pngcalledefaultnohud](./Screenshots4.0/Calles(NOHUD)/Default.png)
+
+<details>
+
 ![gifcalledefaultnohud](./GIFS4.0/Calles(NOHUD)/Default.gif)
 
 ![pngcalledefaulthud](./Screenshots4.0/Calles(HUD)/Default-HUD.png)
 ![gifcalledefaulthud](./GIFS4.0/Calles(HUD)/Default-HUD.gif)
 
+</details>
+
 15-Diablo
 
 ![pngcallediablonohud](./Screenshots4.0/Calles(NOHUD)/Diablo.png)
+
+<details>
+
 ![gifcallediablonohud](./GIFS4.0/Calles(NOHUD)/Diablo.gif)
 
 ![pngcallediablohud](./Screenshots4.0/Calles(HUD)/Diablo-HUD.png)
 ![gifcallediablohud](./GIFS4.0/Calles(HUD)/Diablo-HUD.gif)
+
+</details>
 
 16-Diamante
 
