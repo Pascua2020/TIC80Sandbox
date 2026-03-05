@@ -145,7 +145,7 @@
 
 ![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
 ![gifrc1](<./GIFS4.0/CutContent/RC/RC ( rc7 ) 4-3-2025.gif>)
-![gifrc3](<./GIFS4.0/CutContent/RC/RC ( rc12 ) 4-3-2025.gif>)
+![gifrc3](<./GIFS4.0/CutContent/RC/RC (rc12) 4-3-2025.gif>)
 ![gifrc4](<./GIFS4.0/CutContent/RC/RC ( ZRC ) 22-7-2025.gif>)
 
 ![pngcutcontentRC1A](./Screenshots4.0/CutContent/RC/RC1A.png)
