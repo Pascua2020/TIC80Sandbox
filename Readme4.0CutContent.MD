@@ -360,7 +360,7 @@ Radio
 ![gifbetaradiosB](./GIFS4.0/CutContent/Radios/22Radios_(_todasradios7_)_12-2-2025.gif)
 ![gifbetaradioaprendechino](./GIFS4.0/CutContent/Radios/RadioAprendeChino_(_dialogo4_)_4-3-2025.gif)
 
-MENU DEBUG
+💻MENU DEBUG
 
 ![gifmenudebug](./GIFS4.0/CutContent/MenuDebug_(_hiperdebug5_)_19-3-2025.gif)
 
@@ -370,19 +370,19 @@ MENU DEBUG
 
 --![gifbetadiario](./GIFS4.0/CutContent/Diario_(_diario4_)_20-1-2025.gif)
 
-PINBALL
+🌐PINBALL
 
 ![gifbetapinball](./GIFS4.0/CutContent/Pinball_(_pinballv6.4_)_20-1-2025.gif)
 
 ![pngcutcontentPinball](./Screenshots4.0/CutContent/Pinball.png)
 
-TECLADO PC
+⌨️TECLADO PC
 
 ![gifbetatecladopc](./GIFS4.0/CutContent/TecladoPC_(_teclado_)_22-1-2025.gif)
 
 ![pngcutcontentTecladoPC](./Screenshots4.0/CutContent/TecladoPC.png)
 
-TECLADO NUMERICO
+📱TECLADO NUMERICO
 
 ![gifbetatecladonum](./GIFS4.0/CutContent/TecladoNum_(_pass2_)_22-1-2025.gif)
 
@@ -390,7 +390,7 @@ TECLADO NUMERICO
 ![pngcutcontentTecladoNum2](./Screenshots4.0/CutContent/TecladoNum2.png)
 ![pngcutcontentTecladoNum3](./Screenshots4.0/CutContent/TecladoNum3.png)
 
-COORDENADAS
+💾COORDENADAS
 
 ![gifcoordenadas](./GIFS4.0/CutContent/Coordenadas_(_coor4_)_1-2-2025.gif)
 
