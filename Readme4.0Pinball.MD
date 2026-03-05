@@ -6,11 +6,15 @@
 
 ![gifpinballanimacionfondo1](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo1.gif)
 
+<details>
+
 ![pngpinballanimacionfondo1A](./Screenshots4.0/Pinball/AnimacionFondo/1A.png)
 ![pngpinballanimacionfondo1B](./Screenshots4.0/Pinball/AnimacionFondo/1B.png)
 ![pngpinballanimacionfondo1C](./Screenshots4.0/Pinball/AnimacionFondo/1C.png)
 ![pngpinballanimacionfondo1D](./Screenshots4.0/Pinball/AnimacionFondo/1D.png)
 ![pngpinballanimacionfondo1E](./Screenshots4.0/Pinball/AnimacionFondo/1E.png)
+
+</details>
 
 🪐2
 
@@ -18,11 +22,15 @@ Al alcanzar 2000 puntos.
 
 ![gifpinballanimacionfondo2](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo2.gif)
 
+<details>
+
 ![pngpinballanimacionfondo2A](./Screenshots4.0/Pinball/AnimacionFondo/2A.png)
 ![pngpinballanimacionfondo2B](./Screenshots4.0/Pinball/AnimacionFondo/2B.png)
 ![pngpinballanimacionfondo2C](./Screenshots4.0/Pinball/AnimacionFondo/2C.png)
 ![pngpinballanimacionfondo2D](./Screenshots4.0/Pinball/AnimacionFondo/2D.png)
 ![pngpinballanimacionfondo2E](./Screenshots4.0/Pinball/AnimacionFondo/2E.png)
+
+</details>
 
 🪐3
 
@@ -30,11 +38,15 @@ Al alcanzar 5000 puntos.
 
 ![gifpinballanimacionfondo3](./GIFS4.0/Pinball/AnimacionFondo/AnimacionFondo3.gif)
 
+<details>
+
 ![pngpinballanimacionfondo3A](./Screenshots4.0/Pinball/AnimacionFondo/3A.png)
 ![pngpinballanimacionfondo3B](./Screenshots4.0/Pinball/AnimacionFondo/3B.png)
 ![pngpinballanimacionfondo3C](./Screenshots4.0/Pinball/AnimacionFondo/3C.png)
 ![pngpinballanimacionfondo3D](./Screenshots4.0/Pinball/AnimacionFondo/3D.png)
 ![pngpinballanimacionfondo3E](./Screenshots4.0/Pinball/AnimacionFondo/3E.png)
+
+</details>
 
 💎Frases a Completar
 
