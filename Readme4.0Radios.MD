@@ -14,6 +14,8 @@
 
 ![gifsradio01](./GIFS4.0/Radios/Radio01.gif)
 
+<details>
+
 ![pngraadio01-01](./Screenshots4.0/Radios/Radio01/R01-01.png)
 ![pngraadio01-02](./Screenshots4.0/Radios/Radio01/R01-02.png)
 ![pngraadio01-03](./Screenshots4.0/Radios/Radio01/R01-03.png)
@@ -41,6 +43,8 @@
 ![pngraadio01-23](./Screenshots4.0/Radios/Radio01/R01-23.png)
 ![pngraadio01-24](./Screenshots4.0/Radios/Radio01/R01-24.png)
 ![pngraadio01-25](./Screenshots4.0/Radios/Radio01/R01-25.png)
+
+</details>
 
 📻Radio 02 : Bajones
 
