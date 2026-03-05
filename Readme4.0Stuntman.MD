@@ -521,7 +521,8 @@ Version 1
 
 ![gifstuntmanv1iniciorapido10](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase10.gif)
 </details>
-Game Over Tiburon
+
+🦈Game Over Tiburon
 
 Version 1
 
@@ -535,13 +536,13 @@ Fondo
 
 
 
--Mensaje Avion
+🛫-Mensaje Avion
 
 V1.0
 
 ![gifstuntmanV1mensajevionstuntman](./GIFS4.0/CutContent/Stuntman/V1/MensajeAvionStuntman.gif)
 
--Peces
+🐟-Peces
 
 V1.0
 
