@@ -229,7 +229,7 @@ TODAS
 
 💣ElectroRifle
 ![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 4-3-2025.gif>)
-![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/Electroarifle ( rifleel ) 24-1-2025.gif>)
+![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 24-1-2025.gif>)
 
 💣Escopeta
 ![gifarmabetaescopeta](<./GIFS4.0/CutContent/Armas/Escopeta ( armaes3 ) 4-3-2025.gif>)
