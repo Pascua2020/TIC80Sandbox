@@ -6,6 +6,8 @@ Hay 2 Obras de Radioteatro.
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
 
+26 Dialogos.
+
 <details>
 ![pngradioteatro1-01](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-01.png)
 ![pngradioteatro1-02](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-02.png)
@@ -36,9 +38,13 @@ Hay 2 Obras de Radioteatro.
 ![pngradioteatro1-25](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-25.png)
 ![pngradioteatro1-26](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-26.png)
 </details>
+
 🎭Obra de RadioTeatro 2
 
 ![gifsradioteatro2](./GIFS4.0/RadioTeatro/RadioTeatro2.gif)
+
+46 Dialogos.
+
 <details>
 ![pngradioteatro2-01](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-01.png)
 ![pngradioteatro2-02](./Screenshots4.0/RadioTeatro/RT2/RadioTeatro2-02.png)
