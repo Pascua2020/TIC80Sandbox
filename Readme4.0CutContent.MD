@@ -258,7 +258,7 @@ TODAS
 ![gifarmabetaminigun2](<./GIFS4.0/CutContent/Armas/Minigun ( minigun ) 4-3-2025.gif>)
 
 💣Pistola
-![gifarmabetapistola](<./GIFS4.0/CutContent/Armas/Pistola ( pistola ) 4-3-2025.gif>)
+![gifarmabetapistola](<./GIFS4.0/CutContent/Armas/Pistola ( arma8 ) 4-3-2025.gif>)
 
 💣RIFLE DE FRANCOTIRADOR
 ![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
