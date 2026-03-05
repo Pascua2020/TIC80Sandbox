@@ -42,19 +42,19 @@
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 </details>
---Arcoiris
+🌈--Arcoiris
 
 ![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
---Niebla
+☁️--Niebla
 
 ![gifniebla](<./GIFS4.0/CutContent/Climas/Niebla ( niebla ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
---Terremoto
+🌋--Terremoto
 
 ![gifterremoto1](<./GIFS4.0/CutContent/Climas/Terremoto  terremoto 22-1-2025.gif>)
 
