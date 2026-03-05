@@ -560,7 +560,7 @@ V1
 Version 4.0
 
 ![gifstuntmanv4.0mensajesecretoF4](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.gif)
-
+<details>
 ![pngstuntmanv4.0mensajesecretoF4](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.png)
 
 -Fase 5
@@ -574,10 +574,8 @@ Version 4.0
 ![gifstuntmanv4.0mensajesecretoF5](./GIFS4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.gif)
 
 ![pngstuntmanv4.0mensajesecretoF5](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.png)
-
-Mensajes Desarrollador
-
-
+</details>
+Mensajes Desarrollador
 
 01
 
