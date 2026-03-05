@@ -11,6 +11,8 @@ A01
 ![pngscartelesA01](./Screenshots4.0/Carteles/A/CartelA-01.png)
 ![gifscartelesA01](./GIFS4.0/Carteles/A/CartelA-01.gif)
 
+<details>
+
 ℹ️2
 
 A02
@@ -256,6 +258,8 @@ A36
 ![pngscartelesA36](./Screenshots4.0/Carteles/A/CartelA-36.png)
 ![gifscartelesA36](./GIFS4.0/Carteles/A/CartelA-36.gif)
 
+</details>
+
 Carteles B
 
 ⬛37
@@ -264,6 +268,8 @@ B1
 
 ![pngscartelesB1](./Screenshots4.0/Carteles/B/CartelB-1.png)
 ![gifscartelesB1](./GIFS4.0/Carteles/B/CartelB-1.gif)
+
+<details>
 
 ⬛38
 
@@ -279,6 +285,8 @@ B3
 ![pngscartelesB3](./Screenshots4.0/Carteles/B/CartelB-3.png)
 ![gifscartelesB3](./GIFS4.0/Carteles/B/CartelB-3.gif)
 
+</details>
+
 Carteles C
 
 🟥40
@@ -287,6 +295,8 @@ C01
 
 ![pngscartelesC01](./Screenshots4.0/Carteles/C/CartelC-01.png)
 ![gifscartelesC01](./GIFS4.0/Carteles/C/CartelC-01.gif)
+
+<details>
 
 🟥41
 
@@ -400,6 +410,7 @@ C17
 ![pngscartelesC17](./Screenshots4.0/Carteles/C/CartelC-17.png)
 ![gifscartelesC17](./GIFS4.0/Carteles/C/CartelC-17.gif)
 
+</details>
 
 Carteles D
 
@@ -409,6 +420,8 @@ D01
 
 ![pngscartelesD1](./Screenshots4.0/Carteles/D/CartelD-01.png)
 ![gifscartelesD01](./GIFS4.0/Carteles/D/CartelD-01.gif)
+
+<details>
 
 🟦58
 
@@ -452,6 +465,8 @@ D07
 ![pngscartelesD7](./Screenshots4.0/Carteles/D/CartelD-07.png)
 ![gifscartelesD07](./GIFS4.0/Carteles/D/CartelD-07.gif)
 
+</details>
+
 
 Carteles E
 
@@ -461,6 +476,8 @@ E1
 
 ![pngscartelesE1](./Screenshots4.0/Carteles/E/CartelE-1.png)
 ![gifscartelesE1](./GIFS4.0/Carteles/E/CartelE-1.gif)
+
+<details>
 
 🟥65
 
@@ -497,6 +514,7 @@ E6
 ![pngscartelesE6](./Screenshots4.0/Carteles/E/CartelE-6.png)
 ![gifscartelesE6](./GIFS4.0/Carteles/E/CartelE-6.gif)
 
+</details>
 
 Carteles F
 
@@ -506,6 +524,8 @@ F01
 
 ![pngscartelesF01](./Screenshots4.0/Carteles/F/CartelF-01.png)
 ![gifscartelesF01](./GIFS4.0/Carteles/F/CartelF-01.gif)
+
+<details>
 
 ⬛71
 
@@ -619,6 +639,7 @@ F17
 ![pngscartelesF17](./Screenshots4.0/Carteles/F/CartelF-17.png)
 ![gifscartelesF17](./GIFS4.0/Carteles/F/CartelF-17.gif)
 
+</details>
 
 Carteles G
 
