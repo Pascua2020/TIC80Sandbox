@@ -202,19 +202,19 @@
 
 ⚠️-TV
 
-![giftv](./GIFS4.0/CutContent/TV_(_tele_)_4-3-2025.gif)
+![giftv](<./GIFS4.0/CutContent/TV ( tele ) 4-3-2025.gif>)
 
 ![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)
 
 ⚠️-Velocidad
 
-![gifvelocidad](./GIFS4.0/CutContent/VelocidadVehiculo_(_vel2_)_4-3-2025.gif)
+![gifvelocidad](<./GIFS4.0/CutContent/VelocidadVehiculo ( vel2 ) 4-3-2025.gif>)
 
 ![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
 
 ⚠️-Votar
 
-![gifvotar](./GIFS4.0/CutContent/Votar_(_votar_)_4-3-2025.gif)
+![gifvotar](<./GIFS4.0/CutContent/Votar ( votar ) 4-3-2025.gif>)
 
 ![pngcutcontentVotar](./Screenshots4.0/CutContent/Votar.png)
 
