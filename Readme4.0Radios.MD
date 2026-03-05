@@ -92,6 +92,8 @@
 
 📻Radio 04
 
+13 Dialogos.
+
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
 
 ![pngraadio04-01](./Screenshots4.0/Radios/Radio04/R04-01.png)
