@@ -373,19 +373,19 @@ Stuntman F1 a 10 ( Bugeado )
 
 🌐PINBALL
 
-![gifbetapinball](./GIFS4.0/CutContent/Pinball_(_pinballv6.4_)_20-1-2025.gif)
+![gifbetapinball](<./GIFS4.0/CutContent/Pinball ( pinballv6.4 ) 20-1-2025.gif>)
 
 ![pngcutcontentPinball](./Screenshots4.0/CutContent/Pinball.png)
 
 ⌨️TECLADO PC
 
-![gifbetatecladopc](./GIFS4.0/CutContent/TecladoPC_(_teclado_)_22-1-2025.gif)
+![gifbetatecladopc](<./GIFS4.0/CutContent/TecladoPC ( teclado ) 22-1-2025.gif>)
 
 ![pngcutcontentTecladoPC](./Screenshots4.0/CutContent/TecladoPC.png)
 
 📱TECLADO NUMERICO
 
-![gifbetatecladonum](./GIFS4.0/CutContent/TecladoNum_(_pass2_)_22-1-2025.gif)
+![gifbetatecladonum](<./GIFS4.0/CutContent/TecladoNum ( pass2 ) 22-1-2025.gif>)
 
 ![pngcutcontentTecladoNum1](./Screenshots4.0/CutContent/TecladoNum1.png)
 ![pngcutcontentTecladoNum2](./Screenshots4.0/CutContent/TecladoNum2.png)
