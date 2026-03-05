@@ -86,13 +86,36 @@
 <details>
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
 
+🏎️1
+
 ![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)
+
+🏎️2
+
 ![gifgt+minimapa-GT2](./GIFS4.0/CutContent/GT+MiniMapa/GT2.gif)
+
+🏎️3
+
 ![gifgt+minimapa-GT3](./GIFS4.0/CutContent/GT+MiniMapa/GT3.gif)
+
+🏎️4
+
 ![gifgt+minimapa-GT4](./GIFS4.0/CutContent/GT+MiniMapa/GT4.gif)
+
+🏎️5
+
 ![gifgt+minimapa-GT5](./GIFS4.0/CutContent/GT+MiniMapa/GT5.gif)
+
+🏎️6
+
 ![gifgt+minimapa-GT6](./GIFS4.0/CutContent/GT+MiniMapa/GT6.gif)
+
+🏎️7
+
 ![gifgt+minimapa-GT7](./GIFS4.0/CutContent/GT+MiniMapa/GT7.gif)
+
+🗺️Minimapa
+
 ![gifgt+minimapa-simple](./GIFS4.0/CutContent/GT+MiniMapa/Minimapa.gif)
 
 ![pngcutcontentGT1A](./Screenshots4.0/CutContent/GT+MiniMapa/GT1A.png)
