@@ -3,7 +3,7 @@
 Hay 16 Barrios.
 
 🌃1
-Barrio Chetisimo
+**Barrio Chetisimo**
 
 ![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
 ![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
