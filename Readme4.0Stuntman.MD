@@ -157,6 +157,7 @@ B
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint**
 
 <details>
@@ -206,6 +207,7 @@ B
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
 
 <details>
@@ -255,6 +257,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 5 : Saltar en Rampa**
 <details>
 
@@ -303,6 +306,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas**
 
 <details>
@@ -351,6 +355,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido6](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase6.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 7 : Perseguir coche**
 <details>
 
@@ -399,6 +404,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido7](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase7.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 8 : Saltar en Aro**
 
 <details>
@@ -446,6 +452,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido8](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase8.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 9 : Esquivar trenes**
 <details>
 
@@ -494,6 +501,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido9](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase9.gif)
 </details>
+
 **🎥🚙🔥👀 FASE 10 : Poner bomba y sobrevivir**
 <details>
 
