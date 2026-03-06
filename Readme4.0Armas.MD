@@ -20,9 +20,9 @@ Cada arma tiene sus propias frases al disparar/ejecutar.
 
 7️⃣
 
-8️⃣
+8️⃣***
 
-</details>***
+</details>
 
 ☢️1
 **AK47**
