@@ -58,6 +58,7 @@ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida
 
 <details>
 
+
 💬Fase 1 Dialogos
 
 <details>
