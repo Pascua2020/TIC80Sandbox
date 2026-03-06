@@ -4,7 +4,7 @@ Hay 11 Armas diferentes.
 Cada arma tiene sus propias frases al disparar/ejecutar.
 
 ***🎮👾😱Caracteristicas:
-
+<details>
 1️⃣
 
 2️⃣
@@ -21,7 +21,7 @@ Cada arma tiene sus propias frases al disparar/ejecutar.
 
 8️⃣
 
-
+</details>
 ***
 
 ☢️1
