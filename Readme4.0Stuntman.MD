@@ -60,20 +60,16 @@ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida
 💬Fase 1 Dialogos
 
 
-
+<details>
 A
 
 🎥Version 4.0
 
 ![gifstuntmanv4.0mensajefase1](./GIFS4.0/Stuntman/MensajesFases/MensajeFase1.gif)
 
-<details>
-
 ![pngstuntmanv4.0mensajefase1-1](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-1.png)
 ![pngstuntmanv4.0mensajefase1-3](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-3.png)
 ![pngstuntmanv4.0mensajefase1-5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1-5.png)
-
-</details>
 
 B
 
@@ -82,6 +78,8 @@ B
 ![gifstuntmanv4.0mensajefase1B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase1B.gif)
 
 ![pngstuntmanv4.0mensajefase1B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase1B.png)
+
+</details>
 
 🎬Fase 1 Accion
 
