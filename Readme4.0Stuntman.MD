@@ -55,6 +55,7 @@ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida
 ![gifstuntmanv4.0misioncompletada](./GIFS4.0/Stuntman/StuntmanMisionCompletada.gif)
 
 **🎥🚙🔥👀 FASE 1 : Subir a coche**
+
 <details>
 🎬Fase 1 Dialogos
 
@@ -108,9 +109,10 @@ B
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
 </details>
 
-** 🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
+**🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
 
 <details>
+
 🎬Fase 2 Dialogos
 
 
