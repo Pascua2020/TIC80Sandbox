@@ -628,7 +628,7 @@ https://en.wikipedia.org/wiki/Zurich
 
 </details>
 
-🥚101
+🥚**101**
 
 ![pngEasterEggTogo](./Screenshots4.0/EasterEggs/EasterEggTogo.png)
 
@@ -636,61 +636,61 @@ https://en.wikipedia.org/wiki/Togo
 
 <details>
 
-🥚102
+🥚**102**
 
 ![pngEasterEggNickelodeon](./Screenshots4.0/EasterEggs/EasterEggNickelodeon.png)
 
 https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)
 
-🥚103
+🥚**103**
 
 ![pngEasterEggHollywood](./Screenshots4.0/EasterEggs/EasterEggHollywood.png)
 
 https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles
 
-🥚104
+🥚**104**
 
 ![pngEasterEggSuede3](./Screenshots4.0/EasterEggs/EasterEggSuede3.png)
 
 https://en.wikipedia.org/wiki/Coming_Up_(album)
 
-🥚105
+🥚**105**
 
 ![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
 https://en.wikipedia.org/wiki/Homer_vs._Patty_and_Selma
 
-🥚106
+🥚**106**
 
 ![pngEasterEggTN8](./Screenshots4.0/EasterEggs/EasterEggTN8.png)
 
 https://en.wikipedia.org/wiki/Breaking_news
 
-🥚107
+🥚**107**
 
 ![pngEasterEggGangstaRap](./Screenshots4.0/EasterEggs/EasterEggGangstaRap.png)
 
 https://en.wikipedia.org/wiki/Gangsta_rap
 
-🥚108
+🥚**108**
 
 ![pngEasterEggNewcastleUponTyne](./Screenshots4.0/EasterEggs/EasterEggNewcastleUponTyne.png)
 
 https://en.wikipedia.org/wiki/Newcastle_upon_Tyne
 
-🥚109
+🥚**109**
 
 ![pngEasterEggCarlosGardel](./Screenshots4.0/EasterEggs/EasterEggCarlosGardel.png)
 
 https://en.wikipedia.org/wiki/Carlos_Gardel
 
-🥚110
+🥚**110**
 
 ![pngEasterEggEbola3](./Screenshots4.0/EasterEggs/EasterEggEbola3.png)
 
 </details>
 
-🥚111
+🥚**111**
 
 ![pngEasterEggGhosting](./Screenshots4.0/EasterEggs/EasterEggGhosting.png)
 
@@ -698,113 +698,113 @@ https://en.wikipedia.org/wiki/Ghosting_(behavior)
 
 <details>
 
-🥚112
+🥚**112**
 
 ![pngEasterEggCalifornia](./Screenshots4.0/EasterEggs/EasterEggCalifornia.png)
 
 https://en.wikipedia.org/wiki/California
 
-🥚113
+🥚**113**
 
 ![pngEasterEggGlobalSlaveryIndex](./Screenshots4.0/EasterEggs/EasterEggGlobalSlaveryIndex.png)
 
 https://en.wikipedia.org/wiki/Global_Slavery_Index
 
-🥚114
+🥚**114**
 
 ![pngEasterEggMongolia](./Screenshots4.0/EasterEggs/EasterEggMongolia.png)
 
 https://en.wikipedia.org/wiki/Mongolia
 
-🥚115
+🥚**115**
 
 ![pngEasterEggBerlin](./Screenshots4.0/EasterEggs/EasterEggBerlin.png)
 
 https://en.wikipedia.org/wiki/Berlin
 
-🥚116
+🥚**116**
 
 ![pngEasterEggBanderaArgentina](./Screenshots4.0/EasterEggs/EasterEggBanderaArgentina.png)
 
 https://en.wikipedia.org/wiki/Flag_of_Argentina
 
-🥚117
+🥚**117**
 
 ![pngEasterEggMotosierra](./Screenshots4.0/EasterEggs/EasterEggMotosierra.png)
 
 https://en.wikipedia.org/wiki/Chainsaws_in_popular_culture
 ( Seccion "Politics" )
 
-🥚118
+🥚**118**
 
 ![pngEasterEggSanMarino](./Screenshots4.0/EasterEggs/EasterEggSanMarino.png)
 
 https://en.wikipedia.org/wiki/San_Marino
 
-🥚119
+🥚**119**
 
 ![pngEasterEggCopenhague](./Screenshots4.0/EasterEggs/EasterEggCopenhague.png)
 
 https://en.wikipedia.org/wiki/Copenhagen
 
-🥚120
+🥚**120**
 
 ![pngEasterEggSexual4](./Screenshots4.0/EasterEggs/EasterEggSexual4.png)
 
 </details>
 
-🥚121
+🥚**121**
 
 ![pngEasterEggSexual5](./Screenshots4.0/EasterEggs/EasterEggSexual5.png)
 
 <details>
 
-🥚122
+🥚**122**
 
 ![pngEasterEggSexual6](./Screenshots4.0/EasterEggs/EasterEggSexual6.png)
 
-🥚123
+🥚**123**
 
 ![pngEasterEggMogadiscio](./Screenshots4.0/EasterEggs/EasterEggMogadiscio.png)
 
 https://en.wikipedia.org/wiki/Mogadishu
 
-🥚124
+🥚**124**
 
 ![pngEasterEggChatGPT2](./Screenshots4.0/EasterEggs/EasterEggChatGPT2.png)
 
-🥚125
+🥚**125**
 
 ![pngEasterEggIsrael](./Screenshots4.0/EasterEggs/EasterEggIsrael.png)
 
 https://en.wikipedia.org/wiki/Israel
 
-🥚126
+🥚**126**
 
 ![pngEasterEggMicronesia](./Screenshots4.0/EasterEggs/EasterEggMicronesia.png)
 
 https://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
-🥚127
+🥚**127**
 
 ![pngEasterEggSenegal](./Screenshots4.0/EasterEggs/EasterEggSenegal.png)
 
 https://en.wikipedia.org/wiki/Senegal
 
-🥚128
+🥚**128**
 
 ![pngEasterEggElonMusk](./Screenshots4.0/EasterEggs/EasterEggElonMusk.png)
 
 http://en.wikipedia.org/wiki/Elon_Musk
 http://en.wikipedia.org/wiki/Tanzania
 
-🥚129
+🥚**129**
 
 ![pngEasterEggChad](./Screenshots4.0/EasterEggs/EasterEggChad.png)
 
 https://en.wikipedia.org/wiki/Chad
 
-🥚130
+🥚**130**
 
 ![pngEasterEggEstacionEspacialInternacional](./Screenshots4.0/EasterEggs/EasterEggEstacionEspacialInternacional.png)
 
@@ -812,7 +812,7 @@ https://en.wikipedia.org/wiki/International_Space_Station
 
 </details>
 
-🥚131
+🥚**131**
 
 ![pngEasterEggFacebook](./Screenshots4.0/EasterEggs/EasterEggFacebook.png)
 
@@ -820,56 +820,56 @@ https://en.wikipedia.org/wiki/Facebook
 
 <details>
 
-🥚132
+🥚**132**
 
 ![pngEasterEggOnlyFans](./Screenshots4.0/EasterEggs/EasterEggOnlyFans.png)
 
 https://en.wikipedia.org/wiki/OnlyFans
 
-🥚133
+🥚**133**
 
 ![pngEasterEggSandro](./Screenshots4.0/EasterEggs/EasterEggSandro.png)
 
 https://en.wikipedia.org/wiki/Sandro_de_Am%C3%A9rica
 
-🥚134
+🥚**134**
 
 ![pngEasterEggEleccionesUruguay](./Screenshots4.0/EasterEggs/EasterEggEleccionesUruguay.png)
 
 https://en.wikipedia.org/wiki/Elections_in_Uruguay
 
-🥚135
+🥚**135**
 
 ![pngEasterEggBigBang](./Screenshots4.0/EasterEggs/EasterEggBigBang.png)
 
 https://en.wikipedia.org/wiki/Big_Bang
 
-🥚136
+🥚**136**
 
 ![pngEasterEggPrusia](./Screenshots4.0/EasterEggs/EasterEggPrusia.png)
 
 https://en.wikipedia.org/wiki/Prussia
 
-🥚137
+🥚**137**
 
 ![pngEasterEggOVNI](./Screenshots4.0/EasterEggs/EasterEggOVNI.png)
 
 https://en.wikipedia.org/wiki/Unidentified_flying_object
 
-🥚138
+🥚**138**
 
 ![pngEasterEggPPT](./Screenshots4.0/EasterEggs/EasterEggPPT.png)
 
 https://en.wikipedia.org/wiki/Periodismo_para_todos
 https://en.wikipedia.org/wiki/Bangladesh
 
-🥚139
+🥚**139**
 
 ![pngEasterEggIATakeover](./Screenshots4.0/EasterEggs/EasterEggAITakeover.png)
 
 https://en.wikipedia.org/wiki/AI_takeover
 
-🥚140
+🥚**140**
 
 ![pngEasterEggTardigrado](./Screenshots4.0/EasterEggs/EasterEggTardigrado.png)
 
