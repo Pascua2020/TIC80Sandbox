@@ -129,6 +129,8 @@ La pista de Zurich,Suiza esta en el mapa final.
 
 ![gifgt+minimapa-simple](./GIFS4.0/CutContent/GT+MiniMapa/Minimapa.gif)
 
+La idea era que el juego final tuviera un minimapa general pero por las limitaciones de TIC80 era muy disfuncional intentar implementarlo ( como se ve en el .gif ).
+
 ![pngcutcontentGT1A](./Screenshots4.0/CutContent/GT+MiniMapa/GT1A.png)
 ![pngcutcontentGT1B](./Screenshots4.0/CutContent/GT+MiniMapa/GT1B.png)
 ![pngcutcontentGT2](./Screenshots4.0/CutContent/GT+MiniMapa/GT2.png)
@@ -351,7 +353,6 @@ TODAS
 
 ![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
 
-En el juego final se pueden usar skates y hay caños en el mapa,pero no se pueden "montar".
 
 ![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
 
@@ -369,6 +370,9 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 🛹Skate
 
 ![gifbetaskateA](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 20-1-2025.gif>)
+
+En el juego final se pueden usar skates y hay caños en el mapa,pero no se pueden "montar".
+
 ![gifbetaskateB](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 4-3-2025.gif>)
 
 🎬STUNTMAN
