@@ -776,6 +776,8 @@ H10
 
 **Carteles I : Otros Avisos🪧**
 
+4 Carteles.
+
 🔵102
 
 I1
