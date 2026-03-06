@@ -9,6 +9,8 @@
 🌟-Armas 
 ![README4.0-Armas ](./Readme4.0Armas.MD)
 
+Las 11 Armas del Juego.
+
 🌟-Baile 
 ![README4.0-Baile ](./Readme4.0Baile.MD)
 
