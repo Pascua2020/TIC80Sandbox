@@ -1,6 +1,8 @@
 # Readme4.0Vehiculos
 
 Hay 27 Vehiculos.
+Al subir a un vehiculo su sprite aparece en el HUD
+( si el vehiculo es animado su sprite en el HUD tambien cambia ).
 
 🚐1
 
@@ -13,6 +15,8 @@ Hay 27 Vehiculos.
 🚑2
 
 **Ambulancia**
+
+Vehiculo Animado.
 
 ![pngvehiculoambulancia](./Screenshots4.0/Vehiculos/Ambulancia.png)
 ![pngvehiculoambulanciapreview](./Screenshots4.0/Vehiculos/Preview/Ambulancia-HUD.png)
@@ -86,6 +90,8 @@ Hay 27 Vehiculos.
 
 **Jetpack**
 
+Unico vehiculo que se accede mediante interruptor.
+
 ![pngvehiculojetpack](./Screenshots4.0/Vehiculos/Jetpack.png)
 ![pngvehiculojetpackpreview](./Screenshots4.0/Vehiculos/Preview/Jetpack-HUD.png)
 ![gifvehiculojetpack](./GIFS4.0/Vehiculos/Jetpack.gif)
@@ -125,6 +131,8 @@ Hay 27 Vehiculos.
 🚓16
 
 **Policia**
+
+Vehiculo Animado.
 
 ![pngvehiculopolicia](./Screenshots4.0/Vehiculos/Policia.png)
 ![pngvehiculopoliciapreview](./Screenshots4.0/Vehiculos/Preview/Policia-HUD.png)
