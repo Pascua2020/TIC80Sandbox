@@ -4,11 +4,19 @@ Hay 11 Armas diferentes.
 Cada arma tiene sus propias frases al disparar/ejecutar.
 
 ***🎮👾😱Caracteristicas:
-1-
-2-
-3-
-4-
-5-***
+
+1️⃣
+2️⃣
+3️⃣
+4️⃣
+5️⃣
+6️⃣
+7️⃣
+8️⃣
+9️⃣
+🔟
+
+***
 
 ☢️1
 **AK47**
