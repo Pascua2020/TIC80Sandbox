@@ -386,51 +386,51 @@ https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
 <details>
 
-🥚**62🇦🇫**
+🥚**62 Afganistan🇦🇫**
 
 ![pngEasterEggAfganistan](./Screenshots4.0/EasterEggs/EasterEggAfganistan.png)
 
 https://en.wikipedia.org/wiki/Afghanistan
 
-🥚**63🇰🇵**
+🥚**63 Corea del Norte🇰🇵**
 
 ![pngEasterEggCoreaDelNorte2](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte2.png)
 
 https://en.wikipedia.org/wiki/Pyongyang
 
-🥚**64🇰🇵**
+🥚**64 Corea del Norte🇰🇵**
 
 ![pngEasterEggCoreaDelNorte3](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte3.png)
 
 https://en.wikipedia.org/wiki/Lionel_Messi
 
-🥚**65**
+🥚**65 Cultura Gotica**
 
 ![pngEasterEggGoticas1](./Screenshots4.0/EasterEggs/EasterEggGoticas1.png)
 
 https://en.wikipedia.org/wiki/Goth_subculture
 
-🥚**66**
+🥚**66 Cultura Gotica**
 
 ![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)
 
-🥚**67🇦🇷**
+🥚**67 Guido Suller🇦🇷**
 
 ![pngEasterEggGuidoSuller1](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller1.png)
 
 https://es.wikipedia.org/wiki/Guido_S%C3%BCller
 
-🥚**68🇦🇷**
+🥚**68 Guido Suller🇦🇷**
 
 ![pngEasterEggGuidoSuller2](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller2.png)
 
-🥚**69🇬🇶**
+🥚**69 Guinea Ecuatorial🇬🇶**
 
 ![pngEasterEggGuineaEcuatorial](./Screenshots4.0/EasterEggs/EasterEggGuineaEcuatorial.png)
 
 https://en.wikipedia.org/wiki/Equatorial_Guinea
 
-🥚**70**
+🥚**70 Los Simpson**
 
 ![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
@@ -438,62 +438,62 @@ https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
 </details>
 
-🥚**71🇪🇸**
+🥚**71 Madrid🇪🇸**
 
 ![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)
 
 <details>
 
-🥚**72**
+🥚**72 Memoria RAM**
 
 ![pngEasterEggMemoriaRAM](./Screenshots4.0/EasterEggs/EasterEggMemoriaRAM.png)
 
 https://en.wikipedia.org/wiki/Random-access_memory
 
-🥚**73🇦🇷**
+🥚**73 Mirtha Legrand🇦🇷**
 
 ![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)
 
 https://en.wikipedia.org/wiki/Mirtha_Legrand
 
-🥚**74**
+🥚**74 Tango🇦🇷**
 
 ![pngEasterEggTango1](./Screenshots4.0/EasterEggs/EasterEggTango1.png)
 
 https://en.wikipedia.org/wiki/Argentine_tango
 
-🥚**75**
+🥚**75 Tango🇦🇷**
 
 ![pngEasterEggTango2](./Screenshots4.0/EasterEggs/EasterEggTango2.png)
 ![pngEasterEggWikipedia1](./Screenshots4.0/EasterEggs/EasterEggWikipedia1.png)
 
 https://en.wikipedia.org/wiki/Wikipedia
 
-🥚**76**
+🥚**76 Wikipedia**
 
 ![pngEasterEggWikipedia2](./Screenshots4.0/EasterEggs/EasterEggWikipedia2.png)
 
 https://en.wikipedia.org/wiki/Wiki
 
-🥚**77**
+🥚**77 Winnie Pooh**
 
 ![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)
 
 https://en.wikipedia.org/wiki/Tigger
 
-🥚**78**
+🥚**78 Bosnia y Herzegovina**
 
 ![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia🇧🇦.png)
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
-🥚**79**
+🥚**79 Provincia de Cordoba ( Argentina )**
 
 ![pngEasterEggCordoba🇦🇷](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
-🥚**80**
+🥚**80 Peninsula Coreana**
 
 ![pngEasterEggCorea🇰🇷🇰🇵](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
 
@@ -501,7 +501,7 @@ https://en.wikipedia.org/wiki/Korea
 
 </details>
 
-🥚**81**
+🥚**81 Eritrea**
 
 ![pngEasterEggEritrea🇪🇷](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
 
@@ -509,54 +509,54 @@ https://en.wikipedia.org/wiki/Eritrea
 
 <details>
 
-🥚**82🏴󠁧󠁢󠁷󠁬󠁳󠁿**
+🥚**82 Idioma Gales🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 ![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)
 
-🥚**83**
+🥚**83 Instagram**
 
 ![pngEasterEggInstagram](./Screenshots4.0/EasterEggs/EasterEggInstagram.png)
 
 https://en.wikipedia.org/wiki/Instagram
 
-🥚**84**
+🥚**84 Iphone**
 
 ![pngEasterEggIphone](./Screenshots4.0/EasterEggs/EasterEggIphone.png)
 
 https://en.wikipedia.org/wiki/Iphone
 
-🥚**85**
+🥚**85 Lince**
 
 ![pngEasterEggLince](./Screenshots4.0/EasterEggs/EasterEggLince.png)
 
 https://en.wikipedia.org/wiki/Lynx
 
-🥚**86**
+🥚**86 MercadoLibre🇦🇷**
 
 ![pngEasterEggMercadoLibre](./Screenshots4.0/EasterEggs/EasterEggMercadoLibre.png)
 
 https://en.wikipedia.org/wiki/Mercado_Libre
 
-🥚**87🇨🇦**
+🥚**87 Nunavut ( Canada )🇨🇦**
 
 ![pngEasterEggNunavut](./Screenshots4.0/EasterEggs/EasterEggNunavut.png)
 
 https://en.wikipedia.org/wiki/Nunavut
 
-🥚**88**
+🥚**88 Penpals**
 
 ![pngEasterEggPenpals](./Screenshots4.0/EasterEggs/EasterEggPenpals.png)
 
 https://en.wikipedia.org/wiki/Pen_pal
 
-🥚**89🇺🇲**
+🥚**89 Area 51 y Pentagono🇺🇲**
 
 ![pngEasterEggPentagonoArea51](./Screenshots4.0/EasterEggs/EasterEggPentagonoArea51.png)
 
 https://en.wikipedia.org/wiki/The_Pentagon
 https://en.wikipedia.org/wiki/Area_51
 
-🥚**90**
+🥚**90 Pinball**
 
 ![pngEasterEggPinballs1](./Screenshots4.0/EasterEggs/EasterEggPinballs1.png)
 
@@ -564,7 +564,7 @@ https://en.wikipedia.org/wiki/Pinball
 
 </details>
 
-🥚**91**
+🥚**91 Pinball**
 
 ![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)
 
