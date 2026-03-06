@@ -792,7 +792,7 @@ I4
 
 </details>
 
-Carteles J
+Carteles J : Leyendas🃏
 
 🟦106
 
