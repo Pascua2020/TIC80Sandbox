@@ -826,7 +826,7 @@ J4
 
 </details>
 
-Carteles K
+Carteles K : Otros 🍀
 
 ⚫110
 
@@ -842,7 +842,7 @@ K2
 ![pngscartelesK2](./Screenshots4.0/Carteles/K/CartelK-2.png)
 ![gifscartelesK2](./GIFS4.0/Carteles/K/CartelK-2.gif)
 
-Carteles L
+Carteles L : Interactivos⚽
 
 🛑112
 
