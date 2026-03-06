@@ -260,7 +260,7 @@ A36
 
 </details>
 
-Carteles B
+Carteles B : Paradas de Colectivo🚏🚍
 
 ⬛37
 
