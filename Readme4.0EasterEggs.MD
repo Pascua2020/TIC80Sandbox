@@ -235,7 +235,7 @@ https://en.wikipedia.org/wiki/Javier_Milei
 
 ![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)
 
-🥚**38 Pulp ( cancion "Party Hard" ) **
+🥚**38 Pulp ( cancion "Party Hard" )🇬🇧**
 
 ![pngEasterEggPulp](./Screenshots4.0/EasterEggs/EasterEggPulp.png)
 
@@ -366,13 +366,13 @@ https://en.wikipedia.org/wiki/Jorge_Lanata
 https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 https://en.wikipedia.org/wiki/Exposure_therapy#Exposure_and_response_prevention_(ERP)
 
-🥚**59**
+🥚**59🇯🇵**
 
 ![pngEasterEggToyota](./Screenshots4.0/EasterEggs/EasterEggToyota.png)
 
 https://en.wikipedia.org/wiki/Toyota
 
-🥚**60**
+🥚**60🇺🇾**
 
 ![pngEasterEggUruguay](./Screenshots4.0/EasterEggs/EasterEggUruguay.png)
 
@@ -380,25 +380,25 @@ https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
 </details>
 
-🥚**61**
+🥚**61🇦🇷**
 
 ![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)
 
 <details>
 
-🥚**62**
+🥚**62🇦🇫**
 
 ![pngEasterEggAfganistan](./Screenshots4.0/EasterEggs/EasterEggAfganistan.png)
 
 https://en.wikipedia.org/wiki/Afghanistan
 
-🥚**63**
+🥚**63🇰🇵**
 
 ![pngEasterEggCoreaDelNorte2](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte2.png)
 
 https://en.wikipedia.org/wiki/Pyongyang
 
-🥚**64**
+🥚**64🇰🇵**
 
 ![pngEasterEggCoreaDelNorte3](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte3.png)
 
@@ -414,17 +414,17 @@ https://en.wikipedia.org/wiki/Goth_subculture
 
 ![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)
 
-🥚**67**
+🥚**67🇦🇷**
 
 ![pngEasterEggGuidoSuller1](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller1.png)
 
 https://es.wikipedia.org/wiki/Guido_S%C3%BCller
 
-🥚**68**
+🥚**68🇦🇷**
 
 ![pngEasterEggGuidoSuller2](./Screenshots4.0/EasterEggs/EasterEggGuidoSuller2.png)
 
-🥚**69**
+🥚**69🇬🇶**
 
 ![pngEasterEggGuineaEcuatorial](./Screenshots4.0/EasterEggs/EasterEggGuineaEcuatorial.png)
 
@@ -438,7 +438,7 @@ https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
 </details>
 
-🥚**71**
+🥚**71🇪🇸**
 
 ![pngEasterEggMadrid2](./Screenshots4.0/EasterEggs/EasterEggMadrid2.png)
 
@@ -450,7 +450,7 @@ https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
 https://en.wikipedia.org/wiki/Random-access_memory
 
-🥚**73**
+🥚**73🇦🇷**
 
 ![pngEasterEggMirthaLegrand](./Screenshots4.0/EasterEggs/EasterEggMirthaLegrand.png)
 
@@ -483,19 +483,19 @@ https://en.wikipedia.org/wiki/Tigger
 
 🥚**78**
 
-![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)
+![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia🇧🇦.png)
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
 🥚**79**
 
-![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
+![pngEasterEggCordoba🇦🇷](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
 🥚**80**
 
-![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
+![pngEasterEggCorea🇰🇷🇰🇵](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
 
 https://en.wikipedia.org/wiki/Korea
 
@@ -503,13 +503,13 @@ https://en.wikipedia.org/wiki/Korea
 
 🥚**81**
 
-![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
+![pngEasterEggEritrea🇪🇷](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
 
 https://en.wikipedia.org/wiki/Eritrea
 
 <details>
 
-🥚**82**
+🥚**82🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 ![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)
 
@@ -537,7 +537,7 @@ https://en.wikipedia.org/wiki/Lynx
 
 https://en.wikipedia.org/wiki/Mercado_Libre
 
-🥚**87**
+🥚**87🇨🇦**
 
 ![pngEasterEggNunavut](./Screenshots4.0/EasterEggs/EasterEggNunavut.png)
 
@@ -549,7 +549,7 @@ https://en.wikipedia.org/wiki/Nunavut
 
 https://en.wikipedia.org/wiki/Pen_pal
 
-🥚**89**
+🥚**89🇺🇲**
 
 ![pngEasterEggPentagonoArea51](./Screenshots4.0/EasterEggs/EasterEggPentagonoArea51.png)
 
@@ -576,19 +576,19 @@ https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
 ![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)
 
-🥚**93**
+🥚**93🇦🇷**
 
 ![pngEasterEggPresidenteDeArgentina](./Screenshots4.0/EasterEggs/EasterEggPresidenteDeArgentina.png)
 
 https://en.wikipedia.org/wiki/President_of_Argentina
 
-🥚**94**
+🥚**94🇬🇧**
 
 ![pngEasterEggPulp2](./Screenshots4.0/EasterEggs/EasterEggPulp2.png)
 
 https://en.wikipedia.org/wiki/This_Is_Hardcore
 
-🥚**95**
+🥚**95🇦🇷**
 
 ![pngEasterEggSantiagoDelEstero](./Screenshots4.0/EasterEggs/EasterEggSantiagoDelEstero.png)
 
@@ -618,7 +618,7 @@ https://en.wikipedia.org/wiki/Condom
 
 https://en.wikipedia.org/wiki/Kama_Sutra
 
-🥚**100**
+🥚**100🇨🇭🇳🇴**
 
 ![pngEasterEggSuizaNoruegaZurich](./Screenshots4.0/EasterEggs/EasterEggSuizaNoruegaZurich.png)
 
@@ -628,7 +628,7 @@ https://en.wikipedia.org/wiki/Zurich
 
 </details>
 
-🥚**101**
+🥚**101🇹🇬**
 
 ![pngEasterEggTogo](./Screenshots4.0/EasterEggs/EasterEggTogo.png)
 
@@ -642,13 +642,13 @@ https://en.wikipedia.org/wiki/Togo
 
 https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)
 
-🥚**103**
+🥚**103🇺🇲**
 
 ![pngEasterEggHollywood](./Screenshots4.0/EasterEggs/EasterEggHollywood.png)
 
 https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles
 
-🥚**104**
+🥚**104🇬🇧**
 
 ![pngEasterEggSuede3](./Screenshots4.0/EasterEggs/EasterEggSuede3.png)
 
@@ -672,7 +672,7 @@ https://en.wikipedia.org/wiki/Breaking_news
 
 https://en.wikipedia.org/wiki/Gangsta_rap
 
-🥚**108**
+🥚**108🇬🇧**
 
 ![pngEasterEggNewcastleUponTyne](./Screenshots4.0/EasterEggs/EasterEggNewcastleUponTyne.png)
 
@@ -698,31 +698,31 @@ https://en.wikipedia.org/wiki/Ghosting_(behavior)
 
 <details>
 
-🥚**112**
+🥚**112🇺🇲**
 
 ![pngEasterEggCalifornia](./Screenshots4.0/EasterEggs/EasterEggCalifornia.png)
 
 https://en.wikipedia.org/wiki/California
 
-🥚**113**
+🥚**113🇨🇭**
 
 ![pngEasterEggGlobalSlaveryIndex](./Screenshots4.0/EasterEggs/EasterEggGlobalSlaveryIndex.png)
 
 https://en.wikipedia.org/wiki/Global_Slavery_Index
 
-🥚**114**
+🥚**114🇲🇳**
 
 ![pngEasterEggMongolia](./Screenshots4.0/EasterEggs/EasterEggMongolia.png)
 
 https://en.wikipedia.org/wiki/Mongolia
 
-🥚**115**
+🥚**115🇩🇪**
 
 ![pngEasterEggBerlin](./Screenshots4.0/EasterEggs/EasterEggBerlin.png)
 
 https://en.wikipedia.org/wiki/Berlin
 
-🥚**116**
+🥚**116🇦🇷**
 
 ![pngEasterEggBanderaArgentina](./Screenshots4.0/EasterEggs/EasterEggBanderaArgentina.png)
 
@@ -735,13 +735,13 @@ https://en.wikipedia.org/wiki/Flag_of_Argentina
 https://en.wikipedia.org/wiki/Chainsaws_in_popular_culture
 ( Seccion "Politics" )
 
-🥚**118**
+🥚**118🇸🇲**
 
 ![pngEasterEggSanMarino](./Screenshots4.0/EasterEggs/EasterEggSanMarino.png)
 
 https://en.wikipedia.org/wiki/San_Marino
 
-🥚**119**
+🥚**119🇩🇰**
 
 ![pngEasterEggCopenhague](./Screenshots4.0/EasterEggs/EasterEggCopenhague.png)
 
