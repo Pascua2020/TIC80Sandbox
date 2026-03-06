@@ -49,7 +49,11 @@ Ciclo Dia y Noche,Nafta,Modo GT,MiniMapa,RC y mas.
 
 🌟-Diario ![README4.0-Diario ](./Readme4.0Diario.MD)
 
+Incluye 5 Noticias.
+
 🌟-DiosGPT ![README4.0-DiosGPT ](./Readme4.0DiosGPT.MD)
+
+Simula ser un MiniTutorial.
 
 🌟-EasterEggs ![README4.0-EasterEggs](./Readme4.0EasterEggs.MD)
 
@@ -62,6 +66,8 @@ Mas de 160 Easter Eggs.
 Los 20 Dibujos en el Mar.
 
 🌟-Mejorar ![README4.0-Mejorar ](./Readme4.0Mejorar.MD)
+
+Elementos que se podrian mejorar de la Version 4.0 .
 
 🌟-Menu Principal ![README4.0-MenuPrincipal ](./Readme4.0MenuPrincipal.MD)
 
