@@ -74,6 +74,8 @@ Vehiculo Animado.
 
 **Globo**
 
+Posee una animacion de llamas.
+
 ![pngvehiculoglobo](./Screenshots4.0/Vehiculos/Globo.png)
 ![pngvehiculoglobopreview](./Screenshots4.0/Vehiculos/Preview/Globo-HUD.png)
 ![gifvehiculoglobo](./GIFS4.0/Vehiculos/Globo.gif)
@@ -107,6 +109,8 @@ Unico vehiculo que se accede mediante interruptor.
 🚤13
 
 **Lancha Kurro**
+
+Posee una animacion de agua salpicando.
 
 ![pngvehiculolanchakurro](./Screenshots4.0/Vehiculos/LanchaKurro.png)
 ![pngvehiculoLanchaKurropreview](./Screenshots4.0/Vehiculos/Preview/LanchaKurro-HUD.png)
