@@ -293,6 +293,8 @@ B3
 
 **Carteles C : Descripciones Lugares 🏟️**
 
+17 Carteles.
+
 🟥40
 
 C01
