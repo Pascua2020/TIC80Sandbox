@@ -516,7 +516,7 @@ E6
 
 </details>
 
-Carteles F
+Carteles F : Kioscos de Diario y Prohibiciones🗞️🚫
 
 ⬛70
 
