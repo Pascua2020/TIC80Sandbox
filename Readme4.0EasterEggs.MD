@@ -2,7 +2,7 @@
 
 Hay almenos 161 Easter Eggs ( Referencias ).
 
-🥚**1 Asteroide a la Tierra en 2880.**
+🥚**1 Asteroide a la Tierra en 2880☄️🌏.**
 
 ![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
 
@@ -10,14 +10,14 @@ https://en.wikipedia.org/wiki/(29075)_1950_DA
 
 <details>
 
-🥚**2 Bob Esponja ( Capitulo del Millonesimo Dolar )**
+🥚**2 Bob Esponja ( Capitulo del Millonesimo Dolar )🇺🇲**
 
 ![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)
 
 https://en.wikipedia.org/wiki/SpongeBob_SquarePants_season_3
 ( Capitulo 53 - "Clams" )
 
-🥚**3 ChatGPT**
+🥚**3 ChatGPT🇺🇲**
 
 ![pngEasterEggChatGPT](./Screenshots4.0/EasterEggs/EasterEggChatGPT.png)
 
@@ -29,19 +29,19 @@ https://en.wikipedia.org/wiki/ChatGPT
 
 https://en.wikipedia.org/wiki/North_Korea
 
-🥚**5 Dance Dance Revolution**
+🥚**5 Dance Dance Revolution🇯🇵**
 
 ![pngEasterEggDDR](./Screenshots4.0/EasterEggs/EasterEggDDR.png)
 
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution
 
-🥚**6 Ebola**
+🥚**6 Ebola🇨🇩**
 
 ![pngEasterEggEbola](./Screenshots4.0/EasterEggs/EasterEggEbola.png)
 
 https://en.wikipedia.org/wiki/Ebola
 
-🥚**7 Ebola**
+🥚**7 Ebola🇨🇩**
 
 ![pngEasterEggEbola2](./Screenshots4.0/EasterEggs/EasterEggEbola2.png)
 
