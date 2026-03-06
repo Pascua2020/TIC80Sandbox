@@ -528,6 +528,8 @@ E6
 
 **Carteles F : Kioscos de Diario y Prohibiciones🗞️🚫**
 
+17 Carteles.
+
 ⬛70
 
 F01
