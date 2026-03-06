@@ -572,53 +572,53 @@ https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
 <details>
 
-🥚**92**
+🥚**92 Pinball**
 
 ![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)
 
-🥚**93🇦🇷**
+🥚**93 Presidente de Argentina🇦🇷**
 
 ![pngEasterEggPresidenteDeArgentina](./Screenshots4.0/EasterEggs/EasterEggPresidenteDeArgentina.png)
 
 https://en.wikipedia.org/wiki/President_of_Argentina
 
-🥚**94🇬🇧**
+🥚**94 Pulp ( Album "This is Hardcore" )🇬🇧**
 
 ![pngEasterEggPulp2](./Screenshots4.0/EasterEggs/EasterEggPulp2.png)
 
 https://en.wikipedia.org/wiki/This_Is_Hardcore
 
-🥚**95🇦🇷**
+🥚**95 Provincia de Santiago del Estero ( Argentina ) 🇦🇷**
 
 ![pngEasterEggSantiagoDelEstero](./Screenshots4.0/EasterEggs/EasterEggSantiagoDelEstero.png)
 
 https://en.wikipedia.org/wiki/Santiago_del_Estero_Province
 
-🥚**96**
+🥚**96 Serbia**
 
 ![pngEasterEggSerbia](./Screenshots4.0/EasterEggs/EasterEggSerbia.png)
 
 https://en.wikipedia.org/wiki/Serbia
 
-🥚**97**
+🥚**97 Sexual**
 
 ![pngEasterEggSexual1](./Screenshots4.0/EasterEggs/EasterEggSexual1.png)
 
 https://en.wikipedia.org/wiki/Sexual_intercourse
 
-🥚**98**
+🥚**98 Sexual**
 
 ![pngEasterEggSexual2](./Screenshots4.0/EasterEggs/EasterEggSexual2.png)
 
 https://en.wikipedia.org/wiki/Condom
 
-🥚**99**
+🥚**99 Sexual**
 
 ![pngEasterEggSexual3](./Screenshots4.0/EasterEggs/EasterEggSexual3.png)
 
 https://en.wikipedia.org/wiki/Kama_Sutra
 
-🥚**100🇨🇭🇳🇴**
+🥚**100 Zurich ( Suiza ) y Noruega🇨🇭🇳🇴**
 
 ![pngEasterEggSuizaNoruegaZurich](./Screenshots4.0/EasterEggs/EasterEggSuizaNoruegaZurich.png)
 
@@ -628,7 +628,7 @@ https://en.wikipedia.org/wiki/Zurich
 
 </details>
 
-🥚**101🇹🇬**
+🥚**101 Togo🇹🇬**
 
 ![pngEasterEggTogo](./Screenshots4.0/EasterEggs/EasterEggTogo.png)
 
@@ -636,55 +636,55 @@ https://en.wikipedia.org/wiki/Togo
 
 <details>
 
-🥚**102**
+🥚**102 NickelOdeon**
 
 ![pngEasterEggNickelodeon](./Screenshots4.0/EasterEggs/EasterEggNickelodeon.png)
 
 https://en.wikipedia.org/wiki/Nickelodeon_(movie_theater)
 
-🥚**103🇺🇲**
+🥚**103 Hollywood🇺🇲**
 
 ![pngEasterEggHollywood](./Screenshots4.0/EasterEggs/EasterEggHollywood.png)
 
 https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles
 
-🥚**104🇬🇧**
+🥚**104 Suede ( album "Coming Up")🇬🇧**
 
 ![pngEasterEggSuede3](./Screenshots4.0/EasterEggs/EasterEggSuede3.png)
 
 https://en.wikipedia.org/wiki/Coming_Up_(album)
 
-🥚**105**
+🥚**105 Los Simpson🇺🇲**
 
 ![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
 https://en.wikipedia.org/wiki/Homer_vs._Patty_and_Selma
 
-🥚**106**
+🥚**106 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN8](./Screenshots4.0/EasterEggs/EasterEggTN8.png)
 
 https://en.wikipedia.org/wiki/Breaking_news
 
-🥚**107**
+🥚**107 Gangsta Rap**
 
 ![pngEasterEggGangstaRap](./Screenshots4.0/EasterEggs/EasterEggGangstaRap.png)
 
 https://en.wikipedia.org/wiki/Gangsta_rap
 
-🥚**108🇬🇧**
+🥚**108 Newcastle Upon Tyne ( Reino Unido )🇬🇧**
 
 ![pngEasterEggNewcastleUponTyne](./Screenshots4.0/EasterEggs/EasterEggNewcastleUponTyne.png)
 
 https://en.wikipedia.org/wiki/Newcastle_upon_Tyne
 
-🥚**109**
+🥚**109 Carlos Gardel🇦🇷**
 
 ![pngEasterEggCarlosGardel](./Screenshots4.0/EasterEggs/EasterEggCarlosGardel.png)
 
 https://en.wikipedia.org/wiki/Carlos_Gardel
 
-🥚**110**
+🥚**110 Ebola🇨🇩**
 
 ![pngEasterEggEbola3](./Screenshots4.0/EasterEggs/EasterEggEbola3.png)
 
