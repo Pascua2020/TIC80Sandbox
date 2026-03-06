@@ -99,31 +99,31 @@ https://en.wikipedia.org/wiki/Mandarin_Chinese
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-🥚16 Idioma Gales
+🥚**16 Idioma Gales**
 
 ![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)
 
 https://en.wikipedia.org/wiki/Patagonian_Welsh
 
-🥚17 Idioma Gales
+🥚**17 Idioma Gales**
 
 ![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)
 
 https://en.wikipedia.org/wiki/Welsh_language
 
-🥚18 Idioma Romanche ( Suiza )
+🥚**18 Idioma Romanche ( Suiza )**
 
 ![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)
 
 https://en.wikipedia.org/wiki/Romansh_language
 
-🥚19 Idioma Tenis
+🥚**19 Idioma Tenis**
 
 ![pngEasterEggIdiomaTenis](./Screenshots4.0/EasterEggs/EasterEggIdiomaTenis.png)
 
 https://en.wikipedia.org/wiki/Tenis_language
 
-🥚20 Idioma Tigriña
+🥚**20 Idioma Tigriña**
 
 ![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)
 
@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Tigrinya_language
 
 </details>
 
-🥚21
+🥚21 Idioma Wolof ( Senegal )
 
 ![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
@@ -139,55 +139,55 @@ https://en.wikipedia.org/wiki/Wolof_language
 
 <details>
 
-🥚22
+🥚22 Guerra de los 12 Dias
 
 ![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)
 
 https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war
 
-🥚23
+🥚23 Desierto de Lut ( Iran )
 
 ![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)
 
 https://en.wikipedia.org/wiki/Lut_Desert
 
-🥚24
+🥚24 Nestor Kirchner ( Frase "Extasis" )
 
 ![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)
 
 https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 
-🥚25
+🥚25 LaNacion+
 
 ![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)
 
 https://en.wikipedia.org/wiki/La_Naci%C3%B3n
 
-🥚26
+🥚26 LaNacion+
 
 ![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)
 
 https://es.wikipedia.org/wiki/Carlos_Pagni
 
-🥚27
+🥚27 Los Angeles
 
 ![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)
 
 https://en.wikipedia.org/wiki/Los_Angeles
 
-🥚28
+🥚28 Los Simpson
 
 ![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)
 
 https://en.wikipedia.org/wiki/Bart_on_the_Road
 
-🥚29
+🥚29 Los Simpson
 
 ![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)
 
 https://en.wikipedia.org/wiki/Bart_the_Genius
 
-🥚30
+🥚30 Los Simpson
 
 ![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
@@ -195,7 +195,7 @@ https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
 </details>
 
-🥚31
+🥚31 Lunfardo
 
 ![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)
 
@@ -203,7 +203,7 @@ https://en.wikipedia.org/wiki/Lunfardo
 
 <details>
 
-🥚32
+🥚32 Mauricio Macri ( Frase "Reperfilar" )
 
 ![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
 
