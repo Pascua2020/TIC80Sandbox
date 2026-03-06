@@ -102,7 +102,7 @@
 
 🪩**Frases Combos**
 
-🎇1
+🎇***1***
 
 ![gifsfrasescombos1](./GIFS4.0/Baile/LetrasCombos/FrasesCombos1.gif)
 
@@ -110,19 +110,19 @@
 
 ![pngfrasescombos1](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos1.png)
 
-🎇2
+🎇***2***
 
 ![gifsfrasescombos2](./GIFS4.0/Baile/LetrasCombos/FrasesCombos2.gif)
 
 ![pngfrasescombos2](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos2.png)
 
-🎇3
+🎇***3***
 
 ![gifsfrasescombos3](./GIFS4.0/Baile/LetrasCombos/FrasesCombos3.gif)
 
 ![pngfrasescombos3](./Screenshots4.0/Baile/FrasesCombos/FrasesCombos3.png)
 
-🎇4
+🎇***4***
 
 ![gifsfrasescombos4](./GIFS4.0/Baile/LetrasCombos/FrasesCombos4.gif)
 
@@ -132,7 +132,7 @@
 
 🪩**Niveles Velocidad**
 
-➡️0
+➡️***0***
 
 ![gifsvelocidad0](./GIFS4.0/Baile/NivelesVelocidad/Velocidad0.gif)
 
@@ -140,25 +140,25 @@
 
 ![pngvelocidad0](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad0.png)
 
-➡️➡️1
+➡️➡️***1***
 
 ![gifsvelocidad1](./GIFS4.0/Baile/NivelesVelocidad/Velocidad1.gif)
 
 ![pngvelocidad1](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad1.png)
 
-➡️➡️➡️2
+➡️➡️➡️***2***
 
 ![gifsvelocidad2](./GIFS4.0/Baile/NivelesVelocidad/Velocidad2.gif)
 
 ![pngvelocidad2](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad2.png)
 
-➡️➡️➡️➡️3
+➡️➡️➡️➡️***3***
 
 ![gifsvelocidad3](./GIFS4.0/Baile/NivelesVelocidad/Velocidad3.gif)
 
 ![pngvelocidad3](./Screenshots4.0/Baile/NivelesVelocidad/Velocidad3.png)
 
-➡️➡️➡️➡️➡️4
+➡️➡️➡️➡️➡️***4***
 
 ![gifsvelocidad4](./GIFS4.0/Baile/NivelesVelocidad/Velocidad4.gif)
 
