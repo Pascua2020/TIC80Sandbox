@@ -91,6 +91,8 @@ En el juego final el jugador puede conducir colectivos y hay paradas,pero no pue
 
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
 
+La pista de Zurich,Suiza esta en el mapa final.
+
 <details>
 
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
