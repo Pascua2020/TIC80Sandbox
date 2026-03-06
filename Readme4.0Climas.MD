@@ -6,7 +6,7 @@
 🌪️Viento
 
 
-🍃Hojas
+🍃**Hojas**
 
 ![gifsclima-hojas](./GIFS4.0/Climas/Hojas.gif)
 
