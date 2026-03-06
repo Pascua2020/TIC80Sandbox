@@ -979,31 +979,31 @@ https://en.wikipedia.org/wiki/Batman_Province
 
 https://en.wikipedia.org/wiki/Fourth_wall
 
-🥚**156🇺🇲**
+🥚**156 Duke Nukem 3D🇺🇲**
 
 ![pngEasterEggDukeNukem](./Screenshots4.0/EasterEggs/EasterEggDukeNukem.png)
 
 https://en.wikipedia.org/wiki/Duke_Nukem_3D
 
-🥚**157🇦🇷**
+🥚**157 Obelisco de Buenos Aires🇦🇷**
 
 ![pngEasterEggObelisco](./Screenshots4.0/EasterEggs/EasterEggObelisco.png)
 
 https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires
 
-🥚**158🇨🇳**
+🥚**158 DeepSeek🇨🇳**
 
 ![pngEasterEggDeepSeek](./Screenshots4.0/EasterEggs/EasterEggDeepSeek.png)
 
 https://en.wikipedia.org/wiki/DeepSeek_(chatbot)
 
-🥚**159🇺🇲**
+🥚**159 Tony Hawk Pro Skater 4🇺🇲**
 
 ![pngEasterEggTonyHawk](./Screenshots4.0/EasterEggs/EasterEggTonyHawk.png)
 
 https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4
 
-🥚**160🇺🇲**
+🥚**160 Rambo🇺🇲**
 
 ![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)
 
@@ -1011,7 +1011,7 @@ https://en.wikipedia.org/wiki/First_Blood
 
 </details>
 
-🥚**161 🇯🇵**
+🥚**161 Yugioh!🇯🇵**
 
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)
 
