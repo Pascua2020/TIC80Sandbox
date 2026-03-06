@@ -115,7 +115,7 @@ B
 💬Fase 2 Dialogos
 
 
-
+<details>
 A
 
 🎥Version 4.0
@@ -131,15 +131,15 @@ B
 ![gifstuntmanv4.0mensajefase2B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase2B.gif)
 
 ![pngstuntmanv4.0mensajefase2B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase2B.png)
-
+</details>
 🎬Fase 2 Accion
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF2](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase2.gif)
-
+</details>
 ☠️Fase 2 Game Over
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1gameover2](./GIFS4.0/CutContent/Stuntman/V1/GameOver2.gif)
@@ -149,12 +149,13 @@ B
 ![gifstuntmanv4.0gameover2](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver2.gif)
 
 ![pngstuntmanv4.0gameover2](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman02.png)
-
+</details>
 ➡️Fase 2 Inicio Rapido
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
+</details>
 </details>
 
 **🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint**
@@ -163,7 +164,7 @@ B
 💬Fase 3 Dialogos
 
 
-
+<details>
 A
 
 🎥Version 4.0
@@ -179,16 +180,16 @@ B
 ![gifstuntmanv4.0mensajefase3B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase3B.gif)
 
 ![pngstuntmanv4.0mensajefase3B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase3B.png)
-
+</details>
 
 🎬Fase 3 Accion
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF3](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase3.gif)
-
+</details>
 ☠️Fase 3 Game Over
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1gameover3](./GIFS4.0/CutContent/Stuntman/V1/GameOver3.gif)
@@ -198,13 +199,14 @@ B
 ![gifstuntmanv4.0gameover3](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver3.gif)
 
 ![pngstuntmanv4.0gameover3](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman03.png)
-
+</details>
 ➡️Fase 3 Inicio Rapido
 
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
+</details>
 </details>
 
 **🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
@@ -213,7 +215,7 @@ B
 💬Fase 4 Dialogos
 
 
-
+<details>
 A
 
 🎥Version 4.0
@@ -229,17 +231,17 @@ B
 ![gifstuntmanv4.0mensajefase4B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase4B.gif)
 
 ![pngstuntmanv4.0mensajefase4B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase4B.png)
-
+</details>
 
 
 🎬Fase 4 Accion
-
+<details>
 Version 1
 
 ![gifstuntmanv1jugabilidadF4](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase4.gif)
-
+</details>
 ☠️Fase 4 Game Over
-
+<details>
 Version 1
 
 ![gifstuntmanv1gameover4](./GIFS4.0/CutContent/Stuntman/V1/GameOver4.gif)
@@ -249,12 +251,13 @@ Version 4.0
 ![gifstuntmanv4.0gameover4](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver4.gif)
 
 ![pngstuntmanv4.0gameover4](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman04.png)
-
+</details>
 ➡️Fase 4 Inicio Rapido
-
+<details>
 Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
+</details>
 </details>
 
 **🎥🚙🔥👀 FASE 5 : Saltar en Rampa**
@@ -263,7 +266,7 @@ Version 1
 💬Fase 5 Dialogos
 
 
-
+<details>
 A
 
 Version 4.0
@@ -280,15 +283,15 @@ Version 4.0
 
 ![pngstuntmanv4.0mensajefase5B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase5B.png)
 
-
+</details>
 🎬Fase 5 Accion
-
+<details>
 Version 1
 
 ![gifstuntmanv1jugabilidadF5](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase5.gif)
-
+</details>
 ☠️Fase 5 Game Over
-
+<details>
 Version 1
 
 ![gifstuntmanv1gameover5](./GIFS4.0/CutContent/Stuntman/V1/GameOver5.gif)
@@ -298,12 +301,13 @@ Version 4.0
 ![gifstuntmanv4.0gameover5](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver5.gif)
 
 ![pngstuntmanv4.0gameover5](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman05.png)
-
+</details>
 ➡️Fase 5 Inicio Rapido
-
+<details>
 Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
+</details>
 </details>
 
 **🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas**
