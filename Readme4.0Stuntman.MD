@@ -715,7 +715,8 @@ Fondo
 </details>
 
 
-🖲️Quick Time Event
+🖲️**Quick Time Event**"
+( Activa Mensajes de Desarrollador )
 
 ![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/MensajesDesarrollador/IconoDialogosDesarrollador.png)
 ![pngstuntmanv4.0qte2](./Screenshots4.0/Stuntman/MensajesDesarrollador/DialogosDesarrolladorActivados.png)
@@ -810,7 +811,7 @@ Cronometros
 
 
 
-⛔Mensaje Limite Pantalla
+⛔**Mensaje Limite Pantalla**
 
 🎫Version 1
 
@@ -837,7 +838,7 @@ Cronometros
 
 ![gifstuntmanv4.0explosionF10](./GIFS4.0/Stuntman/ExplosionFase10.gif)
 
-🤬Pistola con Frases de Disparo
+🤬**Pistola con Frases de Disparo**
 
 🎫V1.0
 
@@ -876,7 +877,7 @@ Cronometros
 
 ![pngstuntmanv4.0Tren](./Screenshots4.0/Stuntman/TrenesFase9.png)
 
-Efectos de Luces y Humo de Escape en Coche
+**Efectos de Luces y Humo de Escape en Coche**
 
 Version 4.0
 
@@ -894,15 +895,15 @@ Descartado:
 
 
 
-🎥-Grabar Fase
+🎥-**Grabar Fase**
 
 ![gifstuntmangrabarfase](<./GIFS4.0/CutContent/Stuntman/GrabandoFaseStuntman ( crimenypixelv2.3 ) 24-4-2025.gif>)
 
-🪫-Medidor Sobrecarga de RAM
+🪫-**Medidor Sobrecarga de RAM**
 
 ![gifstuntmanmedidorram](<./GIFS4.0/CutContent/Stuntman/MedidorSobrecargaRAM ( crimenYPixelv2.1 ) 18-4-2025.gif>)
 
-📀-Sistema de Logros
+📀-**Sistema de Logros**
 
 
 ![gifstuntmansistemalogros](<./GIFS4.0/CutContent/Stuntman/SistemaLogros ( crimenYPixelv2.1 ) 18-4-2025.gif>)
