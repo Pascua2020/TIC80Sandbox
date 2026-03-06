@@ -57,7 +57,7 @@ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida
 **🎥🚙🔥👀 FASE 1 : Subir a coche**
 
 <details>
-🎬Fase 1 Dialogos
+💬Fase 1 Dialogos
 
 
 
@@ -113,7 +113,7 @@ B
 
 <details>
 
-🎬Fase 2 Dialogos
+💬Fase 2 Dialogos
 
 
 
@@ -161,7 +161,7 @@ B
 **🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint**
 
 <details>
-🎬Fase 3 Dialogos
+💬Fase 3 Dialogos
 
 
 
@@ -211,7 +211,7 @@ B
 **🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
 
 <details>
-🎬Fase 4 Dialogos
+💬Fase 4 Dialogos
 
 
 
@@ -261,7 +261,7 @@ Version 1
 **🎥🚙🔥👀 FASE 5 : Saltar en Rampa**
 <details>
 
-🎬Fase 5 Dialogos
+💬Fase 5 Dialogos
 
 
 
@@ -310,7 +310,7 @@ Version 1
 **🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas**
 
 <details>
-Fase 6 Dialogos
+💬Fase 6 Dialogos
 
 
 
@@ -359,7 +359,7 @@ Version 1
 **🎥🚙🔥👀 FASE 7 : Perseguir coche**
 <details>
 
-Fase 7 Dialogos
+💬Fase 7 Dialogos
 
 
 
@@ -408,7 +408,8 @@ Version 1
 **🎥🚙🔥👀 FASE 8 : Saltar en Aro**
 
 <details>
-Fase 8 Dialogos
+
+💬Fase 8 Dialogos
 
 
 
@@ -456,7 +457,7 @@ Version 1
 **🎥🚙🔥👀 FASE 9 : Esquivar trenes**
 <details>
 
-Fase 9 Dialogos
+💬Fase 9 Dialogos
 
 
 
@@ -505,9 +506,7 @@ Version 1
 **🎥🚙🔥👀 FASE 10 : Poner bomba y sobrevivir**
 <details>
 
-Fase 10 Dialogos
-
-
+💬Fase 10 Dialogos
 
 A
 
