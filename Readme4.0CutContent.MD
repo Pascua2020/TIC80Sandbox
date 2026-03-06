@@ -1,5 +1,28 @@
 # Readme4.0CutContent
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
 ⚠️-Chat
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
