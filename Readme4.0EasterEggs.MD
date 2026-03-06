@@ -231,23 +231,23 @@ https://en.wikipedia.org/wiki/Javier_Milei
 
 ![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)
 
-🥚37
+🥚**37**
 
 ![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)
 
-🥚38
+🥚**38**
 
 ![pngEasterEggPulp](./Screenshots4.0/EasterEggs/EasterEggPulp.png)
 
 https://en.wikipedia.org/wiki/Party_Hard_(Pulp_song)
 
-🥚39
+🥚**39**
 
 ![pngEasterEggRusia1](./Screenshots4.0/EasterEggs/EasterEggRusia1.png)
 
 https://en.wikipedia.org/wiki/Vladivostok
 
-🥚40
+🥚**40**
 
 ![pngEasterEggRusia2](./Screenshots4.0/EasterEggs/EasterEggRusia2.png)
 
@@ -256,7 +256,7 @@ https://en.wikipedia.org/wiki/Gopnik
 
 </details>
 
-🥚41
+🥚**41**
 
 ![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)
 
@@ -264,54 +264,54 @@ https://en.wikipedia.org/wiki/Women_in_Russia
 
 <details>
 
-🥚42
+🥚**42**
 
 ![pngEasterEggRusia4](./Screenshots4.0/EasterEggs/EasterEggRusia4.png)
 
-🥚43
+🥚**43**
 
 ![pngEasterEggSeineldin](./Screenshots4.0/EasterEggs/EasterEggSeineldin.png)
 
 https://en.wikipedia.org/wiki/Mohamed_Al%C3%AD_Seineld%C3%ADn
 
-🥚44
+🥚**44**
 
 ![pngEasterEggShenzhen](./Screenshots4.0/EasterEggs/EasterEggShenzhen.png)
 
 https://en.wikipedia.org/wiki/Shenzhen
 
-🥚45
+🥚**45**
 
 ![pngEasterEggStallone](./Screenshots4.0/EasterEggs/EasterEggStallone.png)
 
 https://en.wikipedia.org/wiki/Sylvester_Stallone
 https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 
-🥚46
+🥚**46**
 
 ![pngEasterEggStuntmanPS2](./Screenshots4.0/EasterEggs/EasterEggStuntmanPS2.png)
 
 https://en.wikipedia.org/wiki/Stuntman_(video_game)
 
-🥚47
+🥚**47**
 
 ![pngEasterEggSudan](./Screenshots4.0/EasterEggs/EasterEggSudan.png)
 
 https://en.wikipedia.org/wiki/Khartoum
 
-🥚48
+🥚**48**
 
 ![pngEasterEggSuede1](./Screenshots4.0/EasterEggs/EasterEggSuede1.png)
 
 https://en.wikipedia.org/wiki/Suede_(band)
 
-🥚49
+🥚**49**
 
 ![pngEasterEggSuede2](./Screenshots4.0/EasterEggs/EasterEggSuede2.png)
 
 https://en.wikipedia.org/wiki/The_Drowners
 
-🥚50
+🥚**50**
 
 ![pngEasterEggTinder](./Screenshots4.0/EasterEggs/EasterEggTinder.png)
 
