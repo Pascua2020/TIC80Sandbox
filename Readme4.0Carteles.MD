@@ -812,6 +812,8 @@ I4
 
 **Carteles J : Leyendas🃏**
 
+4 Carteles.
+
 🟦106
 
 J1
