@@ -131,78 +131,78 @@ Nieve**
 
 ![pngclima-lluvia+nieve](./Screenshots4.0/Climas/Lluvia+Nieve.png)
 
-☔☃️🌪️Lluvia +
+☔☃️🌪️**Lluvia +
 Nieve +
-Viento
+Viento**
 
 ![gifsclima-Lluvia+Nieve+Viento](./GIFS4.0/Climas/Lluvia+Nieve+Viento.gif)
 
 ![pngclima-lluvia+nieve+viento](./Screenshots4.0/Climas/Lluvia+Nieve+Viento.png)
 
-☔⚡Lluvia +
-Relampagos
+☔⚡**Lluvia +
+Relampagos**
 
 ![gifsclima-Lluvia+Relampagos](./GIFS4.0/Climas/Lluvia+Relampagos.gif)
 
 ![pngclima-lluvia+relampagos](./Screenshots4.0/Climas/Lluvia+Relampagos.png)
 
-☔⚡🌪️Lluvia +
+☔⚡🌪️**Lluvia +
 Relampagos +
-Viento
+Viento**
 
 ![gifsclima-Lluvia+relampagos+viento](./GIFS4.0/Climas/Lluvia+Relampagos+Viento.gif)
 
 ![pngclima-lluvia+relampagos+viento](./Screenshots4.0/Climas/Lluvia+Relampagos+Viento.png)
 
-☔🌪️Lluvia + 
-Viento
+☔🌪️**Lluvia + 
+Viento**
 
 ![gifsclima-Lluvia+Viento](./GIFS4.0/Climas/Lluvia+Viento.gif)
 
 ![pngclima-lluvia+viento](./Screenshots4.0/Climas/Lluvia+Viento.png)
 
-☃️Nieve
+☃️**Nieve**
 
 ![gifsclima-Nieve](./GIFS4.0/Climas/Nieve.gif)
 
 ![pngclima-Nieve](./Screenshots4.0/Climas/Nieve.png)
 
-☃️⚡Nieve +
-Relampago
+☃️⚡**Nieve +
+Relampago**
 
 ![gifsclima-Nieve+Relampago](./GIFS4.0/Climas/Nieve+Relampago.gif)
 
 ![pngclima-nieve+relampago](./Screenshots4.0/Climas/Nieve+Relampago.png)
 
-☃️⚡🌪️Nieve +
+☃️⚡🌪️**Nieve +
 Relampago +
-Vientos
+Vientos**
 
 ![gifsclima-Nieve+Relampago+Vientos](./GIFS4.0/Climas/Nieve+Relampagos+Viento.gif)
 
 ![pngclima-nieve+relampagos+viento](./Screenshots4.0/Climas/Nieve+Relampago+Vientos.png)
 
-☃️🌪️Nieve +
-Viento
+☃️🌪️**Nieve +
+Viento**
 
 ![gifsclima-Nieve+Viento](./GIFS4.0/Climas/Nieve+Viento.gif)
 
 ![pngclima-nieve+viento](./Screenshots4.0/Climas/Nieve+Viento.png)
 
-⚡Relampago
+⚡**Relampago**
 
 ![gifsclima-relampago](./GIFS4.0/Climas/Relampago.gif)
 
 ![pngclima-relampago](./Screenshots4.0/Climas/Relampago.png)
 
-⚡🌪️Relampagos +
-Viento 
+⚡🌪️**Relampagos +
+Viento**
 
 ![gifsclima-relampagos+viento](./GIFS4.0/Climas/Relampagos+Viento.gif)
 
 ![pngclima-relampagos+viento](./Screenshots4.0/Climas/Relampagos+Viento.png)
 
-🌪️Viento
+🌪️**Viento**
 
 ![gifsclima-viento](./GIFS4.0/Climas/Viento.gif)
 
