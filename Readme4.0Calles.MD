@@ -660,7 +660,7 @@ Trafico en el mapa
 
 </details>
 
-🚸51-Pollo
+🚸51-**Pollo**
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
 
@@ -673,7 +673,7 @@ Trafico en el mapa
 
 </details>
 
-🚸52-Ponemela
+🚸52-**Ponemela**
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 
@@ -686,7 +686,7 @@ Trafico en el mapa
 
 </details>
 
-🚸53-Proceda
+🚸53-**Proceda**
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
 
@@ -699,7 +699,7 @@ Trafico en el mapa
 
 </details>
 
-🚸54-Reperfilar
+🚸54-**Reperfilar**
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 
@@ -712,7 +712,7 @@ Trafico en el mapa
 
 </details>
 
-🚸55-Satanas
+🚸55-**Satanas**
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
 
@@ -725,7 +725,7 @@ Trafico en el mapa
 
 </details>
 
-🚸56-Seineldin
+🚸56-**Seineldin**
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 
@@ -738,7 +738,7 @@ Trafico en el mapa
 
 </details>
 
-🚸57-Siga siga
+🚸57-**Siga siga**
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
 
@@ -751,7 +751,7 @@ Trafico en el mapa
 
 </details>
 
-🚸58-Trisexual
+🚸58-**Trisexual**
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 
@@ -764,7 +764,7 @@ Trafico en el mapa
 
 </details>
 
-🚸59-Turbina
+🚸59-**Turbina**
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
 
@@ -777,7 +777,7 @@ Trafico en el mapa
 
 </details>
 
-🚸60-Turro
+🚸60-**Turro**
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 
@@ -790,7 +790,7 @@ Trafico en el mapa
 
 </details>
 
-🚸61-Tuti fruti
+🚸61-**Tuti fruti**
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
 
@@ -803,7 +803,7 @@ Trafico en el mapa
 
 </details>
 
-🚸62-Viagra
+🚸62-**Viagra**
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 
@@ -816,7 +816,7 @@ Trafico en el mapa
 
 </details>
 
-🚸63-Wauf
+🚸63-**Wauf**
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
 
@@ -829,7 +829,7 @@ Trafico en el mapa
 
 </details>
 
-🚸64-Yupi
+🚸64-**Yupi**
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 
@@ -842,7 +842,7 @@ Trafico en el mapa
 
 </details>
 
-🚸65-Zig Zag
+🚸65-**Zig Zag**
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
 
