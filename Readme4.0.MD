@@ -65,7 +65,7 @@ Los 9 Personajes No Jugables en el Mapa.
 
 🌟-Nerdpedia ![README4.0-Nerdpedia ](./Readme4.0Nerdpedia.MD)
 
-Minijuego estilo Wikipedia.
+Minijuego estilo Wikipedia con 14 Secciones distintas.
 
 🌟-Pinball ![README4.0-Pinball ](./Readme4.0Pinball.MD)
 
@@ -82,6 +82,7 @@ Las 12 Radios principales + otras 10 planeadas.
 🌟-Stuntman ![README4.0-Stuntman ](./Readme4.0Stuntman.MD)
 
 La Mision de Stuntman con sus 10 Fases.
+Incluye QTE que activan Mensajes de Desarrollador,Mensajes Secretos y Objetos Destructibles.
 
 🌟-Teclados ![README4.0-Teclados ](./Readme4.0Teclados.MD)
 
