@@ -4,12 +4,12 @@ Hay 11 Armas diferentes.
 Cada arma tiene sus propias frases al disparar/ejecutar.
 
 ☢️1
-AK47
+**AK47**
 
 ![gifsarmasak47](./GIFS4.0/Armas/AK47.gif)
 ![gifsarmastesteoak47](./GIFS4.0/Armas/TesteoAK47.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesAK47-1](./Screenshots4.0/Armas/AK47Frase1.png)
 
@@ -23,12 +23,12 @@ AK47
 </details>
 
 ☢️2
-Bazooka
+**Bazooka**
 
 ![gifsarmasbazooka](./GIFS4.0/Armas/Bazooka.gif)
 ![gifsarmastesteobazooka](./GIFS4.0/Armas/TesteoBazooka.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesBazooka-1](./Screenshots4.0/Armas/BazookaFrase1.png)
 
@@ -42,12 +42,12 @@ Bazooka
 </details>
 
 ☢️3
-ElectroRifle
+**ElectroRifle**
 
 ![gifsarmaselectrorifle](./GIFS4.0/Armas/ElectroRifle.gif)
 ![gifsarmastesteoelectrorifle](./GIFS4.0/Armas/TesteoElectrorifle.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesElectroRifle-1](./Screenshots4.0/Armas/ElectrorifleFrase1.png)
 
@@ -61,12 +61,12 @@ ElectroRifle
 </details>
 
 ☢️4
-Escopeta
+**Escopeta**
 
 ![gifsarmasescopeta](./GIFS4.0/Armas/Escopeta.gif)
 ![gifsarmastesteoescopeta](./GIFS4.0/Armas/TesteoEscopeta.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesEscopeta-1](./Screenshots4.0/Armas/EscopetaFrase1.png)
 
@@ -80,12 +80,12 @@ Escopeta
 </details>
 
 ☢️5
-Golpe
+**Golpe**
 
 ![gifsarmasgolpe](./GIFS4.0/Armas/Golpe.gif)
 ![gifsarmastesteogolpe](./GIFS4.0/Armas/TesteoPuño.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesGolpe-1](./Screenshots4.0/Armas/GolpeFrase1.png)
 
@@ -99,12 +99,12 @@ Golpe
 </details>
 
 ☢️6
-Granada
+**Granada**
 
 ![gifsarmasgranada](./GIFS4.0/Armas/Granada.gif)
 ![gifsarmastesteogranada](./GIFS4.0/Armas/TesteoGranada.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesGranada-1](./Screenshots4.0/Armas/GranadaFrase1.png)
 
@@ -118,12 +118,12 @@ Granada
 </details>
 
 ☢️7
-Katana
+**Katana**
 
 ![gifsarmaskatana](./GIFS4.0/Armas/Katana.gif)
 ![gifsarmastesteokatana](./GIFS4.0/Armas/TesteoKatana.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesKatana-1](./Screenshots4.0/Armas/KatanaFrase1.png)
 
@@ -137,12 +137,12 @@ Katana
 </details>
 
 ☢️8
-Lanzallamas
+**Lanzallamas**
 
 ![gifsarmaslanzallamas](./GIFS4.0/Armas/LanzaLlamas.gif)
 ![gifsarmastesteolanzallamas](./GIFS4.0/Armas/TesteoLanzallamas.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesLanzallamas-1](./Screenshots4.0/Armas/LanzallamasFrase1.png)
 
@@ -156,12 +156,12 @@ Lanzallamas
 </details>
 
 ☢️9
-Laser
+**Laser**
 
 ![gifsarmaslaser](./GIFS4.0/Armas/Laser.gif)
 ![gifsarmastesteolaser](./GIFS4.0/Armas/TesteoLaser.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesLaser-1](./Screenshots4.0/Armas/LaserFrase1.png)
 
@@ -175,12 +175,12 @@ Laser
 </details>
 
 ☢️10
-MiniGun
+**MiniGun**
 
 ![gifsarmasminigun](./GIFS4.0/Armas/MiniGun.gif)
 ![gifsarmastesteominigun](./GIFS4.0/Armas/TesteoMinigun.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesMinigun-1](./Screenshots4.0/Armas/MinigunFrase1.png)
 
@@ -194,12 +194,12 @@ MiniGun
 </details>
 
 ☢️11
-Pistola
+**Pistola**
 
 ![gifsarmaspistola](./GIFS4.0/Armas/Pistola.gif)
 ![gifsarmastesteopistola](./GIFS4.0/Armas/TesteoPistola.gif)
 
-🤬Frases
+🤬***Frases***
 
 ![pngfrasesPistola-1](./Screenshots4.0/Armas/PistolaFrase1.png)
 
