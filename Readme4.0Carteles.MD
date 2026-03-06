@@ -478,6 +478,8 @@ D07
 
 **Carteles E : Lineas de Subte🚇**
 
+6 Carteles.
+
 🟥64
 
 E1
