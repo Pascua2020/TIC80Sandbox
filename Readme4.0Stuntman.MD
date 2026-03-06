@@ -89,7 +89,7 @@ B
 
 ![gifstuntmanv1jugabilidadF1](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase1.gif)
 
-🎬Fase 1 Game Over
+☠️Fase 1 Game Over
 
 🎥Version 1
 
@@ -139,7 +139,7 @@ B
 
 ![gifstuntmanv1jugabilidadF2](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase2.gif)
 
-🎬Fase 2 Game Over
+☠️Fase 2 Game Over
 
 🎥Version 1
 
@@ -188,7 +188,7 @@ B
 
 ![gifstuntmanv1jugabilidadF3](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase3.gif)
 
-🎬Fase 3 Game Over
+☠️Fase 3 Game Over
 
 🎥Version 1
 
@@ -239,7 +239,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF4](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase4.gif)
 
-🎬Fase 4 Game Over
+☠️Fase 4 Game Over
 
 Version 1
 
@@ -288,7 +288,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF5](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase5.gif)
 
-Fase 5 Game Over
+☠️Fase 5 Game Over
 
 Version 1
 
@@ -337,7 +337,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF6](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase6.gif)
 
-Fase 6 Game Over
+☠️Fase 6 Game Over
 
 Version 1
 
@@ -386,7 +386,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF7](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase7.gif)
 
-Fase 7 Game Over
+☠️Fase 7 Game Over
 
 Version 1
 
@@ -435,7 +435,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF8](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase8.gif)
 
-Fase 8 Game Over
+☠️Fase 8 Game Over
 
 Version 1
 
@@ -484,7 +484,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF9](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase9.gif)
 
-Fase 9 Game Over
+☠️Fase 9 Game Over
 
 Version 1
 
@@ -531,7 +531,7 @@ Version 1
 
 ![gifstuntmanv1jugabilidadF10](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase10.gif)
 
-Fase 10 Game Over
+☠️Fase 10 Game Over
 
 Version 1
 
