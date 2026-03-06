@@ -412,7 +412,7 @@ C17
 
 </details>
 
-Carteles D : Precuaciones y otros avisos 👁️
+Carteles D : Precuaciones y otros avisos ⚠️👁️
 
 🟦57
 
