@@ -655,6 +655,8 @@ F17
 
 **Carteles G : Distancias 🛣️**
 
+5 Carteles.
+
 ⚫87
 
 G1
