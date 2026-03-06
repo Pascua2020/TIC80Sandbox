@@ -287,7 +287,7 @@ B3
 
 </details>
 
-Carteles C
+Carteles C : Descripciones Lugares 🏟️
 
 🟥40
 
