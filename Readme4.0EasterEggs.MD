@@ -594,7 +594,7 @@ https://en.wikipedia.org/wiki/This_Is_Hardcore
 
 https://en.wikipedia.org/wiki/Santiago_del_Estero_Province
 
-🥚**96 Serbia**
+🥚**96 Serbia🇷🇸**
 
 ![pngEasterEggSerbia](./Screenshots4.0/EasterEggs/EasterEggSerbia.png)
 
