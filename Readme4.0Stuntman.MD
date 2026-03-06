@@ -102,7 +102,7 @@ B
 ![pngstuntmanv4.0gameover1](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman01.png)
 
 
-🎬Fase 1 Inicio Rapido
+➡️Fase 1 Inicio Rapido
 
 🎥Version 1
 
@@ -151,7 +151,7 @@ B
 
 ![pngstuntmanv4.0gameover2](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman02.png)
 
-🎬Fase 2 Inicio Rapido
+➡️Fase 2 Inicio Rapido
 
 🎥Version 1
 
@@ -200,7 +200,7 @@ B
 
 ![pngstuntmanv4.0gameover3](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman03.png)
 
-🎬Fase 3 Inicio Rapido
+➡️Fase 3 Inicio Rapido
 
 
 🎥Version 1
@@ -251,7 +251,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover4](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman04.png)
 
-🎬Fase 4 Inicio Rapido
+➡️Fase 4 Inicio Rapido
 
 Version 1
 
@@ -300,7 +300,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover5](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman05.png)
 
-Fase 5 Inicio Rapido
+➡️Fase 5 Inicio Rapido
 
 Version 1
 
@@ -349,7 +349,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover6](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman06.png)
 
-Fase 6 Inicio Rapido
+➡️Fase 6 Inicio Rapido
 
 Version 1
 
@@ -398,7 +398,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover7](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman07.png)
 
-Fase 7 Inicio Rapido
+➡️Fase 7 Inicio Rapido
 
 Version 1
 
@@ -447,7 +447,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover8](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman08.png)
 
-Fase 8 Inicio Rapido
+➡️Fase 8 Inicio Rapido
 
 Version 1
 
@@ -496,7 +496,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover9](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman09.png)
 
-Fase 9 Inicio Rapido
+➡️Fase 9 Inicio Rapido
 
 Version 1
 
@@ -543,7 +543,7 @@ Version 4.0
 
 ![pngstuntmanv4.0gameover10](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman10.png)
 
-Fase 10 Inicio Rapido
+➡️Fase 10 Inicio Rapido
 
 Version 1
 
