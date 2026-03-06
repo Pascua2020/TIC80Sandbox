@@ -15,6 +15,10 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 Hay 2 dialogos ocultos y 14 objetos a chocar / disparar.
 
+Hay un inicio rapido para elegir en que fase empezar y saltear los dialogos previo a esa fase.
+
+Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
+
 🎬**Descripcion de Mision + Selector de Fases**
 
 ![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
