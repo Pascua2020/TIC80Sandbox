@@ -57,10 +57,11 @@ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida
 **🎥🚙🔥👀 FASE 1 : Subir a coche**
 
 <details>
+
 💬Fase 1 Dialogos
-
-
+
 <details>
+
 A
 
 🎥Version 4.0
@@ -82,13 +83,19 @@ B
 </details>
 
 🚀Fase 1 Accion
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF1](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase1.gif)
+
 </details>
+
 ☠️Fase 1 Game Over
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1gameover1](./GIFS4.0/CutContent/Stuntman/V1/GameOver1.gif)
@@ -100,12 +107,17 @@ B
 ![pngstuntmanv4.0gameover1](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman01.png)
 
 </details>
+
 ➡️Fase 1 Inicio Rapido
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
@@ -113,8 +125,7 @@ B
 <details>
 
 💬Fase 2 Dialogos
-
-
+
 <details>
 A
 
@@ -131,15 +142,23 @@ B
 ![gifstuntmanv4.0mensajefase2B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase2B.gif)
 
 ![pngstuntmanv4.0mensajefase2B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase2B.png)
+
 </details>
+
 🚀Fase 2 Accion
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF2](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase2.gif)
+
 </details>
+
 ☠️Fase 2 Game Over
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1gameover2](./GIFS4.0/CutContent/Stuntman/V1/GameOver2.gif)
@@ -149,22 +168,29 @@ B
 ![gifstuntmanv4.0gameover2](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver2.gif)
 
 ![pngstuntmanv4.0gameover2](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman02.png)
+
 </details>
+
 ➡️Fase 2 Inicio Rapido
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint**
 
 <details>
+
 💬Fase 3 Dialogos
-
-
+
 <details>
+
 A
 
 🎥Version 4.0
@@ -180,16 +206,23 @@ B
 ![gifstuntmanv4.0mensajefase3B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase3B.gif)
 
 ![pngstuntmanv4.0mensajefase3B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase3B.png)
+
 </details>
 
 🚀Fase 3 Accion
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF3](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase3.gif)
+
 </details>
+
 ☠️Fase 3 Game Over
+
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1gameover3](./GIFS4.0/CutContent/Stuntman/V1/GameOver3.gif)
@@ -199,14 +232,19 @@ B
 ![gifstuntmanv4.0gameover3](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver3.gif)
 
 ![pngstuntmanv4.0gameover3](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman03.png)
+
 </details>
+
 ➡️Fase 3 Inicio Rapido
 
 <details>
+
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
