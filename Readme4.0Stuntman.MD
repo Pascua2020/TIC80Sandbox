@@ -3,10 +3,15 @@
 La Version 4.0 tiene varios bugs.
 La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfectamente ( se puede ver mas abajo ).
 
+
 Hay 2 cronometros:
+
 -⏲️Uno que avanza hacia delante ( cuenta el tiempo en general ).
 -⌛Uno que avanza hacia atras en cada fase ( limite de tiempo ).
+
 Si se llega al final de la mision en menos de 25 segundos es un plus para el jugador.
+
+Hay 2 dialogos ocultos y 14 objetos a chocar / disparar.
 
 🎬**Descripcion de Mision + Selector de Fases**
 
