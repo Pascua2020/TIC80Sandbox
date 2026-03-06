@@ -350,6 +350,9 @@ TODAS
 🪂Jetpack
 
 ![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
+
+En el juego final se pueden usar skates y hay caños en el mapa,pero no se pueden "montar".
+
 ![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
 
 🀄Nerdpedia
