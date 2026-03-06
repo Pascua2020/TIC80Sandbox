@@ -481,29 +481,29 @@ https://en.wikipedia.org/wiki/Wiki
 
 https://en.wikipedia.org/wiki/Tigger
 
-🥚**78 Bosnia y Herzegovina**
+🥚**78 Bosnia y Herzegovina🇧🇦**
 
-![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia🇧🇦.png)
+![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
-🥚**79 Provincia de Cordoba ( Argentina )**
+🥚**79 Provincia de Cordoba ( Argentina 🇦🇷)**
 
-![pngEasterEggCordoba🇦🇷](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
+![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
-🥚**80 Peninsula Coreana**
+🥚**80 Peninsula Coreana🇰🇷🇰🇵**
 
-![pngEasterEggCorea🇰🇷🇰🇵](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
+![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
 
 https://en.wikipedia.org/wiki/Korea
 
 </details>
 
-🥚**81 Eritrea**
+🥚**81 Eritrea🇪🇷**
 
-![pngEasterEggEritrea🇪🇷](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
+![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
 
 https://en.wikipedia.org/wiki/Eritrea
 
