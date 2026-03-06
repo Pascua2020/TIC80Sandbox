@@ -763,7 +763,7 @@ https://en.wikipedia.org/wiki/Copenhagen
 
 ![pngEasterEggSexual6](./Screenshots4.0/EasterEggs/EasterEggSexual6.png)
 
-🥚**123**
+🥚**123🇸🇴**
 
 ![pngEasterEggMogadiscio](./Screenshots4.0/EasterEggs/EasterEggMogadiscio.png)
 
@@ -773,19 +773,19 @@ https://en.wikipedia.org/wiki/Mogadishu
 
 ![pngEasterEggChatGPT2](./Screenshots4.0/EasterEggs/EasterEggChatGPT2.png)
 
-🥚**125**
+🥚**125🇮🇱**
 
 ![pngEasterEggIsrael](./Screenshots4.0/EasterEggs/EasterEggIsrael.png)
 
 https://en.wikipedia.org/wiki/Israel
 
-🥚**126**
+🥚**126🇫🇲**
 
 ![pngEasterEggMicronesia](./Screenshots4.0/EasterEggs/EasterEggMicronesia.png)
 
 https://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
-🥚**127**
+🥚**127🇸🇳**
 
 ![pngEasterEggSenegal](./Screenshots4.0/EasterEggs/EasterEggSenegal.png)
 
@@ -804,7 +804,7 @@ http://en.wikipedia.org/wiki/Tanzania
 
 https://en.wikipedia.org/wiki/Chad
 
-🥚**130**
+🥚**130🇺🇲🇷🇺**
 
 ![pngEasterEggEstacionEspacialInternacional](./Screenshots4.0/EasterEggs/EasterEggEstacionEspacialInternacional.png)
 
@@ -826,13 +826,13 @@ https://en.wikipedia.org/wiki/Facebook
 
 https://en.wikipedia.org/wiki/OnlyFans
 
-🥚**133**
+🥚**133🇦🇷**
 
 ![pngEasterEggSandro](./Screenshots4.0/EasterEggs/EasterEggSandro.png)
 
 https://en.wikipedia.org/wiki/Sandro_de_Am%C3%A9rica
 
-🥚**134**
+🥚**134🇺🇾**
 
 ![pngEasterEggEleccionesUruguay](./Screenshots4.0/EasterEggs/EasterEggEleccionesUruguay.png)
 
@@ -856,7 +856,7 @@ https://en.wikipedia.org/wiki/Prussia
 
 https://en.wikipedia.org/wiki/Unidentified_flying_object
 
-🥚**138**
+🥚**138🇦🇷**
 
 ![pngEasterEggPPT](./Screenshots4.0/EasterEggs/EasterEggPPT.png)
 
@@ -877,7 +877,7 @@ https://en.wikipedia.org/wiki/Tardigrade
 
 </details>
 
-🥚**141**
+🥚**141🇦🇺**
 
 ![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggsTaringaAustralia.png)
 
@@ -885,25 +885,25 @@ https://en.wikipedia.org/wiki/Taringa,_Queensland
 
 <details>
 
-🥚**142**
+🥚**142🇦🇷**
 
 ![pngEasterEggEspaniolRioplatense](./Screenshots4.0/EasterEggs/EasterEggEspaniolRioplatense.png)
 
 https://en.wikipedia.org/wiki/Rioplatense_Spanish
 
-🥚**143**
+🥚**143🇨🇦**
 
 ![pngEasterEggCanada](./Screenshots4.0/EasterEggs/EasterEggCanada.png)
 
 https://en.wikipedia.org/wiki/Canada
 
-🥚**144**
+🥚**144🇨🇩**
 
 ![pngEasterEggRDCongo](./Screenshots4.0/EasterEggs/EasterEggRDCongo.png)
 
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 
-🥚**145**
+🥚**145🇦🇷**
 
 ![pngEasterEggCasaDeLaMonedaArgentina](./Screenshots4.0/EasterEggs/EasterEggCasaDeLaMonedaArgentina.png)
 
@@ -911,14 +911,14 @@ https://en.wikipedia.org/wiki/Casa_de_Moneda_de_la_Rep%C3%BAblica_Argentina
 https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn
 https://en.wikipedia.org/wiki/Lowrider
 
-🥚**146**
+🥚**146🇨🇳**
 
 ![pngEasterEggGuilin](./Screenshots4.0/EasterEggs/EasterEggGuilin.png)
 
 https://en.wikipedia.org/wiki/Guilin
 https://en.wikipedia.org/wiki/Mao_Zedong
 
-🥚**147**
+🥚**147🇦🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
 ![pngEasterEggCuarteto](./Screenshots4.0/EasterEggs/EasterEggCuarteto.png)
 
@@ -947,7 +947,7 @@ https://en.wikipedia.org/wiki/PlayStation_2
 
 </details>
 
-🥚**151**
+🥚**151🇽🇰**
 
 ![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)
 
@@ -967,7 +967,7 @@ https://en.wikipedia.org/wiki/Beyblade
 
 https://en.wikipedia.org/wiki/Bible
 
-🥚**154**
+🥚**154🇹🇷**
 
 ![pngEasterEggBatmanTurquia](./Screenshots4.0/EasterEggs/EasterEggBatmanTurquia.png)
 
@@ -985,7 +985,7 @@ https://en.wikipedia.org/wiki/Fourth_wall
 
 https://en.wikipedia.org/wiki/Duke_Nukem_3D
 
-🥚**157**
+🥚**157🇦🇷**
 
 ![pngEasterEggObelisco](./Screenshots4.0/EasterEggs/EasterEggObelisco.png)
 
