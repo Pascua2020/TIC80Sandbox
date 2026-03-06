@@ -311,7 +311,7 @@ https://en.wikipedia.org/wiki/Suede_(band)
 
 https://en.wikipedia.org/wiki/The_Drowners
 
-🥚**50 Apps de Citas**
+🥚**50 Apps de Citas😍**
 
 ![pngEasterEggTinder](./Screenshots4.0/EasterEggs/EasterEggTinder.png)
 
@@ -404,13 +404,13 @@ https://en.wikipedia.org/wiki/Pyongyang
 
 https://en.wikipedia.org/wiki/Lionel_Messi
 
-🥚**65 Cultura Gotica**
+🥚**65 Cultura Gotica🌑**
 
 ![pngEasterEggGoticas1](./Screenshots4.0/EasterEggs/EasterEggGoticas1.png)
 
 https://en.wikipedia.org/wiki/Goth_subculture
 
-🥚**66 Cultura Gotica**
+🥚**66 Cultura Gotica🌑**
 
 ![pngEasterEggGoticas2](./Screenshots4.0/EasterEggs/EasterEggGoticas2.png)
 
@@ -430,7 +430,7 @@ https://es.wikipedia.org/wiki/Guido_S%C3%BCller
 
 https://en.wikipedia.org/wiki/Equatorial_Guinea
 
-🥚**70 Los Simpson**
+🥚**70 Los Simpson🇺🇸**
 
 ![pngEasterEggLosSimpson4](./Screenshots4.0/EasterEggs/EasterEggLosSimpson4.png)
 
@@ -444,7 +444,7 @@ https://en.wikipedia.org/wiki/Much_Apu_About_Nothing
 
 <details>
 
-🥚**72 Memoria RAM**
+🥚**72 Memoria RAM💻**
 
 ![pngEasterEggMemoriaRAM](./Screenshots4.0/EasterEggs/EasterEggMemoriaRAM.png)
 
@@ -469,13 +469,13 @@ https://en.wikipedia.org/wiki/Argentine_tango
 
 https://en.wikipedia.org/wiki/Wikipedia
 
-🥚**76 Wikipedia**
+🥚**76 Wikipedia🖱️**
 
 ![pngEasterEggWikipedia2](./Screenshots4.0/EasterEggs/EasterEggWikipedia2.png)
 
 https://en.wikipedia.org/wiki/Wiki
 
-🥚**77 Winnie Pooh**
+🥚**77 Winnie Pooh🐷🦁**
 
 ![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)
 
@@ -513,19 +513,19 @@ https://en.wikipedia.org/wiki/Eritrea
 
 ![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)
 
-🥚**83 Instagram**
+🥚**83 Instagram👥**
 
 ![pngEasterEggInstagram](./Screenshots4.0/EasterEggs/EasterEggInstagram.png)
 
 https://en.wikipedia.org/wiki/Instagram
 
-🥚**84 Iphone**
+🥚**84 Iphone📲**
 
 ![pngEasterEggIphone](./Screenshots4.0/EasterEggs/EasterEggIphone.png)
 
 https://en.wikipedia.org/wiki/Iphone
 
-🥚**85 Lince**
+🥚**85 Lince🐯**
 
 ![pngEasterEggLince](./Screenshots4.0/EasterEggs/EasterEggLince.png)
 
@@ -543,7 +543,7 @@ https://en.wikipedia.org/wiki/Mercado_Libre
 
 https://en.wikipedia.org/wiki/Nunavut
 
-🥚**88 Penpals**
+🥚**88 Penpals✉️**
 
 ![pngEasterEggPenpals](./Screenshots4.0/EasterEggs/EasterEggPenpals.png)
 
@@ -556,7 +556,7 @@ https://en.wikipedia.org/wiki/Pen_pal
 https://en.wikipedia.org/wiki/The_Pentagon
 https://en.wikipedia.org/wiki/Area_51
 
-🥚**90 Pinball**
+🥚**90 Pinball🎱**
 
 ![pngEasterEggPinballs1](./Screenshots4.0/EasterEggs/EasterEggPinballs1.png)
 
@@ -564,7 +564,7 @@ https://en.wikipedia.org/wiki/Pinball
 
 </details>
 
-🥚**91 Pinball**
+🥚**91 Pinball🎱**
 
 ![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)
 
@@ -572,7 +572,7 @@ https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
 <details>
 
-🥚**92 Pinball**
+🥚**92 Pinball🎱**
 
 ![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)
 
@@ -600,19 +600,19 @@ https://en.wikipedia.org/wiki/Santiago_del_Estero_Province
 
 https://en.wikipedia.org/wiki/Serbia
 
-🥚**97 Sexual**
+🥚**97 Sexual🔥**
 
 ![pngEasterEggSexual1](./Screenshots4.0/EasterEggs/EasterEggSexual1.png)
 
 https://en.wikipedia.org/wiki/Sexual_intercourse
 
-🥚**98 Sexual**
+🥚**98 Sexual🔥**
 
 ![pngEasterEggSexual2](./Screenshots4.0/EasterEggs/EasterEggSexual2.png)
 
 https://en.wikipedia.org/wiki/Condom
 
-🥚**99 Sexual**
+🥚**99 Sexual🔥**
 
 ![pngEasterEggSexual3](./Screenshots4.0/EasterEggs/EasterEggSexual3.png)
 
@@ -636,7 +636,7 @@ https://en.wikipedia.org/wiki/Togo
 
 <details>
 
-🥚**102 NickelOdeon**
+🥚**102 NickelOdeon🌆**
 
 ![pngEasterEggNickelodeon](./Screenshots4.0/EasterEggs/EasterEggNickelodeon.png)
 
@@ -666,7 +666,7 @@ https://en.wikipedia.org/wiki/Homer_vs._Patty_and_Selma
 
 https://en.wikipedia.org/wiki/Breaking_news
 
-🥚**107 Gangsta Rap**
+🥚**107 Gangsta Rap🎼**
 
 ![pngEasterEggGangstaRap](./Screenshots4.0/EasterEggs/EasterEggGangstaRap.png)
 
@@ -690,7 +690,7 @@ https://en.wikipedia.org/wiki/Carlos_Gardel
 
 </details>
 
-🥚**111**
+🥚**111 Ghosting👻**
 
 ![pngEasterEggGhosting](./Screenshots4.0/EasterEggs/EasterEggGhosting.png)
 
@@ -698,37 +698,37 @@ https://en.wikipedia.org/wiki/Ghosting_(behavior)
 
 <details>
 
-🥚**112🇺🇲**
+🥚**112 California🇺🇲**
 
 ![pngEasterEggCalifornia](./Screenshots4.0/EasterEggs/EasterEggCalifornia.png)
 
 https://en.wikipedia.org/wiki/California
 
-🥚**113🇨🇭**
+🥚**113 Global Slavery Index🇨🇭**
 
 ![pngEasterEggGlobalSlaveryIndex](./Screenshots4.0/EasterEggs/EasterEggGlobalSlaveryIndex.png)
 
 https://en.wikipedia.org/wiki/Global_Slavery_Index
 
-🥚**114🇲🇳**
+🥚**114 Mongolia🇲🇳**
 
 ![pngEasterEggMongolia](./Screenshots4.0/EasterEggs/EasterEggMongolia.png)
 
 https://en.wikipedia.org/wiki/Mongolia
 
-🥚**115🇩🇪**
+🥚**115 Berlin🇩🇪**
 
 ![pngEasterEggBerlin](./Screenshots4.0/EasterEggs/EasterEggBerlin.png)
 
 https://en.wikipedia.org/wiki/Berlin
 
-🥚**116🇦🇷**
+🥚**116 Bandera de Argentina🇦🇷**
 
 ![pngEasterEggBanderaArgentina](./Screenshots4.0/EasterEggs/EasterEggBanderaArgentina.png)
 
 https://en.wikipedia.org/wiki/Flag_of_Argentina
 
-🥚**117**
+🥚**117 Motosierra**
 
 ![pngEasterEggMotosierra](./Screenshots4.0/EasterEggs/EasterEggMotosierra.png)
 
