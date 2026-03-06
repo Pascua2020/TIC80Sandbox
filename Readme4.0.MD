@@ -37,6 +37,8 @@ Los 5 Climas y sus combinaciones.
 
 🌟-Codigo Fuente ![README4.0-CodigoFuente ](./Readme4.0CodigoFuente.MD)
 
+Todo el juego esta en 4500 a 6000 Lineas de Codigo y aproximadamente 25 Funciones.
+
 🌟-Coleccionables ![README4.0-Coleccionables ](./Readme4.0Coleccionables.MD)
 
 🌟-CutContent ![README4.0-CutContent ](./Readme4.0CutContent.MD)
