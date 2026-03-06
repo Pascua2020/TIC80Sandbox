@@ -45,6 +45,8 @@ Todo el juego esta en 4500 a 6000 Lineas de Codigo y aproximadamente 25 Funcione
 
 🌟-CutContent ![README4.0-CutContent ](./Readme4.0CutContent.MD)
 
+Ciclo Dia y Noche,Nafta,Modo GT,MiniMapa,RC y mas.
+
 🌟-Diario ![README4.0-Diario ](./Readme4.0Diario.MD)
 
 🌟-DiosGPT ![README4.0-DiosGPT ](./Readme4.0DiosGPT.MD)
