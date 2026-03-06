@@ -1,6 +1,6 @@
 # Readme4.0Stuntman
 
-🎬Descripcion de Mision + Selector de Fases
+🎬**Descripcion de Mision + Selector de Fases**
 
 ![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
 
@@ -19,13 +19,13 @@
 
 ![pngstuntmanv4.0nombrestacchotta](./Screenshots4.0/Stuntman/NombreStacchotta.png)
 
-🎬Toda la Mision ( Principio a Fin )
+🎬**Toda la Mision ( Principio a Fin )**
 
 🎥Version 1.0 ( SIN ERRORES )
 
 ![gifstuntmanV1.0MisionF1a10](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10 Sin Errores ( crimenYPixel ) 7-4-2025.gif>)
 
-🎬MISION COMPLETADA:
+🎬**MISION COMPLETADA:**
 
 🎥V1.0
 
