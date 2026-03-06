@@ -108,7 +108,7 @@ B
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
 </details>
 
-🎥🚙🔥👀 FASE 2 : Atropellar Cajas
+**🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
 
 <details>
 🎬Fase 2 Dialogos
@@ -155,7 +155,7 @@ B
 
 ![gifstuntmanv1iniciorapido2](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase2.gif)
 </details>
-🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint
+**🎥🚙🔥👀 FASE 3 : Alcanzar Checkpoint**
 
 <details>
 🎬Fase 3 Dialogos
@@ -204,7 +204,7 @@ B
 
 ![gifstuntmanv1iniciorapido3](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase3.gif)
 </details>
-🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica
+**🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
 
 <details>
 🎬Fase 4 Dialogos
@@ -253,7 +253,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
 </details>
-🎥🚙🔥👀 FASE 5 : Saltar en Rampa
+**🎥🚙🔥👀 FASE 5 : Saltar en Rampa**
 <details>
 
 🎬Fase 5 Dialogos
@@ -301,7 +301,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
 </details>
-🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas
+**🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas**
 
 <details>
 Fase 6 Dialogos
@@ -349,7 +349,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido6](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase6.gif)
 </details>
-🎥🚙🔥👀 FASE 7 : Perseguir coche
+**🎥🚙🔥👀 FASE 7 : Perseguir coche**
 <details>
 
 Fase 7 Dialogos
@@ -397,7 +397,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido7](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase7.gif)
 </details>
-🎥🚙🔥👀 FASE 8 : Saltar en Aro
+**🎥🚙🔥👀 FASE 8 : Saltar en Aro**
 
 <details>
 Fase 8 Dialogos
@@ -444,7 +444,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido8](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase8.gif)
 </details>
-🎥🚙🔥👀 FASE 9 : Esquivar trenes
+**🎥🚙🔥👀 FASE 9 : Esquivar trenes**
 <details>
 
 Fase 9 Dialogos
@@ -492,7 +492,7 @@ Version 1
 
 ![gifstuntmanv1iniciorapido9](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase9.gif)
 </details>
-🎥🚙🔥👀 FASE 10 : Poner bomba y sobrevivir
+**🎥🚙🔥👀 FASE 10 : Poner bomba y sobrevivir**
 <details>
 
 Fase 10 Dialogos
