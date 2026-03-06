@@ -844,32 +844,32 @@ https://en.wikipedia.org/wiki/Elections_in_Uruguay
 
 https://en.wikipedia.org/wiki/Big_Bang
 
-🥚**136**
+🥚**136 Prusia**
 
 ![pngEasterEggPrusia](./Screenshots4.0/EasterEggs/EasterEggPrusia.png)
 
 https://en.wikipedia.org/wiki/Prussia
 
-🥚**137**
+🥚**137 OVNI 🛸**
 
 ![pngEasterEggOVNI](./Screenshots4.0/EasterEggs/EasterEggOVNI.png)
 
 https://en.wikipedia.org/wiki/Unidentified_flying_object
 
-🥚**138🇦🇷**
+🥚**138 Periodismo Para Todos🇦🇷**
 
 ![pngEasterEggPPT](./Screenshots4.0/EasterEggs/EasterEggPPT.png)
 
 https://en.wikipedia.org/wiki/Periodismo_para_todos
 https://en.wikipedia.org/wiki/Bangladesh
 
-🥚**139**
+🥚**139 AI Takeover🤖**
 
 ![pngEasterEggIATakeover](./Screenshots4.0/EasterEggs/EasterEggAITakeover.png)
 
 https://en.wikipedia.org/wiki/AI_takeover
 
-🥚**140**
+🥚**140 Tardigrado**
 
 ![pngEasterEggTardigrado](./Screenshots4.0/EasterEggs/EasterEggTardigrado.png)
 
@@ -877,7 +877,7 @@ https://en.wikipedia.org/wiki/Tardigrade
 
 </details>
 
-🥚**141🇦🇺**
+🥚**141 Taringa,Queensland🇦🇺**
 
 ![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggsTaringaAustralia.png)
 
@@ -885,25 +885,25 @@ https://en.wikipedia.org/wiki/Taringa,_Queensland
 
 <details>
 
-🥚**142🇦🇷**
+🥚**142 Español Rioplatense🇦🇷🇺🇾**
 
 ![pngEasterEggEspaniolRioplatense](./Screenshots4.0/EasterEggs/EasterEggEspaniolRioplatense.png)
 
 https://en.wikipedia.org/wiki/Rioplatense_Spanish
 
-🥚**143🇨🇦**
+🥚**143 Canada🇨🇦**
 
 ![pngEasterEggCanada](./Screenshots4.0/EasterEggs/EasterEggCanada.png)
 
 https://en.wikipedia.org/wiki/Canada
 
-🥚**144🇨🇩**
+🥚**144 RD Congo🇨🇩**
 
 ![pngEasterEggRDCongo](./Screenshots4.0/EasterEggs/EasterEggRDCongo.png)
 
 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
 
-🥚**145🇦🇷**
+🥚**145 Casa de la Moneda Argentina🇦🇷**
 
 ![pngEasterEggCasaDeLaMonedaArgentina](./Screenshots4.0/EasterEggs/EasterEggCasaDeLaMonedaArgentina.png)
 
@@ -911,14 +911,14 @@ https://en.wikipedia.org/wiki/Casa_de_Moneda_de_la_Rep%C3%BAblica_Argentina
 https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn
 https://en.wikipedia.org/wiki/Lowrider
 
-🥚**146🇨🇳**
+🥚**146 Guilin🇨🇳**
 
 ![pngEasterEggGuilin](./Screenshots4.0/EasterEggs/EasterEggGuilin.png)
 
 https://en.wikipedia.org/wiki/Guilin
 https://en.wikipedia.org/wiki/Mao_Zedong
 
-🥚**147🇦🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿**
+🥚**147 Cuarteto,Britpop y City of London🇦🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
 ![pngEasterEggCuarteto](./Screenshots4.0/EasterEggs/EasterEggCuarteto.png)
 
@@ -927,19 +927,19 @@ https://en.wikipedia.org/wiki/Britpop
 https://en.wikipedia.org/wiki/City_of_London
 ( Distrito DENTRO de la Ciudad de Londres,no confundir con el RESTO DE LA CIUDAD DE LONDRES - al resto se le llama solamente LONDON -)
 
-🥚**148**
+🥚**148 Hologramas👁️**
 
 ![pngEasterEggHologramas](./Screenshots4.0/EasterEggs/EasterEggHologramas.png)
 
 https://en.wikipedia.org/wiki/Holography
 
-🥚**149🇯🇵**
+🥚**149 Gran Turismo🇯🇵**
 
 ![pngEasterEggGranTurismo](./Screenshots4.0/EasterEggs/EasterEggGranTurismo.png)
 
 https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
 
-🥚**150🇯🇵**
+🥚**150 PlayStation 2🇯🇵**
 
 ![pngEasterEggPlayStation](./Screenshots4.0/EasterEggs/EasterEggPlayStation.png)
 
@@ -947,7 +947,7 @@ https://en.wikipedia.org/wiki/PlayStation_2
 
 </details>
 
-🥚**151🇽🇰**
+🥚**151 Invasion de la OTAN a Yugoslavia🇽🇰**
 
 ![pngEasterEggInvasionYugoslavia](./Screenshots4.0/EasterEggs/EasterEggInvasionYugoslavia.png)
 
@@ -955,25 +955,25 @@ https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
 
 <details>
 
-🥚**152🇯🇵**
+🥚**152 Beyblade🇯🇵**
 
 ![pngEasterEggBeyblade](./Screenshots4.0/EasterEggs/EasterEggBeyblade.png)
 
 https://en.wikipedia.org/wiki/Beyblade
 
-🥚**153**
+🥚**153 Biblia✝️**
 
 ![pngEasterEggBiblia](./Screenshots4.0/EasterEggs/EasterEggBiblia.png)
 
 https://en.wikipedia.org/wiki/Bible
 
-🥚**154🇹🇷**
+🥚**154 Provincia de Batman ( Turquia )🇹🇷**
 
 ![pngEasterEggBatmanTurquia](./Screenshots4.0/EasterEggs/EasterEggBatmanTurquia.png)
 
 https://en.wikipedia.org/wiki/Batman_Province
 
-🥚**155**
+🥚**155 Cuarta Pared🧱**
 
 ![pngEasterEggCuartaPared](./Screenshots4.0/EasterEggs/EasterEggCuartaPared.png)
 
