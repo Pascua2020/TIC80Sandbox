@@ -420,6 +420,8 @@ C17
 
 **Carteles D : Precuaciones y otros avisos ⚠️👁️**
 
+7 Carteles.
+
 🟦57
 
 D01
