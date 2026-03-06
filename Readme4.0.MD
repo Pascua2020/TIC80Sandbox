@@ -14,16 +14,26 @@ Las 11 Armas del Juego.
 🌟-Baile 
 ![README4.0-Baile ](./Readme4.0Baile.MD)
 
+El Minijuego de Baile.
+
 🌟-Barrios 
 ![Readme4.0-Barrios ](./README4.0Barrios.MD)
+
+Los 16 Barrios de la Ciudad.
 
 🌟-Bugs ![Readme4.0-Bugs ](./Readme4.0Bugs.MD)
 
 🌟-Calles ![README4.0-Calles ](./Readme4.0Calles.MD)
 
+Las 65 Calles.
+
 🌟-Carteles ![README4.0-Carteles ](./Readme4.0Carteles.MD)
 
+Los +110 Carteles.
+
 🌟-Climas ![README4.0-Climas ](./Readme4.0Climas.MD)
+
+Los 5 Climas y sus combinaciones.
 
 🌟-Codigo Fuente ![README4.0-CodigoFuente ](./Readme4.0CodigoFuente.MD)
 
@@ -37,9 +47,13 @@ Las 11 Armas del Juego.
 
 🌟-EasterEggs ![README4.0-EasterEggs](./Readme4.0EasterEggs.MD)
 
+Mas de 160 Easter Eggs.
+
 🌟-Mapa ![README4.0-Mapa ](./Readme4.0Mapa.MD)
 
 🌟-Mar ![README4.0-Mar ](./Readme4.0Mar.MD)
+
+Los 20 Dibujos en el Mar.
 
 🌟-Mejorar ![README4.0-Mejorar ](./Readme4.0Mejorar.MD)
 
@@ -47,15 +61,27 @@ Las 11 Armas del Juego.
 
 🌟-NPCs ![README4.0-NPCs ](./Readme4.0NPCs.MD)
 
+Los 9 Personajes No Jugables en el Mapa.
+
 🌟-Nerdpedia ![README4.0-Nerdpedia ](./Readme4.0Nerdpedia.MD)
+
+Minijuego estilo Wikipedia.
 
 🌟-Pinball ![README4.0-Pinball ](./Readme4.0Pinball.MD)
 
+Minijuego de Pinball con Modo Multibola incluido.
+
 🌟-RadioTeatro ![README4.0-RadioTeatro ](./Readme4.0RadioTeatro.MD)
+
+Las 2 Experiencias Visuales de RadioTeatro.
 
 🌟-Radios ![README4.0-Radios ](./Readme4.0Radios.MD)
 
+Las 12 Radios principales + otras 10 planeadas.
+
 🌟-Stuntman ![README4.0-Stuntman ](./Readme4.0Stuntman.MD)
+
+La Mision de Stuntman con sus 10 Fases.
 
 🌟-Teclados ![README4.0-Teclados ](./Readme4.0Teclados.MD)
 
@@ -63,7 +89,11 @@ Las 11 Armas del Juego.
 
 🌟-UrgentesTV ![README4.0-UrgentesTV ](./Readme4.0UrgentesTV.MD)
 
+Los 7 Urgentes estilo Noticiero.
+
 🌟-Vehiculos ![README4.0-Vehiculoa ](./Readme4.0Vehiculos.MD)
+
+Los 27 Vehiculos.
 
 🌟-Versiones ![README4.0-Versiones ](./Readme4.0Versiones.MD)
 
