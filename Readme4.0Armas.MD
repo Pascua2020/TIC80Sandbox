@@ -5,6 +5,7 @@ Cada arma tiene sus propias frases al disparar/ejecutar.
 
 ***🎮👾😱Caracteristicas:
 <details>
+
 1️⃣
 
 2️⃣
