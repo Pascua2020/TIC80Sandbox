@@ -14,7 +14,7 @@ Trafico en el mapa
 ![giftrafico3](./GIFS4.0/Trafico/siguiendoTochotaMohtoh.gif)
 ![giftrafico4](./GIFS4.0/Trafico/siguiendoZhoZhoEgoEgo.gif)
 
-🚸01-Ameo
+🚸01-**Ameo**
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
 <details>
@@ -23,7 +23,7 @@ Trafico en el mapa
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
 ![gifcalleameohud](./GIFS4.0/Calles(HUD)/Ameo-HUD.gif)
 </details>
-🚸02-Anaconda
+🚸02-**Anaconda**
 
 ![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
 
@@ -36,7 +36,7 @@ Trafico en el mapa
 
 </details>
 
-🚸03-Bubs
+🚸03-**Bubs**
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
 
@@ -49,7 +49,7 @@ Trafico en el mapa
 
 </details>
 
-🚸04-Callate
+🚸04-**Callate**
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
 
@@ -62,7 +62,7 @@ Trafico en el mapa
 
 </details>
 
-🚸05-Caos
+🚸05-**Caos**
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
 
@@ -75,7 +75,7 @@ Trafico en el mapa
 
 </details>
 
-🚸06-Cepo
+🚸06-**Cepo**
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
 
@@ -88,7 +88,7 @@ Trafico en el mapa
 
 </details>
 
-🚸07-Chad
+🚸07-**Chad**
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
 
@@ -101,7 +101,7 @@ Trafico en el mapa
 
 </details>
 
-🚸08-Chechona
+🚸08-**Chechona**
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 
@@ -114,7 +114,7 @@ Trafico en el mapa
 
 </details>
 
-🚸09-Chocolate
+🚸09-**Chocolate**
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 
@@ -127,7 +127,7 @@ Trafico en el mapa
 
 </details>
 
-🚸10-Cocaina
+🚸10-**Cocaina**
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
 
