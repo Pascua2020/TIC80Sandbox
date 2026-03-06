@@ -23,6 +23,8 @@ Los 16 Barrios de la Ciudad.
 
 🌟-Bugs ![Readme4.0-Bugs ](./Readme4.0Bugs.MD)
 
+Errores actuales en la Version 4.0 .
+
 🌟-Calles ![README4.0-Calles ](./Readme4.0Calles.MD)
 
 Las 65 Calles.
