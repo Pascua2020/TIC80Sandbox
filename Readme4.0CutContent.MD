@@ -195,6 +195,8 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 
 ![gifnafta1](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 22-1-2025.gif>)
 
+Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser problematico que los vehiculos fueran perdiendo nafta.
+
 <details>
 
 ![gifnafta2](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 4-3-2025.gif>)
