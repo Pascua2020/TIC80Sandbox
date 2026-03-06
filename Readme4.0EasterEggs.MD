@@ -327,52 +327,52 @@ https://en.wikipedia.org/wiki/Todo_Noticias
 
 <details>
 
-🥚**52**
+🥚**52 Todo Noticias**
 
 ![pngEasterEggTN2](./Screenshots4.0/EasterEggs/EasterEggTN2.png)
 
 https://en.wikipedia.org/wiki/Nelson_Castro_(journalist)
 
-🥚**53**
+🥚**53 Todo Noticias**
 
 ![pngEasterEggTN3](./Screenshots4.0/EasterEggs/EasterEggTN3.png)
 
 https://es.wikipedia.org/wiki/A_dos_voces
 
-🥚**54**
+🥚**54 Todo Noticias**
 
 ![pngEasterEggTN4](./Screenshots4.0/EasterEggs/EasterEggTN4.png)
 
 https://es.wikipedia.org/wiki/Marcelo_Bonelli
 
-🥚**55**
+🥚**55 Todo Noticias**
 
 ![pngEasterEggTN5](./Screenshots4.0/EasterEggs/EasterEggTN5.png)
 
 https://en.wikipedia.org/wiki/Jorge_Lanata
 
-🥚**56**
+🥚**56 Todo Noticias**
 
 ![pngEasterEggTN6](./Screenshots4.0/EasterEggs/EasterEggTN6.png)
 
-🥚**57**
+🥚**57 Todo Noticias**
 
 ![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)
 
-🥚**58**
+🥚**58 Trastorno Obsesivo Compulsivo y Exposicion con Prevencion de Respuesta**
 
 ![pngEasterEggTOC](./Screenshots4.0/EasterEggs/EasterEggTOC.png)
 
 https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder
 https://en.wikipedia.org/wiki/Exposure_therapy#Exposure_and_response_prevention_(ERP)
 
-🥚**59🇯🇵**
+🥚**59 Toyota🇯🇵**
 
 ![pngEasterEggToyota](./Screenshots4.0/EasterEggs/EasterEggToyota.png)
 
 https://en.wikipedia.org/wiki/Toyota
 
-🥚**60🇺🇾**
+🥚**60 Uruguay🇺🇾**
 
 ![pngEasterEggUruguay](./Screenshots4.0/EasterEggs/EasterEggUruguay.png)
 
@@ -380,7 +380,7 @@ https://en.wikipedia.org/wiki/Ciudad_Vieja,_Montevideo
 
 </details>
 
-🥚**61🇦🇷**
+🥚**61 Javier Milei🇦🇷**
 
 ![pngEasterEggMilei4](./Screenshots4.0/EasterEggs/EasterEggMilei4.png)
 
