@@ -3,6 +3,7 @@
 Hay mas de 100 carteles.
 
 **Carteles A : Publicidades 📰**
+36 carteles.
 
 ℹ️1
 
