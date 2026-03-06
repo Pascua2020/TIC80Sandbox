@@ -3,6 +3,7 @@
 Hay mas de 100 carteles.
 
 **Carteles A : Publicidades 📰**
+
 36 carteles.
 
 ℹ️1
@@ -262,6 +263,8 @@ A36
 </details>
 
 **Carteles B : Paradas de Colectivo🚏🚍**
+
+3 Carteles.
 
 ⬛37
 
