@@ -889,7 +889,7 @@ Fondo
 </details>
 
 
-🖲️**Quick Time Event**"
+🖲️**Quick Time Event**" ( Fase 2 )
 ( Activa Mensajes de Desarrollador )
 
 ![pngstuntmanv4.0qte1](./Screenshots4.0/Stuntman/MensajesDesarrollador/IconoDialogosDesarrollador.png)
@@ -900,7 +900,7 @@ Elementos
 
 
 
-⚙️🔥Aro con y sin Fuego
+⚙️🔥Aro con y sin Fuego ( Fase 8 )
 
 🎫V1.0
 
@@ -928,28 +928,28 @@ Elementos
 
 </details>
 
-🧱Caja Normal
+🧱Caja Normal ( Fase 2 )
 
 ![gifstuntmanv4.0cajanormal](./GIFS4.0/Stuntman/ColisionesCaja.gif)
 
 ![pngstuntmanv4.0cajanormal](./Screenshots4.0/Stuntman/Destructibles/CajaNormalDestruida.png)
 
-🗄️Caja Metalica
+🗄️Caja Metalica ( Fase 4 )
 
 ![gifstuntmanv4.0cajametalica](./GIFS4.0/Stuntman/CajaMetalica.gif)
 
-☠️Muñeco Galeria de Tiro
+☠️Muñeco Galeria de Tiro ( Fase 4 )
 
 ![gifstuntmanv4.0galeriadetiro](./GIFS4.0/Stuntman/DisparoGaleriaDeTiro.gif)
 
 ![pngstuntmanv4.0galeriadetiro](./Screenshots4.0/Stuntman/Destructibles/GaleriaDeTiro.png)
 
-⏳Checkpoint
+⏳Checkpoint ( Fase 3 y 9 )
 
 ![pngstuntmanv4.0checkpoint1](./Screenshots4.0/Stuntman/Checkpoint/CheckpointAlcanzado.png)
 ![pngstuntmanv4.0checkpoint2](./Screenshots4.0/Stuntman/Checkpoint/CheckpointSinAlcanzar.png)
 
-🍶Botellas de Vidrio
+🍶Botellas de Vidrio ( Fase 2 )
 
 🎫V1
 
@@ -959,7 +959,7 @@ Elementos
 
 ![pngstuntmanv4.0vidrio](./Screenshots4.0/Stuntman/Destructibles/VidrioDestruido.png)
 
-🚧Conos
+🚧Conos ( Fase 6 )
 
 🎫V1
 
@@ -969,13 +969,13 @@ Elementos
 
 ![pngstuntmanv4.0conos](./Screenshots4.0/Stuntman/Destructibles/Conos.png)
 
-🚗🔥Coches en Llamas
+🚗🔥Coches en Llamas ( Fase 6 )
 
 ![gifstuntmanv4.0cochesenllamas](./GIFS4.0/Stuntman/CochesEnLlamas.gif)
 
 ![pngstuntmanv4.0cochesenllamas](./Screenshots4.0/Stuntman/MensajesEnemigos/MensajeCocheEnLlamas.png)
 
-🚗Coche a Perseguir
+🚗Coche a Perseguir ( Fase 7 )
 
 ![gifstuntmanv4.0cocheaperseguir](./GIFS4.0/Stuntman/CocheAPerseguir.gif)
 
@@ -1032,13 +1032,13 @@ Cronometros
 
 </details>
 
-🛢️Nitro
+🛢️Nitro ( Fase 3 )
 
 ![gifstuntmanv4.0nitro](./GIFS4.0/Stuntman/Nitro.gif)
 
 ![pngstuntmanv4.0nitro](./Screenshots4.0/Stuntman/NitroConFrase.png)
 
-🛤️Rampa
+🛤️Rampa ( Fase 5 y 8 )
 
 ![gifstuntmanv4.0rampa](./GIFS4.0/Stuntman/Rampa.gif)
 
