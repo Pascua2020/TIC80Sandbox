@@ -1,5 +1,7 @@
 # Readme4.0Stuntman
 
+🔥💥**Mision : El Kamikaze del Cine**
+
 La Version 4.0 tiene varios bugs.
 La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfectamente ( se puede ver mas abajo ).
 
