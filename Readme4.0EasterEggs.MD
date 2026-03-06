@@ -933,13 +933,13 @@ https://en.wikipedia.org/wiki/City_of_London
 
 https://en.wikipedia.org/wiki/Holography
 
-🥚**149**
+🥚**149🇯🇵**
 
 ![pngEasterEggGranTurismo](./Screenshots4.0/EasterEggs/EasterEggGranTurismo.png)
 
 https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec
 
-🥚**150**
+🥚**150🇯🇵**
 
 ![pngEasterEggPlayStation](./Screenshots4.0/EasterEggs/EasterEggPlayStation.png)
 
@@ -955,7 +955,7 @@ https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia
 
 <details>
 
-🥚**152**
+🥚**152🇯🇵**
 
 ![pngEasterEggBeyblade](./Screenshots4.0/EasterEggs/EasterEggBeyblade.png)
 
@@ -979,7 +979,7 @@ https://en.wikipedia.org/wiki/Batman_Province
 
 https://en.wikipedia.org/wiki/Fourth_wall
 
-🥚**156**
+🥚**156🇺🇲**
 
 ![pngEasterEggDukeNukem](./Screenshots4.0/EasterEggs/EasterEggDukeNukem.png)
 
@@ -991,19 +991,19 @@ https://en.wikipedia.org/wiki/Duke_Nukem_3D
 
 https://en.wikipedia.org/wiki/Obelisco_de_Buenos_Aires
 
-🥚**158**
+🥚**158🇨🇳**
 
 ![pngEasterEggDeepSeek](./Screenshots4.0/EasterEggs/EasterEggDeepSeek.png)
 
 https://en.wikipedia.org/wiki/DeepSeek_(chatbot)
 
-🥚**159**
+🥚**159🇺🇲**
 
 ![pngEasterEggTonyHawk](./Screenshots4.0/EasterEggs/EasterEggTonyHawk.png)
 
 https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_4
 
-🥚**160**
+🥚**160🇺🇲**
 
 ![pngEasterEggRambo](./Screenshots4.0/EasterEggs/EasterEggRambo.png)
 
@@ -1011,7 +1011,7 @@ https://en.wikipedia.org/wiki/First_Blood
 
 </details>
 
-🥚**161**
+🥚**161 🇯🇵**
 
 ![pngEasterEggYugioh](./Screenshots4.0/EasterEggs/EasterEggYugioh.png)
 
