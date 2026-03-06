@@ -82,13 +82,13 @@ B
 </details>
 
 🎬Fase 1 Accion
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1jugabilidadF1](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase1.gif)
-
+</details>
 ☠️Fase 1 Game Over
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1gameover1](./GIFS4.0/CutContent/Stuntman/V1/GameOver1.gif)
@@ -99,12 +99,13 @@ B
 
 ![pngstuntmanv4.0gameover1](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman01.png)
 
-
+</details>
 ➡️Fase 1 Inicio Rapido
-
+<details>
 🎥Version 1
 
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
+</details>
 </details>
 
 **🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
