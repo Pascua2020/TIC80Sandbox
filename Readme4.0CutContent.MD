@@ -283,6 +283,8 @@ La pista de Zurich,Suiza esta en el mapa final.
 
 ![gifvelocidad](<./GIFS4.0/CutContent/VelocidadVehiculo ( vel2 ) 4-3-2025.gif>)
 
+Los vehiculos en el juego final no poseen velocidades diferentes ( serian como "skins" del jugador ).
+
 ![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
 
 ⚠️-Votar
