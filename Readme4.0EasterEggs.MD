@@ -67,7 +67,7 @@ https://en.wikipedia.org/wiki/Internets
 
 </details>
 
-🥚**11 GTA 2**
+🥚**11 GTA 2🏴󠁧󠁢󠁳󠁣󠁴󠁿**
 
 ![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)
 
@@ -75,13 +75,13 @@ https://en.wikipedia.org/wiki/Grand_Theft_Auto_2
 
 <details>
 
-🥚**12 GTA Vice City**
+🥚**12 GTA Vice City🏴󠁧󠁢󠁳󠁣󠁴󠁿**
 
 ![pngEasterEggGTAViceCity](./Screenshots4.0/EasterEggs/EasterEggGTAViceCity.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City
 
-🥚**13 Harvard**
+🥚**13 Universidad de Harvard🇺🇸**
 
 ![pngEasterEggHarvard](./Screenshots4.0/EasterEggs/EasterEggHarvard.png)
 
@@ -157,37 +157,37 @@ https://en.wikipedia.org/wiki/Lut_Desert
 
 https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 
-🥚**25 LaNacion+**
+🥚**25 LaNacion+🇦🇷**
 
 ![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)
 
 https://en.wikipedia.org/wiki/La_Naci%C3%B3n
 
-🥚**26 LaNacion+**
+🥚**26 LaNacion+🇦🇷**
 
 ![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)
 
 https://es.wikipedia.org/wiki/Carlos_Pagni
 
-🥚**27 Los Angeles**
+🥚**27 Los Angeles🇺🇲**
 
 ![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)
 
 https://en.wikipedia.org/wiki/Los_Angeles
 
-🥚**28 Los Simpson**
+🥚**28 Los Simpson🇺🇲**
 
 ![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)
 
 https://en.wikipedia.org/wiki/Bart_on_the_Road
 
-🥚**29 Los Simpson**
+🥚**29 Los Simpson🇺🇲**
 
 ![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)
 
 https://en.wikipedia.org/wiki/Bart_the_Genius
 
-🥚**30 Los Simpson**
+🥚**30 Los Simpson🇺🇲**
 
 ![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
@@ -287,7 +287,7 @@ https://en.wikipedia.org/wiki/Shenzhen
 https://en.wikipedia.org/wiki/Sylvester_Stallone
 https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 
-🥚**46 Stuntman ( Videojuego de PS2 de Reflections Interactive )**
+🥚**46 Stuntman ( Videojuego de PS2 de Reflections Interactive )🏴󠁧󠁢󠁥󠁮󠁧󠁿**
 
 ![pngEasterEggStuntmanPS2](./Screenshots4.0/EasterEggs/EasterEggStuntmanPS2.png)
 
@@ -319,7 +319,7 @@ https://en.wikipedia.org/wiki/Tinder_(app)
 
 </details>
 
-🥚**51 Todo Noticias**
+🥚**51 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN1](./Screenshots4.0/EasterEggs/EasterEggTN1.png)
 
@@ -327,35 +327,35 @@ https://en.wikipedia.org/wiki/Todo_Noticias
 
 <details>
 
-🥚**52 Todo Noticias**
+🥚**52 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN2](./Screenshots4.0/EasterEggs/EasterEggTN2.png)
 
 https://en.wikipedia.org/wiki/Nelson_Castro_(journalist)
 
-🥚**53 Todo Noticias**
+🥚**53 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN3](./Screenshots4.0/EasterEggs/EasterEggTN3.png)
 
 https://es.wikipedia.org/wiki/A_dos_voces
 
-🥚**54 Todo Noticias**
+🥚**54 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN4](./Screenshots4.0/EasterEggs/EasterEggTN4.png)
 
 https://es.wikipedia.org/wiki/Marcelo_Bonelli
 
-🥚**55 Todo Noticias**
+🥚**55 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN5](./Screenshots4.0/EasterEggs/EasterEggTN5.png)
 
 https://en.wikipedia.org/wiki/Jorge_Lanata
 
-🥚**56 Todo Noticias**
+🥚**56 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN6](./Screenshots4.0/EasterEggs/EasterEggTN6.png)
 
-🥚**57 Todo Noticias**
+🥚**57 Todo Noticias🇦🇷**
 
 ![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)
 
