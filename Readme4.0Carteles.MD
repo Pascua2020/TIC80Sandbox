@@ -866,6 +866,8 @@ K2
 
 **Carteles L : Interactivos⚽**
 
+4/6 Carteles.
+
 🛑112
 
 L1
