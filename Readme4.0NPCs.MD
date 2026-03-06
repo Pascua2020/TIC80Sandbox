@@ -1,5 +1,28 @@
 # Readme4.0NPCs
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
 Hay 9 personajes en el mapa.
 
 🤠Capitan Inflacion
