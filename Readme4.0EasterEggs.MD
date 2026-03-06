@@ -728,77 +728,77 @@ https://en.wikipedia.org/wiki/Berlin
 
 https://en.wikipedia.org/wiki/Flag_of_Argentina
 
-🥚**117 Motosierra**
+🥚**117 Motosierra🪚**
 
 ![pngEasterEggMotosierra](./Screenshots4.0/EasterEggs/EasterEggMotosierra.png)
 
 https://en.wikipedia.org/wiki/Chainsaws_in_popular_culture
 ( Seccion "Politics" )
 
-🥚**118🇸🇲**
+🥚**118 San Marino🇸🇲**
 
 ![pngEasterEggSanMarino](./Screenshots4.0/EasterEggs/EasterEggSanMarino.png)
 
 https://en.wikipedia.org/wiki/San_Marino
 
-🥚**119🇩🇰**
+🥚**119 Copenhague🇩🇰**
 
 ![pngEasterEggCopenhague](./Screenshots4.0/EasterEggs/EasterEggCopenhague.png)
 
 https://en.wikipedia.org/wiki/Copenhagen
 
-🥚**120**
+🥚**120 Sexual🔥**
 
 ![pngEasterEggSexual4](./Screenshots4.0/EasterEggs/EasterEggSexual4.png)
 
 </details>
 
-🥚**121**
+🥚**121 Sexual🔥**
 
 ![pngEasterEggSexual5](./Screenshots4.0/EasterEggs/EasterEggSexual5.png)
 
 <details>
 
-🥚**122**
+🥚**122 Sexual🔥**
 
 ![pngEasterEggSexual6](./Screenshots4.0/EasterEggs/EasterEggSexual6.png)
 
-🥚**123🇸🇴**
+🥚**123 Mogadiscio🇸🇴**
 
 ![pngEasterEggMogadiscio](./Screenshots4.0/EasterEggs/EasterEggMogadiscio.png)
 
 https://en.wikipedia.org/wiki/Mogadishu
 
-🥚**124**
+🥚**124 ChatGPT📱**
 
 ![pngEasterEggChatGPT2](./Screenshots4.0/EasterEggs/EasterEggChatGPT2.png)
 
-🥚**125🇮🇱**
+🥚**125 Israel🇮🇱**
 
 ![pngEasterEggIsrael](./Screenshots4.0/EasterEggs/EasterEggIsrael.png)
 
 https://en.wikipedia.org/wiki/Israel
 
-🥚**126🇫🇲**
+🥚**126 Micronesia🇫🇲**
 
 ![pngEasterEggMicronesia](./Screenshots4.0/EasterEggs/EasterEggMicronesia.png)
 
 https://en.wikipedia.org/wiki/Federated_States_of_Micronesia
 
-🥚**127🇸🇳**
+🥚**127 Senegal🇸🇳**
 
 ![pngEasterEggSenegal](./Screenshots4.0/EasterEggs/EasterEggSenegal.png)
 
 https://en.wikipedia.org/wiki/Senegal
 
-🥚**128**
+🥚**128 Elon Musk🤑**
 
 ![pngEasterEggElonMusk](./Screenshots4.0/EasterEggs/EasterEggElonMusk.png)
 
 http://en.wikipedia.org/wiki/Elon_Musk
 http://en.wikipedia.org/wiki/Tanzania
 
-🥚**129**
+🥚**129 Chad🇷🇴**
 
 ![pngEasterEggChad](./Screenshots4.0/EasterEggs/EasterEggChad.png)
 
@@ -812,7 +812,7 @@ https://en.wikipedia.org/wiki/International_Space_Station
 
 </details>
 
-🥚**131**
+🥚**131 Facebook📱**
 
 ![pngEasterEggFacebook](./Screenshots4.0/EasterEggs/EasterEggFacebook.png)
 
@@ -820,25 +820,25 @@ https://en.wikipedia.org/wiki/Facebook
 
 <details>
 
-🥚**132**
+🥚**132 OnlyFans👙**
 
 ![pngEasterEggOnlyFans](./Screenshots4.0/EasterEggs/EasterEggOnlyFans.png)
 
 https://en.wikipedia.org/wiki/OnlyFans
 
-🥚**133🇦🇷**
+🥚**133 Sandro🇦🇷**
 
 ![pngEasterEggSandro](./Screenshots4.0/EasterEggs/EasterEggSandro.png)
 
 https://en.wikipedia.org/wiki/Sandro_de_Am%C3%A9rica
 
-🥚**134🇺🇾**
+🥚**134 Elecciones en Uruguay🇺🇾**
 
 ![pngEasterEggEleccionesUruguay](./Screenshots4.0/EasterEggs/EasterEggEleccionesUruguay.png)
 
 https://en.wikipedia.org/wiki/Elections_in_Uruguay
 
-🥚**135**
+🥚**135 Big Bang🪐🕳️**
 
 ![pngEasterEggBigBang](./Screenshots4.0/EasterEggs/EasterEggBigBang.png)
 
