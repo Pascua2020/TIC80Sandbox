@@ -359,7 +359,7 @@ https://en.wikipedia.org/wiki/Jorge_Lanata
 
 ![pngEasterEggTN7](./Screenshots4.0/EasterEggs/EasterEggTN7.png)
 
-🥚**58 Trastorno Obsesivo Compulsivo y Exposicion con Prevencion de Respuesta**
+🥚**58 Trastorno Obsesivo Compulsivo y Exposicion con Prevencion de Respuesta😬**
 
 ![pngEasterEggTOC](./Screenshots4.0/EasterEggs/EasterEggTOC.png)
 
