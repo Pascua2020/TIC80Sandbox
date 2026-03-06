@@ -401,7 +401,7 @@ Trafico en el mapa
 
 </details>
 
-🚸31-Lalala
+🚸31-**Lalala**
 
 ![pngcallelalalanohud](./Screenshots4.0/Calles(NOHUD)/Lalala.png)
 
@@ -414,7 +414,7 @@ Trafico en el mapa
 
 </details>
 
-🚸32-Libre
+🚸32-**Libre**
 
 ![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 
@@ -425,7 +425,8 @@ Trafico en el mapa
 ![pngcallelibrehud](./Screenshots4.0/Calles(HUD)/Libre-HUD.png)
 ![gifcallelibrehud](./GIFS4.0/Calles(HUD)/Libre-HUD.gif)
 </details>
-🚸33-Mas placer
+
+🚸33-**Mas placer**
 
 ![pngcallemasplacernohud](<./Screenshots4.0/Calles(NOHUD)/Mas placer.png>)
 
@@ -438,7 +439,7 @@ Trafico en el mapa
 
 </details>
 
-🚸34-Meteorito
+🚸34-**Meteorito**
 
 ![pngcallemeteoritonohud](./Screenshots4.0/Calles(NOHUD)/Meteorito.png)
 
@@ -451,7 +452,7 @@ Trafico en el mapa
 
 </details>
 
-🚸35-Miau
+🚸35-**Miau**
 
 ![pngcallemiaunohud](./Screenshots4.0/Calles(NOHUD)/Miau.png)
 
@@ -464,7 +465,7 @@ Trafico en el mapa
 
 </details>
 
-🚸36-Mister
+🚸36-**Mister**
 
 ![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 
@@ -477,7 +478,7 @@ Trafico en el mapa
 
 </details>
 
-🚸37-Nickelodeon
+🚸37-**Nickelodeon**
 
 ![pngcallenickelodeonnohud](./Screenshots4.0/Calles(NOHUD)/Nickelodeon.png)
 
@@ -490,7 +491,7 @@ Trafico en el mapa
 
 </details>
 
-🚸38-NiHao
+🚸38-**NiHao**
 
 ![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/NiHao.png)
 
@@ -503,7 +504,7 @@ Trafico en el mapa
 
 </details>
 
-🚸39-No jodas
+🚸39-**No jodas**
 
 ![pngcallenojodasnohud](<./Screenshots4.0/Calles(NOHUD)/No jodas.png>)
 
@@ -516,7 +517,7 @@ Trafico en el mapa
 
 </details>
 
-🚸40-No te creo
+🚸40-**No te creo**
 
 ![pngcallenotecreonohud](<./Screenshots4.0/Calles(NOHUD)/No te creo.png>)
 
@@ -529,7 +530,7 @@ Trafico en el mapa
 
 </details>
 
-🚸41-NOOOO
+🚸41-**NOOOO**
 
 ![pngcallenoooonohud](./Screenshots4.0/Calles(NOHUD)/NOOOO.png)
 
@@ -542,7 +543,7 @@ Trafico en el mapa
 
 </details>
 
-🚸42-Orco
+🚸42-**Orco**
 
 ![pngcalleorconohud](./Screenshots4.0/Calles(NOHUD)/Orco.png)
 
@@ -555,7 +556,7 @@ Trafico en el mapa
 
 </details>
 
-🚸43-Ouch
+🚸43-**Ouch**
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
 
@@ -568,7 +569,7 @@ Trafico en el mapa
 
 </details>
 
-🚸44-Party Hard
+🚸44-**Party Hard**
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
 
@@ -581,7 +582,7 @@ Trafico en el mapa
 
 </details>
 
-🚸45-Pelado
+🚸45-**Pelado**
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
 
@@ -594,7 +595,7 @@ Trafico en el mapa
 
 </details>
 
-🚸46-Peluca
+🚸46-**Peluca**
 
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
 
@@ -607,7 +608,7 @@ Trafico en el mapa
 
 </details>
 
-🚸47-Pff
+🚸47-**Pff**
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
 
@@ -620,7 +621,7 @@ Trafico en el mapa
 
 </details>
 
-🚸48-Pio pio
+🚸48-**Pio pio**
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
 
@@ -633,7 +634,7 @@ Trafico en el mapa
 
 </details>
 
-🚸49-Pixeles
+🚸49-**Pixeles**
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
 
@@ -646,7 +647,7 @@ Trafico en el mapa
 
 </details>
 
-🚸50-Poker
+🚸50-**Poker**
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 
