@@ -21,10 +21,6 @@ Cada arma tiene sus propias frases al disparar/ejecutar.
 
 8️⃣
 
-9️⃣
-
-🔟
-
 
 ***
 
