@@ -98,9 +98,16 @@ Las 12 Radios principales + otras 10 planeadas.
 La Mision de Stuntman con sus 10 Fases.
 Incluye QTE que activan Mensajes de Desarrollador,Mensajes Secretos y Objetos Destructibles.
 
+V4 TIENE BUGS .
+V1 Funciona correctamente.
+
 🌟-Teclados ![README4.0-Teclados ](./Readme4.0Teclados.MD)
 
+Uno de PC y otro Numerico ( este ultimo no funciona bien ).
+
 🌟-Telescopio ![README4.0-Telescopio ](./Readme4.0Telescopio.MD)
+
+Un visor de estrellas fugaces con mira a mover.
 
 🌟-UrgentesTV ![README4.0-UrgentesTV ](./Readme4.0UrgentesTV.MD)
 
