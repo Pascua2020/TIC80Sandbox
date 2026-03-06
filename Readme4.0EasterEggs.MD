@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/SpongeBob_SquarePants_season_3
 
 https://en.wikipedia.org/wiki/ChatGPT
 
-🥚**4 Corea del Norte**
+🥚**4 Corea del Norte 🇰🇵**
 
 ![pngEasterEggCoreaDelNorte](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte.png)
 
@@ -47,19 +47,19 @@ https://en.wikipedia.org/wiki/Ebola
 
 https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic
 
-🥚**8 España**
+🥚**8 España🇪🇸**
 
 ![pngEasterEggEspaña](./Screenshots4.0/EasterEggs/EasterEggEspaña.png)
 
 https://en.wikipedia.org/wiki/Spain
 
-🥚**9 España**
+🥚**9 España🇪🇸**
 
 ![pngEasterEggEspaña2](./Screenshots4.0/EasterEggs/EasterEggEspaña2.png)
 
 https://en.wikipedia.org/wiki/Madrid
 
-🥚**10 George W Bush**
+🥚**10 George W Bush🇺🇲**
 
 ![pngEasterEggGeorgeWBush](./Screenshots4.0/EasterEggs/EasterEggGeorgeWBush.png)
 
@@ -87,31 +87,31 @@ https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City
 
 https://en.wikipedia.org/wiki/Harvard_University
 
-🥚**14 Chino Mandarin**
+🥚**14 Chino Mandarin🇨🇳**
 
 ![pngEasterEggIdiomaChino](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-🥚**15 Chino Mandarin 2**
+🥚**15 Chino Mandarin 2🇨🇳**
 
 ![pngEasterEggIdiomaChino2](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino2.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-🥚**16 Idioma Gales**
+🥚**16 Idioma Gales🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 ![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)
 
 https://en.wikipedia.org/wiki/Patagonian_Welsh
 
-🥚**17 Idioma Gales**
+🥚**17 Idioma Gales🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
 ![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)
 
 https://en.wikipedia.org/wiki/Welsh_language
 
-🥚**18 Idioma Romanche ( Suiza )**
+🥚**18 Idioma Romanche ( Suiza )🇨🇭**
 
 ![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)
 
@@ -123,7 +123,7 @@ https://en.wikipedia.org/wiki/Romansh_language
 
 https://en.wikipedia.org/wiki/Tenis_language
 
-🥚**20 Idioma Tigriña**
+🥚**20 Idioma Tigriña🇪🇷**
 
 ![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)
 
@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Tigrinya_language
 
 </details>
 
-🥚**21 Idioma Wolof ( Senegal )**
+🥚**21 Idioma Wolof ( Senegal )🇸🇳**
 
 ![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
@@ -139,19 +139,19 @@ https://en.wikipedia.org/wiki/Wolof_language
 
 <details>
 
-🥚**22 Guerra de los 12 Dias**
+🥚**22 Guerra de los 12 Dias🇮🇷🇮🇱**
 
 ![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)
 
 https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war
 
-🥚**23 Desierto de Lut ( Iran )**
+🥚**23 Desierto de Lut ( Iran )🇮🇷**
 
 ![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)
 
 https://en.wikipedia.org/wiki/Lut_Desert
 
-🥚**24 Nestor Kirchner ( Frase "Extasis" )**
+🥚**24 Nestor Kirchner ( Frase "Extasis" )🇦🇷**
 
 ![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)
 
@@ -195,7 +195,7 @@ https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
 </details>
 
-🥚**31 Lunfardo**
+🥚**31 Lunfardo🇦🇷**
 
 ![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)
 
@@ -203,35 +203,35 @@ https://en.wikipedia.org/wiki/Lunfardo
 
 <details>
 
-🥚**32 Mauricio Macri ( Frase "Reperfilar" )**
+🥚**32 Mauricio Macri ( Frase "Reperfilar" )🇦🇷**
 
 ![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
 
 https://en.wikipedia.org/wiki/Presidency_of_Mauricio_Macri
 
-🥚**33 Mario Alonso Puig**
+🥚**33 Mario Alonso Puig🇪🇦**
 
 ![pngEasterEggMarioAlonsoPuig](./Screenshots4.0/EasterEggs/EasterEggMarioAlonsoPuig.png)
 
 https://marioalonsopuig.com/biografia/
 
-🥚**34 Carlos Maslaton ( Frase "Proceda" )**
+🥚**34 Carlos Maslaton ( Frase "Proceda" )🇦🇷**
 
 ![pngEasterEggMaslaton](./Screenshots4.0/EasterEggs/EasterEggMaslaton.png)
 
 https://en.wikipedia.org/wiki/Carlos_Maslat%C3%B3n
 
-🥚**35 Javier Milei**
+🥚**35 Javier Milei🇦🇷**
 
 ![pngEasterEggMilei1](./Screenshots4.0/EasterEggs/EasterEggMilei1.png)
 
 https://en.wikipedia.org/wiki/Javier_Milei
 
-🥚**36 Javier Milei**
+🥚**36 Javier Milei🇦🇷**
 
 ![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)
 
-🥚**37 Javier Milei**
+🥚**37 Javier Milei🇦🇷**
 
 ![pngEasterEggMilei3](./Screenshots4.0/EasterEggs/EasterEggMilei3.png)
 
@@ -241,13 +241,13 @@ https://en.wikipedia.org/wiki/Javier_Milei
 
 https://en.wikipedia.org/wiki/Party_Hard_(Pulp_song)
 
-🥚**39 Vladivostok ( Rusia )**
+🥚**39 Vladivostok ( Rusia )🇷🇺**
 
 ![pngEasterEggRusia1](./Screenshots4.0/EasterEggs/EasterEggRusia1.png)
 
 https://en.wikipedia.org/wiki/Vladivostok
 
-🥚**40 Mikhail Gorbachev y subcultura Gopnik**
+🥚**40 Mikhail Gorbachev y subcultura Gopnik🇷🇺**
 
 ![pngEasterEggRusia2](./Screenshots4.0/EasterEggs/EasterEggRusia2.png)
 
@@ -256,7 +256,7 @@ https://en.wikipedia.org/wiki/Gopnik
 
 </details>
 
-🥚**41 Miss Russia**
+🥚**41 Miss Russia🇷🇺**
 
 ![pngEasterEggRusia3](./Screenshots4.0/EasterEggs/EasterEggRusia3.png)
 
@@ -264,23 +264,23 @@ https://en.wikipedia.org/wiki/Women_in_Russia
 
 <details>
 
-🥚**42 Rusia**
+🥚**42 Rusia🇷🇺**
 
 ![pngEasterEggRusia4](./Screenshots4.0/EasterEggs/EasterEggRusia4.png)
 
-🥚**43 Mohamed Ali Seineldin**
+🥚**43 Mohamed Ali Seineldin🇦🇷**
 
 ![pngEasterEggSeineldin](./Screenshots4.0/EasterEggs/EasterEggSeineldin.png)
 
 https://en.wikipedia.org/wiki/Mohamed_Al%C3%AD_Seineld%C3%ADn
 
-🥚**44 Shenzhen ( China )**
+🥚**44 Shenzhen ( China )🇨🇳**
 
 ![pngEasterEggShenzhen](./Screenshots4.0/EasterEggs/EasterEggShenzhen.png)
 
 https://en.wikipedia.org/wiki/Shenzhen
 
-🥚**45 Silvester Stallone y Arnold Schwarzzeneger**
+🥚**45 Silvester Stallone y Arnold Schwarzzeneger🇺🇲**
 
 ![pngEasterEggStallone](./Screenshots4.0/EasterEggs/EasterEggStallone.png)
 
@@ -293,19 +293,19 @@ https://en.wikipedia.org/wiki/Arnold_Schwarzenegger
 
 https://en.wikipedia.org/wiki/Stuntman_(video_game)
 
-🥚**47 Khartoum ( Sudan )**
+🥚**47 Khartoum ( Sudan )🇸🇩**
 
 ![pngEasterEggSudan](./Screenshots4.0/EasterEggs/EasterEggSudan.png)
 
 https://en.wikipedia.org/wiki/Khartoum
 
-🥚**48 Suede**
+🥚**48 Suede🇬🇧**
 
 ![pngEasterEggSuede1](./Screenshots4.0/EasterEggs/EasterEggSuede1.png)
 
 https://en.wikipedia.org/wiki/Suede_(band)
 
-🥚**49 Suede ( cancion "The Drowners" )**
+🥚**49 Suede ( cancion "The Drowners" )🇬🇧**
 
 ![pngEasterEggSuede2](./Screenshots4.0/EasterEggs/EasterEggSuede2.png)
 
