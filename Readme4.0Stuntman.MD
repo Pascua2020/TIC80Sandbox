@@ -251,10 +251,11 @@ B
 **🎥🚙🔥👀 FASE 4 : Disparar a Caja Metalica**
 
 <details>
-💬Fase 4 Dialogos
 
+💬Fase 4 Dialogos
 
 <details>
+
 A
 
 🎥Version 4.0
@@ -274,13 +275,19 @@ B
 
 
 🚀Fase 4 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF4](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase4.gif)
+
 </details>
+
 ☠️Fase 4 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover4](./GIFS4.0/CutContent/Stuntman/V1/GameOver4.gif)
@@ -290,16 +297,23 @@ Version 4.0
 ![gifstuntmanv4.0gameover4](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver4.gif)
 
 ![pngstuntmanv4.0gameover4](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman04.png)
+
 </details>
+
 ➡️Fase 4 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido4](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase4.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 5 : Saltar en Rampa**
+
 <details>
 
 💬Fase 5 Dialogos
@@ -323,14 +337,21 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase5B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase5B.png)
 
 </details>
+
 🚀Fase 5 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF5](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase5.gif)
+
 </details>
+
 ☠️Fase 5 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover5](./GIFS4.0/CutContent/Stuntman/V1/GameOver5.gif)
@@ -340,22 +361,29 @@ Version 4.0
 ![gifstuntmanv4.0gameover5](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver5.gif)
 
 ![pngstuntmanv4.0gameover5](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman05.png)
+
 </details>
+
 ➡️Fase 5 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido5](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase5.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 6 : Esquivar coches en llamas**
 
 <details>
-💬Fase 6 Dialogos
 
+💬Fase 6 Dialogos
 
 <details>
+
 A
 
 Version 4.0
@@ -373,14 +401,21 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase6B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase6B.png)
 
 </details>
+
 🚀Fase 6 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF6](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase6.gif)
+
 </details>
+
 ☠️Fase 6 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover6](./GIFS4.0/CutContent/Stuntman/V1/GameOver6.gif)
@@ -390,22 +425,29 @@ Version 4.0
 ![gifstuntmanv4.0gameover6](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver6.gif)
 
 ![pngstuntmanv4.0gameover6](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman06.png)
+
 </details>
+
 ➡️Fase 6 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido6](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase6.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 7 : Perseguir coche**
+
 <details>
 
 💬Fase 7 Dialogos
-
-
+
 <details>
+
 A
 
 Version 4.0
@@ -423,14 +465,21 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase7B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase7B.png)
 
 </details>
+
 🚀Fase 7 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF7](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase7.gif)
+
 </details>
+
 ☠️Fase 7 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover7](./GIFS4.0/CutContent/Stuntman/V1/GameOver7.gif)
@@ -440,23 +489,29 @@ Version 4.0
 ![gifstuntmanv4.0gameover7](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver7.gif)
 
 ![pngstuntmanv4.0gameover7](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman07.png)
+
 </details>
+
 ➡️Fase 7 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido7](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase7.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 8 : Saltar en Aro**
 
 <details>
 
-💬Fase 8 Dialogos
-
+💬Fase 8 Dialogos
 
 <details>
+
 A
 
 Version 4.0
@@ -472,15 +527,23 @@ Version 4.0
 ![gifstuntmanv4.0mensajefase8B](./GIFS4.0/Stuntman/MensajesFases/MensajeFase8B.gif)
 
 ![pngstuntmanv4.0mensajefase8B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase8B.png)
+
 </details>
+
 🚀Fase 8 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF8](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase8.gif)
+
 </details>
+
 ☠️Fase 8 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover8](./GIFS4.0/CutContent/Stuntman/V1/GameOver8.gif)
@@ -490,16 +553,23 @@ Version 4.0
 ![gifstuntmanv4.0gameover8](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver8.gif)
 
 ![pngstuntmanv4.0gameover8](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman08.png)
+
 </details>
+
 ➡️Fase 8 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido8](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase8.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 9 : Esquivar trenes**
+
 <details>
 
 💬Fase 9 Dialogos
@@ -523,14 +593,21 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase9B](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase9B.png)
 
 </details>
+
 🚀Fase 9 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF9](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase9.gif)
+
 </details>
+
 ☠️Fase 9 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover9](./GIFS4.0/CutContent/Stuntman/V1/GameOver9.gif)
@@ -540,18 +617,27 @@ Version 4.0
 ![gifstuntmanv4.0gameover9](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver9.gif)
 
 ![pngstuntmanv4.0gameover9](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman09.png)
+
 </details>
+
 ➡️Fase 9 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido9](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase9.gif)
+
 </details>
+
 </details>
 
 **🎥🚙🔥👀 FASE 10 : Poner bomba y sobrevivir**
+
 <details>
+
 <details>
+
 💬Fase 10 Dialogos
 
 A
@@ -571,14 +657,21 @@ Version 4.0
 ![pngstuntmanv4.0mensajefase5](./Screenshots4.0/Stuntman/MensajesFases/MensajeFase10B.png)
 
 </details>
+
 🚀Fase 10 Accion
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1jugabilidadF10](./GIFS4.0/CutContent/Stuntman/V1/JugabilidadFase10.gif)
+
 </details>
+
 ☠️Fase 10 Game Over
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1gameover10](./GIFS4.0/CutContent/Stuntman/V1/GameOver10.gif)
@@ -588,13 +681,19 @@ Version 4.0
 ![gifstuntmanv4.0gameover10](./GIFS4.0/Stuntman/GameOver/StuntmanGameOver10.gif)
 
 ![pngstuntmanv4.0gameover10](./Screenshots4.0/Stuntman/GameOver/GameOverStuntman10.png)
+
 </details>
+
 ➡️Fase 10 Inicio Rapido
+
 <details>
+
 Version 1
 
 ![gifstuntmanv1iniciorapido10](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase10.gif)
+
 </details>
+
 </details>
 
 🦈**Game Over Tiburon**
