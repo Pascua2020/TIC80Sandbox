@@ -548,11 +548,11 @@ Fondo
 
 ![gifstuntmanV1peces](./GIFS4.0/CutContent/Stuntman/V1/Peces.gif)
 
-🈶Mensajes Secretos
+🈶**Mensajes Secretos**
 
 
 
-❗-Fase 4
+❗-***Fase 4***
 
 🎫V1
 
@@ -564,7 +564,7 @@ Fondo
 <details>
 ![pngstuntmanv4.0mensajesecretoF4](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase4.png)
 
-❗-Fase 5
+❗-***Fase 5***
 
 🎫V1
 
