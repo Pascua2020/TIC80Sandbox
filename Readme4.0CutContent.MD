@@ -4,6 +4,8 @@
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 
+Simula un chat de mensajeria de celular.
+
 <details>
 
 ![gifchat2](<./GIFS4.0/CutContent/Chat/Chat (wpp2) 4-3-2025.gif>)
@@ -23,7 +25,11 @@
 </details>
 ⚠️-Ciclo Dia Noche
 
-![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)<details>
+![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
+
+4 tipos de horarios distintos.
+
+<details>
 ![gifciclodianoche2](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 4-3-2025.gif>)
 
 ![pngcutcontentCicloDiaNoche1A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche1A.png)
@@ -66,6 +72,8 @@
 ⚠️-Tomar Colectivo
 
 ![giftomarcolectivo1](<./GIFS4.0/CutContent/Colectivo/Colectivo ( suba9 ) 22-1-2025.gif>)
+
+En el juego final el jugador puede conducir colectivos y hay paradas,pero no puede llamarlos desde paradas.
 
 <details>
 
