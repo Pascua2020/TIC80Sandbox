@@ -475,25 +475,25 @@ https://en.wikipedia.org/wiki/Wikipedia
 
 https://en.wikipedia.org/wiki/Wiki
 
-🥚77
+🥚**77**
 
 ![pngEasterEggWinniePooh](./Screenshots4.0/EasterEggs/EasterEggWinniePooh.png)
 
 https://en.wikipedia.org/wiki/Tigger
 
-🥚78
+🥚**78**
 
 ![pngEasterEggBosnia](./Screenshots4.0/EasterEggs/EasterEggBosnia.png)
 
 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
 
-🥚79
+🥚**79**
 
 ![pngEasterEggCordoba](./Screenshots4.0/EasterEggs/EasterEggCordoba.png)
 
 https://en.wikipedia.org/wiki/C%C3%B3rdoba_Province,_Argentina
 
-🥚80
+🥚**80**
 
 ![pngEasterEggCorea](./Screenshots4.0/EasterEggs/EasterEggCorea.png)
 
@@ -501,7 +501,7 @@ https://en.wikipedia.org/wiki/Korea
 
 </details>
 
-🥚81
+🥚**81**
 
 ![pngEasterEggEritrea](./Screenshots4.0/EasterEggs/EasterEggEritrea.png)
 
@@ -509,54 +509,54 @@ https://en.wikipedia.org/wiki/Eritrea
 
 <details>
 
-🥚82
+🥚**82**
 
 ![pngEasterEggIdiomaGales3](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales3.png)
 
-🥚83
+🥚**83**
 
 ![pngEasterEggInstagram](./Screenshots4.0/EasterEggs/EasterEggInstagram.png)
 
 https://en.wikipedia.org/wiki/Instagram
 
-🥚84
+🥚**84**
 
 ![pngEasterEggIphone](./Screenshots4.0/EasterEggs/EasterEggIphone.png)
 
 https://en.wikipedia.org/wiki/Iphone
 
-🥚85
+🥚**85**
 
 ![pngEasterEggLince](./Screenshots4.0/EasterEggs/EasterEggLince.png)
 
 https://en.wikipedia.org/wiki/Lynx
 
-🥚86
+🥚**86**
 
 ![pngEasterEggMercadoLibre](./Screenshots4.0/EasterEggs/EasterEggMercadoLibre.png)
 
 https://en.wikipedia.org/wiki/Mercado_Libre
 
-🥚87
+🥚**87**
 
 ![pngEasterEggNunavut](./Screenshots4.0/EasterEggs/EasterEggNunavut.png)
 
 https://en.wikipedia.org/wiki/Nunavut
 
-🥚88
+🥚**88**
 
 ![pngEasterEggPenpals](./Screenshots4.0/EasterEggs/EasterEggPenpals.png)
 
 https://en.wikipedia.org/wiki/Pen_pal
 
-🥚89
+🥚**89**
 
 ![pngEasterEggPentagonoArea51](./Screenshots4.0/EasterEggs/EasterEggPentagonoArea51.png)
 
 https://en.wikipedia.org/wiki/The_Pentagon
 https://en.wikipedia.org/wiki/Area_51
 
-🥚90
+🥚**90**
 
 ![pngEasterEggPinballs1](./Screenshots4.0/EasterEggs/EasterEggPinballs1.png)
 
@@ -564,7 +564,7 @@ https://en.wikipedia.org/wiki/Pinball
 
 </details>
 
-🥚91
+🥚**91**
 
 ![pngEasterEggPinballs2](./Screenshots4.0/EasterEggs/EasterEggPinballs2.png)
 
@@ -572,53 +572,53 @@ https://en.wikipedia.org/wiki/Glossary_of_pinball_terms
 
 <details>
 
-🥚92
+🥚**92**
 
 ![pngEasterEggPinballs3](./Screenshots4.0/EasterEggs/EasterEggPinballs3.png)
 
-🥚93
+🥚**93**
 
 ![pngEasterEggPresidenteDeArgentina](./Screenshots4.0/EasterEggs/EasterEggPresidenteDeArgentina.png)
 
 https://en.wikipedia.org/wiki/President_of_Argentina
 
-🥚94
+🥚**94**
 
 ![pngEasterEggPulp2](./Screenshots4.0/EasterEggs/EasterEggPulp2.png)
 
 https://en.wikipedia.org/wiki/This_Is_Hardcore
 
-🥚95
+🥚**95**
 
 ![pngEasterEggSantiagoDelEstero](./Screenshots4.0/EasterEggs/EasterEggSantiagoDelEstero.png)
 
 https://en.wikipedia.org/wiki/Santiago_del_Estero_Province
 
-🥚96
+🥚**96**
 
 ![pngEasterEggSerbia](./Screenshots4.0/EasterEggs/EasterEggSerbia.png)
 
 https://en.wikipedia.org/wiki/Serbia
 
-🥚97
+🥚**97**
 
 ![pngEasterEggSexual1](./Screenshots4.0/EasterEggs/EasterEggSexual1.png)
 
 https://en.wikipedia.org/wiki/Sexual_intercourse
 
-🥚98
+🥚**98**
 
 ![pngEasterEggSexual2](./Screenshots4.0/EasterEggs/EasterEggSexual2.png)
 
 https://en.wikipedia.org/wiki/Condom
 
-🥚99
+🥚**99**
 
 ![pngEasterEggSexual3](./Screenshots4.0/EasterEggs/EasterEggSexual3.png)
 
 https://en.wikipedia.org/wiki/Kama_Sutra
 
-🥚100
+🥚**100**
 
 ![pngEasterEggSuizaNoruegaZurich](./Screenshots4.0/EasterEggs/EasterEggSuizaNoruegaZurich.png)
 
