@@ -124,6 +124,8 @@ Unico vehiculo que se accede mediante interruptor.
 
 **Monster Casta**
 
+El sprite de este vehiculo esta reescalado X2.
+
 ![pngvehiculomonstercasta](./Screenshots4.0/Vehiculos/MonsterCasta.png)
 ![pngvehiculoMonsterCastapreview](./Screenshots4.0/Vehiculos/Preview/MonsterCasta-HUD.png)
 ![gifvehiculomonstercasta](./GIFS4.0/Vehiculos/MonsterCasta.gif)
@@ -148,7 +150,7 @@ Vehiculo Animado.
 
 🚗18
 
-**RC**
+**RC ( Coche a Control Remoto )**
 
 ![pngvehiculorc](./Screenshots4.0/Vehiculos/RC-A.png)
 ![pngvehiculoRCpreview](./Screenshots4.0/Vehiculos/Preview/RC-B-HUD.png)
