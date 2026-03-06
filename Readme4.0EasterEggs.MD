@@ -2,7 +2,7 @@
 
 Hay almenos 161 Easter Eggs ( Referencias ).
 
-🥚1
+🥚1 Asteroide a la Tierra en 2880.
 
 ![pngEasterEggAsteroide2880](./Screenshots4.0/EasterEggs/EasterEggAsteroide2880.png)
 
@@ -10,56 +10,56 @@ https://en.wikipedia.org/wiki/(29075)_1950_DA
 
 <details>
 
-🥚2
+🥚2 Bob Esponja
 
 ![pngEasterEggBobEsponja](./Screenshots4.0/EasterEggs/EasterEggBobEsponja.png)
 
 https://en.wikipedia.org/wiki/SpongeBob_SquarePants_season_3
 ( Capitulo 53 - "Clams" )
 
-🥚3
+🥚3 ChatGPT
 
 ![pngEasterEggChatGPT](./Screenshots4.0/EasterEggs/EasterEggChatGPT.png)
 
 https://en.wikipedia.org/wiki/ChatGPT
 
-🥚4
+🥚4 Corea del Norte
 
 ![pngEasterEggCoreaDelNorte](./Screenshots4.0/EasterEggs/EasterEggCoreaDelNorte.png)
 
 https://en.wikipedia.org/wiki/North_Korea
 
-🥚5
+🥚5 Dance Dance Revolution
 
 ![pngEasterEggDDR](./Screenshots4.0/EasterEggs/EasterEggDDR.png)
 
 https://en.wikipedia.org/wiki/Dance_Dance_Revolution
 
-🥚6
+🥚6 Ebola
 
 ![pngEasterEggEbola](./Screenshots4.0/EasterEggs/EasterEggEbola.png)
 
 https://en.wikipedia.org/wiki/Ebola
 
-🥚7
+🥚7 Ebola
 
 ![pngEasterEggEbola2](./Screenshots4.0/EasterEggs/EasterEggEbola2.png)
 
 https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic
 
-🥚8
+🥚8 España
 
 ![pngEasterEggEspaña](./Screenshots4.0/EasterEggs/EasterEggEspaña.png)
 
 https://en.wikipedia.org/wiki/Spain
 
-🥚9
+🥚9 España
 
 ![pngEasterEggEspaña2](./Screenshots4.0/EasterEggs/EasterEggEspaña2.png)
 
 https://en.wikipedia.org/wiki/Madrid
 
-🥚10
+🥚10 George W Bush
 
 ![pngEasterEggGeorgeWBush](./Screenshots4.0/EasterEggs/EasterEggGeorgeWBush.png)
 
@@ -67,7 +67,7 @@ https://en.wikipedia.org/wiki/Internets
 
 </details>
 
-🥚11
+🥚11 GTA 2
 
 ![pngEasterEggGTA2](./Screenshots4.0/EasterEggs/EasterEggGTA2.png)
 
@@ -75,55 +75,55 @@ https://en.wikipedia.org/wiki/Grand_Theft_Auto_2
 
 <details>
 
-🥚12
+🥚12 GTA Vice City
 
 ![pngEasterEggGTAViceCity](./Screenshots4.0/EasterEggs/EasterEggGTAViceCity.png)
 
 https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City
 
-🥚13
+🥚13 Harvard
 
 ![pngEasterEggHarvard](./Screenshots4.0/EasterEggs/EasterEggHarvard.png)
 
 https://en.wikipedia.org/wiki/Harvard_University
 
-🥚14
+🥚14 Chino Mandarin
 
 ![pngEasterEggIdiomaChino](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-🥚15
+🥚15 Chino Mandarin 2
 
 ![pngEasterEggIdiomaChino2](./Screenshots4.0/EasterEggs/EasterEggIdiomaChino2.png)
 
 https://en.wikipedia.org/wiki/Mandarin_Chinese
 
-🥚16
+🥚16 Idioma Gales
 
 ![pngEasterEggIdiomaGales](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales.png)
 
 https://en.wikipedia.org/wiki/Patagonian_Welsh
 
-🥚17
+🥚17 Idioma Gales
 
 ![pngEasterEggIdiomaGales2](./Screenshots4.0/EasterEggs/EasterEggIdiomaGales2.png)
 
 https://en.wikipedia.org/wiki/Welsh_language
 
-🥚18
+🥚18 Idioma Romanche ( Suiza )
 
 ![pngEasterEggIdiomaRomanche](./Screenshots4.0/EasterEggs/EasterEggIdiomaRomanche.png)
 
 https://en.wikipedia.org/wiki/Romansh_language
 
-🥚19
+🥚19 Idioma Tenis
 
 ![pngEasterEggIdiomaTenis](./Screenshots4.0/EasterEggs/EasterEggIdiomaTenis.png)
 
 https://en.wikipedia.org/wiki/Tenis_language
 
-🥚20
+🥚20 Idioma Tigriña
 
 ![pngEasterEggIdiomaTigrinia](./Screenshots4.0/EasterEggs/EasterEggIdiomaTigrinia.png)
 
