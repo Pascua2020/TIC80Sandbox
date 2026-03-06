@@ -1,5 +1,8 @@
 # Readme4.0Stuntman
 
+La Version 4.0 tiene varios bugs.
+La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfectamente ( se puede ver mas abajo ).
+
 🎬**Descripcion de Mision + Selector de Fases**
 
 ![pngstuntmanv4.0selectorfase01](./Screenshots4.0/Stuntman/SelectorFase/SelectorFase01.png)
@@ -522,7 +525,7 @@ Version 1
 ![gifstuntmanv1iniciorapido10](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase10.gif)
 </details>
 
-🦈Game Over Tiburon
+🦈**Game Over Tiburon**
 
 🎫Version 1
 
@@ -577,9 +580,9 @@ Fondo
 ![pngstuntmanv4.0mensajesecretoF5](./Screenshots4.0/Stuntman/MensajesSecretos/MensajeSecretoFase5.png)
 </details>
 
-💬Mensajes Desarrollador
+💬**Mensajes Desarrollador**
 
-💾01
+💾***01***
 
 🎟️Version 4.0
 
@@ -590,7 +593,7 @@ Fondo
 <details>
 
 
-💾02
+💾***02***
 
 🎟️Version 4.0
 
@@ -599,7 +602,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador02](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador02.png)
 
 
-💾03
+💾***03***
 
 🎟️Version 4.0
 
@@ -608,7 +611,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador03](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador03.png)
 
 
-💾04
+💾***04***
 
 🎟️Version 4.0
 
@@ -617,7 +620,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador04](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador04.png)
 
 
-💾05
+💾***05***
 
 🎟️Version 4.0
 
@@ -626,7 +629,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador05](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador05.png)
 
 
-💾06
+💾***06***
 
 🎟️Version 4.0
 
@@ -635,7 +638,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador06](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador06.png)
 
 
-💾07
+💾***07***
 
 🎟️Version 4.0
 
@@ -644,7 +647,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador07](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador07.png)
 
 
-💾08
+💾***08***
 
 🎟️Version 4.0
 
@@ -653,7 +656,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador08](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador08.png)
 
 
-💾09
+💾***09***
 
 🎟️Version 4.0
 
@@ -662,7 +665,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador09](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador09.png)
 
 
-💾10
+💾***10***
 
 🎟️Version 4.0
 
@@ -671,7 +674,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador10](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador10.png)
 
 
-💾11
+💾***11***
 
 🎟️Version 4.0
 
@@ -679,7 +682,7 @@ Fondo
 
 ![pngstuntmanv4.0mensajedesarrollador11](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador11.png)
 
-💾12
+💾***12***
 
 🎟️Version 4.0
 
@@ -687,7 +690,7 @@ Fondo
 
 ![pngstuntmanv4.0mensajedesarrollador12](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador12.png)
 
-💾13
+💾***13***
 
 🎟️Version 4.0
 
@@ -695,7 +698,7 @@ Fondo
 
 ![pngstuntmanv4.0mensajedesarrollador13](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador13.png)
 
-💾14
+💾***14***
 
 🎟️Version 4.0
 
@@ -704,7 +707,7 @@ Fondo
 ![pngstuntmanv4.0mensajedesarrollador14](./Screenshots4.0/Stuntman/MensajesDesarrollador/MensajeDesarrollador14.png)
 
 
-💾15
+💾***15***
 
 🎟️Version 4.0
 
