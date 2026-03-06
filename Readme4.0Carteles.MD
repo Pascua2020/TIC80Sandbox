@@ -2,7 +2,7 @@
 
 Hay mas de 100 carteles.
 
-Carteles A : Publicidades 📰
+**Carteles A : Publicidades 📰**
 
 ℹ️1
 
@@ -260,7 +260,7 @@ A36
 
 </details>
 
-Carteles B : Paradas de Colectivo🚏🚍
+**Carteles B : Paradas de Colectivo🚏🚍**
 
 ⬛37
 
@@ -287,7 +287,7 @@ B3
 
 </details>
 
-Carteles C : Descripciones Lugares 🏟️
+**Carteles C : Descripciones Lugares 🏟️**
 
 🟥40
 
@@ -412,7 +412,7 @@ C17
 
 </details>
 
-Carteles D : Precuaciones y otros avisos ⚠️👁️
+**Carteles D : Precuaciones y otros avisos ⚠️👁️**
 
 🟦57
 
@@ -468,7 +468,7 @@ D07
 </details>
 
 
-Carteles E : Lineas de Subte🚇
+**Carteles E : Lineas de Subte🚇**
 
 🟥64
 
@@ -516,7 +516,7 @@ E6
 
 </details>
 
-Carteles F : Kioscos de Diario y Prohibiciones🗞️🚫
+**Carteles F : Kioscos de Diario y Prohibiciones🗞️🚫**
 
 ⬛70
 
@@ -641,7 +641,7 @@ F17
 
 </details>
 
-Carteles G : Distancias 🛣️
+**Carteles G : Distancias 🛣️**
 
 ⚫87
 
@@ -682,7 +682,7 @@ G5
 
 </details>
 
-Carteles H : Conversaciones 🗣️
+**Carteles H : Conversaciones 🗣️**
 
 🟨92
 
@@ -758,7 +758,7 @@ H10
 
 </details>
 
-Carteles I : Otros Avisos🪧
+**Carteles I : Otros Avisos🪧**
 
 🔵102
 
@@ -792,7 +792,7 @@ I4
 
 </details>
 
-Carteles J : Leyendas🃏
+**Carteles J : Leyendas🃏**
 
 🟦106
 
@@ -826,7 +826,7 @@ J4
 
 </details>
 
-Carteles K : Otros 🍀
+**Carteles K : Otros 🍀**
 
 ⚫110
 
@@ -842,7 +842,7 @@ K2
 ![pngscartelesK2](./Screenshots4.0/Carteles/K/CartelK-2.png)
 ![gifscartelesK2](./GIFS4.0/Carteles/K/CartelK-2.gif)
 
-Carteles L : Interactivos⚽
+**Carteles L : Interactivos⚽**
 
 🛑112
 
