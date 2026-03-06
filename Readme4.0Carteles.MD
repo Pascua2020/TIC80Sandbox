@@ -698,6 +698,8 @@ G5
 
 **Carteles H : Conversaciones 🗣️**
 
+10 Carteles.
+
 🟨92
 
 H01
