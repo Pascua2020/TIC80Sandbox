@@ -2,7 +2,7 @@
 
 ![gifsbaile100combos](./GIFS4.0/Baile/Baile100Combos.gif)
 
-🪩Frases Baile
+🪩**Frases Baile**
 
 🪩1
 
@@ -50,7 +50,7 @@
 
 </details>
 
-🪩Frases Cancion
+🪩**Frases Cancion**
 
 ![gifsletrascancion](./GIFS4.0/Baile/LetrasCancion.gif)
 
@@ -94,13 +94,13 @@
 
 </details>
 
-🪩Game Over
+🪩**Game Over**
 
 ![gifsbailegameover](./GIFS4.0/Baile/BaileGameOver.gif)
 
 ![pngbailegameover](./Screenshots4.0/Baile/BaileGameOver.png)
 
-🪩Frases Combos
+🪩**Frases Combos**
 
 🎇1
 
@@ -130,7 +130,7 @@
 
 </details>
 
-🪩Niveles Velocidad
+🪩**Niveles Velocidad**
 
 ➡️0
 
