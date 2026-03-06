@@ -131,7 +131,7 @@ https://en.wikipedia.org/wiki/Tigrinya_language
 
 </details>
 
-🥚21 Idioma Wolof ( Senegal )
+🥚**21 Idioma Wolof ( Senegal )**
 
 ![pngEasterEggIdiomaWolof](./Screenshots4.0/EasterEggs/EasterEggIdiomaWolof.png)
 
@@ -139,55 +139,55 @@ https://en.wikipedia.org/wiki/Wolof_language
 
 <details>
 
-🥚22 Guerra de los 12 Dias
+🥚**22 Guerra de los 12 Dias**
 
 ![pngEasterEggIran](./Screenshots4.0/EasterEggs/EasterEggIran.png)
 
 https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_war
 
-🥚23 Desierto de Lut ( Iran )
+🥚**23 Desierto de Lut ( Iran )**
 
 ![pngEasterEggIran2](./Screenshots4.0/EasterEggs/EasterEggIran2.png)
 
 https://en.wikipedia.org/wiki/Lut_Desert
 
-🥚24 Nestor Kirchner ( Frase "Extasis" )
+🥚**24 Nestor Kirchner ( Frase "Extasis" )**
 
 ![pngEasterEggKirchner](./Screenshots4.0/EasterEggs/EasterEggKirchner.png)
 
 https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 
-🥚25 LaNacion+
+🥚**25 LaNacion+**
 
 ![pngEasterEggLN](./Screenshots4.0/EasterEggs/EasterEggLN.png)
 
 https://en.wikipedia.org/wiki/La_Naci%C3%B3n
 
-🥚26 LaNacion+
+🥚**26 LaNacion+**
 
 ![pngEasterEggLN2](./Screenshots4.0/EasterEggs/EasterEggLN2.png)
 
 https://es.wikipedia.org/wiki/Carlos_Pagni
 
-🥚27 Los Angeles
+🥚**27 Los Angeles**
 
 ![pngEasterEggLosAngeles](./Screenshots4.0/EasterEggs/EasterEggLosAngeles.png)
 
 https://en.wikipedia.org/wiki/Los_Angeles
 
-🥚28 Los Simpson
+🥚**28 Los Simpson**
 
 ![pngEasterEggLosSimpson1](./Screenshots4.0/EasterEggs/EasterEggLosSimpson1.png)
 
 https://en.wikipedia.org/wiki/Bart_on_the_Road
 
-🥚29 Los Simpson
+🥚**29 Los Simpson**
 
 ![pngEasterEggLosSimpson2](./Screenshots4.0/EasterEggs/EasterEggLosSimpson2.png)
 
 https://en.wikipedia.org/wiki/Bart_the_Genius
 
-🥚30 Los Simpson
+🥚**30 Los Simpson**
 
 ![pngEasterEggLosSimpson3](./Screenshots4.0/EasterEggs/EasterEggLosSimpson3.png)
 
@@ -195,7 +195,7 @@ https://en.wikipedia.org/wiki/Bart_Gets_Famous
 
 </details>
 
-🥚31 Lunfardo
+🥚**31 Lunfardo**
 
 ![pngEasterEggLunfardo](./Screenshots4.0/EasterEggs/EasterEggLunfardo.png)
 
@@ -203,31 +203,31 @@ https://en.wikipedia.org/wiki/Lunfardo
 
 <details>
 
-🥚32 Mauricio Macri ( Frase "Reperfilar" )
+🥚**32 Mauricio Macri ( Frase "Reperfilar" )**
 
 ![pngEasterEggMacri](./Screenshots4.0/EasterEggs/EasterEggMacri.png)
 
 https://en.wikipedia.org/wiki/Presidency_of_Mauricio_Macri
 
-🥚33
+🥚**33 Mario Alonso Puig**
 
 ![pngEasterEggMarioAlonsoPuig](./Screenshots4.0/EasterEggs/EasterEggMarioAlonsoPuig.png)
 
 https://marioalonsopuig.com/biografia/
 
-🥚34
+🥚**34 Carlos Maslaton ( Frase "Proceda" )**
 
 ![pngEasterEggMaslaton](./Screenshots4.0/EasterEggs/EasterEggMaslaton.png)
 
 https://en.wikipedia.org/wiki/Carlos_Maslat%C3%B3n
 
-🥚35
+🥚**35 Javier Milei**
 
 ![pngEasterEggMilei1](./Screenshots4.0/EasterEggs/EasterEggMilei1.png)
 
 https://en.wikipedia.org/wiki/Javier_Milei
 
-🥚36
+🥚**36 Javier Milei**
 
 ![pngEasterEggMilei2](./Screenshots4.0/EasterEggs/EasterEggMilei2.png)
 
