@@ -42,7 +42,11 @@ Simula un chat de mensajeria de celular.
 </details>
 ⚠️-Climas
 
-![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)<details>
+![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
+
+En el juego final el jugador puede activar climas pero la idea tambien era que cada vez que se iniciara el juego se activaran climas aleatoriamente pero hubo errores en su implementacion.
+
+<details>
 ![gifbetaclimas2](<./GIFS4.0/CutContent/Climas/Climas ( todosclima6 ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
