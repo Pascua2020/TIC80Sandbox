@@ -848,6 +848,8 @@ J4
 
 **Carteles K : Otros 🍀**
 
+2 Carteles.
+
 ⚫110
 
 K1
