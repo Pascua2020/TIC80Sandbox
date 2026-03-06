@@ -108,7 +108,7 @@ B
 ![gifstuntmanv1iniciorapido1](./GIFS4.0/CutContent/Stuntman/V1/InicioRapidoFase1.gif)
 </details>
 
-**🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
+** 🎥🚙🔥👀 FASE 2 : Atropellar Cajas**
 
 <details>
 🎬Fase 2 Dialogos
