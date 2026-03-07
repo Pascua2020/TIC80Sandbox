@@ -7,6 +7,7 @@
 1️⃣ Hay 7 Urgentes estilo noticiero📺.
 
 2️⃣ Cada urgente tiene sus propios hashtags#️⃣ ( subnoticias ) que se mueven en scroll.
+Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 Urgentes,una sola linea que se repite.
 
 3️⃣ Es posible seguir moviendose y haciendo cosas en el mapa mientras se reproduce un Urgente ( aunque se vuelve mas dificil ).
 
