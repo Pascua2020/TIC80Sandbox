@@ -38,14 +38,10 @@ Tambien aparece su nombre.
 
 7️⃣ Al moverse en el mapa ( con o sin vehiculos ) hay un contador de KM recorridos.
 
-8️⃣
+8️⃣ Jetpack : Unico vehiculo que se accede mediante interruptor.
+Posee una animacion de llamas moviendose ( si el jugador no se mueve las llamas quedan hacia abajo ).
 
 </details>
-
-
-
-
-
 
 🚐1
 
@@ -134,9 +130,6 @@ Posee una animacion de llamas.
 🚀11
 
 **Jetpack**
-
-Unico vehiculo que se accede mediante interruptor.
-Posee una animacion de llamas moviendose ( si el jugador no se mueve las llamas quedan hacia abajo ).
 
 ![pngvehiculojetpack](./Screenshots4.0/Vehiculos/Jetpack.png)
 ![pngvehiculojetpackpreview](./Screenshots4.0/Vehiculos/Preview/Jetpack-HUD.png)
