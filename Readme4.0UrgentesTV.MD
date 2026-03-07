@@ -4,9 +4,9 @@
 
 <details>
 
-1️⃣
+1️⃣ Hay 7 Urgentes estilo noticiero.
 
-2️⃣
+2️⃣ Cada urgente tiene sus propios hashtags ( subnoticias ) que se mueven en scroll.
 
 3️⃣
 
@@ -24,7 +24,7 @@
 
 
 
-Hay 7 Urgentes estilo noticiero.
+
 
 🔊Urgente 1
 
