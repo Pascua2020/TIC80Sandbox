@@ -4,11 +4,11 @@
 
 <details>
 
-1️⃣
+1️⃣ Hay 20 dibujos diferentes en el mar.
 
-2️⃣
+2️⃣ El mar rodea a toda la ciudad.
 
-3️⃣
+3️⃣ Hay coleccionables en algunos puntos del mar.
 
 4️⃣
 
@@ -24,7 +24,7 @@
 
 
 
-Hay 20 dibujos diferentes en el mar.
+
 
 🌊Dibujo Mar 01
 
