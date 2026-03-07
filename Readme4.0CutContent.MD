@@ -33,9 +33,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣4️⃣ Dibujo Tactil👆🖼️.
 
-1️⃣5️⃣
+1️⃣5️⃣ Mostrar hora actual ⌚.
 
-1️⃣6️⃣
+1️⃣6️⃣ Ver TeleVision📺.
 
 1️⃣7️⃣
 
