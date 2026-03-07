@@ -9,9 +9,9 @@
 
 <details>
 
-1️⃣
+1️⃣ 5 Climas diferentes que se pueden activar y combinar entre si.
 
-2️⃣
+2️⃣ Relampago que aparece cada X tiempo tras ser activado.
 
 3️⃣
 
