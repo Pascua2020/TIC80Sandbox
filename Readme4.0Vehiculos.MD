@@ -32,16 +32,16 @@ Tambien aparece su nombre.
 
 4️⃣ Los vehiculos poseen diferente longitud y en caso del Monster Casta,su sprite esta reescalado X2 en tamaño.
 
-5️⃣ Algunos vehiculos poseen animaciones ( fuego en Globo , particulas de agua en Lancha ).
+5️⃣ Algunos vehiculos poseen animaciones ( 🔥fuego en Globo🌐 , 💧particulas de agua en Lancha🚤 ).
 
 6️⃣ Muchos vehiculos son parte del trafico y si el jugador interactua se puede subir al mismo.
 
 7️⃣ Al moverse en el mapa ( con o sin vehiculos ) hay un contador de KM recorridos.
 
 8️⃣ Jetpack : Unico vehiculo que se accede mediante interruptor.
-Posee una animacion de llamas moviendose ( si el jugador no se mueve las llamas quedan hacia abajo ).
+Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las llamas quedan hacia abajo ).
 
-9️⃣ Algunos vehiculos se consiguen estando estacionados : eso incluye los aviones ( estan en el Aeropuerto ).
+9️⃣ Algunos vehiculos se consiguen estando estacionados : eso incluye los aviones ✈️( estan en el Aeropuerto ).
 
 </details>
 
