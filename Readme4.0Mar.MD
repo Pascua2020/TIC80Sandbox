@@ -10,7 +10,7 @@
 
 3️⃣ Hay coleccionables en algunos puntos del mar.
 
-4️⃣
+4️⃣ Hay graficos de fondo animados que se mueven por el mar ( peces,aviones,globos y lanchas ).
 
 5️⃣
 
