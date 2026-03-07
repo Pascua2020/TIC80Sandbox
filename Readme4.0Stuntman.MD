@@ -42,7 +42,7 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 1️⃣5️⃣ Hay algunos checkpoints y tienen efectos visuales.
 
-1️⃣6️⃣
+1️⃣6️⃣ El mapa de esta mision puede ser recorrido libremente en el mapa principal.
 
 1️⃣7️⃣
 
