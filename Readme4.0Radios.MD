@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣
+1️⃣ 12 radios diferentes + 10 extras ( fuera del codigo ).
 
-2️⃣
+2️⃣ Se pueden activar y usar mientras uno se mueve por el mapa.
 
-3️⃣
+3️⃣ Boton para cambiar de radio.
 
-4️⃣
+4️⃣ Una vez termina la radio actual,empieza de nuevo.
 
 5️⃣
 
