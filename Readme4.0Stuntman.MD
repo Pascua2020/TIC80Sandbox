@@ -22,8 +22,7 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 5️⃣ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
 
-
-6️⃣
+6️⃣ Al subirse el Jugador al Coche,este activa unas luces delanteras y traseras junto con un efecto de humo de escape.
 
 7️⃣
 
