@@ -46,7 +46,11 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 1️⃣7️⃣ Si el aro se salta cuando esta en llamas el jugador pierde.En llamas tiene un efecto visual.
 
-1️⃣8️⃣
+1️⃣8️⃣ Hay charcos de agua donde se refleja tanto el jugador como el vehiculo.
+
+1️⃣9️⃣ Hay explosiones en algunas fases.
+
+2️⃣0️⃣
 
 </details>
 
