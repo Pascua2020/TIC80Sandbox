@@ -36,7 +36,7 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 1️⃣2️⃣ Algunos enemigos tienen efectos ( los coches en llamas de la Fase 6 ).
 
-1️⃣3️⃣
+1️⃣3️⃣ Si el jugador pierde y vuelve a empezar,el mensaje de la fase actual es alternativo.
 
 1️⃣4️⃣
 
