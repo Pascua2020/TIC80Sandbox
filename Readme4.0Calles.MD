@@ -20,7 +20,7 @@
 
 De la misma manera,como hay una parte donde esta el oceano,las calles terminan al limite de la ciudad y vuelven a estar al comienzo del otro limite ( ya que si no los coches se irian por el oceano al final de cruzar la ciudad ).
 
-8️⃣
+8️⃣ En el HUD estan las coordenadas actuales del jugador,tanto en X e Y normal ( 1:1 ) como en pixeles ( 1:8 ).
 
 </details>
 
