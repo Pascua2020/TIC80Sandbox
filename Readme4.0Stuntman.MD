@@ -44,7 +44,7 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 1️⃣6️⃣ El mapa de esta mision puede ser recorrido libremente en el mapa principal.
 
-1️⃣7️⃣
+1️⃣7️⃣ Si el aro se salta cuando esta en llamas el jugador pierde.En llamas tiene un efecto visual.
 
 1️⃣8️⃣
 
