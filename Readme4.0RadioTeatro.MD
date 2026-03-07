@@ -1,6 +1,26 @@
 # Readme4.0RadioTeatro
 
-Hay 2 Obras de Radioteatro.
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣ Hay 2 Obras de RadioTeatro🎭.
+
+2️⃣ Cuentan historias bizarras con un telon negro de fondo⬛.
+
+3️⃣ No es posible moverse mientras se reproducen,a diferencia de las Radios📻 y los Urgentes📺.
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
 
 🎭Obra de RadioTeatro 1
 
