@@ -24,9 +24,9 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 6️⃣ Al subirse el Jugador al Coche,este activa unas luces delanteras y traseras junto con un efecto de humo de escape.
 
-7️⃣
+7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases.
 
-8️⃣
+8️⃣ Al acercarse a Silvestee Stacchotta,aparece el nombre del mismo.
 
 </details>
 
