@@ -53,6 +53,10 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 2️⃣0️⃣ En la mayoria de las fases se pierde si el cronometro llega a 0 pero en otras ( Fase 6 ) se gana si llega a 0 ( tras esquivar coches ).
 Tambien hay fases ( como la 7 ) que duran menos ( ya que es una persecucion rapida ).
 
+2️⃣1️⃣ Mecanicas descartadas : Grabar fase ( tras terminarla se repite el movimiento hecho por el jugador ).
+
+2️⃣2️⃣
+
 </details>
 
 
