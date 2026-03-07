@@ -1,5 +1,28 @@
 # Readme4.0DiosGPT
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣ Simulacion de asistente de IA🤖,aunque en este caso simplemente muestra textos en un menu.
+
+2️⃣ Primero simula sacar un Celular📴,para luego abrir la "App"📳.
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
 ![gifdiosgpt](./GIFS4.0/DiosGPT/DiosGPT.gif)
 
 📱Interfaz
