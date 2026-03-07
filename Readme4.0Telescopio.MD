@@ -4,7 +4,7 @@
 
 <details>
 
-1️⃣ Mira para mover con las teclas de direccion.
+1️⃣ Mira para mover con las teclas de direccion⬇️⬅️⬆️➡️.
 
 2️⃣ Hay estrellas comunes 🌠 ( representadas con puntos que cambian de color 🔷) y Estrellas Fugaces☄️ ( con efecto arcoiris🌈 ).
 
