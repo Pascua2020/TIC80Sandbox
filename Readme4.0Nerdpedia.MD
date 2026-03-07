@@ -1,5 +1,29 @@
 # Readme4.0Nerdpedia
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
+
 🗺️1
 
 ![gifcutcontentNerdpedia1](./GIFS4.0/CutContent/Nerdpedia/N1.gif)
