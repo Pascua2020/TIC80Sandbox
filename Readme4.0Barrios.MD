@@ -8,9 +8,9 @@
 
 2️⃣ Cada Barrio tiene su propia estetica y Calles ( en algunos casos,las comparten con otros Barrios ).
 
-3️⃣ Todos los Barrios estan conectados entre si por el sistema de calles ( y por lo tanto,el trafico puede recorrer toda la ciudad ).
+3️⃣ Todos los Barrios estan conectados entre si por el sistema de calles 🚏( y por lo tanto,el trafico🚙 puede recorrer toda la ciudad ).
 
-4️⃣ Hay coleccionables y elementos de todo tipo en cada Barrio.
+4️⃣ Hay coleccionables💎 y elementos de todo tipo en cada Barrio.
 
 5️⃣
 
