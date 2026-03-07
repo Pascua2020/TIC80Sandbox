@@ -6,7 +6,7 @@
 
 1️⃣ Mas de 100 Carteles de 10 tipos distintos.
 
-2️⃣ El Clima no tapa lo que dicen los Carteles.
+2️⃣ El Clima☔ no tapa lo que dicen los Carteles.
 
 3️⃣
 
