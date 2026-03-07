@@ -21,6 +21,18 @@ Incluye prototipo de MiniMapa 🗺️.
 
 8️⃣ Nafta en Vehiculos ⛽🛢️.
 
+9️⃣ Minijuego de Editor de Niveles Tactil 👆💻📱 con coches a Control Remoto.
+
+1️⃣0️⃣
+
+1️⃣1️⃣
+
+1️⃣2️⃣
+
+1️⃣3️⃣
+
+1️⃣4️⃣
+
 </details>
 
 
