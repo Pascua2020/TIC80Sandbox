@@ -23,9 +23,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 9️⃣ Minijuego de Editor de Niveles Tactil 👆💻📱 con coches a Control Remoto.
 
-1️⃣0️⃣
+1️⃣0️⃣ Minijuego de Trompos🪬.
 
-1️⃣1️⃣
+1️⃣1️⃣ Minijuego "Piedra Papel o Motosierra🪨📄🪚".
 
 1️⃣2️⃣
 
