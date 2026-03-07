@@ -27,7 +27,7 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣1️⃣ Minijuego "Piedra Papel o Motosierra🪨📄🪚".
 
-1️⃣2️⃣
+1️⃣2️⃣ Medidor de Ansiedad y Estres 🌡️.
 
 1️⃣3️⃣
 
