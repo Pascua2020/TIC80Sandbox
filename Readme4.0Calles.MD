@@ -12,7 +12,7 @@
 
 4️⃣ Cada calle tiene un nombre y si el jugador esta en ella se puede ver su nombre y su altura actual.
 
-5️⃣
+5️⃣ Cada vez que un coche gira,su sprite se adecua al limite de la calle ( esto incluye la Limusina Diamante,que es el vehiculo mas largo del juego ).
 
 6️⃣
 
