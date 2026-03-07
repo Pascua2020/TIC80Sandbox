@@ -8,9 +8,9 @@
 
 2️⃣ Chat💬,Ciclo Dia y Noche🌞🌜,Climas ( Arcoiris🌈,Niebla,Terremotos🌋,Menu Beta ).
 
-3️⃣
+3️⃣ Tomar Colectivo en Parada🚏🚌.
 
-4️⃣
+4️⃣ Modo GT de Carreras 🏎️ ( con pista en Zurich,Suiza 🇨🇭 ).
 
 5️⃣
 
