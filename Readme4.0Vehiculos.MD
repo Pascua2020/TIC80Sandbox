@@ -18,7 +18,7 @@ Tambien aparece su nombre.
 
 6️⃣ Muchos vehiculos son parte del trafico y si el jugador interactua se puede subir al mismo.
 
-7️⃣
+7️⃣ Al moverse en el mapa ( con o sin vehiculos ) hay un contador de KM recorridos.
 
 8️⃣
 
