@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣
+1️⃣ Sistema de calles dentro de la ciudad y barrios : cada calle tiene unas coordenadas X e Y.
 
-2️⃣
+2️⃣ Hay trafico asignado a cada calle,pero este se va moviendo de una calle a otra.
 
-3️⃣
+3️⃣ Los vehiculos pueden girar en el medio de una calle ( en una interseccion ) o al final de la misma,de manera aleatoria.
 
-4️⃣
+4️⃣ Cada calle tiene un nombre y si el jugador esta en ella se puede ver su nombre y su altura actual.
 
 5️⃣
 
