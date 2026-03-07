@@ -8,7 +8,8 @@
 
 2️⃣ Primero simula sacar un Celular📴,para luego abrir la "App"📳.
 
-3️⃣
+3️⃣ Al mostrar el menu de opciones se pinta de un color la pantalla 🗨️( para poder ver mas facilmente las opciones ).
+Igualmente se puede sacar y volver a poner el "Celular" junto a la "App".
 
 4️⃣
 
