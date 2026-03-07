@@ -10,7 +10,7 @@
 
 3️⃣ Todos los Barrios estan conectados entre si por el sistema de calles ( y por lo tanto,el trafico puede recorrer toda la ciudad ).
 
-4️⃣
+4️⃣ Hay coleccionables y elementos de todo tipo en cada Barrio.
 
 5️⃣
 
