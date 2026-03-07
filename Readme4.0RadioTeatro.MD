@@ -10,7 +10,7 @@
 
 3️⃣ No es posible moverse mientras se reproducen,a diferencia de las Radios📻 y los Urgentes📺.
 
-4️⃣
+4️⃣ Hay pequeños efectos de fondo como aves 🕊️ moviendose ( para dar un toque de dinamismo ).
 
 5️⃣
 
