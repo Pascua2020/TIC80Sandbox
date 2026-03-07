@@ -26,11 +26,27 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases.
 
-8️⃣ Al acercarse a Silvestee Stacchotta,aparece el nombre del mismo.
+8️⃣ Al acercarse a Silvestre Stacchotta,aparece el nombre del mismo.
 
 9️⃣ Hay muros invisibles ( en la V1 aparece un mensaje,en la V4 no funciona bien ).
 
 1️⃣0️⃣ Si el jugador no hace nada por unos segundos,aparece un mensaje para que juegue.
+
+1️⃣1️⃣ Los enemigos dicen frases.
+
+1️⃣2️⃣ Algunos enemigos tienen efectos ( los coches en llamas de la Fase 6 ).
+
+1️⃣3️⃣
+
+1️⃣4️⃣
+
+1️⃣5️⃣
+
+1️⃣6️⃣
+
+1️⃣7️⃣
+
+1️⃣8️⃣
 
 </details>
 
