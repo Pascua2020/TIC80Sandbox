@@ -16,46 +16,46 @@ La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfe
 
 Si se llega al final de la mision en menos de 25 segundos es un plus para el jugador.
 
-3️⃣ Hay 2 dialogos ocultos y 14 objetos a chocar / disparar.
+3️⃣ Hay 2 dialogos ocultos 💬y 14 objetos a chocar / disparar💥.
 
 4️⃣ Hay un inicio rapido para elegir en que fase empezar y saltear los dialogos previo a esa fase.
 
-5️⃣ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
+5️⃣ Si el jugador pierde hay un mensaje de Game Over☠️ que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
 
-6️⃣ Al subirse el Jugador al Coche,este activa unas luces delanteras y traseras junto con un efecto de humo de escape.
+6️⃣ Al subirse el Jugador al Coche🚙,este activa unas luces delanteras y traseras junto con un efecto de humo de escape.
 
-7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases. La rampa mueve automaticamente al jugador.
+7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases🤬. La rampa mueve automaticamente al jugador.
 
 8️⃣ Al acercarse a Silvestre Stacchotta,aparece el nombre del mismo.
 
-9️⃣ Hay muros invisibles ( en la V1 aparece un mensaje,en la V4 no funciona bien ).
+9️⃣ Hay muros invisibles 🧱( en la V1 aparece un mensaje,en la V4 no funciona bien ).
 
-1️⃣0️⃣ Si el jugador no hace nada por unos segundos,aparece un mensaje para que juegue.
+1️⃣0️⃣ Si el jugador no hace nada por unos segundos,aparece un mensaje para que juegue😨.
 
 1️⃣1️⃣ Los enemigos dicen frases.
 
-1️⃣2️⃣ Algunos enemigos tienen efectos ( los coches en llamas de la Fase 6 ).
+1️⃣2️⃣ Algunos enemigos tienen efectos ( los coches en llamas🔥 de la Fase 6 ).
 
 1️⃣3️⃣ Si el jugador pierde y vuelve a empezar,el mensaje de la fase actual es alternativo.
 
-1️⃣4️⃣ Aparecen mensajes si el jugador consigue puntos al romper destructibles y al recibir una pistola.
+1️⃣4️⃣ Aparecen mensajes si el jugador consigue puntos al romper destructibles y al recibir una pistola🔫.
 
 1️⃣5️⃣ Hay algunos checkpoints y tienen efectos visuales.
 
-1️⃣6️⃣ El mapa de esta mision puede ser recorrido libremente en el mapa principal.
+1️⃣6️⃣ El mapa de esta mision puede ser recorrido libremente en el mapa principal🗺️.
 
-1️⃣7️⃣ Si el aro se salta cuando esta en llamas el jugador pierde.En llamas tiene un efecto visual.
+1️⃣7️⃣ Si el aro se salta cuando esta en llamas 🔥el jugador pierde.En llamas tiene un efecto visual.
 
-1️⃣8️⃣ Hay charcos de agua donde se refleja tanto el jugador como el vehiculo.
+1️⃣8️⃣ Hay charcos de agua 🌀donde se refleja tanto el jugador como el vehiculo.
 
-1️⃣9️⃣ Hay explosiones en algunas fases.
+1️⃣9️⃣ Hay explosiones en algunas fases🌋.
 
 2️⃣0️⃣ En la mayoria de las fases se pierde si el cronometro llega a 0 pero en otras ( Fase 6 ) se gana si llega a 0 ( tras esquivar coches ).
 Tambien hay fases ( como la 7 ) que duran menos ( ya que es una persecucion rapida ).
 
-2️⃣1️⃣ Mecanicas descartadas : Grabar fase ( tras terminarla se repite el movimiento hecho por el jugador ).
+2️⃣1️⃣ Mecanicas descartadas : Grabar fase 🎥( tras terminarla se repite el movimiento hecho por el jugador ).
 
-2️⃣2️⃣ Solo en la Fase 3,el jugador puede usar Nitro : va mas rapido y muestra un efecto visual.
+2️⃣2️⃣ Solo en la Fase 3,el jugador puede usar Nitro 🚀: va mas rapido y muestra un efecto visual.
 
 </details>
 
