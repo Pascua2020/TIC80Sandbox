@@ -4,9 +4,9 @@
 
 <details>
 
-1️⃣ Sistema de calles dentro de la ciudad y barrios : cada calle tiene unas coordenadas X e Y.
+1️⃣ Sistema de calles 🚏dentro de la ciudad🏙️ y barrios🏬 : cada calle tiene unas coordenadas X e Y.
 
-2️⃣ Hay trafico asignado a cada calle,pero este se va moviendo de una calle a otra.
+2️⃣ Hay trafico 🚙asignado a cada calle,pero este se va moviendo de una calle a otra.
 
 3️⃣ Los vehiculos pueden girar en el medio de una calle ( en una interseccion ) o al final de la misma,de manera aleatoria.
 
@@ -14,11 +14,11 @@
 
 5️⃣ Cada vez que un coche gira,su sprite se adecua al limite de la calle ( esto incluye la Limusina Diamante,que es el vehiculo mas largo del juego ).
 
-6️⃣ En la ciudad hay un interruptor para poder ver el trazado de cada calle : si se activa,las calles se pintan de color amarillo y si el jugador esta sobre una calle,esta se pinta de azul y dice su nombre ( de la calle ) en el trazado.
+6️⃣ En la ciudad hay un interruptor 🔓para poder ver el trazado de cada calle : si se activa,las calles se pintan de color amarillo y si el jugador esta sobre una calle,esta se pinta de azul y dice su nombre ( de la calle ) en el trazado.
 
 7️⃣ El sistema usa un offset ya que hay calles que traspasan el limite X y si no lo usara el sistema dejaria de funcionar.
 
-De la misma manera,como hay una parte donde esta el oceano,las calles terminan al limite de la ciudad y vuelven a estar al comienzo del otro limite ( ya que si no los coches se irian por el oceano al final de cruzar la ciudad ).
+De la misma manera,como hay una parte donde esta el oceano🌊,las calles terminan al limite de la ciudad y vuelven a estar al comienzo del otro limite ( ya que si no los coches se irian por el oceano al final de cruzar la ciudad ).
 
 8️⃣ En el HUD estan las coordenadas actuales del jugador,tanto en X e Y normal ( 1:1 ) como en pixeles ( 1:8 ).
 
