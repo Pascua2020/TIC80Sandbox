@@ -4,9 +4,9 @@
 
 <details>
 
-1️⃣
+1️⃣ Todo el contenido que quedo fuera del codigo principal o es version beta.
 
-2️⃣
+2️⃣ Chat💬,Ciclo Dia y Noche🌞🌜,Climas ( Arcoiris🌈,Niebla,Terremotos🌋,Menu Beta ).
 
 3️⃣
 
