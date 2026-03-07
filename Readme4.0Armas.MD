@@ -1,19 +1,17 @@
 # Readme4.0Armas
 
-Hay 11 Armas diferentes.
-Cada arma tiene sus propias frases al disparar/ejecutar.
-
 🎮👾🚔***Caracteristicas:***
 
 <details>
 
-1️⃣
+1️⃣ 11 Armas diferentes.
 
-2️⃣
+2️⃣ Cada arma tiene sus propias frases al disparar/ejecutar.
 
-3️⃣
+3️⃣ Algunas tienen municion infinita ( Golpe y Katana ),las otras hay que recargarlas cuando se acaba la municion.
 
-4️⃣
+4️⃣ Hay armas que hay que apretar una y otra vez para disparar ( ej Pistola ),en cambio otras como el Rayo Laser disparan toda la municion dejando el boton apretado.
+Esto tambien tiene en cuenta el funcionamiento del sistema de frases.
 
 5️⃣
 
