@@ -4,11 +4,11 @@
 
 <details>
 
-1️⃣
+1️⃣ 14 Secciones Distintas.
 
-2️⃣
+2️⃣ Navegacion Rapida y en Bucle.
 
-3️⃣
+3️⃣ Efecto Arcoiris y diseño minimalista.
 
 4️⃣
 
