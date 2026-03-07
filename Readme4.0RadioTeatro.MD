@@ -22,7 +22,7 @@
 
 </details>
 
-🎭Obra de RadioTeatro 1
+🎭**Obra de RadioTeatro 1**
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
 
@@ -59,7 +59,7 @@
 ![pngradioteatro1-26](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-26.png)
 </details>
 
-🎭Obra de RadioTeatro 2
+🎭**Obra de RadioTeatro 2**
 
 ![gifsradioteatro2](./GIFS4.0/RadioTeatro/RadioTeatro2.gif)
 
