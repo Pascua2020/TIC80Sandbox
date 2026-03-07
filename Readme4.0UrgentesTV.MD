@@ -8,9 +8,9 @@
 
 2️⃣ Cada urgente tiene sus propios hashtags ( subnoticias ) que se mueven en scroll.
 
-3️⃣
+3️⃣ Es posible seguir moviendose y haciendo cosas en el mapa mientras se reproduce un Urgente ( aunque se vuelve mas dificil ).
 
-4️⃣
+4️⃣ El clima no dificulta la lectura de los Urgentes ( Relampago incluido ⚡ ).
 
 5️⃣
 
