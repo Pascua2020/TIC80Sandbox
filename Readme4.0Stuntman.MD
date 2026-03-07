@@ -4,15 +4,24 @@
 
 <details>
 
-1️⃣
+1️⃣🔥💥**Mision : El Kamikaze del Cine**
 
-2️⃣
+La Version 4.0 tiene varios bugs.
+La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfectamente ( se puede ver mas abajo ).
 
-3️⃣
+2️⃣ Hay 2 cronometros:
 
-4️⃣
+-⏲️Uno que avanza hacia delante ( cuenta el tiempo en general ).
+-⌛Uno que avanza hacia atras en cada fase ( limite de tiempo ).
 
-5️⃣
+Si se llega al final de la mision en menos de 25 segundos es un plus para el jugador.
+
+3️⃣ Hay 2 dialogos ocultos y 14 objetos a chocar / disparar.
+
+4️⃣ Hay un inicio rapido para elegir en que fase empezar y saltear los dialogos previo a esa fase.
+
+5️⃣ Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
+
 
 6️⃣
 
@@ -24,24 +33,14 @@
 
 
 
-🔥💥**Mision : El Kamikaze del Cine**
-
-La Version 4.0 tiene varios bugs.
-La Version 1.0 de Crimen y Pixel tiene una Mision de Stuntman que funciona perfectamente ( se puede ver mas abajo ).
 
 
-Hay 2 cronometros:
 
--⏲️Uno que avanza hacia delante ( cuenta el tiempo en general ).
--⌛Uno que avanza hacia atras en cada fase ( limite de tiempo ).
 
-Si se llega al final de la mision en menos de 25 segundos es un plus para el jugador.
 
-Hay 2 dialogos ocultos y 14 objetos a chocar / disparar.
 
-Hay un inicio rapido para elegir en que fase empezar y saltear los dialogos previo a esa fase.
 
-Si el jugador pierde hay un mensaje de Game Over que varia segun la fase perdida ( o si el jugador es comido por un tiburon 🦈 ).
+
 
 🎬**Descripcion de Mision + Selector de Fases**
 
