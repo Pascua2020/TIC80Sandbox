@@ -1,16 +1,14 @@
 # Readme4.0Barrios
 
-Hay 16 Barrios.
-
 🎮👾🚔***Caracteristicas:***
 
 <details>
 
-1️⃣
+1️⃣ Hay 16 Barrios.
 
-2️⃣
+2️⃣ Cada Barrio tiene su propia estetica y Calles ( en algunos casos,las comparten con otros Barrios ).
 
-3️⃣
+3️⃣ Todos los Barrios estan conectados entre si por el sistema de calles ( y por lo tanto,el trafico puede recorrer toda la ciudad ).
 
 4️⃣
 
