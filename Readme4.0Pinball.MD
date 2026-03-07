@@ -18,7 +18,7 @@
 
 7️⃣ Cada vez que se lanza una bola esta rebota contra un personaje que dice frases.
 
-8️⃣
+8️⃣ Distintos elementos : Diamantes para recoger y un Disco que hace rebotar la bola.
 
 </details>
 
