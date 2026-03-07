@@ -1,5 +1,29 @@
 # Readme4.0Radios
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
+
 📺Cambio de Radio
 
 ![gifscambioradio](./GIFS4.0/Radios/cambioDeRadios.gif)
