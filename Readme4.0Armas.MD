@@ -19,7 +19,7 @@ Esto tambien tiene en cuenta el funcionamiento del sistema de frases.
 
 7️⃣ Con un boton se cambia de Arma.
 
-8️⃣
+8️⃣ Las armas tambien pueden usarse desde los vehiculos ( EJ : Jetpack,Avion,Globo ).
 
 </details>
 
