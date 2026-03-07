@@ -28,6 +28,10 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 8️⃣ Al acercarse a Silvestee Stacchotta,aparece el nombre del mismo.
 
+9️⃣ Hay muros invisibles ( en la V1 aparece un mensaje,en la V4 no funciona bien ).
+
+1️⃣0️⃣ Si el jugador no hace nada por unos segundos,aparece un mensaje para que juegue.
+
 </details>
 
 
