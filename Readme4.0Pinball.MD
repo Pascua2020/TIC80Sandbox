@@ -4,21 +4,21 @@
 
 <details>
 
-1️⃣ Texto con efectos arcoiris.
+1️⃣ Texto con efectos arcoiris🌈.
 
-2️⃣ Modo MultiBola.
+2️⃣ Modo MultiBola🪩.
 
-3️⃣ Animacion en fondo ( cambia segun puntaje ).
+3️⃣ Animacion en fondo ( cambia segun puntaje )🎆.
 
-4️⃣ Rap sobre la Patagonia Galesa.
+4️⃣ Rap sobre la Patagonia Galesa🏴󠁧󠁢󠁷󠁬󠁳󠁿.
 
-5️⃣ Ruleta.
+5️⃣ Ruleta🎰.
 
 6️⃣ Sistema de Niveles y Combos.
 
-7️⃣ Cada vez que se lanza una bola esta rebota contra un personaje que dice frases.
+7️⃣ Cada vez que se lanza una bola esta rebota contra un personaje 🫨 que dice frases.
 
-8️⃣ Distintos elementos : Diamantes para recoger y un Disco que hace rebotar la bola.
+8️⃣ Distintos elementos : Diamantes 💎para recoger y un Disco💿 que hace rebotar la bola🪩.
 
 </details>
 
