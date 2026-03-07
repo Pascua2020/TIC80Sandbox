@@ -29,9 +29,21 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣2️⃣ Medidor de Ansiedad y Estres 🌡️.
 
-1️⃣3️⃣
+1️⃣3️⃣ Boton a tocar🖲️.
 
-1️⃣4️⃣
+1️⃣4️⃣ Dibujo Tactil👆🖼️.
+
+1️⃣5️⃣
+
+1️⃣6️⃣
+
+1️⃣7️⃣
+
+1️⃣8️⃣
+
+1️⃣9️⃣
+
+2️⃣0️⃣
 
 </details>
 
