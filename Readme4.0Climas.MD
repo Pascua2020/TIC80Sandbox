@@ -13,7 +13,7 @@
 
 2️⃣ Relampago que aparece cada X tiempo tras ser activado.
 
-3️⃣
+3️⃣ Efectos de Lluvia y Viento son pixeles,mientras que Hojas y Nieve usan Sprites.
 
 4️⃣
 
