@@ -17,9 +17,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 6️⃣ Navegador ficticio de Internet 🖥️.
 
-7️⃣
+7️⃣ Menu de Pausa ( ausente en juego final ).
 
-8️⃣
+8️⃣ Nafta en Vehiculos ⛽🛢️.
 
 </details>
 
