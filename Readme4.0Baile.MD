@@ -12,6 +12,7 @@
 Al hacer un combo el juego tira una frase.
 
 3️⃣ Bailarines en el escenario,y estos dicen frases cada X tiempo.
+Ademas de unos puntos en el fondo que simulan ser estrellas.
 
 4️⃣ Una cancion con letra ( sin sonido ).
 
