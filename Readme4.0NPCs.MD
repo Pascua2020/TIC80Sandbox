@@ -8,9 +8,9 @@
 
 2️⃣ Cada uno se mueve aleatoriamente en un rango.
 
-3️⃣
+3️⃣ Cada uno tiene 2 frases distintas,que cambian con el tiempo.
 
-4️⃣
+4️⃣ Dialogos muy bizarros y con referencias culturales.
 
 5️⃣
 
