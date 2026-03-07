@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣ 14 Secciones Distintas.
+1️⃣ 14 Secciones Distintas🎴.
 
 2️⃣ Navegacion Rapida y en Bucle.
 
-3️⃣ Efecto Arcoiris y diseño minimalista.
+3️⃣ Efecto Arcoiris🌈 y diseño minimalista.
 
-4️⃣ Nombre de Seccion y Pagina en la Interfaz.
+4️⃣ Nombre de Seccion y Pagina en la Interfaz📱.
 
 5️⃣
 
