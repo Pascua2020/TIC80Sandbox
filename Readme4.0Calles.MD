@@ -14,7 +14,7 @@
 
 5️⃣ Cada vez que un coche gira,su sprite se adecua al limite de la calle ( esto incluye la Limusina Diamante,que es el vehiculo mas largo del juego ).
 
-6️⃣
+6️⃣ En la ciudad hay un interruptor para poder ver el trazado de cada calle : si se activa,las calles se pintan de color amarillo y si el jugador esta sobre una calle,esta se pinta de azul y dice su nombre ( de la calle ) en el trazado.
 
 7️⃣
 
