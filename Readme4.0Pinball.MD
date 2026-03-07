@@ -10,9 +10,9 @@
 
 3️⃣ Animacion en fondo ( cambia segun puntaje ).
 
-4️⃣
+4️⃣ Rap sobre la Patagonia Galesa.
 
-5️⃣
+5️⃣ Ruleta.
 
 6️⃣
 
