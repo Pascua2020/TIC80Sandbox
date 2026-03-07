@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣ Hay 20 dibujos diferentes en el mar.
+1️⃣ Hay 20 dibujos diferentes en el mar🌊.
 
-2️⃣ El mar rodea a toda la ciudad.
+2️⃣ El mar rodea a toda la ciudad🌆.
 
-3️⃣ Hay coleccionables en algunos puntos del mar.
+3️⃣ Hay coleccionables💎 en algunos puntos del mar.
 
-4️⃣ Hay graficos de fondo animados que se mueven por el mar ( peces,aviones,globos y lanchas ).
+4️⃣ Hay graficos de fondo animados que se mueven por el mar ( peces🐟,aviones✈️,globos🌐 y lanchas🚤 ).
 
 5️⃣ Si el jugador esta en el mar,en el HUD en el icono de Barrio dira "Mar RAM".
 
