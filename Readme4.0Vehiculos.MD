@@ -15,7 +15,7 @@
 
 5️⃣ Algunos vehiculos poseen animaciones ( fuego en Globo , particulas de agua en Lancha ).
 
-6️⃣
+6️⃣ Muchos vehiculos son parte del trafico y si el jugador interactua se puede subir al mismo.
 
 7️⃣
 
