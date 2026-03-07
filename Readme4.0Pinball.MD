@@ -14,7 +14,7 @@
 
 5️⃣ Ruleta.
 
-6️⃣
+6️⃣ Sistema de Niveles y Combos.
 
 7️⃣
 
