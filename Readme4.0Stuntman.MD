@@ -55,7 +55,7 @@ Tambien hay fases ( como la 7 ) que duran menos ( ya que es una persecucion rapi
 
 2️⃣1️⃣ Mecanicas descartadas : Grabar fase ( tras terminarla se repite el movimiento hecho por el jugador ).
 
-2️⃣2️⃣
+2️⃣2️⃣ Solo en la Fase 3,el jugador puede usar Nitro : va mas rapido y muestra un efecto visual.
 
 </details>
 
