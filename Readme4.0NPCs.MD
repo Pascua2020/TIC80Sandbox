@@ -4,9 +4,9 @@
 
 <details>
 
-1️⃣
+1️⃣ 9 personajes en el mapa.
 
-2️⃣
+2️⃣ Cada uno se mueve aleatoriamente en un rango.
 
 3️⃣
 
@@ -21,9 +21,6 @@
 8️⃣
 
 </details>
-
-
-Hay 9 personajes en el mapa.
 
 🤠Capitan Inflacion
 
