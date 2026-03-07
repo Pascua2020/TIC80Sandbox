@@ -6,13 +6,14 @@
 
 <details>
 
-1️⃣
+1️⃣ Interfaz estilo Arcoiris animada.
 
-2️⃣
+2️⃣ Sistema de Combos y Game Over.
+Al hacer un combo el juego tira una frase.
 
-3️⃣
+3️⃣ Bailarines en el escenario,y estos dicen frases cada X tiempo.
 
-4️⃣
+4️⃣ Una cancion con letra ( sin sonido ).
 
 5️⃣
 
