@@ -15,7 +15,7 @@ Al hacer un combo el juego tira una frase.
 
 4️⃣ Una cancion con letra ( sin sonido ).
 
-5️⃣
+5️⃣ Al acertar con las flechas,se va aumentando el nivel de velocidad : El juego cada vez es mas dificil.
 
 6️⃣
 
