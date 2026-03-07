@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣ 9 personajes en el mapa.
+1️⃣ 9 personajes en el mapa🏙️.
 
 2️⃣ Cada uno se mueve aleatoriamente en un rango.
 
-3️⃣ Cada uno tiene 2 frases distintas,que cambian con el tiempo.
+3️⃣ Cada uno tiene 2 frases distintas💬,que cambian con el tiempo.
 
-4️⃣ Dialogos muy bizarros y con referencias culturales.
+4️⃣ Dialogos muy bizarros y con referencias culturales🏴󠁧󠁢󠁷󠁬󠁳󠁿🇨🇭.
 
 5️⃣
 
