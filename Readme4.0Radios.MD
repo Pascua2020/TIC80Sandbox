@@ -12,7 +12,7 @@
 
 4️⃣ Una vez termina la radio actual,empieza de nuevo.
 
-5️⃣
+5️⃣ El nombre de la radio actual aparece en el HUD una vez que se activa.
 
 6️⃣
 
