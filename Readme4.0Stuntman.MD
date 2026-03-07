@@ -24,7 +24,7 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 6️⃣ Al subirse el Jugador al Coche,este activa unas luces delanteras y traseras junto con un efecto de humo de escape.
 
-7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases.
+7️⃣ Al saltar la rampa y usar nitro,el jugador dice frases. La rampa mueve automaticamente al jugador.
 
 8️⃣ Al acercarse a Silvestre Stacchotta,aparece el nombre del mismo.
 
@@ -38,9 +38,9 @@ Si se llega al final de la mision en menos de 25 segundos es un plus para el jug
 
 1️⃣3️⃣ Si el jugador pierde y vuelve a empezar,el mensaje de la fase actual es alternativo.
 
-1️⃣4️⃣
+1️⃣4️⃣ Aparecen mensajes si el jugador consigue puntos al romper destructibles y al recibir una pistola.
 
-1️⃣5️⃣
+1️⃣5️⃣ Hay algunos checkpoints y tienen efectos visuales.
 
 1️⃣6️⃣
 
