@@ -16,7 +16,9 @@
 
 6️⃣ En la ciudad hay un interruptor para poder ver el trazado de cada calle : si se activa,las calles se pintan de color amarillo y si el jugador esta sobre una calle,esta se pinta de azul y dice su nombre ( de la calle ) en el trazado.
 
-7️⃣
+7️⃣ El sistema usa un offset ya que hay calles que traspasan el limite X y si no lo usara el sistema dejaria de funcionar.
+
+De la misma manera,como hay una parte donde esta el oceano,las calles terminan al limite de la ciudad y vuelven a estar al comienzo del otro limite ( ya que si no los coches se irian por el oceano al final de cruzar la ciudad ).
 
 8️⃣
 
