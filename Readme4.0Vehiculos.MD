@@ -11,9 +11,9 @@
 
 3️⃣ Se pueden usar armas estando en vehiculos.
 
-4️⃣
+4️⃣ Los vehiculos poseen diferente longitud y en caso del Monster Casta,su sprite esta reescalado X2 en tamaño.
 
-5️⃣
+5️⃣ Algunos vehiculos poseen animaciones ( fuego en Globo , particulas de agua en Lancha ).
 
 6️⃣
 
