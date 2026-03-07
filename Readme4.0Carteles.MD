@@ -4,7 +4,7 @@
 
 <details>
 
-1️⃣
+1️⃣ Mas de 100 Carteles de 10 tipos distintos.
 
 2️⃣
 
@@ -21,9 +21,6 @@
 8️⃣
 
 </details>
-
-
-Hay mas de 100 carteles.
 
 **Carteles A : Publicidades 📰**
 
