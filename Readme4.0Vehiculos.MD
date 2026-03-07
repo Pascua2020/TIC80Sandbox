@@ -4,11 +4,12 @@
 
 <details>
 
-1️⃣
+1️⃣ Hay 27 Vehiculos.
 
-2️⃣
+2️⃣ Al subir a un vehiculo su sprite aparece en el HUD
+( si el vehiculo es animado su sprite en el HUD tambien cambia ).
 
-3️⃣
+3️⃣ Se pueden usar armas estando en vehiculos.
 
 4️⃣
 
@@ -24,10 +25,8 @@
 
 
 
-Hay 27 Vehiculos.
-Al subir a un vehiculo su sprite aparece en el HUD
-( si el vehiculo es animado su sprite en el HUD tambien cambia ).
-Se pueden usar armas estando en vehiculos.
+
+
 
 🚐1
 
