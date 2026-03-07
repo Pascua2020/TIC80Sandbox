@@ -15,6 +15,10 @@ Lancha🚤
 Globo🌐
 Rally🚗
 Jetpack🔥
+Jeep🚐
+Bondi🚌
+Monster Truck🛻
+Tren🚂
 
 2️⃣ Al subir a un vehiculo su sprite aparece en el HUD
 ( si el vehiculo es animado - caso de la Ambulancia 🚑 y Policia🚓 - su sprite en el HUD tambien cambia ).
