@@ -4,11 +4,13 @@
 
 <details>
 
-1️⃣
+1️⃣ Hay 2 tipos de Coleccionables : "Condones" y "Monedas".
 
-2️⃣
+2️⃣ Cada tipo de Coleccionable a su vez tiene 2 subtipos :
+-Condones normales ( Hay 16 en la Ciudad y Cristales ( hay 4 en el Mar ).
+-Monedas amarillas y azules ( juntas hay 12 en toda la Ciudad ).
 
-3️⃣
+3️⃣ Al agarrar cada coleccionable se genera un efecto visual y aparece una frase de que lo agarraste.
 
 4️⃣
 
