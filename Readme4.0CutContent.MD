@@ -11,10 +11,11 @@
 3️⃣ Tomar Colectivo en Parada🚏🚌.
 
 4️⃣ Modo GT de Carreras 🏎️ ( con pista en Zurich,Suiza 🇨🇭 ).
+Incluye prototipo de MiniMapa 🗺️.
 
-5️⃣
+5️⃣ Interfaz Beta ( con sistema de Cartas 🃏 ).
 
-6️⃣
+6️⃣ Navegador ficticio de Internet 🖥️.
 
 7️⃣
 
