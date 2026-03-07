@@ -11,7 +11,7 @@
 3️⃣ Al mostrar el menu de opciones se pinta de un color la pantalla 🗨️( para poder ver mas facilmente las opciones ).
 Igualmente se puede sacar y volver a poner el "Celular" junto a la "App".
 
-4️⃣
+4️⃣ Opcion de ver multiples paginas de textos 🌐 ( aunque en este caso,limitada a solo 2 paginas ).
 
 5️⃣
 
