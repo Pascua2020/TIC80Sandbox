@@ -6,7 +6,7 @@
 
 1️⃣ 9 personajes en el mapa🏙️.
 
-2️⃣ Cada uno se mueve aleatoriamente en un rango.
+2️⃣ Cada uno se mueve aleatoriamente 🦵en un rango.
 
 3️⃣ Cada uno tiene 2 frases distintas💬,que cambian con el tiempo.
 
