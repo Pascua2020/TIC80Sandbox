@@ -4,11 +4,11 @@
 
 <details>
 
-1️⃣
+1️⃣ Texto con efectos arcoiris.
 
-2️⃣
+2️⃣ Modo MultiBola.
 
-3️⃣
+3️⃣ Animacion en fondo ( cambia segun puntaje ).
 
 4️⃣
 
