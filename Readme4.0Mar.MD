@@ -12,7 +12,7 @@
 
 4️⃣ Hay graficos de fondo animados que se mueven por el mar ( peces,aviones,globos y lanchas ).
 
-5️⃣
+5️⃣ Si el jugador esta en el mar,en el HUD en el icono de Barrio dira "Mar RAM".
 
 6️⃣
 
