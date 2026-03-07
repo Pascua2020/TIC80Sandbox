@@ -37,9 +37,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣6️⃣ Ver TeleVision📺.
 
-1️⃣7️⃣
+1️⃣7️⃣ Velocidad vehiculos⏲️.
 
-1️⃣8️⃣
+1️⃣8️⃣ Votar candidatos a Presidente 👥.
 
 1️⃣9️⃣
 
