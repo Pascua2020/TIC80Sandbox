@@ -6,15 +6,15 @@
 
 <details>
 
-1️⃣ Interfaz estilo Arcoiris animada.
+1️⃣ Interfaz estilo Arcoiris animada🌈.
 
 2️⃣ Sistema de Combos y Game Over.
 Al hacer un combo el juego tira una frase.
 
-3️⃣ Bailarines en el escenario,y estos dicen frases cada X tiempo.
-Ademas de unos puntos en el fondo que simulan ser estrellas.
+3️⃣ Bailarines 🕺en el escenario,y estos dicen frases cada X tiempo.
+Ademas de unos puntos en el fondo que simulan ser estrellas.🎇
 
-4️⃣ Una cancion con letra ( sin sonido ).
+4️⃣ Una cancion con letra ( sin sonido )🎼.
 
 5️⃣ Al acertar con las flechas,se va aumentando el nivel de velocidad : El juego cada vez es mas dificil.
 
