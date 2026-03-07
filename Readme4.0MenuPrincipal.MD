@@ -4,7 +4,7 @@
 
 <details>
 
-1️⃣
+1️⃣ Hay 9 opciones en el Menu Principal.
 
 2️⃣
 
@@ -24,8 +24,7 @@
 
 
 
-Hay 9 opciones en el Menu Principal.
-
+
 🎮Seleccion
 
 ![gifMenuPrincipalSeleccion](./GIFS4.0/MenuPrincipal/MenuPrincipalSeleccion.gif)
