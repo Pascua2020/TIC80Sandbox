@@ -1,5 +1,29 @@
 # Readme4.0UrgentesTV
 
+🎮👾🚔***Caracteristicas:***
+
+<details>
+
+1️⃣
+
+2️⃣
+
+3️⃣
+
+4️⃣
+
+5️⃣
+
+6️⃣
+
+7️⃣
+
+8️⃣
+
+</details>
+
+
+
 Hay 7 Urgentes estilo noticiero.
 
 🔊Urgente 1
