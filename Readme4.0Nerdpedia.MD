@@ -10,7 +10,7 @@
 
 3️⃣ Efecto Arcoiris y diseño minimalista.
 
-4️⃣
+4️⃣ Nombre de Seccion y Pagina en la Interfaz.
 
 5️⃣
 
