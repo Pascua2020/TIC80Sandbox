@@ -8,6 +8,7 @@
 
 2️⃣ Al subir a un vehiculo su sprite aparece en el HUD
 ( si el vehiculo es animado su sprite en el HUD tambien cambia ).
+Tambien aparece su nombre.
 
 3️⃣ Se pueden usar armas estando en vehiculos.
 
