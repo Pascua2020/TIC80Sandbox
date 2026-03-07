@@ -13,11 +13,11 @@
 4️⃣ Hay armas que hay que apretar una y otra vez para disparar ( ej Pistola ),en cambio otras como el Rayo Laser disparan toda la municion dejando el boton apretado.
 Esto tambien tiene en cuenta el funcionamiento del sistema de frases.
 
-5️⃣
+5️⃣ Los enemigos ( en este caso,los coches negros en el mapa alrededor del Obelisco ) disparan sangre al ser destruidos.
 
-6️⃣
+6️⃣ Cada arma tiene su icono en el HUD.
 
-7️⃣
+7️⃣ Con un boton se cambia de Arma.
 
 8️⃣
 
