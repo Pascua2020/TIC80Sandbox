@@ -5,7 +5,7 @@
 
 1️⃣ Diario con 5 noticias que funciona con un efecto de scroll.
 
-2️⃣ 
+2️⃣ No utiliza sprites,solo cuadrados de colores y textos en colores diferentes para visualizar mejor.
 
 3️⃣ 
 
