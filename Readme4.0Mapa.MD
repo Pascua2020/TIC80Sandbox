@@ -4,9 +4,9 @@
 
 <details>
 
-1️⃣ El mapa consiste en la ciudad,esta la rodea el agua y algunos lugares extra.
+1️⃣ El mapa consiste en la ciudad🌆,esta la rodea el agua 🌊y algunos lugares extra.
 
-2️⃣ Choriwood,el campo de la mision de stuntman.
+2️⃣ Choriwood🎥,el campo de la mision de stuntman.
 
 3️⃣ Pista en Zurich,Suiza🇨🇭.
 
