@@ -45,6 +45,16 @@ Incluye prototipo de MiniMapa 🗺️.
 
 2️⃣0️⃣ DiosGPT Beta
 
+2️⃣1️⃣ Jetpack Beta
+
+2️⃣2️⃣ Nerdpedia ( V1 y V2 )
+
+2️⃣3️⃣
+
+2️⃣4️⃣
+
+2️⃣5️⃣
+
 </details>
 
 
