@@ -81,7 +81,7 @@ Explicacion : Hay un GameOver de tiburon sin entrar a ninguns fase.
 ![gifbugvehiculosoffset](./GIFS4.0/Bugs/BugVehiculosOffset.gif)
 
 
-Explicacion :
+Explicacion : Al dispararse algunas armas,sus balas cruzan el limite de la pantalla interminablemente.
 
 
 
