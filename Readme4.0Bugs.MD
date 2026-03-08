@@ -38,7 +38,7 @@ Explicacion : Salta dialogos de a 2 por pulsacion de boton y no a 1.
 
 ![gifbugfase0](./GIFS4.0/Bugs/BugFase0.gif)
 
-Explicacion :
+Explicacion : Graficos duplicados en mision de stuntman.
 
 ❗4
 
