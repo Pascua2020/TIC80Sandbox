@@ -26,7 +26,13 @@
 
 1️⃣1️⃣ Cajas que al interactuar con ellas dan una recompensa.
 
-1️⃣2️⃣
+1️⃣2️⃣ Coleccionables y monedas para recoger.
+
+1️⃣3️⃣ Interruptores de todo tipo.
+
+1️⃣4️⃣
+
+1️⃣5️⃣
 
 </details>
 
