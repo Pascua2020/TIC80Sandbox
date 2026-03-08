@@ -1,5 +1,7 @@
 # Readme4.0Teclados
 
+🎮👾🚔***Caracteristicas:***
+
 <details>
 
 1️⃣ 
