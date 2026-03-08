@@ -14,7 +14,7 @@
 
 5️⃣ El aeropuerto de la ciudad posee luces animadas.
 
-6️⃣ Hay aviones volando con mensajes en el oceano.
+6️⃣ Hay aviones y globos volando con mensajes en el oceano.
 
 7️⃣ Hay lanchas y peces moviendose en el mar.
 
