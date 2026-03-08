@@ -8,27 +8,27 @@
 
 2️⃣ Choriwood,el campo de la mision de stuntman.
 
-3️⃣ Pista en Zurich,Suiza.
+3️⃣ Pista en Zurich,Suiza🇨🇭.
 
 4️⃣ Distintos escenarios "placeholder" de testeo.
 
-5️⃣ El aeropuerto de la ciudad posee luces animadas.
+5️⃣ El aeropuerto de la ciudad🛫 posee luces animadas.
 
-6️⃣ Hay aviones y globos volando con mensajes en el oceano.
+6️⃣ Hay aviones✈️ y globos volando con mensajes en el oceano.
 
-7️⃣ Hay lanchas y peces moviendose en el mar.
+7️⃣ Hay lanchas 🛥️y peces moviendose en el mar.
 
-8️⃣ Hay palomas volando sobre el jugador ( en posiciones fijas,de forma que el jugador nunca puede escapar de ellas ).
+8️⃣ Hay palomas 🕊️volando sobre el jugador ( en posiciones fijas,de forma que el jugador nunca puede escapar de ellas ).
 
 9️⃣ Semaforos🚦 ( aunque no afectan al trafico ).
 
-1️⃣0️⃣ Tren con animacion de humo,que se mueve entre las vias.
+1️⃣0️⃣ Tren🚂 con animacion de humo,que se mueve entre las vias.
 
 1️⃣1️⃣ Cajas que al interactuar con ellas dan una recompensa.
 
-1️⃣2️⃣ Coleccionables y monedas para recoger.
+1️⃣2️⃣ Coleccionables y monedas🪙 para recoger.
 
-1️⃣3️⃣ Interruptores de todo tipo.
+1️⃣3️⃣ Interruptores🖲️ de todo tipo.
 
 1️⃣4️⃣
 
