@@ -7,7 +7,7 @@
 
 2️⃣ Aparte de eso hay pequeños bugs visuales o menores ( ej : no poder ver carteles subido a un jetpack ).
 
-3️⃣ 
+3️⃣ Hay mecanicas / elementos descartados que no tienen bugs ( ej : la nafta,los trompos ).
 
 4️⃣ 
 
