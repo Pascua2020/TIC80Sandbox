@@ -901,7 +901,7 @@ https://en.wikipedia.org/wiki/Tardigrade
 
 🥚**141 Taringa,Queensland🇦🇺**
 
-![pngEasterEggTaringaAustralia](./Screenshots4.0/EasterEggs/EasterEggsTaringaQueensland.png)
+![pngEasterEggTaringaQueensland](./Screenshots4.0/EasterEggs/EasterEggTaringaQueensland.png)
 
 https://en.wikipedia.org/wiki/Taringa,_Queensland
 
