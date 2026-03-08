@@ -12,11 +12,11 @@
 
 4️⃣ Distintos escenarios "placeholder" de testeo.
 
-5️⃣
+5️⃣ El aeropuerto de la ciudad posee luces animadas.
 
-6️⃣
+6️⃣ Hay aviones volando con mensajes en el oceano.
 
-7️⃣
+7️⃣ Hay lanchas y peces moviendose en el mar.
 
 8️⃣
 
