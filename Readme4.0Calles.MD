@@ -43,8 +43,10 @@ Trafico en el mapa
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
 
-***Coordenadas🚏 : X1 X2 Y1 Y2 Orientacion : ***
+***Coordenadas🚏 X1:230 X2:231 Y1:45 Y2:54 Orientacion : Vertical ***
+
 <details>
+
 ![gifcalleameonohud](./GIFS4.0/Calles(NOHUD)/Ameo.gif)
 
 ![pngcalleameohud](./Screenshots4.0/Calles(HUD)/Ameo-HUD.png)
