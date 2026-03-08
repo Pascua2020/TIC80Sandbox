@@ -4,13 +4,13 @@
 
 <details>
 
-1️⃣
+1️⃣ El mapa consiste en la ciudad,esta la rodea el agua y algunos lugares extra.
 
-2️⃣
+2️⃣ Choriwood,el campo de la mision de stuntman.
 
-3️⃣
+3️⃣ Pista en Zurich,Suiza.
 
-4️⃣
+4️⃣ Distintos escenarios "placeholder" de testeo.
 
 5️⃣
 
