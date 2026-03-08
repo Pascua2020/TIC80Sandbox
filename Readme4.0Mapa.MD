@@ -18,7 +18,7 @@
 
 7️⃣ Hay lanchas y peces moviendose en el mar.
 
-8️⃣
+8️⃣ Hay palomas volando sobre el jugador ( en posiciones fijas,de forma que el jugador nunca puede escapar de ellas ).
 
 </details>
 
