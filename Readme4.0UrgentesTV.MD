@@ -217,7 +217,8 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 17 Dialogos.
 
-![gifurgente6](./GIFS4.0/Urgentes/Urgente6.gif)
+![gifurgente6A](./GIFS4.0/Urgentes/Urgente6A.gif)
+![gifurgente6B](./GIFS4.0/Urgentes/Urgente6B.gif)
 
 <details>
 
