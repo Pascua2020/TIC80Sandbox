@@ -50,7 +50,7 @@ Explicacion : Hay lugares donde no se ve el sprite de la granada al dispararla.
 
 ![gifbugjetpack](./GIFS4.0/Bugs/BugJetpack.gif)
 
-Explicacion :
+Explicacion : No se puede cambiar de Jetpack a otro vehiculo.
 
 ❗6
 
