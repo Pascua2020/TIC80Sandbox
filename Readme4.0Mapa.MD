@@ -114,36 +114,51 @@
 
 ![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
 
+<details>
+
 ![pnganimacionglobo](./Screenshots4.0/Mapa/Animaciones/GloboNPC-1.png)
 
 ![pnganimacionglobo2](./Screenshots4.0/Mapa/Animaciones/GloboNPC-2.png)
+
+</details>
 
 
 🚤LanchaNPC
 
 ![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
 
+<details>
+
 ![pnganimacionlancha](./Screenshots4.0/Mapa/Animaciones/LanchaNPC-1.png)
 
 ![pnganimacionlancha2](./Screenshots4.0/Mapa/Animaciones/LanchaNPC-2.png)
+
+</details>
 
 
 🚦Semaforos
 
 ![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
 
+<details>
+
 ![pnganimacionpeces](./Screenshots4.0/Mapa/Animaciones/Semaforo-1.png)
 
 ![pnganimacionpeces2](./Screenshots4.0/Mapa/Animaciones/Semaforo-2.png)
 
+</details>
 
 🚅Tren
 
 ![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
 
+<details>
+
 ![pnganimaciontren](./Screenshots4.0/Mapa/Animaciones/Tren-1.png)
 
 ![pnganimaciontren2](./Screenshots4.0/Mapa/Animaciones/Tren-2.png)
+
+</details>
 
 
 🧭Ubicaciones
