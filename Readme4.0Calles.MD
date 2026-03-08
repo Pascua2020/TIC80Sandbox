@@ -57,6 +57,9 @@ Trafico en el mapa
 
 ![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcalleanacondanohud](./GIFS4.0/Calles(NOHUD)/Anaconda.gif)
