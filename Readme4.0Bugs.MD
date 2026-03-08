@@ -3,9 +3,9 @@
 🎮👾🚔***Caracteristicas:***
 <details>
 
-1️⃣ 
+1️⃣ V4.0 en general funciona bien,con excepcion del minijuego de stuntman y el teclado numerico.
 
-2️⃣ 
+2️⃣ Aparte de eso hay pequeños bugs visuales o menores ( ej : no poder ver carteles subido a un jetpack ).
 
 3️⃣ 
 
