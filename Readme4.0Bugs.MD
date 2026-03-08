@@ -26,13 +26,13 @@
 
 ![gifbugcartelesjetpack](./GIFS4.0/Bugs/BugCartelesJetpack.gif)
 
-Explicacion : Usando jetpack no se ven bien los carteles 
+Explicacion : Usando jetpack no se ven bien los carteles.
 
 ❗2
 
 ![gifbugdialogostuntman](./GIFS4.0/Bugs/BugDialogoStuntman.gif)
 
-Explicacion :
+Explicacion : Salta dialogos de a 2 por pulsacion de boton y no a 1.
 
 ❗3
 
