@@ -163,6 +163,8 @@
 
 🧭Ubicaciones
 
+<details>
+
 🧭Cajas
 
 ![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)
@@ -193,7 +195,11 @@
 
 ![gifubicacionesRT](./GIFS4.0/Mapa/Ubicaciones/UbicacionesRadioteatro.gif)
 
+</details>
+
 🛎️Interruptores
+
+<details>
 
 🛎️Calles
 ![gifinterruptorcalles](./GIFS4.0/Mapa/Interruptores/InterruptorCalles.gif)
@@ -221,4 +227,6 @@
 
 🛎️Telescopio
 ![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)
+
+</details>
 
