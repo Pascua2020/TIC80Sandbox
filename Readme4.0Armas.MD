@@ -1,5 +1,4 @@
-# 🎮Readme4.0
-# Armas
+# 🎮Readme4.0 : Armas
 
 🎮👾🚔***Caracteristicas:***
 
