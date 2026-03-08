@@ -43,6 +43,8 @@
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
+<details>
+
 ![pnganimacionavion1a](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-1.png)
 
 ![pnganimacionavion1b](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-2.png)
@@ -51,10 +53,13 @@
 
 ![pnganimacionavion1d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-4.png)
 
+</details>
 
 🛬Avion 2 ( Mar RAM Sur )
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
+
+<details>
 
 ![pnganimacionavion2a](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-1.png)
 
@@ -64,19 +69,25 @@
 
 ![pnganimacionavion2d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion2-4.png)
 
+</details>
 
 🏔️Luces Aeropuerto
 
 ![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
 
+<details>
+
 ![pnganimacionaeropuerto](./Screenshots4.0/Mapa/Animaciones/LucesAeropuerto-1.png)
 
 ![pnganimacionaeropuerto2](./Screenshots4.0/Mapa/Animaciones/LucesAeropuerto-2.png)
 
+</details>
 
 🐟Peces
 
 ![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)
+
+<details>
 
 ![pnganimacionpeces](./Screenshots4.0/Mapa/Animaciones/Pez-1.png)
 
@@ -84,15 +95,19 @@
 
 ![pnganimacionpeces3](./Screenshots4.0/Mapa/Animaciones/Pez-3.png)
 
-
+</details>
 
 🦅Palomas
 
 ![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
 
+<details>
+
 ![pnganimacionpajaros](./Screenshots4.0/Mapa/Animaciones/Pajaros-1.png)
 
 ![pnganimacionpajaros2](./Screenshots4.0/Mapa/Animaciones/Pajaros-2.png)
+
+</details>
 
 
 🪂GloboNPC
