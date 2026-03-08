@@ -1,5 +1,27 @@
 # Readme4.0EasterEggs
 
+🎮👾🚔***Caracteristicas:***
+<details>
+
+1️⃣ 
+
+2️⃣ 
+
+3️⃣ 
+
+4️⃣ 
+
+5️⃣ 
+
+6️⃣ 
+
+7️⃣ 
+
+8️⃣ 
+
+</details>
+
+
 Hay almenos 161 Easter Eggs ( Referencias ).
 
 🥚**1 Asteroide a la Tierra en 2880☄️🌏.**
