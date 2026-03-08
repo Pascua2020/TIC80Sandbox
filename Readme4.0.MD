@@ -2,6 +2,8 @@
 
 *CRIMEN Y PIXEL VERSION 4.0 ( 2/7/2025 )*
 
+![gifstuntmanversion4](./GIFS4.0/crimenYPixelv4.0.gif)
+
 ⚠️**Readme Antiguo : ![READMEv1](./README.md)**
 
 ☢️***SubReadmes ( 28 en total ):***
