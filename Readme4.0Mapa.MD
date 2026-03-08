@@ -20,6 +20,10 @@
 
 8️⃣ Hay palomas volando sobre el jugador ( en posiciones fijas,de forma que el jugador nunca puede escapar de ellas ).
 
+9️⃣ Semaforos🚦 ( aunque no afectan al trafico ).
+
+1️⃣0️⃣
+
 </details>
 
 
