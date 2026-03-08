@@ -29,6 +29,8 @@
 ![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
 ![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
 
+Coordenadas🚏: X- Y-
+
 🧭***Recorrido Calles Barrio Chetisimo :***
 
 
