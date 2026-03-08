@@ -41,31 +41,31 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣8️⃣ Votar candidatos a Presidente 👥.
 
-1️⃣9️⃣ Armas Beta ( incluyendo la Eliminada Francotirador )
+1️⃣9️⃣ Armas Beta ( incluyendo la Eliminada Francotirador )🏹
 
-2️⃣0️⃣ DiosGPT Beta
+2️⃣0️⃣ DiosGPT Beta🤖
 
-2️⃣1️⃣ Jetpack Beta
+2️⃣1️⃣ Jetpack Beta🔥
 
-2️⃣2️⃣ Nerdpedia ( V1 y V2 )
+2️⃣2️⃣ Nerdpedia ( V1 y V2 )🈶
 
-2️⃣3️⃣ Montarse en Skate
+2️⃣3️⃣ Montarse en Skate🛹
 
-2️⃣4️⃣ Fases de Stuntman Beta
+2️⃣4️⃣ Fases de Stuntman Beta🎥🎞️🎬
 
-2️⃣5️⃣ Radio Beta
+2️⃣5️⃣ Radio Beta📻
 
-2️⃣6️⃣ Menu Debug
+2️⃣6️⃣ Menu Debug📋
 
-2️⃣7️⃣ Diario Beta
+2️⃣7️⃣ Diario Beta📰
 
-2️⃣8️⃣ Pinball Beta
+2️⃣8️⃣ Pinball Beta🪩
 
-2️⃣9️⃣ Teclados Beta
+2️⃣9️⃣ Teclados Beta 💻📠
 
-3️⃣0️⃣ Coordenadas Tactil
+3️⃣0️⃣ Coordenadas Tactil👆🖼️
 
-3️⃣1️⃣ Graficos sin usar
+3️⃣1️⃣ Graficos sin usar💩
 
 </details>
 
