@@ -74,7 +74,7 @@ Explicacion : El GameOver de Stuntman no parece identificar el numero de fase ( 
 
 ![gifbugstuntmangameover2](./GIFS4.0/Bugs/BugStuntmanGameOver2.gif)
 
-Explicacion :
+Explicacion : Hay un GameOver de tiburon sin entrar a ninguns fase.
 
 ❗10
 
