@@ -98,8 +98,8 @@
 📀Crimen y Pixel Version 3.4
 16/6/2025
 
-![gifstuntmanversion3.4](<./GIFS4.0/CutContent/VersionesAntiguas/V3.4A 16-6-2025.gif>)
-![gifstuntmanversion3.4B](<./GIFS4.0/CutContent/VersionesAntiguas/V3.4B 16-6-2025.gif>)
+![gifstuntmanversion3.4](<./GIFS4.0/CutContent/VersionesAntiguas/V3.4 16-6-2025A.gif>)
+![gifstuntmanversion3.4B](<./GIFS4.0/CutContent/VersionesAntiguas/V3.4 16-6-2025B.gif>)
 
 
 📀Crimen y Pixel Version 3.5
