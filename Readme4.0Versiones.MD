@@ -23,7 +23,8 @@
 
 
 📀Crimen y Pixel Version 1.0
-7/4/2025
+
+***7/4/2025***
 
 ![gifstuntmanversion1](<./GIFS4.0/CutContent/VersionesAntiguas/V1 7-4-2025.gif>)
 
