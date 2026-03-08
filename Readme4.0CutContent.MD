@@ -57,9 +57,13 @@ Incluye prototipo de MiniMapa 🗺️.
 
 2️⃣6️⃣ Menu Debug
 
-2️⃣7️⃣
+2️⃣7️⃣ Diario Beta
 
-2️⃣8️⃣
+2️⃣8️⃣ Pinball Beta
+
+2️⃣9️⃣ Teclados Beta
+
+3️⃣0️⃣
 
 </details>
 
