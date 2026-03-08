@@ -39,7 +39,7 @@
 
 🏞️Fondo
 
-🛫Avion 1
+🛫Avion 1 ( Mar RAM Norte )
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
@@ -52,7 +52,7 @@
 ![pnganimacionavion1d](./Screenshots4.0/Mapa/Animaciones/MensajeAvion1-4.png)
 
 
-🛬Avion 2
+🛬Avion 2 ( Mar RAM Sur )
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
 
