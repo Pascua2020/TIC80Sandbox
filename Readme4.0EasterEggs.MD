@@ -3,13 +3,13 @@
 🎮👾🚔***Caracteristicas:***
 <details>
 
-1️⃣ 
+1️⃣ Referencias a muchisimos paises 🇳🇴🇹🇬🏴󠁧󠁢󠁷󠁬󠁳󠁿🇯🇵🇰🇵🇬🇶
 
-2️⃣ 
+2️⃣ Referencias a Idiomas 🇨🇭
 
-3️⃣ 
+3️⃣ Referencias a series 🇺🇸
 
-4️⃣ 
+4️⃣ Referencias a Conflictos Belicos 🇮🇱🇮🇷🇰🇵🇸🇩
 
 5️⃣ 
 
