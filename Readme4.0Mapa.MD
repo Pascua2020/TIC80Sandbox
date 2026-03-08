@@ -165,7 +165,7 @@
 
 <details>
 
-🧭Cajas
+🧭***Cajas***
 
 ![gifubicacionescajas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesCajas.gif)
 
@@ -179,19 +179,19 @@
 
 </details>
 
-🧭Condones
+🧭***Condones***
 
 ![gifubicacionescoleccionables](./GIFS4.0/Mapa/Ubicaciones/UbicacionesColeccionables.gif)
 
-🧭Monedas
+🧭***Monedas***
 
 ![gifubicacionesmonedas](./GIFS4.0/Mapa/Ubicaciones/UbicacionesMonedas.gif)
 
-🧭Urgentes
+🧭***Urgentes***
 
 ![gifubicacionesurgentes](./GIFS4.0/Mapa/Ubicaciones/UbicacionesUrgentes.gif)
 
-🧭RadioTeatro
+🧭***RadioTeatro***
 
 ![gifubicacionesRT](./GIFS4.0/Mapa/Ubicaciones/UbicacionesRadioteatro.gif)
 
@@ -201,31 +201,31 @@
 
 <details>
 
-🛎️Calles
+🛎️***Calles***
 ![gifinterruptorcalles](./GIFS4.0/Mapa/Interruptores/InterruptorCalles.gif)
 
-🛎️Baile
+🛎️***Baile***
 ![gifinterruptorbaile](./GIFS4.0/Mapa/Interruptores/MapaBaile.gif)
 
-🛎️Diario
+🛎️***Diario***
 ![gifinterruptordiario](./GIFS4.0/Mapa/Interruptores/MapaDiario.gif)
 
-🛎️DiosGPT
+🛎️***DiosGPT***
 ![gifinterruptordiosgpt](./GIFS4.0/Mapa/Interruptores/MapaDiosGPT.gif)
 
-🛎️Pinball
+🛎️***Pinball***
 ![gifinterruptorpinball](./GIFS4.0/Mapa/Interruptores/MapaPinball.gif)
 
-🛎️Stuntman
+🛎️***Stuntman***
 ![gifinterruptorstuntman](./GIFS4.0/Mapa/Interruptores/MapaStuntman.gif)
 
-🛎️TecladoPC
+🛎️***TecladoPC***
 ![gifinterruptortecladopc](./GIFS4.0/Mapa/Interruptores/MapaTecladoPC.gif)
 
-🛎️TecladoNumerico
+🛎️***TecladoNumerico***
 ![gifinterruptortecladonumerico](./GIFS4.0/Mapa/Interruptores/MapaTecladoNumerico.gif)
 
-🛎️Telescopio
+🛎️***Telescopio***
 ![gifinterruptortelescopio](./GIFS4.0/Mapa/Interruptores/MapaTelescopio.gif)
 
 </details>
