@@ -41,7 +41,7 @@
 
 <details>
 
-🛫Avion 1 ( Mar RAM Norte )
+🛫**Avion 1 ( Mar RAM Norte )**
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
 
@@ -57,7 +57,7 @@
 
 </details>
 
-🛬Avion 2 ( Mar RAM Sur )
+🛬**Avion 2 ( Mar RAM Sur )**
 
 ![gifanimacionavion2](./GIFS4.0/Mapa/Animaciones/MensajeAvion2.gif)
 
@@ -73,7 +73,7 @@
 
 </details>
 
-🏔️Luces Aeropuerto
+🏔️**Luces Aeropuerto**
 
 ![gifanimacionaeropuerto](./GIFS4.0/Mapa/Animaciones/Luces_Aeropuerto.gif)
 
@@ -85,7 +85,7 @@
 
 </details>
 
-🐟Peces
+🐟**Peces**
 
 ![gifanimacionpez](./GIFS4.0/Mapa/Animaciones/AnimacionPez.gif)
 
@@ -99,7 +99,7 @@
 
 </details>
 
-🦅Palomas
+🦅**Palomas**
 
 ![gifanimacionpalomas](./GIFS4.0/Mapa/Animaciones/AnimacionPalomas.gif)
 
@@ -112,7 +112,7 @@
 </details>
 
 
-🪂GloboNPC
+🪂**GloboNPC**
 
 ![gifanimacionglobonpc](./GIFS4.0/Mapa/Animaciones/GloboNPC.gif)
 
@@ -124,8 +124,7 @@
 
 </details>
 
-
-🚤LanchaNPC
+🚤**LanchaNPC**
 
 ![gifanimacionlanchanpc](./GIFS4.0/Mapa/Animaciones/LanchaNPC.gif)
 
@@ -138,7 +137,7 @@
 </details>
 
 
-🚦Semaforos
+🚦**Semaforos**
 
 ![gifanimacionsemaforo](./GIFS4.0/Mapa/Animaciones/semaforos.gif)
 
@@ -150,7 +149,7 @@
 
 </details>
 
-🚅Tren
+🚅**Tren**
 
 ![gifanimaciontren](./GIFS4.0/Mapa/Animaciones/AnimacionTren.gif)
 
