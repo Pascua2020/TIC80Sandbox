@@ -1,5 +1,27 @@
 #  Readme4.0CodigoFuente
 
+y🎮👾🚔***Caracteristicas:***
+<details>
+
+1️⃣ 
+
+2️⃣ 
+
+3️⃣ 
+
+4️⃣ 
+
+5️⃣ 
+
+6️⃣ 
+
+7️⃣ 
+
+8️⃣ 
+
+</details>
+
+
 01 - MEGATABLA
 
 <details>
