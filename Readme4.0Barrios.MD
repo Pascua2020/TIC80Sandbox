@@ -26,16 +26,6 @@
 🌃1
 **Barrio Chetisimo**
 
-Ubicacion:
-
-◼️◼️◼️◼️
-
-◼️◼️◼️◼️
-
-◼️◼️◼️◼️
-
-◼️◼️◼️◼️
-
 ![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
 ![pngsbarrios-barriochetisimo](./Screenshots4.0/Barrios/BarrioChetisimo.png)
 
@@ -47,14 +37,7 @@ Ubicacion:
 
 🌃2
 **Barrio Turrisimo**
-
-Ubicacion:
-◼️◼️◼️◼️
-◼️◼️◼️◼️
-◼️◼️◼️◼️
-◼️◼️◼️◼️
-
-
+
 ![gifsbarrios-barrioturrisimo](<./GIFS4.0/Barrios/Barrio Turrisimo.gif>)
 ![pngsbarrios-barrioturrisimo](./Screenshots4.0/Barrios/BarrioTurrisimo.png)
 
@@ -64,12 +47,6 @@ Ubicacion:
 
 🌃3
 **Casi Casi**
-
-Ubicacion:
-◼️◼️◼️◼️
-◼️◼️◼️◼️
-◼️◼️◼️◼️
-◼️◼️◼️◼️
 
 
 ![gifsbarrios-casicasi](<./GIFS4.0/Barrios/Casi Casi.gif>)
