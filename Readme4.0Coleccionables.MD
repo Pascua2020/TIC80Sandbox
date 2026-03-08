@@ -25,7 +25,7 @@
 </details>
 
 
-🔅Condones
+🔅**Condones**
 
 💎Condon 01
 
@@ -159,7 +159,7 @@
 
 </details>
 
-🪙Monedas
+🪙**Monedas**
 
 💵Moneda 01
 
