@@ -44,7 +44,7 @@ Explicacion : Graficos duplicados en mision de stuntman y Fase "0" ( no existe )
 
 ![gifbuggranada](./GIFS4.0/Bugs/BugGranada.gif)
 
-Explicacion :
+Explicacion : Hay lugares donde no se ve el sprite de la granada al dispararla.
 
 ❗5
 
