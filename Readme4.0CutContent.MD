@@ -53,7 +53,13 @@ Incluye prototipo de MiniMapa 🗺️.
 
 2️⃣4️⃣ Fases de Stuntman Beta
 
-2️⃣5️⃣
+2️⃣5️⃣ Radio Beta
+
+2️⃣6️⃣ Menu Debug
+
+2️⃣7️⃣
+
+2️⃣8️⃣
 
 </details>
 
