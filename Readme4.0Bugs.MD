@@ -1,4 +1,4 @@
-# Readme4.0Bugs
+# 🎮Readme4.0 : Bugs
 
 🎮👾🚔***Caracteristicas:***
 <details>
