@@ -27,7 +27,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 
 
-🔊Urgente 1
+🔊**Urgente 1**
 
 16 Dialogos.
 
@@ -55,7 +55,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 1:
+***#️⃣#Hashtags Urgente 1:***
 
 ![gif#urgente1-1](./GIFS4.0/Urgentes/Hashtags/1-1.gif)
 
