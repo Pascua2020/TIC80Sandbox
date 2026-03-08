@@ -49,9 +49,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 2️⃣2️⃣ Nerdpedia ( V1 y V2 )
 
-2️⃣3️⃣
+2️⃣3️⃣ Montarse en Skate
 
-2️⃣4️⃣
+2️⃣4️⃣ Fases de Stuntman Beta
 
 2️⃣5️⃣
 
