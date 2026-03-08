@@ -26,7 +26,7 @@
 
 ![gifbugcartelesjetpack](./GIFS4.0/Bugs/BugCartelesJetpack.gif)
 
-Explicacion :
+Explicacion : Usando jetpack no se ven bien los carteles 
 
 ❗2
 
