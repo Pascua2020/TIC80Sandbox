@@ -28,8 +28,11 @@
 
 Ubicacion:
 ◼️◼️◼️◼️
+
 ◼️◼️◼️◼️
+
 ◼️◼️◼️◼️
+
 ◼️◼️◼️◼️
 
 ![gifsbarrios-barriochetisimo](<./GIFS4.0/Barrios/Barrio Chetisimo.gif>)
