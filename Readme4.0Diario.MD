@@ -24,7 +24,7 @@
 
 ![gifdiario](./GIFS4.0/MenuPrincipal/Inicios/Inicio6.gif)
 
-📰**NOTICIA 1 -** ***Portada** 🖼️
+📰NOTICIA 1 -***Portada** 🖼️
 
 ![pngdiario01](./Screenshots4.0/Diario/Diario01.png)
 ![pngdiario02](./Screenshots4.0/Diario/Diario02.png)
