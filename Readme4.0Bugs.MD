@@ -56,7 +56,7 @@ Explicacion : No se puede cambiar de Jetpack a otro vehiculo.
 
 ![gifbuglimites](./GIFS4.0/Bugs/BugLimites.gif)
 
-Explicacion :
+Explicacion : Los muros invisibles de stuntman parecen funcionar hasta cierto punto pero se mueven graficos que no tienen nada que ver ( seguramente los del trafico de la ciudad ).
 
 ❗7
 
