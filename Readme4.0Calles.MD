@@ -73,6 +73,9 @@ Trafico en el mapa
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcallebubsnohud](./GIFS4.0/Calles(NOHUD)/Bubs.gif)
@@ -85,6 +88,9 @@ Trafico en el mapa
 🚸04-**Callate**
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
@@ -99,6 +105,9 @@ Trafico en el mapa
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcallecaosnohud](./GIFS4.0/Calles(NOHUD)/Caos.gif)
@@ -111,6 +120,9 @@ Trafico en el mapa
 🚸06-**Cepo**
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
@@ -125,6 +137,9 @@ Trafico en el mapa
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcallechadnohud](./GIFS4.0/Calles(NOHUD)/Chad.gif)
@@ -137,6 +152,9 @@ Trafico en el mapa
 🚸08-**Chechona**
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
@@ -151,6 +169,9 @@ Trafico en el mapa
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcallechocolatenohud](./GIFS4.0/Calles(NOHUD)/Chocolate.gif)
@@ -163,6 +184,9 @@ Trafico en el mapa
 🚸10-**Cocaina**
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
@@ -177,6 +201,9 @@ Trafico en el mapa
 
 ![pngcalleconspiracionnohud](./Screenshots4.0/Calles(NOHUD)/Conspiracion.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcalleconspiracionnohud](./GIFS4.0/Calles(NOHUD)/Conspiracion.gif)
@@ -189,6 +216,9 @@ Trafico en el mapa
 🚸12-**Corrupcion**
 
 ![pngcallecorrupcionnohud](./Screenshots4.0/Calles(NOHUD)/Corrupcion.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
@@ -203,6 +233,9 @@ Trafico en el mapa
 
 ![pngcalledarknohud](./Screenshots4.0/Calles(NOHUD)/Dark.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcalledarknohud](./GIFS4.0/Calles(NOHUD)/Dark.gif)
@@ -216,6 +249,9 @@ Trafico en el mapa
 
 ![pngcalledefaultnohud](./Screenshots4.0/Calles(NOHUD)/Default.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
+
 <details>
 
 ![gifcalledefaultnohud](./GIFS4.0/Calles(NOHUD)/Default.gif)
@@ -228,6 +264,9 @@ Trafico en el mapa
 🚸15-**Diablo**
 
 ![pngcallediablonohud](./Screenshots4.0/Calles(NOHUD)/Diablo.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+
 
 <details>
 
