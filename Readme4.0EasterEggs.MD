@@ -487,9 +487,8 @@ https://en.wikipedia.org/wiki/Argentine_tango
 🥚**75 Tango🇦🇷**
 
 ![pngEasterEggTango2](./Screenshots4.0/EasterEggs/EasterEggTango2.png)
-![pngEasterEggWikipedia1](./Screenshots4.0/EasterEggs/EasterEggWikipedia1.png)
 
-https://en.wikipedia.org/wiki/Wikipedia
+https://en.wikipedia.org/wiki/Argentine_tango
 
 🥚**76 Wikipedia🖱️**
 
