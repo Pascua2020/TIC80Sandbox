@@ -68,7 +68,7 @@ Explicacion : El checkpoint para finalizar la Fase 9 no parece funcionar.
 
 ![gifbugstuntmangameover](./GIFS4.0/Bugs/BugStuntmanGameOver.gif)
 
-Explicacion :
+Explicacion : El GameOver de Stuntman no parece identificar el numero de fase ( y por lo tanto no muestra un mensaje de GameOver especifico ).
 
 ❗9
 
