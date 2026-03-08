@@ -41,9 +41,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣8️⃣ Votar candidatos a Presidente 👥.
 
-1️⃣9️⃣
+1️⃣9️⃣ Armas Beta ( incluyendo la Eliminada Francotirador )
 
-2️⃣0️⃣
+2️⃣0️⃣ DiosGPT Beta
 
 </details>
 
