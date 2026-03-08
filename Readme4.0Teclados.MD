@@ -1,5 +1,26 @@
 # Readme4.0Teclados
 
+<details>
+
+1️⃣ 
+
+2️⃣ 
+
+3️⃣ 
+
+4️⃣ 
+
+5️⃣ 
+
+6️⃣ 
+
+7️⃣ 
+
+8️⃣ 
+
+</details>
+
+
 ⌨️Teclado PC
 
 ![gifteclado](./GIFS4.0/Teclados/TecladoPC.gif)
