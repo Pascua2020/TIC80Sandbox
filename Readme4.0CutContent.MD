@@ -63,7 +63,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 2️⃣9️⃣ Teclados Beta
 
-3️⃣0️⃣
+3️⃣0️⃣ Coordenadas Tactil
+
+3️⃣1️⃣ Graficos sin usar
 
 </details>
 
