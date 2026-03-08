@@ -22,7 +22,11 @@
 
 9️⃣ Semaforos🚦 ( aunque no afectan al trafico ).
 
-1️⃣0️⃣
+1️⃣0️⃣ Tren con animacion de humo,que se mueve entre las vias.
+
+1️⃣1️⃣ Cajas que al interactuar con ellas dan una recompensa.
+
+1️⃣2️⃣
 
 </details>
 
