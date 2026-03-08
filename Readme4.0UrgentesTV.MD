@@ -27,7 +27,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 
 
-🔊**Urgente 1**
+**🔊Urgente 1**
 
 16 Dialogos.
 
@@ -67,7 +67,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 ![gif#urgente1-5](<./GIFS4.0/Urgentes/Hashtags/1-5.gif>)
 ![gif#urgente1-6](<./GIFS4.0/Urgentes/Hashtags/1-6.gif>)
 </details>
-🔊Urgente 2
+**🔊Urgente 2**
 
 17 Dialogos.
 
@@ -97,7 +97,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 2:
+***#️⃣#Hashtags Urgente 2:***
 
 ![gif#urgente2-1](./GIFS4.0/Urgentes/Hashtags/2-1.gif)
 
@@ -111,7 +111,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-🔊Urgente 3
+**🔊Urgente 3**
 
 17 Dialogos.
 
@@ -141,11 +141,11 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 3:
+***#️⃣#Hashtags Urgente 3:***
 
 ![gif#urgente3](./GIFS4.0/Urgentes/Hashtags/3.gif)
 
-🔊Urgente 4
+**🔊Urgente 4**
 
 17 Dialogos.
 
@@ -174,11 +174,11 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 4:
+***#️⃣#Hashtags Urgente 4:***
 
 ![gif#urgente4](./GIFS4.0/Urgentes/Hashtags/4.gif)
 
-🔊Urgente 5
+**🔊Urgente 5**
 
 19 Dialogos.
 
@@ -209,11 +209,11 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 5:
+***#️⃣#Hashtags Urgente 5:***
 
 ![gif#urgente5](./GIFS4.0/Urgentes/Hashtags/5.gif)
 
-🔊Urgente 6
+**🔊Urgente 6**
 
 17 Dialogos.
 
@@ -243,11 +243,11 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 6:
+***#️⃣#Hashtags Urgente 6:***
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/6.gif)
 
-🔊Urgente 7
+**🔊Urgente 7**
 
 16 Dialogos.
 
@@ -275,7 +275,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 </details>
 
-#️⃣#Hashtags Urgente 7:
+***#️⃣#Hashtags Urgente 7:***
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/7.gif)
 
