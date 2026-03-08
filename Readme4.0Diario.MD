@@ -3,7 +3,7 @@
 🎮👾🚔***Caracteristicas:***
 <details>
 
-1️⃣ 
+1️⃣ Diario con 5 noticias que funciona con un efecto de scroll.
 
 2️⃣ 
 
