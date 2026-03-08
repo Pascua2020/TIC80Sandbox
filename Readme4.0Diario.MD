@@ -22,7 +22,7 @@
 </details>
 
 
-![gifdiario](./Screenshots4.0/Diario/Diario.gif)
+![gifdiario](./Screenshots4.0/MenuPrincipal/Inicios/Inicio6.gif)
 
 📰NOTICIA 1 - Portada
 
