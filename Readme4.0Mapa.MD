@@ -39,6 +39,8 @@
 
 🏞️Fondo
 
+<details>
+
 🛫Avion 1 ( Mar RAM Norte )
 
 ![gifanimacionavion1](./GIFS4.0/Mapa/Animaciones/MensajeAvion1.gif)
@@ -157,6 +159,8 @@
 ![pnganimaciontren](./Screenshots4.0/Mapa/Animaciones/Tren-1.png)
 
 ![pnganimaciontren2](./Screenshots4.0/Mapa/Animaciones/Tren-2.png)
+
+</details>
 
 </details>
 
