@@ -80,7 +80,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 ![pngurgente2-03](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-03.png>)
 ![pngurgente2-04](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-04.png>)
 ![pngurgente2-05](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-05.png>)
-![pngurgente2-06](<./Screenshots4.0/Urgentes/Urgentev2/UrgenteTV2-06.png>)
+![pngurgente2-06](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-06.png>)
 ![pngurgente2-07](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-07.png>)
 ![pngurgente2-08](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-08.png>)
 ![pngurgente2-09](<./Screenshots4.0/Urgentes/Urgente 2/UrgenteTV2-09.png>)
