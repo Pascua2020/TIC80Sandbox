@@ -124,3 +124,8 @@ Los 27 Vehiculos.
 🌟-Versiones ![README4.0-Versiones ](./Readme4.0Versiones.MD)
 
 Sprites del Juego :
+
+![sprites1](./Screenshots4.0/TodosLosSprites1.png)
+![sprites2](./Screenshots4.0/TodosLosSprites2.png)
+
+
