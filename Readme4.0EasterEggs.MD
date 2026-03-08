@@ -11,7 +11,7 @@
 
 4️⃣ Referencias a Conflictos Belicos 🇮🇱🇮🇷🇰🇵🇸🇩
 
-5️⃣ 
+5️⃣ Referencias a Tecnologia e Internet🇺🇸🇨🇳
 
 6️⃣ 
 
