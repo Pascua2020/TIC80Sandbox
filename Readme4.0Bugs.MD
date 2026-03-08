@@ -62,7 +62,7 @@ Explicacion : Los muros invisibles de stuntman parecen funcionar hasta cierto pu
 
 ![gifbugstuntmanfase9](./GIFS4.0/Bugs/BugStuntmanFase9.gif)
 
-Explicacion :
+Explicacion : El checkpoint para finalizar la Fase 9 no parece funcionar.
 
 ❗8
 
