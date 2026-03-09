@@ -47,6 +47,8 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 1️⃣1️⃣ El boton para subirse al vehiculo ( B ) es el mismo que el que se usa para atacar con un arma,por lo que cada vez que se entra a un vehiculo tambien se ataca con un arma.
 
+1️⃣2️⃣ Todos los vehiculos poseen la misma velocidad 😅⏱️
+
 </details>
 
 🚐1
