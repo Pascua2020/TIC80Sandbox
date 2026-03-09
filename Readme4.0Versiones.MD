@@ -50,6 +50,8 @@ Se mejora la interfaz.
 
 1️⃣7️⃣ V3.5 :
 
+Se realinea un poco mas la interfaz actual.
+
 1️⃣8️⃣ V3.6 :
 
 1️⃣9️⃣ V3.7 :
