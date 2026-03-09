@@ -242,7 +242,7 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 
 </details>
 
-⚠️-Interfaz
+**⚠️Interfaz**
 
 ![gifinterfaz1](<./GIFS4.0/CutContent/Interfaz/Interfaz ( interfazv2.2 ) 22-1-2025.gif>)
 
@@ -256,7 +256,7 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 
 </details>
 
-⚠️-Internet
+**⚠️Internet**
 
 ![gifinternet1](<./GIFS4.0/CutContent/Internet/Internet ( internet ) 22-1-2025.gif>)
 
@@ -269,13 +269,13 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 
 </details>
 
-⚠️-Menu de Pausa
+**⚠️Menu de Pausa**
 
 ![gifmenupausa](<./GIFS4.0/CutContent/MenuPausa/MenuPausa ( menupausa3 ) 4-3-2025.gif>)
 
 ![pngcutcontentMenuPausa](./Screenshots4.0/CutContent/MenuPausa.png)
 
-⚠️-Nafta
+**⚠️Nafta**
 
 ![gifnafta1](<./GIFS4.0/CutContent/Nafta/Nafta ( nafta2 ) 22-1-2025.gif>)
 
@@ -292,7 +292,7 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 </details>
 
-⚠️-RC
+**⚠️RC**
 
 ![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
 
@@ -313,7 +313,7 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 </details>
 
-⚠️-Trompos
+**⚠️Trompos**
 
 ![giftrompos1](<./GIFS4.0/CutContent/Trompos/Trompos ( trompo6 ) 20-1-2025.gif>)
 
@@ -329,7 +329,7 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 </details>
 
-⚠️-Piedra Papel o MotoSierra
+**⚠️Piedra Papel o MotoSierra**
 
 ![gifpiedrapapelmotosierra](<./GIFS4.0/CutContent/piedraPapelOMotosierra ( piedra ) 4-3-2025.gif>)
 
@@ -340,38 +340,38 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 </details>
 
-⚠️-Medidor de Ansiedad y Estres
+**⚠️Medidor de Ansiedad y Estres**
 
 ![gifansiedad](<./GIFS4.0/CutContent/Ansiedadyestres ( ansiedad ) 4-3-2025.gif>)
 
 ![pngcutcontentAnsiedadYEstres](./Screenshots4.0/CutContent/AnsiedadYEstres.png)
 
-⚠️-Boton
+**⚠️Boton**
 
 ![gifboton](<./GIFS4.0/CutContent/Boton ( boton ) 4-3-2025.gif>)
 
 ![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)
 ![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)
 
-⚠️-Dibujar
+**⚠️Dibujar**
 
 ![gifdibujar](<./GIFS4.0/CutContent/Dibujar ( dibujar3 ) 20-1-2025.gif>)
 
 ![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)
 
-⚠️-Hora
+**⚠️Hora**
 
 ![gifhora](<./GIFS4.0/CutContent/Hora ( hora ) 4-3-2025.gif>)
 
 ![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)
 
-⚠️-TV
+**⚠️TV**
 
 ![giftv](<./GIFS4.0/CutContent/TV ( tele ) 4-3-2025.gif>)
 
 ![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)
 
-⚠️-Velocidad
+**⚠️Velocidad**
 
 ![gifvelocidad](<./GIFS4.0/CutContent/VelocidadVehiculo ( vel2 ) 4-3-2025.gif>)
 
@@ -379,7 +379,7 @@ Los vehiculos en el juego final no poseen velocidades diferentes ( serian como "
 
 ![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
 
-⚠️-Votar
+**⚠️Votar**
 
 ![gifvotar](<./GIFS4.0/CutContent/Votar ( votar ) 4-3-2025.gif>)
 
