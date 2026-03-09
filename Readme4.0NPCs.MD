@@ -12,7 +12,7 @@
 
 4️⃣ Dialogos muy bizarros y con referencias culturales🏴󠁧󠁢󠁷󠁬󠁳󠁿🇨🇭.
 
-5️⃣
+5️⃣ Todos los personajes del juego ( incluido el jugador ) no poseen brazos ni piernas,para facilitar la jugabilidad ( aunque genera un efecto un poco extraño ya que hay vehiculos que parecen ser mas pequeños que la cabeza del jugador ).
 
 6️⃣
 
