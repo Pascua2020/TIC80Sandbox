@@ -435,7 +435,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 17**
+**🎧Radio 17 : Naturaleza Insolita**
 
 Dialogos🔉.
 
@@ -461,7 +461,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 18**
+**🎧Radio 18 : Pesimista**
 
 Dialogos🔉.
 
