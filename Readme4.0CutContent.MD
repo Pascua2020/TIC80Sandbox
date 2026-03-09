@@ -219,6 +219,8 @@ La pista de Zurich,Suiza esta en el mapa final.
 
 La idea era que el juego final tuviera un minimapa general pero por las limitaciones de TIC80 era muy disfuncional intentar implementarlo ( como se ve en el .gif ).
 
+<details>
+
 ![pngcutcontentGT1A](./Screenshots4.0/CutContent/GT+MiniMapa/GT1A.png)
 ![pngcutcontentGT1B](./Screenshots4.0/CutContent/GT+MiniMapa/GT1B.png)
 ![pngcutcontentGT2](./Screenshots4.0/CutContent/GT+MiniMapa/GT2.png)
@@ -229,6 +231,8 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 ![pngcutcontentGT5A](./Screenshots4.0/CutContent/GT+MiniMapa/GT5A.png)
 ![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT+MiniMapa/GT5B.png)
 ![pngcutcontentGT6](./Screenshots4.0/CutContent/GT+MiniMapa/GT6.png)
+
+</details>
 
 <details>
 
