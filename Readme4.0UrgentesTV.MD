@@ -27,7 +27,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 
 
-**🔊Urgente 1 : Hombre se inmola la salchicha**
+**🔊Urgente 1 : Llueven cosas raras...**
 
 16 Dialogos💬.
 
@@ -68,7 +68,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 ![gif#urgente1-6](<./GIFS4.0/Urgentes/Hashtags/1-6.gif>)
 </details>
 
-**🔊Urgente 2**
+**🔊Urgente 2 : Hombre se inmola la salchicha**
 
 17 Dialogos💬.
 
