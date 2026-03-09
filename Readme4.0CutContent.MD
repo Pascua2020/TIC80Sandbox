@@ -126,28 +126,30 @@ Simula un chat de mensajeria de celular.
 
 ![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
 
+<details>
+
 En el juego final el jugador puede activar climas pero la idea tambien era que cada vez que se iniciara el juego se activaran climas aleatoriamente pero hubo errores en su implementacion.
 
-<details>
+
 ![gifbetaclimas2](<./GIFS4.0/CutContent/Climas/Climas ( todosclima6 ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 </details>
 
-**🌈--Arcoiris**
+***🌈--Arcoiris***
 
 ![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
-**☁️--Niebla**
+***☁️--Niebla***
 
 ![gifniebla](<./GIFS4.0/CutContent/Climas/Niebla ( niebla ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
-**🌋--Terremoto**
+***🌋--Terremoto***
 
 ![gifterremoto1](<./GIFS4.0/CutContent/Climas/Terremoto  terremoto 22-1-2025.gif>)
 
