@@ -146,7 +146,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente3](./GIFS4.0/Urgentes/Hashtags/3.gif)
 
-**🔊Urgente 4**
+**🔊Urgente 4 : Guerra Corea del Norte-Israel🇰🇵🇮🇱**
 
 17 Dialogos💬.
 
