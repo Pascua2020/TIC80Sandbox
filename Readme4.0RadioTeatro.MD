@@ -22,7 +22,7 @@
 
 </details>
 
-🎭**Obra de RadioTeatro 1**
+🎭**Obra de RadioTeatro 1 - El Presidente en las Sombras : Ronroneo Sombrio😸**
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
 
