@@ -235,6 +235,7 @@
 21 Dialogos.
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
+
 <details>
 ![pngraadio09-01](./Screenshots4.0/Radios/Radio09/R09-01.png)
 ![pngraadio09-02](./Screenshots4.0/Radios/Radio09/R09-02.png)
