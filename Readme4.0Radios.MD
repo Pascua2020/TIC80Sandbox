@@ -496,7 +496,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 19**
+**🎧Radio 19 : Poesia Pixelar**
 
 Dialogos🔉.
 
@@ -522,7 +522,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 20**
+**🎧Radio 20 : Terror**
 
 Dialogos🔉.
 
