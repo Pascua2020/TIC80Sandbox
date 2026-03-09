@@ -169,7 +169,7 @@ Un Gato Siames😸.
 ![gifmardibujo16](./GIFS4.0/Mar/DibujoMar16.gif)
 ![pngmardibujo16](./Screenshots4.0/Mar/DibujoMar16.png)
 
-"Sali de Aca".
+"Sali de Aca😡".
 
 🌊Dibujo Mar 17
 
