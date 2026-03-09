@@ -446,7 +446,7 @@ Trafico en el mapa
 
 ![pngcallekhenohud](./Screenshots4.0/Calles(NOHUD)/Khe.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:224 X2:224 Y1:62 Y2:66 Orientacion :Vertical***
 
 
 <details>
@@ -462,7 +462,7 @@ Trafico en el mapa
 
 ![pngcallekinganohud](./Screenshots4.0/Calles(NOHUD)/Kinga.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:18 X2:43 Y1:7 Y2:7 Orientacion :Horizontal***
 
 
 <details>
@@ -478,7 +478,7 @@ Trafico en el mapa
 
 ![pngcallekonganohud](./Screenshots4.0/Calles(NOHUD)/Konga.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:43 X2:69 Y1:4 Y2:4 Orientacion :Horizontal***
 
 
 <details>
@@ -494,7 +494,7 @@ Trafico en el mapa
 
 ![pngcallekwyijbonohud](./Screenshots4.0/Calles(NOHUD)/Kwyjibo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:230 X2:230 Y1:4 Y2:14 Orientacion :Vertical***
 
 
 <details>
@@ -510,7 +510,7 @@ Trafico en el mapa
 
 ![pngcallelaberintonohud](./Screenshots4.0/Calles(NOHUD)/Laberinto.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:68 X2:84 Y1:12 Y2:13 Orientacion :Horizontal***
 
 
 <details>
