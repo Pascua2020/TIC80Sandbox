@@ -121,7 +121,7 @@ Trafico en el mapa
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:30 X2:32 Y1:47 Y2:59 Orientacion : Vertical***
 
 
 <details>
@@ -137,7 +137,7 @@ Trafico en el mapa
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:229 X2:237 Y1:58 Y2:58 Orientacion : Horizontal***
 
 
 <details>
@@ -153,7 +153,9 @@ Trafico en el mapa
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:221 X2:239 Y1:4 Y2:5 Orientacion : Horizontal***
+***Coordenadas🚏 X1:0 X2:17 Y1:4 Y2:5 Orientacion : Horizontal***
+
 
 
 <details>
