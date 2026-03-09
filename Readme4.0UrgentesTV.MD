@@ -183,7 +183,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 19 Dialogos💬.
 
---![gifurgente5](./GIFS4.0/Urgentes/Urgente5.gif)
+--![gifurgente5](./GIFS4.0/Urgentes/Urgente.gif)
 
 <details>
 
