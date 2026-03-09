@@ -557,7 +557,7 @@ Dialogos🔉.
 ![pngraadio20-23](./Screenshots4.0/CutContent/Radios/20/R20-23.png)
 </details>
 
-**🎧Radio 21**
+**🎧Radio 21 : Lenguaje de la Vida**
 
 Dialogos🔉.
 
@@ -580,7 +580,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 22**
+**🎧Radio 22 : Comerciales Gamers**
 
 Dialogos🔉.
 
