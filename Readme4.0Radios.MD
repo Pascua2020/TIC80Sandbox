@@ -14,7 +14,7 @@
 
 5️⃣ El nombre de la radio actual aparece en el HUD una vez que se activa.
 
-6️⃣
+6️⃣ Hay algunos problemas de visualizacion en la Radio 10 y en los nombres de algunas radios ( chocan con el HUD ).
 
 7️⃣
 
