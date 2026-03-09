@@ -9,7 +9,7 @@
 
 2️⃣ El Clima☔ no tapa lo que dicen los Carteles.
 
-3️⃣ Los Carteles Interactivos activan alguna mecanica visual ( patear pelota o mandar algun elemento a que se mueva - avion de papel - pero no afectan la jugabilidad.
+3️⃣ Los Carteles Interactivos activan alguna mecanica visual ( patear pelota o mandar algun elemento a que se mueva - avion de papel - ) pero no afectan la jugabilidad.
 
 4️⃣
 
