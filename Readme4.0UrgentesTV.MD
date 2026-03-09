@@ -27,7 +27,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 
 
-**🔊Urgente 1**
+**🔊Urgente 1 : Hombre se inmola la salchicha**
 
 16 Dialogos💬.
 
