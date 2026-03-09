@@ -26,6 +26,8 @@ Ya se puede subir a vehiculos.
 
 7️⃣ V2.5 :
 
+Hay menos opciones en el menu principal para priorizar optimizacion.
+
 8️⃣ V2.6 :
 
 9️⃣ V2.7 :
