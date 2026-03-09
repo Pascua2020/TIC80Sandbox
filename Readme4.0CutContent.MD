@@ -103,7 +103,7 @@ Simula un chat de mensajeria de celular.
 ![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat/Chat3B.png)
 ![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat/Chat3C.png)
 </details>
-⚠️-Ciclo Dia Noche
+**⚠️-Ciclo Dia Noche**
 
 ![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
 
@@ -120,7 +120,7 @@ Simula un chat de mensajeria de celular.
 ![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2A.png)
 ![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2B.png)
 </details>
-⚠️-Climas
+**⚠️-Climas**
 
 ![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
 
@@ -132,19 +132,19 @@ En el juego final el jugador puede activar climas pero la idea tambien era que c
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 </details>
-🌈--Arcoiris
+**🌈--Arcoiris**
 
 ![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
-☁️--Niebla
+**☁️--Niebla**
 
 ![gifniebla](<./GIFS4.0/CutContent/Climas/Niebla ( niebla ) 4-3-2025.gif>)
 
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
-🌋--Terremoto
+**🌋--Terremoto**
 
 ![gifterremoto1](<./GIFS4.0/CutContent/Climas/Terremoto  terremoto 22-1-2025.gif>)
 
@@ -153,7 +153,7 @@ En el juego final el jugador puede activar climas pero la idea tambien era que c
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 
-⚠️-Tomar Colectivo
+**⚠️-Tomar Colectivo**
 
 ![giftomarcolectivo1](<./GIFS4.0/CutContent/Colectivo/Colectivo ( suba9 ) 22-1-2025.gif>)
 
@@ -171,7 +171,7 @@ En el juego final el jugador puede conducir colectivos y hay paradas,pero no pue
 ![pngcutcontentTomarColectivo2B](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2B.png)
 ![pngcutcontentTomarColectivo2C](./Screenshots4.0/CutContent/Colectivo/TomarColectivo2C.png)
 </details>
-⚠️-Modo GT + MiniMapa
+**⚠️-Modo GT + MiniMapa**
 
 ![gifgt+minimapa1](<./GIFS4.0/CutContent/GT+MiniMapa/GT+MiniMapa ( minimapa5 ) 22-1-2025.gif>)
 
@@ -209,7 +209,7 @@ La pista de Zurich,Suiza esta en el mapa final.
 
 ![gifgt+minimapa-GT7](./GIFS4.0/CutContent/GT+MiniMapa/GT7.gif)
 
-🗺️Minimapa
+**🗺️Minimapa**
 
 ![gifgt+minimapa-simple](./GIFS4.0/CutContent/GT+MiniMapa/Minimapa.gif)
 
