@@ -29,6 +29,7 @@
 26 Dialogos.
 
 ***Actores:***
+***Narrador ( Explotado Clandestinamente 😱💸⛏️ )***
 ***-Gatito 😸( Presidente de la Nacion Argentina🇦🇷 - en las Sombras - )***
 
 <details>
