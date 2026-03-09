@@ -920,6 +920,9 @@ Trafico en el mapa
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleseineldinnohud](./GIFS4.0/Calles(NOHUD)/Seineldin.gif)
@@ -932,6 +935,9 @@ Trafico en el mapa
 🚸57-**Siga siga**
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -946,6 +952,9 @@ Trafico en el mapa
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalletrisexualnohud](./GIFS4.0/Calles(NOHUD)/Trisexual.gif)
@@ -958,6 +967,9 @@ Trafico en el mapa
 🚸59-**Turbina**
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -972,6 +984,9 @@ Trafico en el mapa
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleturronohud](./GIFS4.0/Calles(NOHUD)/Turro.gif)
@@ -984,6 +999,9 @@ Trafico en el mapa
 🚸61-**Tuti fruti**
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -998,6 +1016,9 @@ Trafico en el mapa
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleviagranohud](./GIFS4.0/Calles(NOHUD)/Viagra.gif)
@@ -1010,6 +1031,9 @@ Trafico en el mapa
 🚸63-**Wauf**
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -1024,6 +1048,9 @@ Trafico en el mapa
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleyupinohud](./GIFS4.0/Calles(NOHUD)/Yupi.gif)
@@ -1036,6 +1063,9 @@ Trafico en el mapa
 🚸65-**Zig Zag**
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
