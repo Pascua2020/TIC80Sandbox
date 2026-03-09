@@ -10,6 +10,7 @@
 
 2️⃣ Sistema de Combos y Game Over.
 Al hacer un combo el juego tira una frase.
+Si hay un GameOver,pulsando un boton se repite el juego ( al contrario que el Minijuego de Pinball ).
 
 3️⃣ Bailarines 🕺en el escenario,y estos dicen frases cada X tiempo.
 Ademas de unos puntos en el fondo que simulan ser estrellas.🎇
