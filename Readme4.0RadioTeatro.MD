@@ -74,9 +74,13 @@
 ***Actores:***
 
 ***-Narrador Gigolo🤑🔥🍒🌶️***
+
 ***-Sid Christopher Stacchotta😎***
+
 ***-Beatriz👗***
+
 ***-Agente Gatito😺***
+
 ***-Saturnianos Malvados👽🪐😡***
 
 <details>
