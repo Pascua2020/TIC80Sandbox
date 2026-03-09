@@ -34,7 +34,7 @@
 
 **📻Radio 01 : Todo Vardo**
 
-25 Dialogos.
+25 Dialogos🔉.
 
 ![gifsradio01](./GIFS4.0/Radios/Radio01.gif)
 
@@ -72,7 +72,7 @@
 
 **📻Radio 02 : Bajones**
 
-19 Dialogos.
+19 Dialogos🔉.
 
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
@@ -103,7 +103,7 @@
 
 **📻Radio 03 : Poesia de la Calle**
 
-12 Dialogos.
+12 Dialogos🔉.
 
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
 
@@ -126,7 +126,7 @@
 
 **📻Radio 04 : Gobierno de Argentina**
 
-13 Dialogos.
+13 Dialogos🔉.
 
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
 <details>
@@ -148,7 +148,7 @@
 
 **📻Radio 05 : Solos y Solas**
 
-12 Dialogos.
+12 Dialogos🔉.
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
 <details>
@@ -169,7 +169,7 @@
 
 **📻Radio 06 : Desgracias Economicas**
 
-10 Dialogos.
+10 Dialogos🔉.
 
 ![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
 <details>
@@ -187,7 +187,7 @@
 
 **📻Radio 07 : Joyas de la Historia Argentina**
 
-11 Dialogos
+11 Dialogos🔉.
 
 ![gifsradio07](./GIFS4.0/Radios/Radio07.gif)
 
@@ -209,7 +209,7 @@
 
 **📻Radio 08**
 
-14 Dialogos.
+14 Dialogos🔉.
 
 ![gifsradio08](./GIFS4.0/Radios/Radio08.gif)
 <details>
@@ -232,7 +232,7 @@
 
 **📻Radio 09**
 
-21 Dialogos.
+21 Dialogos🔉.
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
 
@@ -264,7 +264,7 @@
 
 **📻Radio 10**
 
-19 Dialogos.
+19 Dialogos🔉.
 
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
 <details>
@@ -292,7 +292,7 @@
 
 **📻Radio 11**
 
-11 Dialogos.
+11 Dialogos🔉.
 
 ![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
 <details>
@@ -312,7 +312,7 @@
 
 **📻Radio 12**
 
-10 Dialogos.
+10 Dialogos🔉.
 
 ![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
 <details>
