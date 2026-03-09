@@ -197,7 +197,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 🚗18
 
-**RC ( Coche a Control Remoto )**
+**RC ( Coche a Control Remoto )**🟥🟨🟩🟦
 
 ![pngvehiculorc](./Screenshots4.0/Vehiculos/RC-A.png)
 ![pngvehiculoRCpreview](./Screenshots4.0/Vehiculos/Preview/RC-B-HUD.png)
@@ -229,7 +229,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 🚐22
 
-**Tochota Fulero**
+**Tochota Fulero**🟥🟨🟩🟦
 
 ![pngvehiculotochotafulero](./Screenshots4.0/Vehiculos/TochotaFuleroA.png)
 ![pngvehiculoTochotaFuleropreview](./Screenshots4.0/Vehiculos/Preview/TochotaFuleroA-HUD.png)
@@ -253,7 +253,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 🚙25
 
-**ZhoZho Bilinkis**
+**ZhoZho Bilinkis**🟥🟨🟩🟦
 
 ![pngvehiculozhozhobilinkis](./Screenshots4.0/Vehiculos/ZhoZhoBilinkisB.png)
 ![pngvehiculoZhozhoBilinkispreview](./Screenshots4.0/Vehiculos/Preview/ZhoZhoBilinkisA-HUD.png)
@@ -261,7 +261,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 🚐26
 
-**ZhoZho EgoEgo**
+**ZhoZho EgoEgo**🟥🟨🟩🟦
 
 ![pngvehiculozhozhoegoego](./Screenshots4.0/Vehiculos/ZhoZhoEgoEgoB.png)
 ![pngvehiculoZhozhoEgoegopreview](./Screenshots4.0/Vehiculos/Preview/ZhoZhoEgoEgoA-HUD.png)
@@ -269,7 +269,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 🚙27
 
-**ZhoZho Jade**
+**ZhoZho Jade**🟥🟨🟩🟦
 
 ![pngvehiculozhozhojade](./Screenshots4.0/Vehiculos/ZhoZhoJadeA.png)
 ![pngvehiculoZhozhoJadepreview](./Screenshots4.0/Vehiculos/Preview/ZhoZhoJadeA-HUD.png)
