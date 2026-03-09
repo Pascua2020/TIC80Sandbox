@@ -45,6 +45,8 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 1️⃣0️⃣ Algunos vehiculos dicen A,B,C o D en su nombre ya que tienen mas de un color 🟥🟨🟩🟦.
 
+1️⃣1️⃣ El boton para subirse al vehiculo ( B ) es el mismo que el que se usa para atacar con un arma,por lo que cada vez que se entra a un vehiculo tambien se ataca con un arma.
+
 </details>
 
 🚐1
