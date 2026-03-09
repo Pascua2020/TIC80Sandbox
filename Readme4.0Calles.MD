@@ -430,7 +430,7 @@ Trafico en el mapa
 
 ![pngcallekamasutranohud](./Screenshots4.0/Calles(NOHUD)/Kamasutra.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:233 X2:233 Y1:55 Y2:58 Orientacion :Vertical***
 
 
 <details>
