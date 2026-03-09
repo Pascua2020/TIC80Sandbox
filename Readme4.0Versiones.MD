@@ -5,11 +5,12 @@
 
 1️⃣ V0 / Pre-V1 :
 
-
+Creacion de 50 prototipos distintos.
+Luego se creo un sprite general y un mapa general y estos fueron agregados a esos prototipos.
 
 2️⃣ V1 :
 
-
+Se unifican la mayoria de esos 50 prototipos en un unico .tic ( .lua ).
 
 3️⃣ V2.1 : 
 
