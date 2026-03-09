@@ -487,14 +487,22 @@ TODAS
 **📱DiosGPT**
 
 ![gifbetadiosgpt1](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( diosgpt7 ) 4-3-2025.gif>)
+
+<details>
+
 ![gifbetadiosgpt2](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( gptv2.10 ) 20-1-2025.gif>)
+
+</details>
 
 **🪂Jetpack**
 
 ![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
 
+<details>
 
 ![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
+
+</details>
 
 **🀄Nerdpedia**
 
@@ -505,15 +513,24 @@ TODAS
 ***🎴V2***
 
 ![gifnerdpediav2A](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( crimenYPixel ) 7-4-2025.gif>)
+
+<details>
+
 ![gifnerdpediav2B](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( w2.10 ) 12-2-2025.gif>)
+
+</details>
 
 **🛹Skate**
 
 ![gifbetaskateA](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 20-1-2025.gif>)
 
+<details>
+
 En el juego final se pueden usar skates y hay caños en el mapa,pero no se pueden "montar".
 
 ![gifbetaskateB](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 4-3-2025.gif>)
+
+</details>
 
 **🎬STUNTMAN**
 
