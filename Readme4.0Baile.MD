@@ -76,6 +76,7 @@ Ademas de unos puntos en el fondo que simulan ser estrellas.🎇
 </details>
 
 🪩**Frases Cancion**
+***Artista : DiosGPT - 'Romance IA🤖-Marciano👽'***
 
 ![gifsletrascancion](./GIFS4.0/Baile/LetrasCancion.gif)
 
