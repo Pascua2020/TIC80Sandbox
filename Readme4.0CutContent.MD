@@ -361,33 +361,53 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 ![gifdibujar](<./GIFS4.0/CutContent/Dibujar ( dibujar3 ) 20-1-2025.gif>)
 
+<details>
+
 ![pngcutcontentDiario](./Screenshots4.0/CutContent/Diario.png)
+
+</details>
 
 **⚠️Hora**
 
 ![gifhora](<./GIFS4.0/CutContent/Hora ( hora ) 4-3-2025.gif>)
 
+<details>
+
 ![pngcutcontentHora](./Screenshots4.0/CutContent/Hora.png)
+
+</details>
 
 **⚠️TV**
 
 ![giftv](<./GIFS4.0/CutContent/TV ( tele ) 4-3-2025.gif>)
 
+<details>
+
 ![pngcutcontentTV](./Screenshots4.0/CutContent/TV.png)
+
+</details>
 
 **⚠️Velocidad**
 
 ![gifvelocidad](<./GIFS4.0/CutContent/VelocidadVehiculo ( vel2 ) 4-3-2025.gif>)
 
+<details>
+
 Los vehiculos en el juego final no poseen velocidades diferentes ( serian como "skins" del jugador ).
 
 ![pngcutcontentVelocidad](./Screenshots4.0/CutContent/Velocidad.png)
+
+</details>
 
 **⚠️Votar**
 
 ![gifvotar](<./GIFS4.0/CutContent/Votar ( votar ) 4-3-2025.gif>)
 
+<details>
+
 ![pngcutcontentVotar](./Screenshots4.0/CutContent/Votar.png)
+
+</details>
 
 💾BETA
 
