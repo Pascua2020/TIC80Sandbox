@@ -602,19 +602,19 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 
 ![gifbetadiario](<./GIFS4.0/CutContent/Diario ( diario4 ) 20-1-2025.gif>)
 
-🌐PINBALL
+**🌐PINBALL**
 
 ![gifbetapinball](<./GIFS4.0/CutContent/Pinball ( pinballv6.4 ) 20-1-2025.gif>)
 
 ![pngcutcontentPinball](./Screenshots4.0/CutContent/Pinball.png)
 
-⌨️TECLADO PC
+**⌨️TECLADO PC**
 
 ![gifbetatecladopc](<./GIFS4.0/CutContent/TecladoPC ( teclado ) 22-1-2025.gif>)
 
 ![pngcutcontentTecladoPC](./Screenshots4.0/CutContent/TecladoPC.png)
 
-📱TECLADO NUMERICO
+**📱TECLADO NUMERICO**
 
 ![gifbetatecladonum](<./GIFS4.0/CutContent/TecladoNum ( pass2 ) 22-1-2025.gif>)
 
@@ -622,38 +622,38 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 ![pngcutcontentTecladoNum2](./Screenshots4.0/CutContent/TecladoNum2.png)
 ![pngcutcontentTecladoNum3](./Screenshots4.0/CutContent/TecladoNum3.png)
 
-💾COORDENADAS
+**💾COORDENADAS**
 
 ![gifcoordenadas](<./GIFS4.0/CutContent/Coordenadas ( coor4 ) 1-2-2025.gif>)
 
 ![pngcutcontentCoordenadas](./Screenshots4.0/CutContent/Coordenadas.png)
 
-⛔GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )
+**⛔GRAFICOS SIN USAR ( PERO QUE ESTAN DENTRO DEL ARCHIVO DE SPRITES DEL JUEGO )**
 
-🐎Caballo
+***🐎Caballo***
 
 ![pngcutcontentGraficosSinUsarCaballo](./Screenshots4.0/CutContent/GraficoSinUsarCaballo.png)
 
-🚙Coche
+***🚙Coche***
 
 ![pngcutcontentGraficosSinUsarCoche](./Screenshots4.0/CutContent/GraficoSinUsarCoche.png)
 
-🛸OVNI
+***🛸OVNI***
 
 ![pngcutcontentGraficosSinUsarOVNI](./Screenshots4.0/CutContent/GraficoSinUsarOVNI.png)
 
-✈️Jet de Combate Alternativo
+***✈️Jet de Combate Alternativo***
 
 ![pngcutcontentGraficosSinUsarJetDeCombateB](./Screenshots4.0/CutContent/GraficoSinUsarJetDeCombateB.png)
 
-🚦Cabina de Peaje
+***🚦Cabina de Peaje***
 
 ![pngcutcontentGraficosSinUsarPeaje](./Screenshots4.0/CutContent/GraficoSinUsarPeaje.png)
 
-🛤️Escalera
+***🛤️Escalera***
 
 ![pngcutcontentGraficosSinUsarEscalera](./Screenshots4.0/CutContent/GraficoSinUsarEscalera.png)
 
-🦈Tiburon
+***🦈Tiburon***
 
 ![pngcutcontentGraficosSinUsarTiburon](./Screenshots4.0/CutContent/GraficoSinUsarTiburon.png)
