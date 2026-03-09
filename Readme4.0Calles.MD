@@ -409,7 +409,7 @@ Trafico en el mapa
 
 ![pngcallejarbardnohud](./Screenshots4.0/Calles(NOHUD)/Jarbard.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:216 X2:231 Y1:47 Y2:48 Orientacion :Horizontal***
 
 
 <details>
