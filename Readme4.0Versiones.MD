@@ -19,6 +19,7 @@ Aun no es posible subirse a vehiculos.
 4️⃣ V2.2 :
 
 Ya se puede subir a vehiculos.
+Ahora la interfaz dice el nombre del barrio actual ( antes solo decia "Ciudad" ).
 
 5️⃣ V2.3 : 
 
