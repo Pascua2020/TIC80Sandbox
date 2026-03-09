@@ -230,15 +230,23 @@ La idea era que el juego final tuviera un minimapa general pero por las limitaci
 ![pngcutcontentGT5B](./Screenshots4.0/CutContent/GT+MiniMapa/GT5B.png)
 ![pngcutcontentGT6](./Screenshots4.0/CutContent/GT+MiniMapa/GT6.png)
 
+<details>
+
 ![pngcutcontentMinimapa1A](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1A.png)
 ![pngcutcontentMinimapa1B](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1B.png)
 ![pngcutcontentMinimapa1C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1C.png)
 ![pngcutcontentMinimapa1D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa1D.png)
 
+</details>
+
+<details>
+
 ![pngcutcontentMinimapa2A](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2A.png)
 ![pngcutcontentMinimapa2B](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2B.png)
 ![pngcutcontentMinimapa2C](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2C.png)
 ![pngcutcontentMinimapa2D](./Screenshots4.0/CutContent/GT+MiniMapa/Minimapa2D.png)
+
+</details>
 
 </details>
 
