@@ -195,31 +195,31 @@ La pista de Zurich,Suiza esta en el mapa final.
 
 ![gifgt+minimapa2](<./GIFS4.0/CutContent/GT+MiniMapa/GT+Minimapa ( minimapa5 ) 4-3-2025.gif>)
 
-***🏎️1***
+***🏎️1 Seleccionar Modo de Juego***
 
 ![gifgt+minimapa-GT1](./GIFS4.0/CutContent/GT+MiniMapa/GT1.gif)
 
-***🏎️2***
+***🏎️2 Seleccionar Pista***
 
 ![gifgt+minimapa-GT2](./GIFS4.0/CutContent/GT+MiniMapa/GT2.gif)
 
-***🏎️3***
+***🏎️3 Seleccionar Coche***
 
 ![gifgt+minimapa-GT3](./GIFS4.0/CutContent/GT+MiniMapa/GT3.gif)
 
-***🏎️4***
+***🏎️4 Seleccionar Clima***
 
 ![gifgt+minimapa-GT4](./GIFS4.0/CutContent/GT+MiniMapa/GT4.gif)
 
-***🏎️5***
+***🏎️5 Seleccionar Direccion de la Pista***
 
 ![gifgt+minimapa-GT5](./GIFS4.0/CutContent/GT+MiniMapa/GT5.gif)
 
-***🏎️6***
+***🏎️6 Comenzar Carrera***
 
 ![gifgt+minimapa-GT6](./GIFS4.0/CutContent/GT+MiniMapa/GT6.gif)
 
-***🏎️7***
+***🏎️7 Pista***
 
 ![gifgt+minimapa-GT7](./GIFS4.0/CutContent/GT+MiniMapa/GT7.gif)
 
