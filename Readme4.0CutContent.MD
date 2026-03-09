@@ -80,7 +80,7 @@ Incluye prototipo de MiniMapa 🗺️.
 </details>
 
 
-**⚠️-Chat**
+**⚠️Chat**
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 
@@ -103,7 +103,8 @@ Simula un chat de mensajeria de celular.
 ![pngcutcontentChat3B](./Screenshots4.0/CutContent/Chat/Chat3B.png)
 ![pngcutcontentChat3C](./Screenshots4.0/CutContent/Chat/Chat3C.png)
 </details>
-**⚠️-Ciclo Dia Noche**
+
+**⚠️Ciclo Dia Noche**
 
 ![gifciclodianoche1](<./GIFS4.0/CutContent/CicloDiaNoche/CicloDiaNoche ( ciclo ) 22-1-2025.gif>)
 
@@ -120,7 +121,8 @@ Simula un chat de mensajeria de celular.
 ![pngcutcontentCicloDiaNoche2A](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2A.png)
 ![pngcutcontentCicloDiaNoche2B](./Screenshots4.0/CutContent/CicloDiaNoche/CicloDiaNoche2B.png)
 </details>
-**⚠️-Climas**
+
+**⚠️Climas**
 
 ![gifbetaclimas1](<./GIFS4.0/CutContent/Climas/Clima ( todosclima6 ) 20-1-2025.gif>)
 
@@ -132,6 +134,7 @@ En el juego final el jugador puede activar climas pero la idea tambien era que c
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 ![pngcutcontent](./Screenshots4.0/CutContent/.png)
 </details>
+
 **🌈--Arcoiris**
 
 ![gifarcoiris](<./GIFS4.0/CutContent/Climas/Arcoiris ( arcoiris ) 4-3-2025.gif>)
