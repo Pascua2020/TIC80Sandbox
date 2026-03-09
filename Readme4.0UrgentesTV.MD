@@ -29,7 +29,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 1**
 
-16 Dialogos.
+16 Dialogos💬.
 
 ![gifurgente1](./GIFS4.0/Urgentes/Urgente1.gif)
 
@@ -70,7 +70,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 2**
 
-17 Dialogos.
+17 Dialogos💬.
 
 ![gifurgente2A](./GIFS4.0/Urgentes/Urgente2A.gif)
 ![gifurgente2B](./GIFS4.0/Urgentes/Urgente2B.gif)
@@ -114,7 +114,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 3**
 
-17 Dialogos.
+17 Dialogos💬.
 
 ![gifurgente3A](./GIFS4.0/Urgentes/Urgente3A.gif)
 ![gifurgente3B](./GIFS4.0/Urgentes/Urgente3B.gif)
@@ -148,7 +148,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 4**
 
-17 Dialogos.
+17 Dialogos💬.
 
 ![gifurgente4](./GIFS4.0/Urgentes/Urgente4.gif)
 
@@ -181,7 +181,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 5**
 
-19 Dialogos.
+19 Dialogos💬.
 
 ![gifurgente5](./GIFS4.0/Urgentes/Urgente5.gif)
 
@@ -216,7 +216,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 6**
 
-17 Dialogos.
+17 Dialogos💬.
 
 ![gifurgente6A](./GIFS4.0/Urgentes/Urgente6A.gif)
 ![gifurgente6B](./GIFS4.0/Urgentes/Urgente6B.gif)
@@ -250,7 +250,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 **🔊Urgente 7**
 
-16 Dialogos.
+16 Dialogos💬.
 
 ![gifurgente6](./GIFS4.0/Urgentes/Urgente7.gif)
 
