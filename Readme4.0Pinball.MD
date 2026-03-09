@@ -20,6 +20,12 @@
 
 8️⃣ Distintos elementos : Diamantes 💎para recoger y un Disco💿 que hace rebotar la bola🪩.
 
+9️⃣ No hay GameOver : si la bola cae por el agujero,se suma otro intento.
+
+1️⃣0️⃣ Falta calibrar un poco mas las fisicas de la bola con las palancas.
+
+1️⃣1️⃣ Hay una funcion para mostrar con mas detalle el funcionamiento de las fisicas de las palancas con la bola🪩.
+
 </details>
 
 
