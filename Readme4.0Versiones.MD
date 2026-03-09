@@ -62,6 +62,8 @@ Se realinea un poco mas la interfaz actual.
 
 2️⃣2️⃣ V4.0 :
 
+Se agrega la Descripcion de AltaVista Games / Pascua al menu principal.
+
 </details>
 
 
