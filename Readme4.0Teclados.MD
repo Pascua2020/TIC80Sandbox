@@ -4,11 +4,14 @@
 
 <details>
 
-1️⃣ 
+1️⃣ Hay 2 Teclados :
+-Uno estilo PC ( con letras ).
+-Uno numerico.
+En ambos hay que poner una contraseña.
 
-2️⃣ 
+2️⃣ En la V4.0 el Numerico esta roto ( en versiones antiguas no ).
 
-3️⃣ 
+3️⃣ Si pones "INGLISH" en el Teclado PC surge un mensaje OK ( igualmente esta frase la menciona un personaje en el juego ).
 
 4️⃣ 
 
