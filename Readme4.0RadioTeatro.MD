@@ -30,7 +30,7 @@
 
 ***Escenario : Sillon de Rivadavia🇦🇷***
 
-***Actores:***
+***Actores🎭:***
 
 ***-Narrador ( Explotado Clandestinamente 😱💸⛏️ )***
 
@@ -76,7 +76,7 @@
 
 ***Escenario : Chorifornia,EEUU🇺🇸***
 
-***Actores:***
+***Actores🎭:***
 
 ***-Narrador Gigolo🤑🔥🍒🌶️***
 
