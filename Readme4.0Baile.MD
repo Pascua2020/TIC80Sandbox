@@ -8,7 +8,7 @@
 
 1️⃣ Interfaz estilo Arcoiris animada🌈.
 
-2️⃣ Sistema de Combos y Game Over.
+2️⃣ Sistema de Combos🕺💃 y Game Over☠️.
 Al hacer un combo el juego tira una frase.
 Si hay un GameOver,pulsando un boton se repite el juego ( al contrario que el Minijuego de Pinball ).
 
