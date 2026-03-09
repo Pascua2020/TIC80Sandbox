@@ -350,7 +350,7 @@ Trafico en el mapa
 
 ![pngcallegilipollasnohud](./Screenshots4.0/Calles(NOHUD)/Gilipollas.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:0 X2:10 Y1:45 Y2:45 Orientacion :Horizontal***
 
 
 <details>
@@ -366,7 +366,7 @@ Trafico en el mapa
 
 ![pngcallehardcorenohud](./Screenshots4.0/Calles(NOHUD)/Hardcore.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:68 X2:84 Y1:6 Y2:6 Orientacion :Horizontal***
 
 
 <details>
@@ -382,7 +382,7 @@ Trafico en el mapa
 
 ![pngcalleinflacionnohud](./Screenshots4.0/Calles(NOHUD)/Inflacion.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:18 X2:18 Y1:4 Y2:15 Orientacion :Vertical***
 
 
 <details>
@@ -398,7 +398,7 @@ Trafico en el mapa
 
 ![pngcalleinformeishonnohud](./Screenshots4.0/Calles(NOHUD)/Informeishon.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:14 X2:43 Y1:57 Y2:59 Orientacion :Horizontal***
 
 
 <details>
