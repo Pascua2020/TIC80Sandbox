@@ -58,7 +58,7 @@
 ![pngmardibujo02](./Screenshots4.0/Mar/DibujoMar02.png)
 
 
-Una Estrella.
+Una Estrella🌠.
 
 🌊Dibujo Mar 03
 
@@ -76,7 +76,7 @@ Un Pinball.
 ![pngmardibujo04](./Screenshots4.0/Mar/DibujoMar04.png)
 
 
-"Vivan las Rusas Carajo!"
+"Vivan las Rusas🇷🇺 Carajo!"
 
 🌊Dibujo Mar 05
 
@@ -93,7 +93,7 @@ Una Motosierra.
 
 ![pngmardibujo06](./Screenshots4.0/Mar/DibujoMar06.png)
 
-Una Bandera Argentina.
+Una Bandera Argentina🇦🇷.
 
 🌊Dibujo Mar 07
 
@@ -125,7 +125,7 @@ Una Bandera Argentina.
 
 ![pngmardibujo10](./Screenshots4.0/Mar/DibujoMar10.png)
 
-App de Citas.
+App de Citas😍.
 
 🌊Dibujo Mar 11
 
@@ -134,14 +134,14 @@ App de Citas.
 ![pngmardibujo11](./Screenshots4.0/Mar/DibujoMar11.png)
 
 
-Un Meteorito.
+Un Meteorito☄️.
 
 🌊Dibujo Mar 12
 
 ![gifmardibujo12](./GIFS4.0/Mar/DibujoMar12.gif)
 ![pngmardibujo12](./Screenshots4.0/Mar/DibujoMar12.png)
 
-Un OVNI.
+Un OVNI🛸.
 
 🌊Dibujo Mar 13
 
@@ -155,14 +155,14 @@ Un P***.
 ![gifmardibujo14](./GIFS4.0/Mar/DibujoMar14.gif)
 ![pngmardibujo14](./Screenshots4.0/Mar/DibujoMar14.png)
 
-Un Barco.
+Un Barco⛴️.
 
 🌊Dibujo Mar 15
 
 ![gifmardibujo15](./GIFS4.0/Mar/DibujoMar15.gif)
 ![pngmardibujo15](./Screenshots4.0/Mar/DibujoMar15.png)
 
-Un Gato Siames.
+Un Gato Siames😸.
 
 🌊Dibujo Mar 16
 
@@ -193,7 +193,7 @@ Un Angel.
 
 ![pngmardibujo19](./Screenshots4.0/Mar/DibujoMar19.png)
 
-Un Avion.
+Un Avion✈️.
 
 🌊Dibujo Mar 20
 
