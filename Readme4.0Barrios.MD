@@ -44,6 +44,9 @@
 ![gifsbarrios-barrioturrisimo](<./GIFS4.0/Barrios/Barrio Turrisimo.gif>)
 ![pngsbarrios-barrioturrisimo](./Screenshots4.0/Barrios/BarrioTurrisimo.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Barrio Turrisimo :***
 
 ![gifsbarrios-recorridobarrioturrisimo](./GIFS4.0/Barrios/RecorridosBarrios/CallesBarrioTurrisimo.gif)
@@ -55,6 +58,9 @@
 ![gifsbarrios-casicasi](<./GIFS4.0/Barrios/Casi Casi.gif>)
 ![pngsbarrios-barriocasicasi](./Screenshots4.0/Barrios/CasiCasi.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles CasiCasi :***
 
 ![gifsbarrios-recorridocasicasi](./GIFS4.0/Barrios/RecorridosBarrios/CallesCasiCasi.gif)
@@ -64,6 +70,9 @@
 
 ![gifsbarrios-currolandia](./GIFS4.0/Barrios/Currolandia.gif)
 ![pngsbarrios-barriocurrolandia](./Screenshots4.0/Barrios/Currolandia.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Currolandia :***
 
@@ -75,6 +84,9 @@
 ![gifsbarrios-elwikibarrio](<./GIFS4.0/Barrios/El Wiki Barrio.gif>)
 ![pngsbarrios-elwikibarrio](./Screenshots4.0/Barrios/ElWikiBarrio.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles El Wiki Barrio :***
 
 ![gifsbarrios-recorridobarrioelwikibarrio](./GIFS4.0/Barrios/RecorridosBarrios/CallesElWikiBarrio.gif)
@@ -84,6 +96,9 @@
 ![pngsbarrios-barriointernets](./Screenshots4.0/Barrios/Internets.png)
 
 ![gifsbarrios-internets](./GIFS4.0/Barrios/Internets.gif)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Barrio Internets :***
 
@@ -95,6 +110,9 @@
 ![gifsbarrios-nononono](<./GIFS4.0/Barrios/No no no no.gif>)
 ![pngsbarrios-barrionononono](./Screenshots4.0/Barrios/Nononono.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Nononono :***
 
 ![gifsbarrios-recorridobarrionononono](./GIFS4.0/Barrios/RecorridosBarrios/CallesNononono.gif)
@@ -104,6 +122,9 @@
 
 ![gifsbarrios-nosequeje](<./GIFS4.0/Barrios/No se queje.gif>)
 ![pngsbarrios-barrionosequeje](./Screenshots4.0/Barrios/NoSeQueje.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Barrio Nosequeje :***
 
@@ -115,6 +136,9 @@
 ![gifsbarrios-NuevaMadrid](<./GIFS4.0/Barrios/Nueva Madrid.gif>)
 ![pngsbarrios-barrionuevamadrid](./Screenshots4.0/Barrios/NuevaMadrid.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Barrio Nueva Madrid :***
 
 ![gifsbarrios-recorridobarrionuevamadrid](./GIFS4.0/Barrios/RecorridosBarrios/CallesNuevaMadrid.gif)
@@ -124,6 +148,9 @@
 
 ![gifsbarrios-nuevapyongyang](<./GIFS4.0/Barrios/Nueva Pyongyang.gif>)
 ![pngsbarrios-nuevapyongyang](./Screenshots4.0/Barrios/NuevaPyongyang.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Barrio Nueva Pyongyang:***
 
@@ -135,6 +162,9 @@
 ![gifsbarrios-obelisco](./GIFS4.0/Barrios/Obelisco.gif)
 ![pngsbarrios-barrioobelisco](./Screenshots4.0/Barrios/Obelisco.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Barrio Obelisco :***
 
 ![gifsbarrios-recorridobarrioobelisco](./GIFS4.0/Barrios/RecorridosBarrios/CallesObelisco.gif)
@@ -144,6 +174,9 @@
 
 ![gifsbarrios-tigerlandia](./GIFS4.0/Barrios/Tigerlandia.gif)
 ![pngsbarrios-barriotigerlandia](./Screenshots4.0/Barrios/Tigerlandia.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Tigerlandia :***
 
@@ -155,6 +188,9 @@
 ![gifsbarrios-villacasta](<./GIFS4.0/Barrios/Villa Casta.gif>)
 ![pngsbarrios-barriovillacasta](./Screenshots4.0/Barrios/VillaCasta.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Villa Casta :***
 
 ![gifsbarrios-recorridobarriovillacasta](./GIFS4.0/Barrios/RecorridosBarrios/CallesVillaCasta.gif)
@@ -164,6 +200,9 @@
 
 ![gifsbarrios-villacastores](<./GIFS4.0/Barrios/Villa Castores.gif>)
 ![pngsbarrios-villacastores](./Screenshots4.0/Barrios/VillaCastores.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Villa Castores :***
 
@@ -175,6 +214,9 @@
 ![gifsbarrios-villapinball](<./GIFS4.0/Barrios/Villa Pinball.gif>)
 ![pngsbarrios-barriovillapinball](./Screenshots4.0/Barrios/VillaPinball.png)
 
+***Coordenadas🚏 X:- Y:-***
+
+
 🧭***Recorrido Calles Villa Pinball :***
 
 ![gifsbarrios-recorridobarriovillapinball](./GIFS4.0/Barrios/RecorridosBarrios/CallesVillaPinball.gif)
@@ -184,6 +226,9 @@
 
 ![gifsbarrios-vivanlososos](<./GIFS4.0/Barrios/Vivan los Osos.gif>)
 ![pngsbarrios-vivanlososos](./Screenshots4.0/Barrios/VivanLosOsos.png)
+
+***Coordenadas🚏 X:- Y:-***
+
 
 🧭***Recorrido Calles Vivan los Osos :***
 
