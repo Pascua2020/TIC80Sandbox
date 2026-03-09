@@ -230,7 +230,7 @@
 ![pngraadio08-14](./Screenshots4.0/Radios/Radio08/R08-14.png)
 </details>
 
-**📻Radio 09 : Cine Ultra 8K**
+**📻Radio 09 : **
 
 21 Dialogos🔉.
 
@@ -262,7 +262,7 @@
 ![pngraadio09-21](./Screenshots4.0/Radios/Radio09/R09-21.png)
 </details>
 
-**📻Radio 10**
+**📻Radio 10 : Cine Ultra 8K**
 
 19 Dialogos🔉.
 
@@ -290,7 +290,7 @@
 ![pngraadio10-19](./Screenshots4.0/Radios/Radio10/R10-19.png)
 </details>
 
-**📻Radio 11**
+**📻Radio 11 : Destapando Curros**
 
 11 Dialogos🔉.
 
@@ -310,7 +310,7 @@
 ![pngraadio11-11](./Screenshots4.0/Radios/Radio11/R11-11.png)
 </details>
 
-**📻Radio 12**
+**📻Radio 12 : Grieta**
 
 10 Dialogos🔉.
 
