@@ -204,7 +204,7 @@ Trafico en el mapa
 
 ![pngcalleconspiracionnohud](./Screenshots4.0/Calles(NOHUD)/Conspiracion.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:56 X2:56 Y1:4 Y2:15 Orientacion : Vertical***
 
 
 <details>
@@ -220,7 +220,7 @@ Trafico en el mapa
 
 ![pngcallecorrupcionnohud](./Screenshots4.0/Calles(NOHUD)/Corrupcion.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:23 X2:24 Y1:29 Y2:37 Orientacion : Vertical***
 
 
 <details>
@@ -236,7 +236,7 @@ Trafico en el mapa
 
 ![pngcalledarknohud](./Screenshots4.0/Calles(NOHUD)/Dark.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:69 X2:85 Y1:1 Y2:1 Orientacion : Horizontal***
 
 
 <details>
