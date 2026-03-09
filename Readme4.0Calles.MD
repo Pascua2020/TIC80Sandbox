@@ -73,7 +73,7 @@ Trafico en el mapa
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:69 X2:69 Y1:1 Y2:6 Orientacion : Vertical***
 
 
 <details>
@@ -89,7 +89,7 @@ Trafico en el mapa
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:237 X2:238 Y1:25 Y2:45 Orientacion : Vertical***
 
 
 <details>
@@ -105,7 +105,7 @@ Trafico en el mapa
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:54 X2:83 Y1:47 Y2:49 Orientacion : Horizontal***
 
 
 <details>
