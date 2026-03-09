@@ -28,6 +28,8 @@
 
 26 Dialogos.
 
+***Escenario : Sillon de Rivadavia🇦🇷***
+
 ***Actores:***
 
 ***-Narrador ( Explotado Clandestinamente 😱💸⛏️ )***
@@ -72,13 +74,15 @@
 
 46 Dialogos.
 
+***Escenario : Chorifornia,EEUU🇺🇸***
+
 ***Actores:***
 
 ***-Narrador Gigolo🤑🔥🍒🌶️***
 
 ***-Sid Christopher Stacchotta😎***
 
-***-Beatriz👗***
+***-Beatriz Cometa👗☄️***
 
 ***-Agente Gatito😺***
 
