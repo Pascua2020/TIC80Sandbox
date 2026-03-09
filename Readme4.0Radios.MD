@@ -339,7 +339,7 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 ![gifsradiosdescartadas](./GIFS4.0/CutContent/Radios/Radios_(_todasradios7_)_12-2-2025.gif)
 
-**🎧Radio 13**
+**🎧Radio 13 : Cuarta Pared**
 
  Dialogos🔉.
 
@@ -357,7 +357,7 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 </details>
 
-**🎧Radio 14**
+**🎧Radio 14 : La IA Avanza**
 
 Dialogos🔉
 
