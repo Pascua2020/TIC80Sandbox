@@ -153,8 +153,9 @@ Trafico en el mapa
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 
-***Coordenadas🚏 X1:221 X2:239 Y1:4 Y2:5 Orientacion : Horizontal***
-***Coordenadas🚏 X1:0 X2:17 Y1:4 Y2:5 Orientacion : Horizontal***
+***CoordenadasA🚏 X1:221 X2:239 Y1:4 Y2:5 Orientacion : Horizontal***
+
+***CoordenadasB🚏 X1:0 X2:17 Y1:4 Y2:5 Orientacion : Horizontal***
 
 
 
@@ -171,7 +172,7 @@ Trafico en el mapa
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:54 X2:55 Y1:36 Y2:49 Orientacion : Vertical***
 
 
 <details>
@@ -187,7 +188,7 @@ Trafico en el mapa
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:68 X2:68 Y1:6 Y2:13 Orientacion : Vertical***
 
 
 <details>
