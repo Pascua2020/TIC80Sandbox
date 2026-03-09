@@ -61,7 +61,7 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 **Ambulancia**
 
-Vehiculo Animado.
+🚨Vehiculo Animado.
 
 ![pngvehiculoambulancia](./Screenshots4.0/Vehiculos/Ambulancia.png)
 ![pngvehiculoambulanciapreview](./Screenshots4.0/Vehiculos/Preview/Ambulancia-HUD.png)
@@ -181,7 +181,7 @@ El sprite de este vehiculo esta reescalado X2.
 
 **Policia**
 
-Vehiculo Animado.
+🚨Vehiculo Animado.
 
 ![pngvehiculopolicia](./Screenshots4.0/Vehiculos/Policia.png)
 ![pngvehiculopoliciapreview](./Screenshots4.0/Vehiculos/Preview/Policia-HUD.png)
