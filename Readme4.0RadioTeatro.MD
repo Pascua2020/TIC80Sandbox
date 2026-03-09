@@ -28,6 +28,9 @@
 
 26 Dialogos.
 
+***Actores:***
+***-Gatito 😸( Presidente de la Nacion Argentina🇦🇷 - en las Sombras - )***
+
 <details>
 ![pngradioteatro1-01](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-01.png)
 ![pngradioteatro1-02](./Screenshots4.0/RadioTeatro/RT1/RadioTeatro1-02.png)
