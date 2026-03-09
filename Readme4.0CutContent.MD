@@ -75,6 +75,8 @@ Incluye prototipo de MiniMapa 🗺️.
 
 🔺-Combate Vehicular🚗💥💣🚙
 
+🔺-Efectos de Fuegos Artificiales en el Mapa🎆💥
+
 </details>
 
 
