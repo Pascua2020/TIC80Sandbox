@@ -68,9 +68,12 @@ Incluye prototipo de MiniMapa 🗺️.
 3️⃣1️⃣ Graficos sin usar💩
 
 3️⃣2️⃣ Mecanicas Planeadas pero no Codificadas:
--Inundaciones🌊
--Combates entre Jets✈️🚀🛬
--Combate Vehicular🚗💥💣🚙
+
+🔺-Inundaciones🌊
+
+🔺-Combates entre Jets✈️🚀🛬
+
+🔺-Combate Vehicular🚗💥💣🚙
 
 </details>
 
