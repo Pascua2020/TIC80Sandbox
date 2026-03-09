@@ -16,7 +16,7 @@
 
 6️⃣ Hay algunos problemas de visualizacion en la Radio 10 y en los nombres de algunas radios ( chocan con el HUD ).
 
-7️⃣
+7️⃣ Tambien faltan algunos ajustes en los espacios entre los textos.
 
 8️⃣
 
