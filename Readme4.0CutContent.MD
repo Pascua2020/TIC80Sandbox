@@ -77,6 +77,10 @@ Incluye prototipo de MiniMapa 🗺️.
 
 🔺-Efectos de Fuegos Artificiales en el Mapa🎆💥
 
+🔺-Mas Misiones,no solo la de Stuntman ( pero se complico hacer esta y mas importante,la limitacion de 15000 lineas de codigo de TIC80 impedia meter muchas cosas mas.
+
+🔺-MicroMisiones de llegar a X checkpoint en el Mapa con algun vehiculo ( EJ : recoger pasajeros a lo Crazy Taxi/Simpsons Road Rage/Uber ) pero el mapa tan pequeño ( producto de las limitaciones de TIC80 ) lo impedia.
+
 </details>
 
 
