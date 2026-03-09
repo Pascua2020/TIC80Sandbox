@@ -29,6 +29,7 @@
 1️⃣2️⃣ Coleccionables y monedas🪙 para recoger.
 
 1️⃣3️⃣ Interruptores🖲️ de todo tipo.
+IMPORTANTE : Esto abre mecanicas ( ej pinball ) tras el mapa principal pero tiene problemas de optimizacion ( y parte de la interfaz del mapa queda en el minijuego ).
 
 1️⃣4️⃣
 
