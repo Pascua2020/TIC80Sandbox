@@ -920,7 +920,7 @@ Trafico en el mapa
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -936,7 +936,7 @@ Trafico en el mapa
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -952,7 +952,7 @@ Trafico en el mapa
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -968,7 +968,7 @@ Trafico en el mapa
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -984,7 +984,7 @@ Trafico en el mapa
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -1000,7 +1000,7 @@ Trafico en el mapa
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -1016,7 +1016,7 @@ Trafico en el mapa
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -1032,7 +1032,7 @@ Trafico en el mapa
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -1048,7 +1048,7 @@ Trafico en el mapa
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -1064,7 +1064,7 @@ Trafico en el mapa
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
