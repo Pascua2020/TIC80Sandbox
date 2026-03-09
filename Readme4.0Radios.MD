@@ -334,10 +334,11 @@
 ![pngraadio12-10](./Screenshots4.0/Radios/Radio12/R12-10.png)
 ![pngraadio12-11](./Screenshots4.0/Radios/Radio12/R12-11.png)
 ![pngraadio12-12](./Screenshots4.0/Radios/Radio12/R12-12.png)
-</details>
-Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
-![gifsradiosdescartadas](./GIFS4.0/CutContent/Radios/Radios_(_todasradios7_)_12-2-2025.gif)
+</details>
+
+***Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )***
+
 
 **🎧Radio 13 : Cuarta Pared🔮**
 
