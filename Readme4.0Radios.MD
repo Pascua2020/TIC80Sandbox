@@ -32,7 +32,7 @@
 
 ![gifsfinradio](./GIFS4.0/Radios/finRadio.gif)
 
-📻Radio 01 : Todo Vardo
+**📻Radio 01 : Todo Vardo**
 
 25 Dialogos.
 
@@ -70,7 +70,7 @@
 
 </details>
 
-📻Radio 02 : Bajones
+**📻Radio 02 : Bajones**
 
 19 Dialogos.
 
@@ -101,7 +101,7 @@
 
 </details>
 
-📻Radio 03 : Poesia de la Calle
+**📻Radio 03 : Poesia de la Calle**
 
 12 Dialogos.
 
@@ -123,7 +123,8 @@
 ![pngraadio03-11](./Screenshots4.0/Radios/Radio03/R03-11.png)
 ![pngraadio03-12](./Screenshots4.0/Radios/Radio03/R03-12.png)
 </details>
-📻Radio 04 : Gobierno de Argentina
+
+**📻Radio 04 : Gobierno de Argentina**
 
 13 Dialogos.
 
@@ -144,7 +145,8 @@
 ![pngraadio04-12](./Screenshots4.0/Radios/Radio04/R04-12.png)
 ![pngraadio04-13](./Screenshots4.0/Radios/Radio04/R04-13.png)
 </details>
-📻Radio 05 : Solos y Solas
+
+**📻Radio 05 : Solos y Solas**
 
 12 Dialogos.
 
@@ -164,7 +166,8 @@
 ![pngraadio05-11](./Screenshots4.0/Radios/Radio05/R05-11.png)
 ![pngraadio05-12](./Screenshots4.0/Radios/Radio05/R05-12.png)
 </details>
-📻Radio 06 : Desgracias Economicas
+
+**📻Radio 06 : Desgracias Economicas**
 
 10 Dialogos.
 
@@ -181,7 +184,8 @@
 ![pngraadio06-09](./Screenshots4.0/Radios/Radio06/R06-09.png)
 ![pngraadio06-10](./Screenshots4.0/Radios/Radio06/R06-10.png)
 </details>
-📻Radio 07 : Joyas de la Historia Argentina
+
+**📻Radio 07 : Joyas de la Historia Argentina**
 
 11 Dialogos
 
@@ -202,7 +206,8 @@
 ![pngraadio07-10](./Screenshots4.0/Radios/Radio07/R07-10.png)
 ![pngraadio07-11](./Screenshots4.0/Radios/Radio07/R07-11.png)
 </details>
-📻Radio 08
+
+**📻Radio 08**
 
 14 Dialogos.
 
@@ -224,7 +229,8 @@
 ![pngraadio08-13](./Screenshots4.0/Radios/Radio08/R08-13.png)
 ![pngraadio08-14](./Screenshots4.0/Radios/Radio08/R08-14.png)
 </details>
-📻Radio 09
+
+**📻Radio 09**
 
 21 Dialogos.
 
@@ -254,7 +260,8 @@
 ![pngraadio09-20](./Screenshots4.0/Radios/Radio09/R09-20.png)
 ![pngraadio09-21](./Screenshots4.0/Radios/Radio09/R09-21.png)
 </details>
-📻Radio 10
+
+**📻Radio 10**
 
 19 Dialogos.
 
@@ -281,7 +288,8 @@
 ![pngraadio10-18](./Screenshots4.0/Radios/Radio10/R10-18.png)
 ![pngraadio10-19](./Screenshots4.0/Radios/Radio10/R10-19.png)
 </details>
-📻Radio 11
+
+**📻Radio 11**
 
 11 Dialogos.
 
@@ -300,7 +308,8 @@
 ![pngraadio11-10](./Screenshots4.0/Radios/Radio11/R11-10.png)
 ![pngraadio11-11](./Screenshots4.0/Radios/Radio11/R11-11.png)
 </details>
-📻Radio 12
+
+**📻Radio 12**
 
 10 Dialogos.
 
