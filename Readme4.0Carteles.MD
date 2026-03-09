@@ -5,11 +5,11 @@
 <details>
 
 1️⃣ Mas de 100 Carteles de 10 tipos distintos.
--Publicidades -Paradas de Colectivo -Descripciones Lugares -Precauciones - Lineas de Subte -Kioscos de Diario y Prohibiciones -Distancias -Conversaciones -Otros Avisos
+-Publicidades -Paradas de Colectivo -Descripciones Lugares -Precauciones - Lineas de Subte -Kioscos de Diario y Prohibiciones -Distancias -Conversaciones -Otros Avisos -Leyendas -Otros -Interactivos
 
 2️⃣ El Clima☔ no tapa lo que dicen los Carteles.
 
-3️⃣
+3️⃣ Los Carteles Interactivos activan alguna mecanica visual ( patear pelota o mandar algun elemento a que se mueva - avion de papel - pero no afectan la jugabilidad.
 
 4️⃣
 
