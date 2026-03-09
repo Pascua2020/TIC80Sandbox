@@ -79,7 +79,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 🔺-Mas Misiones,no solo la de Stuntman ( pero se complico hacer esta y mas importante,la limitacion de 15000 lineas de codigo de TIC80 impedia meter muchas cosas mas ).
 
-🔺-MicroMisiones de llegar a X checkpoint en el Mapa con algun vehiculo ( EJ : recoger pasajeros a lo Crazy Taxi/Simpsons Road Rage/Uber ) pero el mapa tan pequeño ( producto de las limitaciones de TIC80 ) lo impedia.
+🔺-MicroMisiones de llegar a X checkpoint en el Mapa con algun vehiculo ( EJ : recoger pasajeros a lo Crazy Taxi/Simpsons Road Rage/Uber 🚕 ) pero el mapa tan pequeño ( producto de las limitaciones de TIC80 ) lo impedia.
+
+3️⃣3️⃣ Casi TOTAL ausencia de Audio 🎸🎺🎷: TIC80 no permitia hacer casi nada en este aspecto.Con excepcion de algunos sonidos al elegir opciones en el menu principal,romper destructibles en Stuntman no hay muchos sonidos mas.
 
 </details>
 
