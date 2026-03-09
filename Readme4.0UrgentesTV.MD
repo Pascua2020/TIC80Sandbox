@@ -179,11 +179,11 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente4](./GIFS4.0/Urgentes/Hashtags/4.gif)
 
-**🔊Urgente 5 : Espias de Eritrea🇪🇷 en Festival Musical**
+**🔊Urgente 5 : Pinballizacion de la Politica Argentina🇦🇷
 
 19 Dialogos💬.
 
-![gifurgente5](./GIFS4.0/Urgentes/Urgente5.gif)
+--![gifurgente5](./GIFS4.0/Urgentes/Urgente5.gif)
 
 <details>
 
@@ -214,7 +214,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente5](./GIFS4.0/Urgentes/Hashtags/5.gif)
 
-**🔊Urgente 6**
+**🔊Urgente 6 : Espias de Eritrea🇪🇷 en Festival Musical****
 
 17 Dialogos💬.
 
@@ -248,7 +248,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente6](./GIFS4.0/Urgentes/Hashtags/6.gif)
 
-**🔊Urgente 7**
+**🔊Urgente 7 : NarcoBunker de Mariposas Mafiosas🦋🚬💣**
 
 16 Dialogos💬.
 
