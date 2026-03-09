@@ -14,7 +14,7 @@
 
 5️⃣ Todos los personajes del juego ( incluido el jugador ) no poseen brazos ni piernas,para facilitar la jugabilidad ( aunque genera un efecto un poco extraño ya que hay vehiculos que parecen ser mas pequeños que la cabeza del jugador ).
 
-6️⃣
+6️⃣ En el caso de "Cerebrito y Wachin",la primer frase es del primero ( Cerebrito ) y la segunda,del segundo ( Wachin ).
 
 7️⃣
 
