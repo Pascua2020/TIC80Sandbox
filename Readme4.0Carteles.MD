@@ -5,7 +5,7 @@
 <details>
 
 1️⃣ Mas de 100 Carteles de 10 tipos distintos.
--Publicidades -Paradas de Colectivo -Descripciones Lugares -Precauciones
+-Publicidades -Paradas de Colectivo -Descripciones Lugares -Precauciones - Lineas de Subte -Kioscos de Diario y Prohibiciones.
 
 2️⃣ El Clima☔ no tapa lo que dicen los Carteles.
 
