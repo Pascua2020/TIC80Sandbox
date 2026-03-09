@@ -207,7 +207,7 @@
 ![pngraadio07-11](./Screenshots4.0/Radios/Radio07/R07-11.png)
 </details>
 
-**📻Radio 08**
+**📻Radio 08 : No me importa**
 
 14 Dialogos🔉.
 
@@ -230,7 +230,7 @@
 ![pngraadio08-14](./Screenshots4.0/Radios/Radio08/R08-14.png)
 </details>
 
-**📻Radio 09**
+**📻Radio 09 : Cine Ultra 8K**
 
 21 Dialogos🔉.
 
