@@ -5,7 +5,7 @@
 <details>
 
 1️⃣ Mas de 100 Carteles de 10 tipos distintos.
--Publicidades -Paradas de Colectivo
+-Publicidades -Paradas de Colectivo -Descripciones Lugares -Precauciones
 
 2️⃣ El Clima☔ no tapa lo que dicen los Carteles.
 
