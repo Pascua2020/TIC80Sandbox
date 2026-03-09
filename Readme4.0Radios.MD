@@ -36,6 +36,9 @@
 
 25 Dialogos🔉.
 
+***Tematica🎙️ :***
+***Conductor/es👥 :***
+
 ![gifsradio01](./GIFS4.0/Radios/Radio01.gif)
 
 <details>
