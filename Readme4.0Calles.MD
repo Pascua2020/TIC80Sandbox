@@ -521,6 +521,9 @@ Trafico en el mapa
 
 ![pngcallelalalanohud](./Screenshots4.0/Calles(NOHUD)/Lalala.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallelalalanohud](./GIFS4.0/Calles(NOHUD)/Lalala.gif)
@@ -534,6 +537,9 @@ Trafico en el mapa
 
 ![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallelibrenohud](./GIFS4.0/Calles(NOHUD)/Libre.gif)
@@ -545,6 +551,9 @@ Trafico en el mapa
 🚸33-**Mas placer**
 
 ![pngcallemasplacernohud](<./Screenshots4.0/Calles(NOHUD)/Mas placer.png>)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -559,6 +568,9 @@ Trafico en el mapa
 
 ![pngcallemeteoritonohud](./Screenshots4.0/Calles(NOHUD)/Meteorito.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallemeteoritonohud](./GIFS4.0/Calles(NOHUD)/Meteorito.gif)
@@ -571,6 +583,9 @@ Trafico en el mapa
 🚸35-**Miau**
 
 ![pngcallemiaunohud](./Screenshots4.0/Calles(NOHUD)/Miau.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -585,6 +600,9 @@ Trafico en el mapa
 
 ![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallemisternohud](./GIFS4.0/Calles(NOHUD)/Mister.gif)
@@ -597,6 +615,9 @@ Trafico en el mapa
 🚸37-**Nickelodeon**
 
 ![pngcallenickelodeonnohud](./Screenshots4.0/Calles(NOHUD)/Nickelodeon.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -611,6 +632,9 @@ Trafico en el mapa
 
 ![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/NiHao.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallenihaonohud](./GIFS4.0/Calles(NOHUD)/NiHao.gif)
@@ -623,6 +647,9 @@ Trafico en el mapa
 🚸39-**No jodas**
 
 ![pngcallenojodasnohud](<./Screenshots4.0/Calles(NOHUD)/No jodas.png>)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -637,6 +664,9 @@ Trafico en el mapa
 
 ![pngcallenotecreonohud](<./Screenshots4.0/Calles(NOHUD)/No te creo.png>)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallenotecreonohud](<./GIFS4.0/Calles(NOHUD)/No te creo.gif>)
@@ -649,6 +679,9 @@ Trafico en el mapa
 🚸41-**NOOOO**
 
 ![pngcallenoooonohud](./Screenshots4.0/Calles(NOHUD)/NOOOO.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -663,6 +696,9 @@ Trafico en el mapa
 
 ![pngcalleorconohud](./Screenshots4.0/Calles(NOHUD)/Orco.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleorconohud](./GIFS4.0/Calles(NOHUD)/Orco.gif)
@@ -675,6 +711,9 @@ Trafico en el mapa
 🚸43-**Ouch**
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -689,6 +728,9 @@ Trafico en el mapa
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallepartyhardnohud](<./GIFS4.0/Calles(NOHUD)/Party Hard.gif>)
@@ -701,6 +743,9 @@ Trafico en el mapa
 🚸45-**Pelado**
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -715,6 +760,9 @@ Trafico en el mapa
 
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallepelucanohud](./GIFS4.0/Calles(NOHUD)/Peluca.gif)
@@ -727,6 +775,9 @@ Trafico en el mapa
 🚸47-**Pff**
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -741,6 +792,9 @@ Trafico en el mapa
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallepiopionohud](<./GIFS4.0/Calles(NOHUD)/Pio pio.gif>)
@@ -753,6 +807,9 @@ Trafico en el mapa
 🚸49-**Pixeles**
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -767,6 +824,9 @@ Trafico en el mapa
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallepokernohud](./GIFS4.0/Calles(NOHUD)/Poker.gif)
@@ -779,6 +839,9 @@ Trafico en el mapa
 🚸51-**Pollo**
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -793,6 +856,9 @@ Trafico en el mapa
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcalleponemelanohud](./GIFS4.0/Calles(NOHUD)/Ponemela.gif)
@@ -805,6 +871,9 @@ Trafico en el mapa
 🚸53-**Proceda**
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
@@ -819,6 +888,9 @@ Trafico en el mapa
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
+
 <details>
 
 ![gifcallereperfilarnohud](./GIFS4.0/Calles(NOHUD)/Reperfilar.gif)
@@ -831,6 +903,9 @@ Trafico en el mapa
 🚸55-**Satanas**
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
+
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+
 
 <details>
 
