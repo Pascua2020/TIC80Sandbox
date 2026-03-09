@@ -12,7 +12,7 @@
 
 4️⃣ Hay pequeños efectos de fondo como aves 🕊️ moviendose ( para dar un toque de dinamismo ).
 
-5️⃣
+5️⃣ No hay un "Objetivo" mas que ver el evento interactivo.
 
 6️⃣
 
