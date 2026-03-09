@@ -600,7 +600,7 @@ Trafico en el mapa
 
 ![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -616,7 +616,7 @@ Trafico en el mapa
 
 ![pngcallenickelodeonnohud](./Screenshots4.0/Calles(NOHUD)/Nickelodeon.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -632,7 +632,7 @@ Trafico en el mapa
 
 ![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/NiHao.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -648,7 +648,7 @@ Trafico en el mapa
 
 ![pngcallenojodasnohud](<./Screenshots4.0/Calles(NOHUD)/No jodas.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -664,7 +664,7 @@ Trafico en el mapa
 
 ![pngcallenotecreonohud](<./Screenshots4.0/Calles(NOHUD)/No te creo.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -680,7 +680,7 @@ Trafico en el mapa
 
 ![pngcallenoooonohud](./Screenshots4.0/Calles(NOHUD)/NOOOO.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -696,7 +696,7 @@ Trafico en el mapa
 
 ![pngcalleorconohud](./Screenshots4.0/Calles(NOHUD)/Orco.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -712,7 +712,7 @@ Trafico en el mapa
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -728,7 +728,7 @@ Trafico en el mapa
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -744,7 +744,7 @@ Trafico en el mapa
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -760,7 +760,7 @@ Trafico en el mapa
 
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -776,7 +776,7 @@ Trafico en el mapa
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -792,7 +792,7 @@ Trafico en el mapa
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -808,7 +808,7 @@ Trafico en el mapa
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -824,7 +824,7 @@ Trafico en el mapa
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -840,7 +840,7 @@ Trafico en el mapa
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -856,7 +856,7 @@ Trafico en el mapa
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -872,7 +872,7 @@ Trafico en el mapa
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -888,7 +888,7 @@ Trafico en el mapa
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
@@ -904,7 +904,7 @@ Trafico en el mapa
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : ***
+***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
 
 
 <details>
