@@ -43,6 +43,8 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 9️⃣ Algunos vehiculos se consiguen estando estacionados : eso incluye los aviones ✈️( estan en el Aeropuerto 🛫).
 
+1️⃣0️⃣ Algunos vehiculos dicen A,B,C o D en su nombre ya que tienen mas de un color 🟥🟨🟩🟦.
+
 </details>
 
 🚐1
