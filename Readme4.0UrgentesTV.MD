@@ -214,7 +214,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente5](./GIFS4.0/Urgentes/Hashtags/5.gif)
 
-**🔊Urgente 6 : Espias de Eritrea🇪🇷 en Festival Musical****
+**🔊Urgente 6 : Espias de Eritrea🇪🇷 en Festival Musical**
 
 17 Dialogos💬.
 
