@@ -14,6 +14,8 @@ Se unifican la mayoria de esos 50 prototipos en un unico .tic ( .lua ).
 
 3️⃣ V2.1 : 
 
+Aun no es posible subirse a vehiculos.
+
 4️⃣ V2.2 :
 
 5️⃣ V2.3 : 
