@@ -179,7 +179,7 @@ Aunque hay 2 Urgentes que tienen 6 que van pasando de uno a otro y los otros 5 U
 
 ![gif#urgente4](./GIFS4.0/Urgentes/Hashtags/4.gif)
 
-**🔊Urgente 5 : Pinballizacion de la Politica Argentina🇦🇷
+**🔊Urgente 5 : Pinballizacion de la Politica Argentina🇦🇷**
 
 19 Dialogos💬.
 
