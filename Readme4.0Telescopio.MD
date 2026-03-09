@@ -10,7 +10,7 @@
 
 3️⃣ Toda la zona que no este apuntada por la Mira no muestra estrellas🌠☄️ ( para simular justamente el efecto de un Telescopio ).
 
-4️⃣
+4️⃣ No hay un "Objetivo" mas que curiosear.
 
 5️⃣
 
