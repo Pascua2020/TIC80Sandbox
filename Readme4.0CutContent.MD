@@ -484,30 +484,30 @@ TODAS
 ***💣RIFLE DE FRANCOTIRADOR***
 ![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
 
-📱DiosGPT
+**📱DiosGPT**
 
 ![gifbetadiosgpt1](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( diosgpt7 ) 4-3-2025.gif>)
 ![gifbetadiosgpt2](<./GIFS4.0/CutContent/DiosGPT/DiosGPT ( gptv2.10 ) 20-1-2025.gif>)
 
-🪂Jetpack
+**🪂Jetpack**
 
 ![gifbetajetpack1](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 4-3-2025.gif>)
 
 
 ![gifbetajetpack2](<./GIFS4.0/CutContent/Jetpack/Jetpack ( jetpack ) 24-1-2025.gif>)
 
-🀄Nerdpedia
+**🀄Nerdpedia**
 
-🎴V1
+***🎴V1***
 
 ![gifnerdpediav1](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV1 (wiki24) 4-3-2025.gif>)
 
-🎴V2
+***🎴V2***
 
 ![gifnerdpediav2A](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( crimenYPixel ) 7-4-2025.gif>)
 ![gifnerdpediav2B](<./GIFS4.0/CutContent/Nerdpedia/NerdpediaV2 ( w2.10 ) 12-2-2025.gif>)
 
-🛹Skate
+**🛹Skate**
 
 ![gifbetaskateA](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 20-1-2025.gif>)
 
@@ -515,9 +515,9 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 
 ![gifbetaskateB](<./GIFS4.0/CutContent/Skate/SkateCanios ( skatev2.5 ) 4-3-2025.gif>)
 
-🎬STUNTMAN
+**🎬STUNTMAN**
 
-📼F1
+***📼F1***
 
 ![gifbetastuntmanF1A](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 21-1-2025.gif>)
 
@@ -526,55 +526,55 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 ![gifbetastuntmanF1B](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( stuntman4 ) 4-3-2025.gif>)
 ![gifbetastuntmanF1C](<./GIFS4.0/CutContent/Stuntman/F1/StuntmanFase1 ( ZS1 ) 12-3-2025.gif>)
 
-📼F2
+***📼F2***
 
 ![gifbetastuntmanF2A](<./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2 ( stuntmanv2.1 ) 21-1-2025.gif>)
 ![gifbetastuntmanF2B](<./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2 ( stuntmanv2.1 ) 4-3-2025.gif>)
 ![gifbetastuntmanF2C](<./GIFS4.0/CutContent/Stuntman/F2/StuntmanFase2 ( ZS2 ) 12-3-2025.gif>)
 
-📼F3
+***📼F3***
 
 ![gifbetastuntmanF3A](<./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3 ( stuntmanv3.4 ) 21-1-2025.gif>)
 ![gifbetastuntmanF3B](<./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3 ( stuntmanv3.4 ) 4-3-2025.gif>)
 ![gifbetastuntmanF3C](<./GIFS4.0/CutContent/Stuntman/F3/StuntmanFase3 ( ZS3 ) 12-3-2025.gif>)
 
-📼F4
+***📼F4***
 
 ![gifbetastuntmanF4A](<./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4 ( stuntmanv4.3 ) 21-1-2025.gif>)
 ![gifbetastuntmanF4B](<./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4 ( stuntmanv4.3 ) 4-3-2025.gif>)
 ![gifbetastuntmanF4C](<./GIFS4.0/CutContent/Stuntman/F4/StuntmanFase4 ( ZS4 ) 12-3-2025.gif>)
 
-📼F5
+***📼F5***
 
 ![gifbetastuntmanF5A](<./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5 ( stuntmanv5.1 ) 21-1-2025.gif>)
 ![gifbetastuntmanF5B](<./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5 ( stuntmanv5.1 ) 4-3-2025.gif>)
 ![gifbetastuntmanF5C](<./GIFS4.0/CutContent/Stuntman/F5/StuntmanFase5 ( ZS5 ) 12-3-2025.gif>)
 
-📼F6
+***📼F6***
 
 ![gifbetastuntmanF6A](<./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6 ( stuntmanv6.2 ) 21-1-2025.gif>)
 ![gifbetastuntmanF6B](<./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6 ( stuntmanv6.2 ) 4-3-2025.gif>)
 ![gifbetastuntmanF6C](<./GIFS4.0/CutContent/Stuntman/F6/StuntmanFase6 ( ZS6 ) 12-3-2025.gif>)
 
-📼F7
+***📼F7***
 
 ![gifbetastuntmanF7A](<./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7 ( stuntmanv7.3 ) 21-1-2025.gif>)
 ![gifbetastuntmanF7B](<./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7 ( stuntmanv7.3 ) 4-3-2025.gif>)
 ![gifbetastuntmanF7C](<./GIFS4.0/CutContent/Stuntman/F7/StuntmanFase7 ( ZS7 ) 12-3-2025.gif>)
 
-📼F8
+***📼F8***
 
 ![gifbetastuntmanF8A](<./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8 ( stuntmanv8.2 ) 21-1-2025.gif>)
 ![gifbetastuntmanF8B](<./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8 ( stuntmanv8.2 ) 4-3-2025.gif>)
 ![gifbetastuntmanF8C](<./GIFS4.0/CutContent/Stuntman/F8/StuntmanFase8 ( ZS8 ) 12-3-2025.gif>)
 
-📼F9
+***📼F9***
 
 ![gifbetastuntmanF9A](<./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9 ( stuntmanv9.5 ) 21-1-2025.gif>)
 ![gifbetastuntmanF9B](<./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9 ( stuntmanv9.4 ) 4-3-2025.gif>)
 ![gifbetastuntmanF9C](<./GIFS4.0/CutContent/Stuntman/F9/StuntmanFase9 ( ZS9 ) 12-3-2025.gif>)
 
-📼F10
+***📼F10***
 
 ![gifbetastuntmanF10A](<./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10 ( stuntmanv10.4 ) 21-1-2025.gif>)
 ![gifbetastuntmanF10B](<./GIFS4.0/CutContent/Stuntman/F10/StuntmanFase10 ( stuntmanv10.4 ) 4-3-2025.gif>)
@@ -582,23 +582,23 @@ En el juego final se pueden usar skates y hay caños en el mapa,pero no se puede
 
 </details>
 
-🎥Stuntman F1 a 10 ( Bugeado )
+***🎥Stuntman F1 a 10 ( Bugeado )***
 ![gifbetastuntmanF1A10A](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug10 ) 30-3-2025.gif>)
 ![gifbetastuntmanF1A10B](<./GIFS4.0/CutContent/Stuntman/Stuntman Fase 1 a 10( hiperdebug11 ) 31-3-2025.gif>)
 
-📻Radio
+**📻Radio**
 
 ![gifbetaradiosA](<./GIFS4.0/CutContent/Radios/22Radios ( todasradios7 ) 4-3-2025.gif>)
 ![gifbetaradiosB](<./GIFS4.0/CutContent/Radios/22Radios ( todasradios7 ) 12-2-2025.gif>)
 ![gifbetaradioaprendechino](./GIFS4.0/CutContent/Radios/RadioAprendeChino_(_dialogo4_)_4-3-2025.gif)
 
-💻MENU DEBUG
+**💻MENU DEBUG**
 
 ![gifmenudebug](<./GIFS4.0/CutContent/MenuDebug ( hiperdebug5 ) 19-3-2025.gif>)
 
 ![pngcutcontentDebug](./Screenshots4.0/CutContent/Debug.png)
 
-📰DIARIO
+**📰DIARIO**
 
 ![gifbetadiario](<./GIFS4.0/CutContent/Diario ( diario4 ) 20-1-2025.gif>)
 
