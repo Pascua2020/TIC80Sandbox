@@ -252,7 +252,7 @@ Trafico en el mapa
 
 ![pngcalledefaultnohud](./Screenshots4.0/Calles(NOHUD)/Default.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***Coordenadas🚏 X1:43 X2:62 Y1:64 Y2:65 Orientacion : Horizontal***
 
 
 <details>
@@ -268,7 +268,9 @@ Trafico en el mapa
 
 ![pngcallediablonohud](./Screenshots4.0/Calles(NOHUD)/Diablo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion : Vertical***
+***CoordenadasA🚏 X1:237 X2:239 Y1:39 Y2:39 Orientacion : Horizontal***
+***CoordenadasB🚏 X1:0 X2:11 Y1:39 Y2:39 Orientacion : Horizontal***
+
 
 
 <details>
@@ -284,7 +286,7 @@ Trafico en el mapa
 
 ![pngcallediamantenohud](./Screenshots4.0/Calles(NOHUD)/Diamante.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:24 X2:82 Y1:29 Y2:30 Orientacion :Horizontal***
 
 
 <details>
@@ -300,7 +302,7 @@ Trafico en el mapa
 
 ![pngcalleeurekanohud](./Screenshots4.0/Calles(NOHUD)/Eureka.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:23 X2:24 Y1:14 Y2:29 Orientacion :Vertical***
 
 
 <details>
@@ -316,7 +318,7 @@ Trafico en el mapa
 
 ![pngcalleextasisnohud](./Screenshots4.0/Calles(NOHUD)/Extasis.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:236 X2:236 Y1:46 Y2:50 Orientacion :Vertical***
 
 
 <details>
@@ -332,7 +334,7 @@ Trafico en el mapa
 
 ![pngcallefentanilonohud](./Screenshots4.0/Calles(NOHUD)/Fentanilo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:23 X2:82 Y1:36 Y2:37 Orientacion :Horizontal***
 
 
 <details>
