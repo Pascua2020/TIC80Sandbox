@@ -26,7 +26,7 @@
 
 ![gifbugcartelesjetpack](./GIFS4.0/Bugs/BugCartelesJetpack.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Usando jetpack no se ven bien los carteles.
 
@@ -34,7 +34,7 @@ Usando jetpack no se ven bien los carteles.
 
 ![gifbugdialogostuntman](./GIFS4.0/Bugs/BugDialogoStuntman.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Salta dialogos de a 2 por pulsacion de boton y no a 1.
 
@@ -42,7 +42,7 @@ Salta dialogos de a 2 por pulsacion de boton y no a 1.
 
 ![gifbugfase0](./GIFS4.0/Bugs/BugFase0.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Graficos duplicados en mision de stuntman y Fase "0" ( no existe ).
 
@@ -50,7 +50,7 @@ Graficos duplicados en mision de stuntman y Fase "0" ( no existe ).
 
 ![gifbuggranada](./GIFS4.0/Bugs/BugGranada.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Hay lugares donde no se ve el sprite de la granada al dispararla.
 
@@ -58,7 +58,7 @@ Hay lugares donde no se ve el sprite de la granada al dispararla.
 
 ![gifbugjetpack](./GIFS4.0/Bugs/BugJetpack.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 No se puede cambiar de Jetpack a otro vehiculo.
 
@@ -66,7 +66,7 @@ No se puede cambiar de Jetpack a otro vehiculo.
 
 ![gifbuglimites](./GIFS4.0/Bugs/BugLimites.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Los muros invisibles de stuntman parecen funcionar hasta cierto punto pero se mueven graficos que no tienen nada que ver ( seguramente los del trafico de la ciudad ).
 
@@ -74,7 +74,7 @@ Los muros invisibles de stuntman parecen funcionar hasta cierto punto pero se mu
 
 ![gifbugstuntmanfase9](./GIFS4.0/Bugs/BugStuntmanFase9.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 El checkpoint para finalizar la Fase 9 no parece funcionar.
 
@@ -82,7 +82,7 @@ El checkpoint para finalizar la Fase 9 no parece funcionar.
 
 ![gifbugstuntmangameover](./GIFS4.0/Bugs/BugStuntmanGameOver.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 El GameOver de Stuntman no parece identificar el numero de fase ( y por lo tanto no muestra un mensaje de GameOver especifico ).
 
@@ -90,7 +90,7 @@ El GameOver de Stuntman no parece identificar el numero de fase ( y por lo tanto
 
 ![gifbugstuntmangameover2](./GIFS4.0/Bugs/BugStuntmanGameOver2.gif)
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Hay un GameOver de tiburon sin entrar a ninguns fase.
 
@@ -99,7 +99,7 @@ Hay un GameOver de tiburon sin entrar a ninguns fase.
 ![gifbugvehiculosoffset](./GIFS4.0/Bugs/BugVehiculosOffset.gif)
 
 
-**📝Explicacion :** 
+***📝Explicacion :***
 
 Al dispararse algunas armas,sus balas cruzan el limite de la pantalla interminablemente ( es decir,deberian desaparecer ).
 
