@@ -26,7 +26,7 @@
 
 ![gifsradioteatro1](./GIFS4.0/RadioTeatro/RadioTeatro1.gif)
 
-26 Dialogos.
+26 Dialogos💬.
 
 ***Escenario : Sillon de Rivadavia🇦🇷***
 
@@ -72,7 +72,7 @@
 
 ![gifsradioteatro2](./GIFS4.0/RadioTeatro/RadioTeatro2.gif)
 
-46 Dialogos.
+46 Dialogos💬.
 
 ***Escenario : Chorifornia,EEUU🇺🇸***
 
