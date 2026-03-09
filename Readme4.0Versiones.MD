@@ -53,6 +53,7 @@ Se reagregan mas opciones al menu principal.
 
 Se realinea un poco mas la interfaz actual.
 Se mejora look del menu principal.
+El telescopio vuelve a tener estrellas animadas ( pero con el resto del juego integrado ).
 
 1️⃣8️⃣ V3.6 :
 
