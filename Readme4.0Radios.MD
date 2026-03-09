@@ -336,6 +336,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 **🎧Radio 13**
 
+ Dialogos🔉.
+
 <details>
 ![gifsradio13](./GIFS4.0/CutContent/Radios/r13.gif)
 
@@ -349,6 +351,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 14**
+
+Dialogos🔉
 
 ![gifsradio14](./GIFS4.0/CutContent/Radios/r14.gif)
 <details>
@@ -369,6 +373,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 15**
+
+Dialogos🔉.
 
 ![gifsradio15](./GIFS4.0/CutContent/Radios/r15.gif)
 
@@ -397,6 +403,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 **🎧Radio 16**
 
+Dialogos🔉.
+
 ![gifsradio16](./GIFS4.0/CutContent/Radios/r16.gif)
 
 <details>
@@ -415,6 +423,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 17**
+
+Dialogos🔉.
 
 ![gifsradio17](./GIFS4.0/CutContent/Radios/r17.gif)
 
@@ -437,6 +447,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 18**
+
+Dialogos🔉.
 
 ![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
 
@@ -470,6 +482,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 **🎧Radio 19**
 
+Dialogos🔉.
+
 ![gifsradio19](./GIFS4.0/CutContent/Radios/r19.gif)
 
 <details>
@@ -492,6 +506,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 20**
+
+Dialogos🔉.
 
 ![gifsradio20](./GIFS4.0/CutContent/Radios/r20.gif)
 
@@ -526,6 +542,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 **🎧Radio 21**
 
+Dialogos🔉.
+
 ![gifsradio21](./GIFS4.0/CutContent/Radios/r21.gif)
 
 <details>
@@ -545,6 +563,8 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 </details>
 
 **🎧Radio 22**
+
+Dialogos🔉.
 
 ![gifsradio22](./GIFS4.0/CutContent/Radios/r22.gif)
 
