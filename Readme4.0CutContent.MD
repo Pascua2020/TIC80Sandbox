@@ -80,7 +80,7 @@ Incluye prototipo de MiniMapa 🗺️.
 </details>
 
 
-⚠️-Chat
+**⚠️-Chat**
 
 ![gifchat1](<./GIFS4.0/CutContent/Chat/Chat ( wpp2 ) - 21-1-2025.gif>)
 
