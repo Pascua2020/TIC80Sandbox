@@ -32,7 +32,7 @@
 
 ![gifsfinradio](./GIFS4.0/Radios/finRadio.gif)
 
-**📻Radio 01 : Todo Vardo**
+**📻Radio 01 : Todo Vardo 📺**
 
 25 Dialogos🔉.
 
@@ -73,7 +73,7 @@
 
 </details>
 
-**📻Radio 02 : Bajones**
+**📻Radio 02 : Bajones🕺**
 
 19 Dialogos🔉.
 
@@ -104,7 +104,7 @@
 
 </details>
 
-**📻Radio 03 : Poesia de la Calle**
+**📻Radio 03 : Poesia de la Calle🪷**
 
 12 Dialogos🔉.
 
@@ -127,7 +127,7 @@
 ![pngraadio03-12](./Screenshots4.0/Radios/Radio03/R03-12.png)
 </details>
 
-**📻Radio 04 : Gobierno de Argentina**
+**📻Radio 04 : Gobierno de Argentina🇦🇷**
 
 13 Dialogos🔉.
 
@@ -149,7 +149,7 @@
 ![pngraadio04-13](./Screenshots4.0/Radios/Radio04/R04-13.png)
 </details>
 
-**📻Radio 05 : Solos y Solas**
+**📻Radio 05 : Solos y Solas😍**
 
 12 Dialogos🔉.
 
@@ -170,7 +170,7 @@
 ![pngraadio05-12](./Screenshots4.0/Radios/Radio05/R05-12.png)
 </details>
 
-**📻Radio 06 : Desgracias Economicas**
+**📻Radio 06 : Desgracias Economicas💸**
 
 10 Dialogos🔉.
 
@@ -188,7 +188,7 @@
 ![pngraadio06-10](./Screenshots4.0/Radios/Radio06/R06-10.png)
 </details>
 
-**📻Radio 07 : Joyas de la Historia Argentina**
+**📻Radio 07 : Joyas de la Historia Argentina💎**
 
 11 Dialogos🔉.
 
@@ -210,7 +210,7 @@
 ![pngraadio07-11](./Screenshots4.0/Radios/Radio07/R07-11.png)
 </details>
 
-**📻Radio 08 : No me importa**
+**📻Radio 08 : No me importa😶**
 
 14 Dialogos🔉.
 
@@ -233,7 +233,7 @@
 ![pngraadio08-14](./Screenshots4.0/Radios/Radio08/R08-14.png)
 </details>
 
-**📻Radio 09 : AntiMainstream**
+**📻Radio 09 : AntiMainstream🎃**
 
 21 Dialogos🔉.
 
@@ -267,7 +267,7 @@
 
 </details>
 
-**📻Radio 10 : Cine Ultra 8K**
+**📻Radio 10 : Cine Ultra 8K🎥**
 
 19 Dialogos🔉.
 
@@ -295,7 +295,7 @@
 ![pngraadio10-19](./Screenshots4.0/Radios/Radio10/R10-19.png)
 </details>
 
-**📻Radio 11 : Destapando Curros**
+**📻Radio 11 : Destapando Curros🎙️**
 
 11 Dialogos🔉.
 
@@ -315,7 +315,7 @@
 ![pngraadio11-11](./Screenshots4.0/Radios/Radio11/R11-11.png)
 </details>
 
-**📻Radio 12 : Grieta**
+**📻Radio 12 : Grieta🎭**
 
 10 Dialogos🔉.
 
@@ -339,7 +339,7 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 ![gifsradiosdescartadas](./GIFS4.0/CutContent/Radios/Radios_(_todasradios7_)_12-2-2025.gif)
 
-**🎧Radio 13 : Cuarta Pared**
+**🎧Radio 13 : Cuarta Pared🔮**
 
  Dialogos🔉.
 
@@ -357,7 +357,7 @@ Radios Extra ( 13 a 22 ) ( fuera de Juego Principal )
 
 </details>
 
-**🎧Radio 14 : La IA Avanza**
+**🎧Radio 14 : La IA Avanza🤖**
 
 Dialogos🔉
 
@@ -382,7 +382,7 @@ Dialogos🔉
 
 </details>
 
-**🎧Radio 15 : Jesus te Ama**
+**🎧Radio 15 : Jesus te Ama✝️**
 
 Dialogos🔉.
 
@@ -412,7 +412,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 16 : Sonidos Animalunos**
+**🎧Radio 16 : Sonidos Animalunos🐑**
 
 Dialogos🔉.
 
@@ -435,7 +435,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 17 : Naturaleza Insolita**
+**🎧Radio 17 : Naturaleza Insolita🦋**
 
 Dialogos🔉.
 
@@ -461,7 +461,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 18 : Pesimista**
+**🎧Radio 18 : Pesimista😱**
 
 Dialogos🔉.
 
@@ -496,7 +496,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 19 : Poesia Pixelar**
+**🎧Radio 19 : Poesia Pixelar🌠**
 
 Dialogos🔉.
 
@@ -522,7 +522,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 20 : Terror**
+**🎧Radio 20 : Terror👹**
 
 Dialogos🔉.
 
@@ -557,7 +557,7 @@ Dialogos🔉.
 ![pngraadio20-23](./Screenshots4.0/CutContent/Radios/20/R20-23.png)
 </details>
 
-**🎧Radio 21 : Lenguaje de la Vida**
+**🎧Radio 21 : Lenguaje de la Vida🀄**
 
 Dialogos🔉.
 
@@ -580,7 +580,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 22 : Comerciales Gamers**
+**🎧Radio 22 : Comerciales Gamers🕹️**
 
 Dialogos🔉.
 
