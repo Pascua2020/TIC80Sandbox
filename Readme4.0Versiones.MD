@@ -47,10 +47,12 @@ Hay menos opciones en el menu principal para priorizar optimizacion.
 1️⃣6️⃣ V3.4 :
 
 Se mejora la interfaz.
+Se reagregan mas opciones al menu principal.
 
 1️⃣7️⃣ V3.5 :
 
 Se realinea un poco mas la interfaz actual.
+Se mejora look del menu principal.
 
 1️⃣8️⃣ V3.6 :
 
