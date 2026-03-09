@@ -46,6 +46,8 @@ Hay menos opciones en el menu principal para priorizar optimizacion.
 
 1️⃣6️⃣ V3.4 :
 
+Se mejora la interfaz.
+
 1️⃣7️⃣ V3.5 :
 
 1️⃣8️⃣ V3.6 :
