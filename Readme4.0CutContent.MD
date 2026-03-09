@@ -83,7 +83,7 @@ Incluye prototipo de MiniMapa 🗺️.
 
 3️⃣3️⃣ Casi TOTAL ausencia de Audio 🎸🎺🎷: TIC80 no permitia hacer casi nada en este aspecto.Con excepcion de algunos sonidos al elegir opciones en el menu principal,romper destructibles en Stuntman no hay muchos sonidos mas.
 
-3️⃣4️⃣ Si bien hay colisiones y armas con enemigos ( los coches negros en el barrio Obelisco ) estaba planeado que hubiera algo bastante mas elaborado.
+3️⃣4️⃣ Si bien hay colisiones y armas con enemigos ( los coches negros 🚗 en el barrio Obelisco ) estaba planeado que hubiera algo bastante mas elaborado.
 
 </details>
 
