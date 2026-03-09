@@ -350,8 +350,12 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 ![gifboton](<./GIFS4.0/CutContent/Boton ( boton ) 4-3-2025.gif>)
 
+<details>
+
 ![pngcutcontentBoton1](./Screenshots4.0/CutContent/Boton1.png)
 ![pngcutcontentBoton2](./Screenshots4.0/CutContent/Boton2.png)
+
+</details>
 
 **⚠️Dibujar**
 
@@ -385,53 +389,53 @@ Los vehiculos en el juego final no poseen velocidades diferentes ( serian como "
 
 ![pngcutcontentVotar](./Screenshots4.0/CutContent/Votar.png)
 
-BETA
+💾BETA
 
-💣Armas
+**💣Armas**
 
 TODAS
 
-💣AK47
+***💣AK47***
 ![gifarmabetaak47](<./GIFS4.0/CutContent/Armas/AK47 ( armaak2 ) 4-3-2025.gif>)
 
 <details>
 
-💣ElectroRifle
+***💣ElectroRifle***
 ![gifarmabetaelectrorifle1](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 4-3-2025.gif>)
 ![gifarmabetaelectrorifle2](<./GIFS4.0/CutContent/Armas/ElectroRifle ( rifleel ) 24-1-2025.gif>)
 
-💣Escopeta
+***💣Escopeta***
 ![gifarmabetaescopeta](<./GIFS4.0/CutContent/Armas/Escopeta ( armaes3 ) 4-3-2025.gif>)
 
-💣Golpe
+***💣Golpe***
 ![gifarmabetagolpe1](<./GIFS4.0/CutContent/Armas/Golpe ( armap3 ) 13-2-2025.gif>)
 ![gifarmabetagolpe2](<./GIFS4.0/CutContent/Armas/Golpe ( armap3 ) 4-3-2025.gif>)
 
-💣Granada
+***💣Granada***
 ![gifarmabetagranada](<./GIFS4.0/CutContent/Armas/Granada ( armagra2 ) 4-3-2025.gif>)
 
-💣Katana
+***💣Katana***
 ![gifarmabetakatana1](<./GIFS4.0/CutContent/Armas/Katana ( katana ) 24-1-2025.gif>)
 ![gifarmabetakatana2](<./GIFS4.0/CutContent/Armas/Katana ( katana ) 4-3-2025.gif>)
 
-💣Lanzallamas
+***💣Lanzallamas***
 ![gifarmabetalanzallamas1](<./GIFS4.0/CutContent/Armas/Lanzallamas ( lanzallama ) 24-1-2025.gif>)
 ![gifarmabetalanzallamas2](<./GIFS4.0/CutContent/Armas/Lanzallamas ( lanzallama ) 4-3-2025.gif>)
 
-💣Laser
+***💣Laser***
 ![gifarmabetalaser1](<./GIFS4.0/CutContent/Armas/Laser ( laser ) 24-1-2025.gif>)
 ![gifarmabetalaser2](<./GIFS4.0/CutContent/Armas/Laser ( laser ) 4-3-2025.gif>)
 
-💣Minigun
+***💣Minigun***
 ![gifarmabetaminigun1](<./GIFS4.0/CutContent/Armas/Minigun ( minigun ) 24-1-2025.gif>)
 ![gifarmabetaminigun2](<./GIFS4.0/CutContent/Armas/Minigun ( minigun ) 4-3-2025.gif>)
 
-💣Pistola
+***💣Pistola***
 ![gifarmabetapistola](<./GIFS4.0/CutContent/Armas/Pistola ( arma8 ) 4-3-2025.gif>)
 
 </details>
 
-💣RIFLE DE FRANCOTIRADOR
+***💣RIFLE DE FRANCOTIRADOR***
 ![gifarmabetariflefrancotirador](<./GIFS4.0/CutContent/Armas/RifleFrancotirador ( armar ) 4-3-2025.gif>)
 
 📱DiosGPT
