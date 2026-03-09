@@ -26,7 +26,7 @@ En ambos hay que poner una contraseña.
 </details>
 
 
-⌨️Teclado PC
+**⌨️Teclado PC**
 
 ![gifteclado](./GIFS4.0/Teclados/TecladoPC.gif)
 
@@ -36,7 +36,7 @@ En ambos hay que poner una contraseña.
 
 ![pngtecladoPC3](./Screenshots4.0/Teclados/TecladoPC3.png)
 
-📠Teclado Numerico
+**📠Teclado Numerico**
 
 ![giftecladonum](./GIFS4.0/Teclados/TecladoNum.gif)
 
