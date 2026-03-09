@@ -18,6 +18,8 @@ Aun no es posible subirse a vehiculos.
 
 4️⃣ V2.2 :
 
+Ya se puede subir a vehiculos.
+
 5️⃣ V2.3 : 
 
 6️⃣ V2.4 :
