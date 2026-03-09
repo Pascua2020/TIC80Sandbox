@@ -382,7 +382,7 @@ Dialogos🔉
 
 </details>
 
-**🎧Radio 15**
+**🎧Radio 15 : Jesus te Ama**
 
 Dialogos🔉.
 
@@ -412,7 +412,7 @@ Dialogos🔉.
 
 </details>
 
-**🎧Radio 16**
+**🎧Radio 16 : Sonidos Animalunos**
 
 Dialogos🔉.
 
