@@ -37,7 +37,7 @@
 25 Dialogos🔉.
 
 ***Tematica🎙️ : Noticias***
-***Conductor/es👥 : Barcelo Monelli ( Periodista )***
+***Conductor/es👥 : Barcelo Monelli( Periodista )***
 
 ![gifsradio01](./GIFS4.0/Radios/Radio01.gif)
 
