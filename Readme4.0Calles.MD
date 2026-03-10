@@ -449,7 +449,7 @@ Horizontal : ↔️
 
 ![pngcallekhenohud](./Screenshots4.0/Calles(NOHUD)/Khe.png)
 
-***Coordenadas🚏 X1:224 X2:224 Y1:62 Y2:66 Orientacion :Vertical***
+***Coordenadas🚏 X1:224 X2:224 Y1:62 Y2:66 Orientacion :Vertical↕️***
 
 
 <details>
@@ -465,7 +465,7 @@ Horizontal : ↔️
 
 ![pngcallekinganohud](./Screenshots4.0/Calles(NOHUD)/Kinga.png)
 
-***Coordenadas🚏 X1:18 X2:43 Y1:7 Y2:7 Orientacion :Horizontal***
+***Coordenadas🚏 X1:18 X2:43 Y1:7 Y2:7 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -481,7 +481,7 @@ Horizontal : ↔️
 
 ![pngcallekonganohud](./Screenshots4.0/Calles(NOHUD)/Konga.png)
 
-***Coordenadas🚏 X1:43 X2:69 Y1:4 Y2:4 Orientacion :Horizontal***
+***Coordenadas🚏 X1:43 X2:69 Y1:4 Y2:4 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -497,7 +497,7 @@ Horizontal : ↔️
 
 ![pngcallekwyijbonohud](./Screenshots4.0/Calles(NOHUD)/Kwyjibo.png)
 
-***Coordenadas🚏 X1:230 X2:230 Y1:4 Y2:14 Orientacion :Vertical***
+***Coordenadas🚏 X1:230 X2:230 Y1:4 Y2:14 Orientacion :Vertical↕️***
 
 
 <details>
@@ -513,7 +513,7 @@ Horizontal : ↔️
 
 ![pngcallelaberintonohud](./Screenshots4.0/Calles(NOHUD)/Laberinto.png)
 
-***Coordenadas🚏 X1:68 X2:84 Y1:12 Y2:13 Orientacion :Horizontal***
+***Coordenadas🚏 X1:68 X2:84 Y1:12 Y2:13 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -529,7 +529,7 @@ Horizontal : ↔️
 
 ![pngcallelalalanohud](./Screenshots4.0/Calles(NOHUD)/Lalala.png)
 
-***Coordenadas🚏 X1:221 X2:222 Y1:4 Y2:10 Orientacion :Vertical***
+***Coordenadas🚏 X1:221 X2:222 Y1:4 Y2:10 Orientacion :Vertical↕️***
 
 
 <details>
@@ -545,7 +545,7 @@ Horizontal : ↔️
 
 ![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 
-***Coordenadas🚏 X1:216 X2:229 Y1:58 Y2:59 Orientacion :Horizontal***
+***Coordenadas🚏 X1:216 X2:229 Y1:58 Y2:59 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -560,7 +560,7 @@ Horizontal : ↔️
 
 ![pngcallemasplacernohud](<./Screenshots4.0/Calles(NOHUD)/Mas placer.png>)
 
-***Coordenadas🚏 X1:86 X2:86 Y1:49 Y2:65 Orientacion :Vertical***
+***Coordenadas🚏 X1:86 X2:86 Y1:49 Y2:65 Orientacion :Vertical↕️***
 
 
 <details>
@@ -576,7 +576,7 @@ Horizontal : ↔️
 
 ![pngcallemeteoritonohud](./Screenshots4.0/Calles(NOHUD)/Meteorito.png)
 
-***Coordenadas🚏 X1:84 X2:85 Y1:1 Y2:13 Orientacion :Vertical***
+***Coordenadas🚏 X1:84 X2:85 Y1:1 Y2:13 Orientacion :Vertical↕️***
 
 
 <details>
@@ -592,7 +592,7 @@ Horizontal : ↔️
 
 ![pngcallemiaunohud](./Screenshots4.0/Calles(NOHUD)/Miau.png)
 
-***Coordenadas🚏 X1:82 X2:83 Y1:12 Y2:49 Orientacion :Vertical***
+***Coordenadas🚏 X1:82 X2:83 Y1:12 Y2:49 Orientacion :Vertical↕️***
 
 
 <details>
@@ -608,7 +608,7 @@ Horizontal : ↔️
 
 ![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 
-***Coordenadas🚏 X1:233 X2:238 Y1:32 Y2:33 Orientacion :Horizontal***
+***Coordenadas🚏 X1:233 X2:238 Y1:32 Y2:33 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -624,7 +624,7 @@ Horizontal : ↔️
 
 ![pngcallenickelodeonnohud](./Screenshots4.0/Calles(NOHUD)/Nickelodeon.png)
 
-***Coordenadas🚏 X1:229 X2:229 Y1:62 Y2:66 Orientacion :Vertical***
+***Coordenadas🚏 X1:229 X2:229 Y1:62 Y2:66 Orientacion :Vertical↕️***
 
 
 <details>
@@ -640,7 +640,7 @@ Horizontal : ↔️
 
 ![pngcallenihaonohud](./Screenshots4.0/Calles(NOHUD)/NiHao.png)
 
-***Coordenadas🚏 X1:43 X2:43 Y1:4 Y2:7 Orientacion :Vertical***
+***Coordenadas🚏 X1:43 X2:43 Y1:4 Y2:7 Orientacion :Vertical↕️***
 
 
 <details>
@@ -656,7 +656,7 @@ Horizontal : ↔️
 
 ![pngcallenojodasnohud](<./Screenshots4.0/Calles(NOHUD)/No jodas.png>)
 
-***Coordenadas🚏 X1:14 X2:16 Y1:50 Y2:64 Orientacion :Vertical***
+***Coordenadas🚏 X1:14 X2:16 Y1:50 Y2:64 Orientacion :Vertical↕️***
 
 
 <details>
@@ -672,7 +672,7 @@ Horizontal : ↔️
 
 ![pngcallenotecreonohud](<./Screenshots4.0/Calles(NOHUD)/No te creo.png>)
 
-***Coordenadas🚏 X1:40 X2:41 Y1:30 Y2:36 Orientacion :Vertical***
+***Coordenadas🚏 X1:40 X2:41 Y1:30 Y2:36 Orientacion :Vertical↕️***
 
 
 <details>
@@ -688,7 +688,7 @@ Horizontal : ↔️
 
 ![pngcallenoooonohud](./Screenshots4.0/Calles(NOHUD)/NOOOO.png)
 
-***Coordenadas🚏 X1:216 X2:237 Y1:55 Y2:55 Orientacion :Horizontal***
+***Coordenadas🚏 X1:216 X2:237 Y1:55 Y2:55 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -704,7 +704,7 @@ Horizontal : ↔️
 
 ![pngcalleorconohud](./Screenshots4.0/Calles(NOHUD)/Orco.png)
 
-***Coordenadas🚏 X1:82 X2:86 Y1:49 Y2:49 Orientacion :Horizontal***
+***Coordenadas🚏 X1:82 X2:86 Y1:49 Y2:49 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -720,7 +720,7 @@ Horizontal : ↔️
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
 
-***Coordenadas🚏 X1:224 X2:236 Y1:62 Y2:62 Orientacion :Horizontal***
+***Coordenadas🚏 X1:224 X2:236 Y1:62 Y2:62 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -736,7 +736,7 @@ Horizontal : ↔️
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
 
-***Coordenadas🚏 X1:62 X2:63 Y1:47 Y2:65 Orientacion :Vertical***
+***Coordenadas🚏 X1:62 X2:63 Y1:47 Y2:65 Orientacion :Vertical↕️***
 
 
 <details>
@@ -752,7 +752,7 @@ Horizontal : ↔️
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
 
-***Coordenadas🚏 X1:237 X2:239 Y1:32 Y2:32 Orientacion :Horizontal***
+***Coordenadas🚏 X1:237 X2:239 Y1:32 Y2:32 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -769,7 +769,7 @@ Horizontal : ↔️
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
 
 ***CoordenadasA🚏 X1:237 X2:239 Y1:29 Y2:29 Orientacion :Horizontal***
-***CoordenadasB🚏 X1:0 X2:23 Y1:29 Y2:29 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:23 Y1:29 Y2:29 Orientacion :Horizontal↔️***
 
 <details>
 
@@ -784,7 +784,7 @@ Horizontal : ↔️
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
 
-***Coordenadas🚏 X1:237 X2:237 Y1:55 Y2:66 Orientacion :Vertical***
+***Coordenadas🚏 X1:237 X2:237 Y1:55 Y2:66 Orientacion :Vertical↕️***
 
 
 <details>
@@ -800,7 +800,7 @@ Horizontal : ↔️
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
 
-***Coordenadas🚏 X1:232 X2:233 Y1:32 Y2:45 Orientacion :Vertical***
+***Coordenadas🚏 X1:232 X2:233 Y1:32 Y2:45 Orientacion :Vertical↕️***
 
 
 <details>
@@ -816,7 +816,7 @@ Horizontal : ↔️
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
 
-***Coordenadas🚏 X1:63 X2:86 Y1:58 Y2:60 Orientacion :Horizontal***
+***Coordenadas🚏 X1:63 X2:86 Y1:58 Y2:60 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -832,8 +832,8 @@ Horizontal : ↔️
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 
-***CoordenadasA🚏 X1:237 X2:239 Y1:62 Y2:64 Orientacion :Horizontal***
-***CoordenadasB🚏 X1:0 X2:43 Y1:62 Y2:64 Orientacion :Horizontal***
+***CoordenadasA🚏 X1:237 X2:239 Y1:62 Y2:64 Orientacion :Horizontal↔️***
+***CoordenadasB🚏 X1:0 X2:43 Y1:62 Y2:64 Orientacion :Horizontal↔️***
 
 <details>
 
@@ -848,7 +848,7 @@ Horizontal : ↔️
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
 
-***Coordenadas🚏 X1:229 X2:229 Y1:58 Y2:61 Orientacion :Vertical***
+***Coordenadas🚏 X1:229 X2:229 Y1:58 Y2:61 Orientacion :Vertical↕️***
 
 
 <details>
