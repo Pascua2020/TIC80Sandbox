@@ -39,6 +39,9 @@ Formato:
 ![giftrafico3](./GIFS4.0/Trafico/siguiendoTochotaMohtoh.gif)
 ![giftrafico4](./GIFS4.0/Trafico/siguiendoZhoZhoEgoEgo.gif)
 
+Vertical : ↕️
+Horizontal : ↔️
+
 🚸01-**Ameo**
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
