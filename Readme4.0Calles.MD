@@ -797,7 +797,7 @@ Formato:
 
 ![pngcallepiopionohud](<./Screenshots4.0/Calles(NOHUD)/Pio pio.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:232 X2:233 Y1:32 Y2:45 Orientacion :Vertical***
 
 
 <details>
@@ -813,7 +813,7 @@ Formato:
 
 ![pngcallepixelesnohud](./Screenshots4.0/Calles(NOHUD)/Pixeles.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:63 X2:86 Y1:58 Y2:60 Orientacion :Horizontal***
 
 
 <details>
@@ -829,8 +829,8 @@ Formato:
 
 ![pngcallepokernohud](./Screenshots4.0/Calles(NOHUD)/Poker.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
-
+***CoordenadasA🚏 X1:237 X2:239 Y1:62 Y2:64 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:43 Y1:62 Y2:64 Orientacion :Horizontal***
 
 <details>
 
@@ -845,7 +845,7 @@ Formato:
 
 ![pngcallepollonohud](./Screenshots4.0/Calles(NOHUD)/Pollo.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:229 X2:229 Y1:58 Y2:61 Orientacion :Vertical***
 
 
 <details>
@@ -861,7 +861,8 @@ Formato:
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***CoordenadasA🚏 X1:236 X2:239 Y1:50 Y2:50 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:16 Y1:50 Y2:50 Orientacion :Horizontal***
 
 
 <details>
