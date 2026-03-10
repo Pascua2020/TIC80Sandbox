@@ -927,7 +927,7 @@ Formato:
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:230 X2:230 Y1:15 Y2:26 Orientacion :Vertical***
 
 
 <details>
@@ -939,11 +939,12 @@ Formato:
 
 </details>
 
-🚸57-**Siga siga**
+🚸57-**Siga Siga**
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:24 Y1:25 Y2:26 Orientacion :Horizontal***
 
 
 <details>
@@ -959,7 +960,7 @@ Formato:
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:230 X2:238 Y1:45 Y2:46 Orientacion :Horizontal***
 
 
 <details>
