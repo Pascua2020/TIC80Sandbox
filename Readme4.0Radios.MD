@@ -138,7 +138,7 @@
 13 Dialogos🔉.
 
 ***Tematica🎙️ : Politica***
-***Conductor/es👥 :***
+***Conductor/es👥 : Armando Gene Tinoman***
 
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
 
@@ -166,7 +166,7 @@
 12 Dialogos🔉.
 
 ***Tematica🎙️ : Amor***
-***Conductor/es👥 :***
+***Conductor/es👥 : Profesor Levantini y Profesora Dopamina***
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
 <details>
