@@ -380,6 +380,9 @@
 
  Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 <details>
 
 ![gifsradio13](./GIFS4.0/CutContent/Radios/r13.gif)
@@ -396,7 +399,10 @@
 
 **🎧Radio 14 : La IA Avanza🤖**
 
-Dialogos🔉
+Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio14](./GIFS4.0/CutContent/Radios/r14.gif)
 
@@ -422,6 +428,9 @@ Dialogos🔉
 **🎧Radio 15 : Jesus te Ama✝️**
 
 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio15](./GIFS4.0/CutContent/Radios/r15.gif)
 
@@ -453,6 +462,9 @@ Dialogos🔉.
 
 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio16](./GIFS4.0/CutContent/Radios/r16.gif)
 
 <details>
@@ -475,6 +487,9 @@ Dialogos🔉.
 **🎧Radio 17 : Naturaleza Insolita🦋**
 
 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio17](./GIFS4.0/CutContent/Radios/r17.gif)
 
@@ -501,6 +516,9 @@ Dialogos🔉.
 **🎧Radio 18 : Pesimista😱**
 
 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
 
@@ -537,6 +555,9 @@ Dialogos🔉.
 
 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio19](./GIFS4.0/CutContent/Radios/r19.gif)
 
 <details>
@@ -562,6 +583,9 @@ Dialogos🔉.
 **🎧Radio 20 : Terror👹**
 
 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio20](./GIFS4.0/CutContent/Radios/r20.gif)
 
@@ -598,6 +622,9 @@ Dialogos🔉.
 
 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio21](./GIFS4.0/CutContent/Radios/r21.gif)
 
 <details>
@@ -620,6 +647,9 @@ Dialogos🔉.
 **🎧Radio 22 : Comerciales Gamers🕹️**
 
 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio22](./GIFS4.0/CutContent/Radios/r22.gif)
 
