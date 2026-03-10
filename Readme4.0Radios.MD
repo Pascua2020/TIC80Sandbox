@@ -388,7 +388,7 @@
 
 **🎧Radio 13 : Cuarta Pared🔮**
 
- Dialogos🔉.
+7 Dialogos🔉.
 
 ***Tematica🎙️ : Filosofia***
 ***Conductor/es👥 : Pascua***
