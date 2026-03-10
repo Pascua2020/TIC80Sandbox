@@ -656,7 +656,7 @@
 
 **🎧Radio 22 : Comerciales Gamers🕹️**
 
-Dialogos🔉.
+10 Dialogos🔉.
 
 ***Tematica🎙️ : Publicidad***
 ***Conductor/es👥 : ?***
