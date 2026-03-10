@@ -301,7 +301,7 @@
 19 Dialogos🔉.
 
 ***Tematica🎙️ : Cine y TV***
-***Conductor/es👥 :***
+***Conductor/es👥 : Adrian Delatrampa***
 
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
 <details>
@@ -332,7 +332,7 @@
 11 Dialogos🔉.
 
 ***Tematica🎙️ : Investigaciones***
-***Conductor/es👥 :***
+***Conductor/es👥 : Jorge Lanota***
 
 ![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
 <details>
