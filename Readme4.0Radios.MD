@@ -633,7 +633,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Historia Internacional***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio21](./GIFS4.0/CutContent/Radios/r21.gif)
 
@@ -659,7 +659,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Publicidad***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio22](./GIFS4.0/CutContent/Radios/r22.gif)
 
