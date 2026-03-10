@@ -112,7 +112,7 @@
 12 Dialogos🔉.
 
 ***Tematica🎙️ : Trap***
-***Conductor/es👥 :***
+***Conductor/es👥 : Big Faso***
 
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
 
