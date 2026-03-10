@@ -563,7 +563,7 @@
 
 **🎧Radio 19 : Poesia Pixelar🌠**
 
-Dialogos🔉.
+14 Dialogos🔉.
 
 ***Tematica🎙️ : Poesia***
 ***Conductor/es👥 : ?***
