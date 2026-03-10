@@ -573,7 +573,7 @@ Trafico en el mapa
 
 ![pngcallemeteoritonohud](./Screenshots4.0/Calles(NOHUD)/Meteorito.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:84 X2:85 Y1:1 Y2:13 Orientacion :Vertical***
 
 
 <details>
@@ -589,7 +589,7 @@ Trafico en el mapa
 
 ![pngcallemiaunohud](./Screenshots4.0/Calles(NOHUD)/Miau.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:82 X2:83 Y1:12 Y2:49 Orientacion :Vertical***
 
 
 <details>
@@ -605,7 +605,7 @@ Trafico en el mapa
 
 ![pngcallemisternohud](./Screenshots4.0/Calles(NOHUD)/Mister.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:233 X2:238 Y1:32 Y2:33 Orientacion :Horizontal***
 
 
 <details>
