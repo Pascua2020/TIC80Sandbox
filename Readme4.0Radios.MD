@@ -525,7 +525,7 @@
 
 **🎧Radio 18 : Pesimista😱**
 
-Dialogos🔉.
+22 Dialogos🔉.
 
 ***Tematica🎙️ : Amarillismo***
 ***Conductor/es👥 : Amarguino***
