@@ -77,7 +77,7 @@
 
 19 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Musica Melancolica***
 ***Conductor/es👥 :***
 
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
@@ -111,7 +111,7 @@
 
 12 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Trap***
 ***Conductor/es👥 :***
 
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
@@ -137,7 +137,7 @@
 
 13 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Politica***
 ***Conductor/es👥 :***
 
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
@@ -165,7 +165,7 @@
 
 12 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Amor***
 ***Conductor/es👥 :***
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
@@ -189,7 +189,7 @@
 
 10 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Economia***
 ***Conductor/es👥 :***
 
 ![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
@@ -210,7 +210,7 @@
 
 11 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Historia***
 ***Conductor/es👥 :***
 
 ![gifsradio07](./GIFS4.0/Radios/Radio07.gif)
@@ -235,7 +235,7 @@
 
 14 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Geopolitica***
 ***Conductor/es👥 :***
 
 ![gifsradio08](./GIFS4.0/Radios/Radio08.gif)
@@ -261,7 +261,7 @@
 
 21 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Historias Underground***
 ***Conductor/es👥 :***
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
@@ -298,7 +298,7 @@
 
 19 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Cine y TV***
 ***Conductor/es👥 :***
 
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
@@ -329,7 +329,7 @@
 
 11 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Investigaciones***
 ***Conductor/es👥 :***
 
 ![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
@@ -352,7 +352,7 @@
 
 10 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Noticiero***
 ***Conductor/es👥 :***
 
 ![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
