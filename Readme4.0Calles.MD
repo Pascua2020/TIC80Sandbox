@@ -526,7 +526,7 @@ Trafico en el mapa
 
 ![pngcallelalalanohud](./Screenshots4.0/Calles(NOHUD)/Lalala.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:221 X2:222 Y1:4 Y2:10 Orientacion :Vertical***
 
 
 <details>
@@ -542,7 +542,7 @@ Trafico en el mapa
 
 ![pngcallelibrenohud](./Screenshots4.0/Calles(NOHUD)/Libre.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:216 X2:229 Y1:58 Y2:59 Orientacion :Horizontal***
 
 
 <details>
@@ -557,7 +557,7 @@ Trafico en el mapa
 
 ![pngcallemasplacernohud](<./Screenshots4.0/Calles(NOHUD)/Mas placer.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:86 X2:86 Y1:49 Y2:65 Orientacion :Vertical***
 
 
 <details>
