@@ -592,7 +592,7 @@
 
 **🎧Radio 20 : Terror👹**
 
-Dialogos🔉.
+23 Dialogos🔉.
 
 ***Tematica🎙️ : Terror***
 ***Conductor/es👥 : Gallego***
