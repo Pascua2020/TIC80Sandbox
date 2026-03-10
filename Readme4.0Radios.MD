@@ -264,7 +264,7 @@
 21 Dialogos🔉.
 
 ***Tematica🎙️ : Historias Underground***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
 
