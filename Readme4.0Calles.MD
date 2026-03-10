@@ -32,7 +32,7 @@ Formato:
 .PNG ( CON HUD )
 .GIF ( CON HUD )
 
-Trafico en el mapa
+🚒🚑🚓Trafico en el mapa
 
 ![giftrafico1](./GIFS4.0/Trafico/siguiendoLimusina.gif)
 ![giftrafico2](./GIFS4.0/Trafico/siguiendoStacchotta69.gif)
@@ -765,8 +765,8 @@ Trafico en el mapa
 
 ![pngcallepelucanohud](./Screenshots4.0/Calles(NOHUD)/Peluca.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
-
+***CoordenadasA🚏 X1:237 X2:239 Y1:29 Y2:29 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:23 Y1:29 Y2:29 Orientacion :Horizontal***
 
 <details>
 
@@ -781,7 +781,7 @@ Trafico en el mapa
 
 ![pngcallepffnohud](./Screenshots4.0/Calles(NOHUD)/Pff.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:237 X2:237 Y1:55 Y2:66 Orientacion :Vertical***
 
 
 <details>
