@@ -864,8 +864,8 @@ Horizontal : ↔️
 
 ![pngcalleponemelanohud](./Screenshots4.0/Calles(NOHUD)/Ponemela.png)
 
-***CoordenadasA🚏 X1:236 X2:239 Y1:50 Y2:50 Orientacion :Horizontal***
-***CoordenadasB🚏 X1:0 X2:16 Y1:50 Y2:50 Orientacion :Horizontal***
+***CoordenadasA🚏 X1:236 X2:239 Y1:50 Y2:50 Orientacion :Horizontal↔️***
+***CoordenadasB🚏 X1:0 X2:16 Y1:50 Y2:50 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -881,7 +881,7 @@ Horizontal : ↔️
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
 
-***Coordenadas🚏 X1:221 X2:229 Y1:10 Y2:12 Orientacion :Horizontal***
+***Coordenadas🚏 X1:221 X2:229 Y1:10 Y2:12 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -897,7 +897,7 @@ Horizontal : ↔️
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 
-***Coordenadas🚏 X1:56 X2:68 Y1:13 Y2:13 Orientacion :Horizontal***
+***Coordenadas🚏 X1:56 X2:68 Y1:13 Y2:13 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -913,8 +913,8 @@ Horizontal : ↔️
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
 
-***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal***
-***CoordenadasB🚏 X1:0 X2:56 Y1:14 Y2:15 Orientacion :Horizontal***
+***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal↔️***
+***CoordenadasB🚏 X1:0 X2:56 Y1:14 Y2:15 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -930,7 +930,7 @@ Horizontal : ↔️
 
 ![pngcalleseineldinnohud](./Screenshots4.0/Calles(NOHUD)/Seineldin.png)
 
-***Coordenadas🚏 X1:230 X2:230 Y1:15 Y2:26 Orientacion :Vertical***
+***Coordenadas🚏 X1:230 X2:230 Y1:15 Y2:26 Orientacion :Vertical↕️***
 
 
 <details>
@@ -946,8 +946,8 @@ Horizontal : ↔️
 
 ![pngcallesigasiganohud](<./Screenshots4.0/Calles(NOHUD)/Siga Siga0.png>)
 
-***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal***
-***CoordenadasB🚏 X1:0 X2:24 Y1:25 Y2:26 Orientacion :Horizontal***
+***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal↔️***
+***CoordenadasB🚏 X1:0 X2:24 Y1:25 Y2:26 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -963,7 +963,7 @@ Horizontal : ↔️
 
 ![pngcalletrisexualnohud](./Screenshots4.0/Calles(NOHUD)/Trisexual.png)
 
-***Coordenadas🚏 X1:230 X2:238 Y1:45 Y2:46 Orientacion :Horizontal***
+***Coordenadas🚏 X1:230 X2:238 Y1:45 Y2:46 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -979,7 +979,7 @@ Horizontal : ↔️
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
 
-***Coordenadas🚏 X1:39 X2:40 Y1:14 Y2:29 Orientacion :Vertical***
+***Coordenadas🚏 X1:39 X2:40 Y1:14 Y2:29 Orientacion :Vertical↕️***
 
 
 <details>
@@ -995,7 +995,7 @@ Horizontal : ↔️
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 
-***Coordenadas🚏 X1:30 X2:55 Y1:47 Y2:47 Orientacion :Horizontal***
+***Coordenadas🚏 X1:30 X2:55 Y1:47 Y2:47 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -1011,7 +1011,7 @@ Horizontal : ↔️
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
 
-***Coordenadas🚏 X1:216 X2:217 Y1:55 Y2:66 Orientacion :Vertical***
+***Coordenadas🚏 X1:216 X2:217 Y1:55 Y2:66 Orientacion :Vertical↕️***
 
 
 <details>
@@ -1027,7 +1027,7 @@ Horizontal : ↔️
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 
-***Coordenadas🚏 X1:43 X2:44 Y1:57 Y2:65 Orientacion :Vertical***
+***Coordenadas🚏 X1:43 X2:44 Y1:57 Y2:65 Orientacion :Vertical↕️***
 
 
 <details>
@@ -1043,7 +1043,7 @@ Horizontal : ↔️
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
 
-***Coordenadas🚏 X1:63 X2:86 Y1:63 Y2:65 Orientacion :Horizontal***
+***Coordenadas🚏 X1:63 X2:86 Y1:63 Y2:65 Orientacion :Horizontal↔️***
 
 
 <details>
@@ -1059,7 +1059,7 @@ Horizontal : ↔️
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 
-***Coordenadas🚏 X1:67 X2:68 Y1:29 Y2:37 Orientacion :Vertical***
+***Coordenadas🚏 X1:67 X2:68 Y1:29 Y2:37 Orientacion :Vertical↕️***
 
 
 <details>
@@ -1075,7 +1075,7 @@ Horizontal : ↔️
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
 
-***Coordenadas🚏 X1:216 X2:237 Y1:66 Y2:66 Orientacion :Horizontal***
+***Coordenadas🚏 X1:216 X2:237 Y1:66 Y2:66 Orientacion :Horizontal↔️***
 
 
 <details>
