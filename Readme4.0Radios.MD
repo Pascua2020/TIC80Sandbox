@@ -361,7 +361,7 @@
 10 Dialogos🔉.
 
 ***Tematica🎙️ : Noticiero***
-***Conductor/es👥 :***
+***Conductor/es👥 :?***
 
 ![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
 
@@ -472,7 +472,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Lofi***
 ***Conductor/es👥 :***
 
 ![gifsradio16](./GIFS4.0/CutContent/Radios/r16.gif)
@@ -498,7 +498,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Naturaleza***
 ***Conductor/es👥 :***
 
 ![gifsradio17](./GIFS4.0/CutContent/Radios/r17.gif)
@@ -527,7 +527,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Amarillismo***
 ***Conductor/es👥 :***
 
 ![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
@@ -565,7 +565,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Poesia***
 ***Conductor/es👥 :***
 
 ![gifsradio19](./GIFS4.0/CutContent/Radios/r19.gif)
@@ -594,7 +594,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Terror***
 ***Conductor/es👥 :***
 
 ![gifsradio20](./GIFS4.0/CutContent/Radios/r20.gif)
