@@ -46,7 +46,7 @@ Horizontal : ↔️
 
 ![pngcalleameonohud](./Screenshots4.0/Calles(NOHUD)/Ameo.png)
 
-***Coordenadas🚏 X1:230 X2:231 Y1:45 Y2:54 Orientacion : Vertical***
+***Coordenadas🚏 X1:230 X2:231 Y1:45 Y2:54 Orientacion : Vertical↕️***
 
 <details>
 
@@ -60,7 +60,7 @@ Horizontal : ↔️
 
 ![pngcalleanacondanohud](./Screenshots4.0/Calles(NOHUD)/Anaconda.png)
 
-***Coordenadas🚏 X1:11 X2:11 Y1:39 Y2:50 Orientacion : Vertical***
+***Coordenadas🚏 X1:11 X2:11 Y1:39 Y2:50 Orientacion : Vertical↕️***
 
 
 <details>
@@ -76,7 +76,7 @@ Horizontal : ↔️
 
 ![pngcallebubsnohud](./Screenshots4.0/Calles(NOHUD)/Bubs.png)
 
-***Coordenadas🚏 X1:69 X2:69 Y1:1 Y2:6 Orientacion : Vertical***
+***Coordenadas🚏 X1:69 X2:69 Y1:1 Y2:6 Orientacion : Vertical↕️***
 
 
 <details>
@@ -92,7 +92,7 @@ Horizontal : ↔️
 
 ![pngcallecallatenohud](./Screenshots4.0/Calles(NOHUD)/Callate.png)
 
-***Coordenadas🚏 X1:237 X2:238 Y1:25 Y2:45 Orientacion : Vertical***
+***Coordenadas🚏 X1:237 X2:238 Y1:25 Y2:45 Orientacion : Vertical↕️***
 
 
 <details>
@@ -108,7 +108,7 @@ Horizontal : ↔️
 
 ![pngcallecaosnohud](./Screenshots4.0/Calles(NOHUD)/Caos.png)
 
-***Coordenadas🚏 X1:54 X2:83 Y1:47 Y2:49 Orientacion : Horizontal***
+***Coordenadas🚏 X1:54 X2:83 Y1:47 Y2:49 Orientacion : Horizontal↔️***
 
 
 <details>
@@ -124,7 +124,7 @@ Horizontal : ↔️
 
 ![pngcalleceponohud](./Screenshots4.0/Calles(NOHUD)/Cepo.png)
 
-***Coordenadas🚏 X1:30 X2:32 Y1:47 Y2:59 Orientacion : Vertical***
+***Coordenadas🚏 X1:30 X2:32 Y1:47 Y2:59 Orientacion : Vertical↕️***
 
 
 <details>
@@ -140,7 +140,7 @@ Horizontal : ↔️
 
 ![pngcallechadnohud](./Screenshots4.0/Calles(NOHUD)/Chad.png)
 
-***Coordenadas🚏 X1:229 X2:237 Y1:58 Y2:58 Orientacion : Horizontal***
+***Coordenadas🚏 X1:229 X2:237 Y1:58 Y2:58 Orientacion : Horizontal↔️***
 
 
 <details>
@@ -156,9 +156,9 @@ Horizontal : ↔️
 
 ![pngcallechechonanohud](./Screenshots4.0/Calles(NOHUD)/Chechona.png)
 
-***CoordenadasA🚏 X1:221 X2:239 Y1:4 Y2:5 Orientacion : Horizontal***
+***CoordenadasA🚏 X1:221 X2:239 Y1:4 Y2:5 Orientacion : Horizontal↔️***
 
-***CoordenadasB🚏 X1:0 X2:17 Y1:4 Y2:5 Orientacion : Horizontal***
+***CoordenadasB🚏 X1:0 X2:17 Y1:4 Y2:5 Orientacion : Horizontal↔️***
 
 
 
@@ -175,7 +175,7 @@ Horizontal : ↔️
 
 ![pngcallechocolatenohud](./Screenshots4.0/Calles(NOHUD)/Chocolate.png)
 
-***Coordenadas🚏 X1:54 X2:55 Y1:36 Y2:49 Orientacion : Vertical***
+***Coordenadas🚏 X1:54 X2:55 Y1:36 Y2:49 Orientacion : Vertical↕️***
 
 
 <details>
@@ -191,7 +191,7 @@ Horizontal : ↔️
 
 ![pngcallecocainanohud](./Screenshots4.0/Calles(NOHUD)/Cocaina.png)
 
-***Coordenadas🚏 X1:68 X2:68 Y1:6 Y2:13 Orientacion : Vertical***
+***Coordenadas🚏 X1:68 X2:68 Y1:6 Y2:13 Orientacion : Vertical↕️***
 
 
 <details>
