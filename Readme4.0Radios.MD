@@ -470,7 +470,7 @@
 
 **🎧Radio 16 : Sonidos Animalunos🐑**
 
-Dialogos🔉.
+11 Dialogos🔉.
 
 ***Tematica🎙️ : Lofi***
 ***Conductor/es👥 : ?***
