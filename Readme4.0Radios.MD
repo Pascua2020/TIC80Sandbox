@@ -630,7 +630,7 @@
 
 **🎧Radio 21 : Lenguaje de la Vida🀄**
 
-Dialogos🔉.
+11 Dialogos🔉.
 
 ***Tematica🎙️ : Historia Internacional***
 ***Conductor/es👥 : ?***
