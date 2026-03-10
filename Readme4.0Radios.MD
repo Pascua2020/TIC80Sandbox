@@ -238,7 +238,7 @@
 14 Dialogos🔉.
 
 ***Tematica🎙️ : Geopolitica***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio08](./GIFS4.0/Radios/Radio08.gif)
 <details>
