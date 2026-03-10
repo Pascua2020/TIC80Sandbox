@@ -192,8 +192,10 @@
 ***Tematica🎙️ : Economia***
 ***Conductor/es👥 :***
 
-![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
+![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
+
 <details>
+
 ![pngraadio06-01](./Screenshots4.0/Radios/Radio06/R06-01.png)
 ![pngraadio06-02](./Screenshots4.0/Radios/Radio06/R06-02.png)
 ![pngraadio06-03](./Screenshots4.0/Radios/Radio06/R06-03.png)
