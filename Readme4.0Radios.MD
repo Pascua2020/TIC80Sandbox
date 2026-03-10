@@ -77,6 +77,9 @@
 
 19 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
 <details>
@@ -108,6 +111,9 @@
 
 12 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio03](./GIFS4.0/Radios/Radio03.gif)
 
 <details>
@@ -131,8 +137,14 @@
 
 13 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio04](./GIFS4.0/Radios/Radio04.gif)
+
+
 <details>
+
 ![pngraadio04-01](./Screenshots4.0/Radios/Radio04/R04-01.png)
 ![pngraadio04-02](./Screenshots4.0/Radios/Radio04/R04-02.png)
 ![pngraadio04-03](./Screenshots4.0/Radios/Radio04/R04-03.png)
@@ -152,6 +164,9 @@
 **📻Radio 05 : Solos y Solas😍**
 
 12 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio05](./GIFS4.0/Radios/Radio05.gif)
 <details>
@@ -174,6 +189,9 @@
 
 10 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
 <details>
 ![pngraadio06-01](./Screenshots4.0/Radios/Radio06/R06-01.png)
@@ -191,6 +209,9 @@
 **📻Radio 07 : Joyas de la Historia Argentina💎**
 
 11 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio07](./GIFS4.0/Radios/Radio07.gif)
 
@@ -214,6 +235,9 @@
 
 14 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio08](./GIFS4.0/Radios/Radio08.gif)
 <details>
 ![pngraadio08-01](./Screenshots4.0/Radios/Radio08/R08-01.png)
@@ -236,6 +260,9 @@
 **📻Radio 09 : AntiMainstream🎃**
 
 21 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
 
@@ -271,6 +298,9 @@
 
 19 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
 <details>
 ![pngraadio10-01](./Screenshots4.0/Radios/Radio10/R10-01.png)
@@ -299,6 +329,9 @@
 
 11 Dialogos🔉.
 
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
+
 ![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
 <details>
 ![pngraadio11-01](./Screenshots4.0/Radios/Radio11/R11-01.png)
@@ -318,6 +351,9 @@
 **📻Radio 12 : Grieta🎭**
 
 10 Dialogos🔉.
+
+***Tematica🎙️ : ***
+***Conductor/es👥 : ***
 
 ![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
 <details>
