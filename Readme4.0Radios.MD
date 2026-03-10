@@ -380,8 +380,8 @@
 
  Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 <details>
 
@@ -401,8 +401,8 @@
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio14](./GIFS4.0/CutContent/Radios/r14.gif)
 
@@ -429,8 +429,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio15](./GIFS4.0/CutContent/Radios/r15.gif)
 
@@ -462,8 +462,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio16](./GIFS4.0/CutContent/Radios/r16.gif)
 
@@ -488,8 +488,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio17](./GIFS4.0/CutContent/Radios/r17.gif)
 
@@ -517,8 +517,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
 
@@ -555,8 +555,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio19](./GIFS4.0/CutContent/Radios/r19.gif)
 
@@ -584,8 +584,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio20](./GIFS4.0/CutContent/Radios/r20.gif)
 
@@ -622,8 +622,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio21](./GIFS4.0/CutContent/Radios/r21.gif)
 
@@ -648,8 +648,8 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio22](./GIFS4.0/CutContent/Radios/r22.gif)
 
