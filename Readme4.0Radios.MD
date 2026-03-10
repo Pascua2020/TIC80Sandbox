@@ -212,7 +212,7 @@
 
 11 Dialogos🔉.
 
-***Tematica🎙️ : Historia***
+***Tematica🎙️ : Historia Nacional***
 ***Conductor/es👥 : Damian Blablaman***
 
 ![gifsradio07](./GIFS4.0/Radios/Radio07.gif)
@@ -412,7 +412,7 @@
 Dialogos🔉.
 
 ***Tematica🎙️ : Inteligencia Artificial***
-***Conductor/es👥 :***
+***Conductor/es👥 : I y A***
 
 ![gifsradio14](./GIFS4.0/CutContent/Radios/r14.gif)
 
@@ -632,7 +632,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Historia Internacional***
 ***Conductor/es👥 :***
 
 ![gifsradio21](./GIFS4.0/CutContent/Radios/r21.gif)
@@ -658,7 +658,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Publicidad***
 ***Conductor/es👥 :***
 
 ![gifsradio22](./GIFS4.0/CutContent/Radios/r22.gif)
