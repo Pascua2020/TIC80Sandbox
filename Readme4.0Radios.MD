@@ -78,7 +78,7 @@
 19 Dialogos🔉.
 
 ***Tematica🎙️ : Musica Melancolica***
-***Conductor/es👥 :***
+***Conductor/es👥 : Bajolini***
 
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
