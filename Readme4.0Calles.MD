@@ -717,7 +717,7 @@ Trafico en el mapa
 
 ![pngcalleouchnohud](./Screenshots4.0/Calles(NOHUD)/Ouch.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:224 X2:236 Y1:62 Y2:62 Orientacion :Horizontal***
 
 
 <details>
@@ -733,7 +733,7 @@ Trafico en el mapa
 
 ![pngcallepartyhardnohud](<./Screenshots4.0/Calles(NOHUD)/Party Hard.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:62 X2:63 Y1:47 Y2:65 Orientacion :Vertical***
 
 
 <details>
@@ -749,7 +749,7 @@ Trafico en el mapa
 
 ![pngcallepeladonohud](./Screenshots4.0/Calles(NOHUD)/Pelado.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:237 X2:239 Y1:32 Y2:32 Orientacion :Horizontal***
 
 
 <details>
