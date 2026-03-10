@@ -566,7 +566,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Poesia***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio19](./GIFS4.0/CutContent/Radios/r19.gif)
 
@@ -595,7 +595,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Terror***
-***Conductor/es👥 :***
+***Conductor/es👥 : Gallego***
 
 ![gifsradio20](./GIFS4.0/CutContent/Radios/r20.gif)
 
