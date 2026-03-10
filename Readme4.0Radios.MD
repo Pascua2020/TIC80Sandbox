@@ -235,8 +235,8 @@
 
 14 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio08](./GIFS4.0/Radios/Radio08.gif)
 <details>
@@ -261,8 +261,8 @@
 
 21 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio09](./GIFS4.0/Radios/Radio09.gif)
 
@@ -298,8 +298,8 @@
 
 19 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
 <details>
@@ -329,8 +329,8 @@
 
 11 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
 <details>
@@ -352,8 +352,8 @@
 
 10 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
 <details>
