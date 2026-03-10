@@ -878,7 +878,7 @@ Formato:
 
 ![pngcalleprocedanohud](./Screenshots4.0/Calles(NOHUD)/Proceda.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:221 X2:229 Y1:10 Y2:12 Orientacion :Horizontal***
 
 
 <details>
@@ -894,7 +894,7 @@ Formato:
 
 ![pngcallereperfilarnohud](./Screenshots4.0/Calles(NOHUD)/Reperfilar.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:56 X2:68 Y1:13 Y2:13 Orientacion :Horizontal***
 
 
 <details>
@@ -910,7 +910,8 @@ Formato:
 
 ![pngcallesatanasnohud](./Screenshots4.0/Calles(NOHUD)/Satanas.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***CoordenadasA🚏 X1:230 X2:239 Y1:14 Y2:15 Orientacion :Horizontal***
+***CoordenadasB🚏 X1:0 X2:56 Y1:14 Y2:15 Orientacion :Horizontal***
 
 
 <details>
