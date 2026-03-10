@@ -77,8 +77,8 @@
 
 19 Dialogos🔉.
 
-***Tematica🎙️ : ***
-***Conductor/es👥 : ***
+***Tematica🎙️ :***
+***Conductor/es👥 :***
 
 ![gifsradio02](./GIFS4.0/Radios/Radio02.gif)
 
