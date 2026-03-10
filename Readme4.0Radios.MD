@@ -391,7 +391,7 @@
  Dialogos🔉.
 
 ***Tematica🎙️ : Filosofia***
-***Conductor/es👥 :***
+***Conductor/es👥 : Pascua***
 
 <details>
 
@@ -440,7 +440,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Cristianismo***
-***Conductor/es👥 :***
+***Conductor/es👥 : Lector de Biblia***
 
 ![gifsradio15](./GIFS4.0/CutContent/Radios/r15.gif)
 
@@ -473,7 +473,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Lofi***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio16](./GIFS4.0/CutContent/Radios/r16.gif)
 
@@ -499,7 +499,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Naturaleza***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio17](./GIFS4.0/CutContent/Radios/r17.gif)
 
@@ -528,7 +528,7 @@ Dialogos🔉.
 Dialogos🔉.
 
 ***Tematica🎙️ : Amarillismo***
-***Conductor/es👥 :***
+***Conductor/es👥 : Amarguino***
 
 ![gifsradio18](./GIFS4.0/CutContent/Radios/R18.gif)
 
