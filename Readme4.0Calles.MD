@@ -976,7 +976,7 @@ Formato:
 
 ![pngcalleturbinanohud](./Screenshots4.0/Calles(NOHUD)/Turbina.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:39 X2:40 Y1:14 Y2:29 Orientacion :Vertical***
 
 
 <details>
@@ -992,7 +992,7 @@ Formato:
 
 ![pngcalleturronohud](./Screenshots4.0/Calles(NOHUD)/Turro.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:30 X2:55 Y1:47 Y2:47 Orientacion :Horizontal***
 
 
 <details>
@@ -1004,11 +1004,11 @@ Formato:
 
 </details>
 
-🚸61-**Tuti fruti**
+🚸61-**Tuti Fruti**
 
 ![pngcalletutifrutinohud](<./Screenshots4.0/Calles(NOHUD)/Tuti fruti.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:216 X2:217 Y1:55 Y2:66 Orientacion :Vertical***
 
 
 <details>
@@ -1024,7 +1024,7 @@ Formato:
 
 ![pngcalleviagranohud](./Screenshots4.0/Calles(NOHUD)/Viagra.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:43 X2:44 Y1:57 Y2:65 Orientacion :Vertical***
 
 
 <details>
@@ -1040,7 +1040,7 @@ Formato:
 
 ![pngcallewaufnohud](./Screenshots4.0/Calles(NOHUD)/Wauf.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:63 X2:86 Y1:63 Y2:65 Orientacion :Horizontal***
 
 
 <details>
@@ -1056,7 +1056,7 @@ Formato:
 
 ![pngcalleyupinohud](./Screenshots4.0/Calles(NOHUD)/Yupi.png)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:67 X2:68 Y1:29 Y2:37 Orientacion :Vertical***
 
 
 <details>
@@ -1072,7 +1072,7 @@ Formato:
 
 ![pngcallezigzagnohud](<./Screenshots4.0/Calles(NOHUD)/Zig zag.png>)
 
-***Coordenadas🚏 X1: X2: Y1: Y2: Orientacion :***
+***Coordenadas🚏 X1:216 X2:237 Y1:66 Y2:66 Orientacion :Horizontal***
 
 
 <details>
