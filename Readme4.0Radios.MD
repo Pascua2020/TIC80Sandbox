@@ -304,7 +304,9 @@
 ***Conductor/es👥 : Adrian Delatrampa***
 
 ![gifsradio10](./GIFS4.0/Radios/Radio10.gif)
-<details>
+
+<details>
+
 ![pngraadio10-01](./Screenshots4.0/Radios/Radio10/R10-01.png)
 ![pngraadio10-02](./Screenshots4.0/Radios/Radio10/R10-02.png)
 ![pngraadio10-03](./Screenshots4.0/Radios/Radio10/R10-03.png)
@@ -325,6 +327,7 @@
 ![pngraadio10-17](./Screenshots4.0/Radios/Radio10/R10-17.png)
 ![pngraadio10-18](./Screenshots4.0/Radios/Radio10/R10-18.png)
 ![pngraadio10-19](./Screenshots4.0/Radios/Radio10/R10-19.png)
+
 </details>
 
 **📻Radio 11 : Destapando Curros🎙️**
@@ -334,8 +337,10 @@
 ***Tematica🎙️ : Investigaciones***
 ***Conductor/es👥 : Jorge Lanota***
 
-![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
+![gifsradio11](./GIFS4.0/Radios/Radio11.gif)
+
 <details>
+
 ![pngraadio11-01](./Screenshots4.0/Radios/Radio11/R11-01.png)
 ![pngraadio11-02](./Screenshots4.0/Radios/Radio11/R11-02.png)
 ![pngraadio11-03](./Screenshots4.0/Radios/Radio11/R11-03.png)
@@ -348,6 +353,7 @@
 
 ![pngraadio11-10](./Screenshots4.0/Radios/Radio11/R11-10.png)
 ![pngraadio11-11](./Screenshots4.0/Radios/Radio11/R11-11.png)
+
 </details>
 
 **📻Radio 12 : Grieta🎭**
@@ -357,8 +363,10 @@
 ***Tematica🎙️ : Noticiero***
 ***Conductor/es👥 :***
 
-![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
+![gifsradio12](./GIFS4.0/Radios/Radio12.gif)
+
 <details>
+
 ![pngraadio12-01](./Screenshots4.0/Radios/Radio12/R12-01.png)
 ![pngraadio12-02](./Screenshots4.0/Radios/Radio12/R12-02.png)
 ![pngraadio12-03](./Screenshots4.0/Radios/Radio12/R12-03.png)
