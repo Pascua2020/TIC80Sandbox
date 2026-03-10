@@ -409,7 +409,7 @@
 
 **🎧Radio 14 : La IA Avanza🤖**
 
-Dialogos🔉.
+13 Dialogos🔉.
 
 ***Tematica🎙️ : Inteligencia Artificial***
 ***Conductor/es👥 : I y A***
