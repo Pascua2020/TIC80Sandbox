@@ -382,7 +382,7 @@
 
  Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Filosofia***
 ***Conductor/es👥 :***
 
 <details>
@@ -403,7 +403,7 @@
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Inteligencia Artificial***
 ***Conductor/es👥 :***
 
 ![gifsradio14](./GIFS4.0/CutContent/Radios/r14.gif)
@@ -431,7 +431,7 @@ Dialogos🔉.
 
 Dialogos🔉.
 
-***Tematica🎙️ :***
+***Tematica🎙️ : Cristianismo***
 ***Conductor/es👥 :***
 
 ![gifsradio15](./GIFS4.0/CutContent/Radios/r15.gif)
