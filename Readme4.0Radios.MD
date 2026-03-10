@@ -190,7 +190,7 @@
 10 Dialogos🔉.
 
 ***Tematica🎙️ : Economia***
-***Conductor/es👥 :***
+***Conductor/es👥 : ?***
 
 ![gifsradio06](./GIFS4.0/Radios/Radio06.gif)
 
@@ -213,7 +213,7 @@
 11 Dialogos🔉.
 
 ***Tematica🎙️ : Historia***
-***Conductor/es👥 :***
+***Conductor/es👥 : Damian Blablaman***
 
 ![gifsradio07](./GIFS4.0/Radios/Radio07.gif)
 
