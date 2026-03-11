@@ -66,75 +66,75 @@ Poder subir a Vehiculos estando en el Jetpack ( Jetpack ya no seria el Vehiculo 
 
 Que animacion de pajaros no tape el HUD.
 
-☣️11
+**☣️11**
 
 STUNTMAN : Que numero de Inicio Rapido Fase no sea FLOAT
 ( Si se mueve el numero de fase este se vuelve con punto - EJ : 4.0 - )
 
-☣️12
+**☣️12**
 
 RADIOTEATRO : Tapar iconos de URGENTES y HUD de X,Y.
 
-☣️13
+**☣️13**
 
 Reajustar posiciones visuales de vagones del TREN al usarlo ( mas cercanos entre si ).
 
-☣️14
+**☣️14**
 
 Reajustar posiciones de calles :
 -PELADO,OUCH,LIBRE,POLLO,NOOOO,CHAD,REPERFILAR,TURRO,TRISEXUAL,JARBARD ( mas arriba )
 -COCAINA,METEORITO,EUREKA,CORRUPCION,TURBINA,MIAU,ORCO,MAS PLACER  ( mas a la derecha )
 
-☣️15
+**☣️15**
 
 Sacarle acentos a nombres de calles ( EJ : "CALLATE,PIO PIO" )
 
-☣️16
+**☣️16**
 
 En X0 hay un error ( no aparece NOMBRE DE BARRIO ),y ademas los coches se mueven 
 ligeramente mas rapido de un limite al otro.
 
-☣️17
+**☣️17**
 
 Los disparos de armas cruzan el limite de la pantalla 
 ( EJ : Si estoy en coordenada X50 y ya dispare algo,en algun momento las balas 
 vuelven a pasar hacia la derecha tras superar el limite del mapa ).
 
-☣️18
+**☣️18**
 
 Problemas de Optmizacion : mientras mas se ejecuta el juego mas lento se pone.
 
-☣️19
+**☣️19**
 
 Problemas de Optimizacion : Si accedo a minijuegos desde el Mapa 
 ( es decir,con Interruptores ) el juego anda lento y con problemas.
 
-☣️20
+**☣️20**
 
 PINBALL : Bolas se pegan en algunas partes del escenario.
 
-☣️21
+**☣️21**
 
 TECLADO NUM : NO FUNCIONA ( pero una version antigua SI ).
 
-☣️22
+**☣️22**
 
 DEMO : Textos sin puntos.
 
-☣️23
+**☣️23**
 
 CREDITOS y INTRO: Sacar puntos en texto ( lo que esta abajo del texto "CREDITOS"
 -en el caso de CREDITOS,en INTRO estan en todos los textos ).
 
-☣️24
+**☣️24**
 
 DIOSGPT : Completar textos de opciones ( 6 a 10 ).
 
-☣️25
+**☣️25**
 
 DIOSGPT : Poner de vuelta icono de Triangulo animado en Celular.
 
-☣️26
+**☣️26**
 
 CLIMAS : Poner en HUD iconos si X Climas estan activados
 ( en orden alfabetico :
@@ -147,35 +147,35 @@ ICONOS DE :
 
 Ponerlo abajo o a la derecha del icono de Coleccionables en HUD ).
 
-☣️27
+**☣️27**
 
 TREN : Poner animacion de humo al Tren como Vehiculo
 ( si el jugador actualmente se sube al tren,su animacion de humo desaparece ).
 
-☣️28
+**☣️28**
 
 En HUD ( donde dice "YBA" ) si el jugador esta frente a un icono de Urgente o Radioteatro,
 tapar la opcion actual ( EJ : Disparar" con "Ver" ).
 
-☣️29
+**☣️29**
 
 En HUD ( donde dice "YBA" ) si jugador esta frente a un coche,poner arriba de "Y" 
 la opcion "Subirse a Vehiculo".
 
-☣️30
+**☣️30**
 
 RADIOS : Nombre de Radios 3,4,6,7,9 Y 11 NO SE VE ( esta tapado por las coordenadas XY ).
 
-☣️31
+**☣️31**
 
 GRANADAS : Desaparecen en partes del escenario ( EJ : Coordenadas X205.5 Y46.5 ).
 
-☣️32
+**☣️32**
 
 Si jugador agarra COLECCIONABLES DE DIAMANTES,que diga 
 "Encontraste un DIAMANTE" y no "Encontraste un CONDON".
 
-☣️33
+**☣️33**
 
 STUNTMAN : Hay errores graficos ( Accediendo desde el MENU PRINCIPAL ).
 
@@ -193,17 +193,16 @@ STUNTMAN : Hay errores graficos ( Accediendo desde el MENU PRINCIPAL ).
 el coche no para y ademas se mueven coches del mapa principal ( que no deberian 
 verse en la mision de stuntman ).
 
-☣️34
+**☣️34**
 
 RADIOS : Que al terminar una Radio,cambie automaticamente al inicio de la siguiente
 ( eso incluye que si estoy en la ultima Radio,vuelva a empezar desde la primer Radio ).
 
-☣️35
-
+**☣️35**
 
 AMBULANCIA : Hay una que aparece en el mapa y antes de subirse NO TIENE LA ANIMACION ( deberia tenerla ).
 
-☣️36
+**☣️36**
 
 Ausencia total de Musica.
 
