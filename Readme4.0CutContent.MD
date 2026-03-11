@@ -14,7 +14,7 @@ En este se habia creado por separado tener un sistema de Monedas ( "Peluca$" ) y
 4️⃣ Modo GT de Carreras 🏎️ ( con pista en Zurich,Suiza 🇨🇭 ).
 Incluye prototipo de MiniMapa 🗺️.
 
-5️⃣ Interfaz Beta ( con sistema de Cartas 🃏 ).
+5️⃣ Interfaz Beta ( con sistema de Cartas 🃏 ) : La idea era pausar el juego para elegir opciones,pero al final parecio volverse complicadamente innecesario.
 
 6️⃣ Navegador ficticio de Internet 🖥️ : La pantalla de TIC80 era muy pequeña para implementar algo elaborado.
 
