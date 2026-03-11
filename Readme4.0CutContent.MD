@@ -24,7 +24,8 @@ Incluye prototipo de MiniMapa 🗺️.
 
 9️⃣ Minijuego de Editor de Niveles Tactil 👆💻📱 con coches a Control Remoto.
 
-1️⃣0️⃣ Minijuego de Trompos🪬.
+1️⃣0️⃣ Minijuego de Trompos🪬 :
+Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).El primero que se queda sin vida pierde.
 
 1️⃣1️⃣ Minijuego "Piedra Papel o Motosierra🪨📄🪚".
 
