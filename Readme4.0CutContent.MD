@@ -41,9 +41,11 @@ Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).E
 
 1️⃣6️⃣ Ver TeleVision📺 : Funcionaria de forma similar a las Obras de Radioteatro ( que si aparecen en el juego final ).
 
-1️⃣7️⃣ Velocidad vehiculos⏲️.
+1️⃣7️⃣ Velocidad vehiculos⏲️ : Debido a la pequeñez del mapa hubiera sido problematico implementar esto.
 
 1️⃣8️⃣ Votar candidatos a Presidente 👥.
+
+La idea era votar entre Juan Garcamaru y Jorge LaNota.
 
 1️⃣9️⃣ Armas Beta ( incluyendo la Eliminada Francotirador )🏹
 
