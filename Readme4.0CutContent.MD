@@ -45,6 +45,8 @@ Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).E
 
 1️⃣9️⃣ Armas Beta ( incluyendo la Eliminada Francotirador )🏹
 
+La Pistola Beta mostraba puntos de daño ( estilo JRPG ) con cada disparo,pero luego se saco ( los enemigos mueren solo con colisionar la bala ).
+
 2️⃣0️⃣ DiosGPT Beta🤖
 
 2️⃣1️⃣ Jetpack Beta🔥
