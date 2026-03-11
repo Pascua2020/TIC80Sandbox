@@ -87,6 +87,8 @@ Incluye prototipo de MiniMapa 🗺️.
 
 3️⃣5️⃣ La razon por la que hay prototipos similares con graficos distintos es porque en los primeros 2 meses el juego se desarrollo en celular y se usaron 2 celulares distintos : uno por su version de android no permitia mover archivos a la carpeta de TIC80,por lo que tuvieron que usarse graficos alternativos hasta poder unificar los sprites para todos los prototipos.
 
+3️⃣6️⃣ Otra mecanica descartada : Comprar un choripan🌭 con "Peluca$" ( el dinero del juego ).Pero el sprite del choripan sigue en los archivos del juego.
+
 </details>
 
 
