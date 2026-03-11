@@ -31,7 +31,7 @@ Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).E
 
 1️⃣2️⃣ Medidor de Ansiedad y Estres 🌡️.
 
-1️⃣3️⃣ Boton a tocar🖲️.
+1️⃣3️⃣ Boton a tocar🖲️ : La idea es que no hay que tocarlo pero eo jugador obviamente lo va a hacer.
 
 1️⃣4️⃣ Dibujo Tactil👆🖼️.
 
