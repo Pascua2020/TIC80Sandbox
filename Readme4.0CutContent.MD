@@ -57,6 +57,8 @@ La Pistola Beta mostraba puntos de daño ( estilo JRPG ) con cada disparo,pero l
 
 2️⃣4️⃣ Fases de Stuntman Beta🎥🎞️🎬
 
+Primero fueron creadas por separado las 10 Fases ( cada una con su mapa ) y luego se unieron en un unico prototipo.
+
 2️⃣5️⃣ Radio Beta📻
 
 2️⃣6️⃣ Menu Debug📋
