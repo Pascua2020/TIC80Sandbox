@@ -31,7 +31,7 @@
 1️⃣3️⃣ Interruptores🖲️ de todo tipo.
 IMPORTANTE : Esto abre mecanicas ( ej pinball ) tras el mapa principal pero tiene problemas de optimizacion ( y parte de la interfaz del mapa queda en el minijuego ).
 
-1️⃣4️⃣
+1️⃣4️⃣ El jugador ( Wikiman ) siempre empieza en las coordenadas X:4 Y:4 🚏 y cada paso que da lo mueve 8 pixeles mas o menos.
 
 1️⃣5️⃣
 
