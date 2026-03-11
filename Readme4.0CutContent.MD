@@ -33,7 +33,7 @@ Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).E
 
 1️⃣3️⃣ Boton a tocar🖲️ : La idea es que no hay que tocarlo pero eo jugador obviamente lo va a hacer.
 
-1️⃣4️⃣ Dibujo Tactil👆🖼️.
+1️⃣4️⃣ Dibujo Tactil👆🖼️ : Dibujar funciona aunque la parte del borrado es caotica ( lo hace de a puntos ).
 
 1️⃣5️⃣ Mostrar hora actual ⌚ : Esto no funciona bien ya que TIC80 no puede acceder al reloj interno del sistema ( la idea de esto era que el Ciclo Dia y Noche que el jugador tuviera dependiera de a que hora jugaba ).
 
