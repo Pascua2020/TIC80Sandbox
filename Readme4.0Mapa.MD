@@ -35,7 +35,7 @@ IMPORTANTE : Esto abre mecanicas ( ej pinball ) tras el mapa principal pero tien
 
 1️⃣5️⃣ La camara📹 del jugador siempre lo enfoca a este en el Centro de la pantalla y por mas que el jugador se mueva,la camara lo seguira enfocando en el centro ( esto es importante porque sin configurar esto en el codigo fuente del juego,la camara no solo no se moveria si no que si el jugador se fuera del rango de esta se volveria "invisible"🫥 para la Camara ).
 
-1️⃣6️⃣ Notar que al entrar a los minijuegos desde los interruptores del mapa principal,las coordenadas X e Y del jugador,si este se mueve en el minijuego,se siguen moviendo ( esto se puede observar en el HUD ).
+1️⃣6️⃣ Notar que al entrar a los minijuegos desde los interruptores🕹️ del mapa principal,las coordenadas X e Y del jugador,si este se mueve en el minijuego,se siguen moviendo ( esto se puede observar en el HUD ).
 
 </details>
 
