@@ -206,3 +206,10 @@ AMBULANCIA : Hay una que aparece en el mapa y antes de subirse NO TIENE LA ANIMA
 
 Ausencia total de Musica.
 
+**☣️37**
+
+Si bien hay un nivel de vida ( 100 ) el jugador no puede perder vida en el juego principal.
+
+**☣️38**
+
+Las monedas si bien existen,no se usan para comprar nada.
