@@ -49,6 +49,8 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 1️⃣2️⃣ Todos los vehiculos poseen la misma velocidad 😅⏱️
 
+1️⃣3️⃣ Cuando el jugador no este subido a un coche,su icono de vehiculo sera el del "Tochota Fulero - B🟦".
+
 </details>
 
 🚐1
