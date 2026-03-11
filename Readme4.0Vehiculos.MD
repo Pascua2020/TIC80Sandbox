@@ -51,6 +51,8 @@ Posee una animacion de llamas moviendose🔥 ( si el jugador no se mueve las lla
 
 1️⃣3️⃣ Cuando el jugador no este subido a un coche,su icono de vehiculo sera el del "Tochota Fulero - B🟦".
 
+1️⃣4️⃣ En los sprites del juego hay logos ( sin usar ) de las marcas ficticias "Tochota"🇯🇵 y "ZhoZho"🇨🇳.
+
 </details>
 
 🚐1
