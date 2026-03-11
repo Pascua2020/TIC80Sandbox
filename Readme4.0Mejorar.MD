@@ -22,47 +22,47 @@
 </details>
 
 
-☣️01
+**☣️01**
 
 Agregar Identificadores a Carteles al leerlos
 EJ : Si leo cartel A1 que en una parte de la pantalla diga "A1".
 
-☣️02
+**☣️02**
 
 Ver si se puede implementar pantalla tactil con minijuego de Telescopio.
 
-☣️03
+**☣️03**
 
 Ver si se puede implementar pantalla tactil en menu principal.
 
-☣️04
+**☣️04**
 
 Reagregar Radios 13-22 al Juego Principal ( V4.0 ).
 
-☣️05
+**☣️05**
 
 Agregar en el HUD de juego ( en todas las pantallas ) un texto que diga
 "VERSION DEL JUEGO -EJ : 4.0 - + MADE BY PASCUA"
 
-☣️06
+*"☣️06**
 
 Modificar Sistema de Calles : Que nombres de las calles tengan TODAS el mismo COLOR
 ( Naranja por ej ),ya que hay calles con colores diferentes en su HUD
 EJ : Kwyjibo en NARANJA,SATANAS en AZUL.
 
-☣️07
+**☣️07**
 
 Que iconos de URGENTES Y RADIOTEATRO en Mapa no tapen el HUD.
 
-☣️08
+**☣️08**
 
 Que usar el Jetpack no TAPE los Carteles al pasar sobre ellos.
 
-☣️09
+**☣️09**
 
 Poder subir a Vehiculos estando en el Jetpack ( Jetpack ya no seria el Vehiculo ).
 
-☣️10
+**☣️10**
 
 Que animacion de pajaros no tape el HUD.
 
