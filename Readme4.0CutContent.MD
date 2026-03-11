@@ -16,7 +16,7 @@ Incluye prototipo de MiniMapa 🗺️.
 
 5️⃣ Interfaz Beta ( con sistema de Cartas 🃏 ).
 
-6️⃣ Navegador ficticio de Internet 🖥️.
+6️⃣ Navegador ficticio de Internet 🖥️ : La pantalla de TIC80 era muy pequeña para implementar algo elaborado.
 
 7️⃣ Menu de Pausa ( ausente en juego final ).
 
@@ -29,7 +29,7 @@ Son 2 trompos,ambos manejados con el mismo control ( pero botones diferentes ).E
 
 1️⃣1️⃣ Minijuego "Piedra Papel o Motosierra🪨📄🪚".
 
-1️⃣2️⃣ Medidor de Ansiedad y Estres 🌡️.
+1️⃣2️⃣ Medidor de Ansiedad y Estres 🌡️ : Esto afectaria el nivel de daño que hace el jugador al usar armas.
 
 1️⃣3️⃣ Boton a tocar🖲️ : La idea es que no hay que tocarlo pero eo jugador obviamente lo va a hacer.
 
