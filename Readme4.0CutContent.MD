@@ -20,6 +20,8 @@ Incluye prototipo de MiniMapa 🗺️.
 
 7️⃣ Menu de Pausa ( ausente en juego final ).
 
+El juego final no tiene ningun tipo de pausa.
+
 8️⃣ Nafta en Vehiculos ⛽🛢️.
 
 9️⃣ Minijuego de Editor de Niveles Tactil 👆💻📱 con coches a Control Remoto.
