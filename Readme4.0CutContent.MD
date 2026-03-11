@@ -9,6 +9,7 @@
 2️⃣ Chat💬,Ciclo Dia y Noche🌞🌜,Climas ( Arcoiris🌈,Niebla,Terremotos🌋,Menu Beta ).
 
 3️⃣ Tomar Colectivo en Parada🚏🚌.
+En este se habia creado por separado tener un sistema de Monedas ( "Peluca$" ) y credito en la Tarjeta SUBA pero esto ultimo complicaria innecesariamente al juego.
 
 4️⃣ Modo GT de Carreras 🏎️ ( con pista en Zurich,Suiza 🇨🇭 ).
 Incluye prototipo de MiniMapa 🗺️.
