@@ -65,7 +65,7 @@ Primero fueron creadas por separado las 10 Fases ( cada una con su mapa ) y lueg
 
 2️⃣5️⃣ Radio Beta📻
 
-2️⃣6️⃣ Menu Debug📋
+2️⃣6️⃣ Menu Debug📋 : Para ver los atributos,metodos y sus valores - de todas las Clases del juego -.
 
 2️⃣7️⃣ Diario Beta📰
 
