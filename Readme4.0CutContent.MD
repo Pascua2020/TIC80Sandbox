@@ -324,7 +324,7 @@ Debido a lo pequeño que es el mapa ( por las limitaciones de TIC80 ) iba a ser 
 
 </details>
 
-**⚠️RC**
+**⚠️RC** ***Modo 2 Jugadores🎮🎮***
 
 ![gifrc2](<./GIFS4.0/CutContent/RC/RC ( rc10 ) 21-1-2025.gif>)
 
