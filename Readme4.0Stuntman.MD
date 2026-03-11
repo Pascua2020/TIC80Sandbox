@@ -90,7 +90,7 @@ Eso si,si bien la idea de la fase es usar nitro,no es necesario para ganarla ( s
 
 ![pngstuntmanv4.0nombrestacchotta](./Screenshots4.0/Stuntman/NombreStacchotta.png)
 
-🎬**Toda la Mision ( Principio a Fin )**
+🎬**Toda la Mision ( Principio a Fin : Fase 1 a 10 )**
 
 🎥Version 1.0 ( SIN ERRORES )
 
