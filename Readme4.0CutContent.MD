@@ -16,7 +16,7 @@ Incluye prototipo de MiniMapa 🗺️.
 
 5️⃣ Interfaz Beta ( con sistema de Cartas 🃏 ) : La idea era pausar el juego para elegir opciones,pero al final parecio volverse complicadamente innecesario.
 
-6️⃣ Navegador ficticio de Internet 🖥️ : La pantalla de TIC80 era muy pequeña para implementar algo elaborado.
+6️⃣ Navegador ficticio de Internet 🖥️ : La pantalla de TIC80 era muy pequeña para implementar algo elaborado.Notar el detalle bizarro de que hay 2 flechas de Raton : esto es porque la idea era manejarlo unicamente con pantalla tactil,pero al no poder tuvo que agregarse tambien una flecha que seria el jugador.
 
 7️⃣ Menu de Pausa ( ausente en juego final ).
 
