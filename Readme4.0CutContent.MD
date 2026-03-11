@@ -34,9 +34,9 @@ Incluye prototipo de MiniMapa 🗺️.
 
 1️⃣4️⃣ Dibujo Tactil👆🖼️.
 
-1️⃣5️⃣ Mostrar hora actual ⌚.
+1️⃣5️⃣ Mostrar hora actual ⌚ : Esto no funciona bien ya que TIC80 no puede acceder al reloj interno del sistema ( la idea de esto era que el Ciclo Dia y Noche que el jugador tuviera dependiera de a que hora jugaba ).
 
-1️⃣6️⃣ Ver TeleVision📺.
+1️⃣6️⃣ Ver TeleVision📺 : Funcionaria de forma similar a las Obras de Radioteatro ( que si aparecen en el juego final ).
 
 1️⃣7️⃣ Velocidad vehiculos⏲️.
 
