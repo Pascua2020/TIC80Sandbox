@@ -33,7 +33,7 @@ IMPORTANTE : Esto abre mecanicas ( ej pinball ) tras el mapa principal pero tien
 
 1️⃣4️⃣ El jugador ( Wikiman ) siempre empieza en las coordenadas X:4 Y:4 🚏 y cada paso que da lo mueve 8 pixeles mas o 8 pixeles menos.
 
-1️⃣5️⃣
+1️⃣5️⃣ La camara📹 del jugador siempre lo enfoca a este en el Centro de la pantalla y por mas que el jugador se mueva,la camara lo seguira enfocando en el centro ( esto es importante porque sin configurar esto en el codigo fuente del juego,la camara no solo no se moveria si no que si el jugador se fuera del rango de esta se volveria "invisible"🫥 para la Camara ).
 
 </details>
 
