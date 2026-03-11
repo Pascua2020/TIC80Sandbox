@@ -85,6 +85,8 @@ Incluye prototipo de MiniMapa 🗺️.
 
 3️⃣4️⃣ Si bien hay colisiones y armas con enemigos ( los coches negros 🚗 en el barrio Obelisco ) estaba planeado que hubiera algo bastante mas elaborado.
 
+3️⃣5️⃣ La razon por la que hay prototipos similares con graficos distintos es porque en los primeros 2 meses el juego se desarrollo en celular y se usaron 2 celulares distintos : uno por su version de android no permitia mover archivos a la carpeta de TIC80,por lo que tuvieron que usarse graficos alternativos hasta poder unificar los sprites para todos los prototipos.
+
 </details>
 
 
